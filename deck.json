@@ -57,6 +57,7 @@
     "media_files": [
         "Annotation 2020-05-18 154250.png",
         "c0828cb54c211d52feedc56f27fffce6.jpg",
+        "paste-00a6a99e43f00ec688c911f519dcfccbadc31cd7.jpg",
         "paste-027e7a0b1d3311d39a763205e7fe78c908ecc323.jpg",
         "paste-060db37aaca56a47684b0fe2d48c848ce6d6a52e.jpg",
         "paste-07ce9b17653786d155b041a3980f77f012e4813d.jpg",
@@ -86,6 +87,7 @@
         "paste-442df0b7f89ede5d61d1b4460ddd71123cd7d19b.jpg",
         "paste-4521798b8e5991d908c2b8bb48b4ecbf4e7b568f.jpg",
         "paste-452a9886e87b4376cf08980427d881d4b7dad7e8.jpg",
+        "paste-46391d510ecb513822d4b9a62fb863e14d87fa9c.jpg",
         "paste-46b77a6c3e514a1d228054da45b2ec443da2eafb.jpg",
         "paste-4780c8915ec9ea4f1e0afd6b8a32f14ca14f11ec.jpg",
         "paste-498cb5ad06430e544a5e6badeb9daafe8236a7fe.jpg",
@@ -255,7 +257,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Cloze",
+            "name": "Cloze-cb75f",
             "req": [],
             "sortf": 0,
             "tags": [
@@ -345,7 +347,7 @@
             ],
             "flags": 0,
             "guid": "jP~W4Fo?fG",
-            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO1"
             ]
@@ -5069,6 +5071,76 @@
             "guid": "i}|RiQ7UnH",
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the differentials for jaundice?",
+                "<img src=\"paste-00a6a99e43f00ec688c911f519dcfccbadc31cd7.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "NJ#@fD-c6G",
+            "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
+            "tags": [
+                "Y3::Med_B::CBL2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "For a patient presenting with jaundice what investigations should be performed?",
+                "-Viral Markers<div>-LFTs</div><div>-Ultrasound</div><div>-Clotting tests</div><div>-FBC</div>"
+            ],
+            "flags": 0,
+            "guid": "j<ht{(;k)(",
+            "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
+            "tags": [
+                "Y3::Med_B::CBL2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In jaundice with extrahepatic obstruction what markers would be raised the most significantly?",
+                "ALP will be raised more than aminotransferases"
+            ],
+            "flags": 0,
+            "guid": "s3Gf${1;lL",
+            "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
+            "tags": [
+                "Y3::Med_B::CBL2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In hepatitis what markers will be raised?",
+                "AST and ALT tend to be high early with only a small rise in ALP"
+            ],
+            "flags": 0,
+            "guid": "D3lMUJ{pp#",
+            "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
+            "tags": [
+                "Y3::Med_B::CBL2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What guidelines are used to assess for the need for liver transplants?",
+                "King's College Criteria<div><img src=\"paste-46391d510ecb513822d4b9a62fb863e14d87fa9c.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "rt%kw9:>6S",
+            "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
+            "tags": [
+                "Y3::Med_B::CBL2"
+            ]
         }
     ]
 }
