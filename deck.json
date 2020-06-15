@@ -200,7 +200,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-f7029",
             "req": [
                 [
                     0,
@@ -291,6 +291,7 @@
             ],
             "flags": 0,
             "guid": "q3Z=@;bQ7;",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO1"
@@ -305,6 +306,7 @@
             ],
             "flags": 0,
             "guid": "&E;j]PNtF",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO1"
@@ -319,6 +321,7 @@
             ],
             "flags": 0,
             "guid": "h+MYjKhN:A",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO1"
@@ -333,6 +336,7 @@
             ],
             "flags": 0,
             "guid": "w9Ly3W~$Af",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO1"
@@ -347,6 +351,7 @@
             ],
             "flags": 0,
             "guid": "jP~W4Fo?fG",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO1"
@@ -361,6 +366,7 @@
             ],
             "flags": 0,
             "guid": "ceb#,cU>fE",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO1"
@@ -375,6 +381,7 @@
             ],
             "flags": 0,
             "guid": "j@kL0Z!__D",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO1"
@@ -389,6 +396,7 @@
             ],
             "flags": 0,
             "guid": "Qki4FUr(H[",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO1"
@@ -403,6 +411,7 @@
             ],
             "flags": 0,
             "guid": "HV_T:/*{9S",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO1"
@@ -417,6 +426,7 @@
             ],
             "flags": 0,
             "guid": "D(.z_uhaML",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO1"
@@ -431,6 +441,7 @@
             ],
             "flags": 0,
             "guid": "DbbQ=9#}l4",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO1"
@@ -445,6 +456,7 @@
             ],
             "flags": 0,
             "guid": "n2*`G`Xx;K",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO1"
@@ -459,6 +471,7 @@
             ],
             "flags": 0,
             "guid": "b_z=H8,4lP",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO1"
@@ -473,6 +486,7 @@
             ],
             "flags": 0,
             "guid": "LKe*:`v%U=",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO2"
@@ -487,6 +501,7 @@
             ],
             "flags": 0,
             "guid": "BWgG(mjK:U",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO2"
@@ -501,6 +516,7 @@
             ],
             "flags": 0,
             "guid": "ku4Gqi&+%r",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO2"
@@ -515,6 +531,7 @@
             ],
             "flags": 0,
             "guid": "n{nbWXRK3/",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO3"
@@ -529,6 +546,7 @@
             ],
             "flags": 0,
             "guid": "Mdeqf<IVI(",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO3"
@@ -543,6 +561,7 @@
             ],
             "flags": 0,
             "guid": "pk>G1^JH1p",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO3"
@@ -557,6 +576,7 @@
             ],
             "flags": 0,
             "guid": "3Q`[7YL[W",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO3"
@@ -571,6 +591,7 @@
             ],
             "flags": 0,
             "guid": "Oqv~1bGH<i",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO3"
@@ -585,6 +606,7 @@
             ],
             "flags": 0,
             "guid": "pSU-#<)3;O",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO3"
@@ -599,6 +621,7 @@
             ],
             "flags": 0,
             "guid": "M#Arb{ZiJJ",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO3"
@@ -613,6 +636,7 @@
             ],
             "flags": 0,
             "guid": "c6U%$_M#d5",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO3"
@@ -627,6 +651,7 @@
             ],
             "flags": 0,
             "guid": "AAjT&5A&pg",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO3"
@@ -641,6 +666,7 @@
             ],
             "flags": 0,
             "guid": "A!(8?>wQ3)",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO3"
@@ -655,6 +681,7 @@
             ],
             "flags": 0,
             "guid": "BKmRftldaw",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::LO3"
@@ -669,6 +696,7 @@
             ],
             "flags": 0,
             "guid": "pwCqbHMGIZ",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::Images"
@@ -683,6 +711,7 @@
             ],
             "flags": 0,
             "guid": "rG=0StKGFK",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::Images"
@@ -697,6 +726,7 @@
             ],
             "flags": 0,
             "guid": "QB+6IXFg4G",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::Images"
@@ -711,6 +741,7 @@
             ],
             "flags": 0,
             "guid": "v.H}&V=L@A",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::Images"
@@ -725,6 +756,7 @@
             ],
             "flags": 0,
             "guid": "s,^as).zdr",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::Images"
@@ -739,6 +771,7 @@
             ],
             "flags": 0,
             "guid": "y`S7nnszM1",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::Images"
@@ -753,6 +786,7 @@
             ],
             "flags": 0,
             "guid": "elC&@VGPRv",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::Images"
@@ -767,6 +801,7 @@
             ],
             "flags": 0,
             "guid": "oAe$5mL{@7",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::Images"
@@ -781,6 +816,7 @@
             ],
             "flags": 0,
             "guid": "G#e_qOffbf",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::Images"
@@ -795,6 +831,7 @@
             ],
             "flags": 0,
             "guid": "HQFw?jFD|(",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::Images"
@@ -809,6 +846,7 @@
             ],
             "flags": 0,
             "guid": "P]wMKmpWQ#",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::Images"
@@ -823,6 +861,7 @@
             ],
             "flags": 0,
             "guid": "J0=|[1CaW,",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::Images"
@@ -837,6 +876,7 @@
             ],
             "flags": 0,
             "guid": "c~O|>z#cyT",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::Images"
@@ -851,6 +891,7 @@
             ],
             "flags": 0,
             "guid": "O?`3{9H#y*",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CCT::Images"
@@ -865,6 +906,7 @@
             ],
             "flags": 0,
             "guid": "y-D!x*;cA@",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO1"
@@ -879,6 +921,7 @@
             ],
             "flags": 0,
             "guid": "vN>P/{PQfr",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO1"
@@ -893,6 +936,7 @@
             ],
             "flags": 0,
             "guid": "C`:X|%Ee0e",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO1"
@@ -907,6 +951,7 @@
             ],
             "flags": 0,
             "guid": "s.zY],Q7$9",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO1"
@@ -921,6 +966,7 @@
             ],
             "flags": 0,
             "guid": "H2PS>UQ^+u",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO1"
@@ -935,6 +981,7 @@
             ],
             "flags": 0,
             "guid": "ep(iNJ0K1b",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO1"
@@ -949,6 +996,7 @@
             ],
             "flags": 0,
             "guid": "C8t*X?ANDL",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO1"
@@ -963,6 +1011,7 @@
             ],
             "flags": 0,
             "guid": "f4>ggD5U^",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO2"
@@ -977,6 +1026,7 @@
             ],
             "flags": 0,
             "guid": "gU&^Bc1D5h",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO3"
@@ -991,6 +1041,7 @@
             ],
             "flags": 0,
             "guid": "O{nLknm;&k",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO3"
@@ -1005,6 +1056,7 @@
             ],
             "flags": 0,
             "guid": "PH)4*k@gN1",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO3"
@@ -1019,6 +1071,7 @@
             ],
             "flags": 0,
             "guid": "EyQc&^z{!{",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO3"
@@ -1033,6 +1086,7 @@
             ],
             "flags": 0,
             "guid": "yb!@ECk4CF",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO3"
@@ -1047,6 +1101,7 @@
             ],
             "flags": 0,
             "guid": "Li:UbvRT/K",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO3"
@@ -1061,6 +1116,7 @@
             ],
             "flags": 0,
             "guid": "ta+hjAIyz-",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO3"
@@ -1075,6 +1131,7 @@
             ],
             "flags": 0,
             "guid": "j*/G-fQJV|",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO3"
@@ -1089,6 +1146,7 @@
             ],
             "flags": 0,
             "guid": "w1:.AlHdBv",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO3"
@@ -1103,6 +1161,7 @@
             ],
             "flags": 0,
             "guid": "B{PQY7uGiD",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO3"
@@ -1117,6 +1176,7 @@
             ],
             "flags": 0,
             "guid": "D.jauIV?M(",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO3"
@@ -1131,6 +1191,7 @@
             ],
             "flags": 0,
             "guid": "pVr!omG[Ul",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO4"
@@ -1145,6 +1206,7 @@
             ],
             "flags": 0,
             "guid": "Mzwu3&%((b",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO4"
@@ -1159,6 +1221,7 @@
             ],
             "flags": 0,
             "guid": "H7c#>11rVb",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT1::LO4"
@@ -1173,6 +1236,7 @@
             ],
             "flags": 0,
             "guid": "H%L.bK<]]>",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT2::LO5"
@@ -1187,6 +1251,7 @@
             ],
             "flags": 0,
             "guid": "fP<m9{wFhJ",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT2::LO5"
@@ -1201,6 +1266,7 @@
             ],
             "flags": 0,
             "guid": "hASE!pCg+c",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT2::LO6"
@@ -1215,6 +1281,7 @@
             ],
             "flags": 0,
             "guid": "ERsBSar:zV",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT2::LO8"
@@ -1229,6 +1296,7 @@
             ],
             "flags": 0,
             "guid": "sdUi`T,6l;",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1243,6 +1311,7 @@
             ],
             "flags": 0,
             "guid": "G#{g4);Da.",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1257,6 +1326,7 @@
             ],
             "flags": 0,
             "guid": "PkNTPv@gI1",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1271,6 +1341,7 @@
             ],
             "flags": 0,
             "guid": "s(z<QVj/2C",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1285,6 +1356,7 @@
             ],
             "flags": 0,
             "guid": "z{B~elwiHW",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1299,6 +1371,7 @@
             ],
             "flags": 0,
             "guid": "NFyaH[eWC,",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1313,6 +1386,7 @@
             ],
             "flags": 0,
             "guid": "vs(y8S5mhL",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1327,6 +1401,7 @@
             ],
             "flags": 0,
             "guid": "-^:!i{0r@",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1341,6 +1416,7 @@
             ],
             "flags": 0,
             "guid": "wAkI[ZEIx@",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1355,6 +1431,7 @@
             ],
             "flags": 0,
             "guid": "t[Ac9O.G[}",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1369,6 +1446,7 @@
             ],
             "flags": 0,
             "guid": "L,LU4s!htx",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1383,6 +1461,7 @@
             ],
             "flags": 0,
             "guid": "8PtIJjrC0",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1397,6 +1476,7 @@
             ],
             "flags": 0,
             "guid": "DDnumDfBr;",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1411,6 +1491,7 @@
             ],
             "flags": 0,
             "guid": "mBUb{NgP6~",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1425,6 +1506,7 @@
             ],
             "flags": 0,
             "guid": "BVA-d3D4c_",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO2"
@@ -1439,6 +1521,7 @@
             ],
             "flags": 0,
             "guid": "tYo3kv:P2P",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO2"
@@ -1453,6 +1536,7 @@
             ],
             "flags": 0,
             "guid": "IjCae++f4D",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CCT:LO1"
@@ -1467,6 +1551,7 @@
             ],
             "flags": 0,
             "guid": "gnbu:@DO8T",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CBL1:LO1"
@@ -1481,6 +1566,7 @@
             ],
             "flags": 0,
             "guid": "L^v&4cuilP",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_A::CBL1:LO1"
@@ -1495,6 +1581,7 @@
             ],
             "flags": 0,
             "guid": "L}w3b{jT=z",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO1"
@@ -1509,6 +1596,7 @@
             ],
             "flags": 0,
             "guid": "DylHd<BR=H",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO1"
@@ -1523,6 +1611,7 @@
             ],
             "flags": 0,
             "guid": "DY)x(md$):",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO1"
@@ -1537,6 +1626,7 @@
             ],
             "flags": 0,
             "guid": "AL;R@kPljW",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO1"
@@ -1551,6 +1641,7 @@
             ],
             "flags": 0,
             "guid": "q55(5*sw96",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1565,6 +1656,7 @@
             ],
             "flags": 0,
             "guid": "APwh9`_IEt",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1579,6 +1671,7 @@
             ],
             "flags": 0,
             "guid": "CTwy{bjfou",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1593,6 +1686,7 @@
             ],
             "flags": 0,
             "guid": "oz)8mT?@SG",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1607,6 +1701,7 @@
             ],
             "flags": 0,
             "guid": "f!2hT_kpWF",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1621,6 +1716,7 @@
             ],
             "flags": 0,
             "guid": "l.BqXMe4-M",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1635,6 +1731,7 @@
             ],
             "flags": 0,
             "guid": "l:HJ/#QUdM",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1649,6 +1746,7 @@
             ],
             "flags": 0,
             "guid": "y!k.@#b&f1",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1663,6 +1761,7 @@
             ],
             "flags": 0,
             "guid": "gH{~`AIa?>",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1677,6 +1776,7 @@
             ],
             "flags": 0,
             "guid": "f0Nwhv`%S+",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1691,6 +1791,7 @@
             ],
             "flags": 0,
             "guid": "uz;+L-eCCb",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1705,6 +1806,7 @@
             ],
             "flags": 0,
             "guid": "i_(fN)-7CD",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1719,6 +1821,7 @@
             ],
             "flags": 0,
             "guid": "Ei{t,5UKD%",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1733,6 +1836,7 @@
             ],
             "flags": 0,
             "guid": "oY$D<qj)>R",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1747,6 +1851,7 @@
             ],
             "flags": 0,
             "guid": "QhPg45N@(L",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1761,6 +1866,7 @@
             ],
             "flags": 0,
             "guid": "zcnlJ6m19[",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -1775,6 +1881,7 @@
             ],
             "flags": 0,
             "guid": "H4Qm@CG*Z]",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CCT::LO1"
@@ -1789,6 +1896,7 @@
             ],
             "flags": 0,
             "guid": "e8ej=RfBP`",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CCT::LO1"
@@ -1803,6 +1911,7 @@
             ],
             "flags": 0,
             "guid": "g-ND`~2V6G",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CCT::LO2"
@@ -1817,6 +1926,7 @@
             ],
             "flags": 0,
             "guid": "kcmpiZY~.X",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CCT::LO3"
@@ -1831,6 +1941,7 @@
             ],
             "flags": 0,
             "guid": "rwA+QMw6#Q",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -1846,6 +1957,7 @@
             ],
             "flags": 0,
             "guid": "iRG|5Zoc^)",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -1861,6 +1973,7 @@
             ],
             "flags": 0,
             "guid": "tK*W{N@H~a",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -1876,6 +1989,7 @@
             ],
             "flags": 0,
             "guid": "qSP-V~L9j{",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -1891,6 +2005,7 @@
             ],
             "flags": 0,
             "guid": "x@n:KPg7^W",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -1906,6 +2021,7 @@
             ],
             "flags": 0,
             "guid": "QZz?]_8[3$",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -1921,6 +2037,7 @@
             ],
             "flags": 0,
             "guid": "wj8vI7J>9A",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -1936,6 +2053,7 @@
             ],
             "flags": 0,
             "guid": "K~DJ]|Lnf-",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -1951,6 +2069,7 @@
             ],
             "flags": 0,
             "guid": "Es#*hukHll",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -1966,6 +2085,7 @@
             ],
             "flags": 0,
             "guid": "K7xOuXTYk`",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -1981,6 +2101,7 @@
             ],
             "flags": 0,
             "guid": "NOi9.2,zP`",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -1996,6 +2117,7 @@
             ],
             "flags": 0,
             "guid": "NpET36]2!B",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -2011,6 +2133,7 @@
             ],
             "flags": 0,
             "guid": "MQ$2UaS;Do",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -2026,6 +2149,7 @@
             ],
             "flags": 0,
             "guid": "q_npxCyd];",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -2041,6 +2165,7 @@
             ],
             "flags": 0,
             "guid": "du0R4&Tdq>",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -2056,6 +2181,7 @@
             ],
             "flags": 0,
             "guid": "CT!qd4n7^P",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -2071,6 +2197,7 @@
             ],
             "flags": 0,
             "guid": "IDeY_`Ipav",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -2086,6 +2213,7 @@
             ],
             "flags": 0,
             "guid": "QU6[&o`#sf",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -2101,6 +2229,7 @@
             ],
             "flags": 0,
             "guid": "xUvK6V])bg",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -2116,6 +2245,7 @@
             ],
             "flags": 0,
             "guid": "FfGXL.i<y1",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL",
@@ -2131,6 +2261,7 @@
             ],
             "flags": 0,
             "guid": "O@`EDz~IKs",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT::LO1"
@@ -2145,6 +2276,7 @@
             ],
             "flags": 0,
             "guid": "AO=R?l{b:C",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT::LO1"
@@ -2159,6 +2291,7 @@
             ],
             "flags": 0,
             "guid": "FS$Lto-%-@",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT::LO1"
@@ -2173,6 +2306,7 @@
             ],
             "flags": 0,
             "guid": "GzTNqi8-Ry",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT::LO1"
@@ -2187,6 +2321,7 @@
             ],
             "flags": 0,
             "guid": "oJ#)LUL>rS",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT::LO2"
@@ -2201,6 +2336,7 @@
             ],
             "flags": 0,
             "guid": "rCCP`^wz<d",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT::LO1"
@@ -2215,6 +2351,7 @@
             ],
             "flags": 0,
             "guid": "uw/f^H(}h~",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT::LO1"
@@ -2229,6 +2366,7 @@
             ],
             "flags": 0,
             "guid": "L/BL)~v-Ki",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT::LO1"
@@ -2243,6 +2381,7 @@
             ],
             "flags": 0,
             "guid": "Hw+ldQTjb)",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT::LO3"
@@ -2257,6 +2396,7 @@
             ],
             "flags": 0,
             "guid": "L&8`(FHaZb",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT::LO3"
@@ -2271,6 +2411,7 @@
             ],
             "flags": 0,
             "guid": "vBGi:B<lDY",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT::LO3"
@@ -2285,6 +2426,7 @@
             ],
             "flags": 0,
             "guid": "dJ1C0rWa+^",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT::LO3"
@@ -2299,6 +2441,7 @@
             ],
             "flags": 0,
             "guid": "pZ7DE__)1Q",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT::LO3"
@@ -2313,6 +2456,7 @@
             ],
             "flags": 0,
             "guid": "rFZ3yFm%,<",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT"
@@ -2327,6 +2471,7 @@
             ],
             "flags": 0,
             "guid": "j/BZ^:M~K9",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CCT"
@@ -2341,6 +2486,7 @@
             ],
             "flags": 0,
             "guid": "bOFN`WbcAc",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CBL1:LO1"
@@ -2355,6 +2501,7 @@
             ],
             "flags": 0,
             "guid": "dniugIJ7Rc",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CBL1:LO1"
@@ -2369,6 +2516,7 @@
             ],
             "flags": 0,
             "guid": "b[kxxG)tN-",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CBL1:LO2"
@@ -2383,6 +2531,7 @@
             ],
             "flags": 0,
             "guid": "wbN+w?o[V3",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CBL1:LO2"
@@ -2397,6 +2546,7 @@
             ],
             "flags": 0,
             "guid": "y3kG9zwM/G",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_B::CBL1:LO2"
@@ -2411,6 +2561,7 @@
             ],
             "flags": 0,
             "guid": "DK95qd[$Iq",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo1"
@@ -2425,6 +2576,7 @@
             ],
             "flags": 0,
             "guid": "mse@hUT{S^",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo1"
@@ -2439,6 +2591,7 @@
             ],
             "flags": 0,
             "guid": "%c)fp(d..",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo1"
@@ -2453,6 +2606,7 @@
             ],
             "flags": 0,
             "guid": "J@d2z~N0Yq",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo1"
@@ -2467,6 +2621,7 @@
             ],
             "flags": 0,
             "guid": "PeNjS{Msgs",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo1"
@@ -2481,6 +2636,7 @@
             ],
             "flags": 0,
             "guid": "I`F[iBaxiy",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo1"
@@ -2495,6 +2651,7 @@
             ],
             "flags": 0,
             "guid": "03gKmB^t7",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo1"
@@ -2509,6 +2666,7 @@
             ],
             "flags": 0,
             "guid": "oi]9s-z(4B",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo1"
@@ -2523,6 +2681,7 @@
             ],
             "flags": 0,
             "guid": "NC@Uw4`TQn",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo2"
@@ -2537,6 +2696,7 @@
             ],
             "flags": 0,
             "guid": "BGd_suVQ91",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo2"
@@ -2551,6 +2711,7 @@
             ],
             "flags": 0,
             "guid": "r!jNMxX3@k",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo2"
@@ -2565,6 +2726,7 @@
             ],
             "flags": 0,
             "guid": "rov9>DT5^H",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo2"
@@ -2579,6 +2741,7 @@
             ],
             "flags": 0,
             "guid": "G0=d/iasGF",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo2"
@@ -2593,6 +2756,7 @@
             ],
             "flags": 0,
             "guid": "ddO_..rOCX",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo2"
@@ -2607,6 +2771,7 @@
             ],
             "flags": 0,
             "guid": "CIqQPG&Fb}",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo2"
@@ -2621,6 +2786,7 @@
             ],
             "flags": 0,
             "guid": "H={|jbuY5&",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo2"
@@ -2635,6 +2801,7 @@
             ],
             "flags": 0,
             "guid": "F7#^p@:0u>",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo2"
@@ -2649,6 +2816,7 @@
             ],
             "flags": 0,
             "guid": "x{(Vpy!y@g",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo3"
@@ -2663,6 +2831,7 @@
             ],
             "flags": 0,
             "guid": "iPdxAj2PM}",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo3"
@@ -2677,6 +2846,7 @@
             ],
             "flags": 0,
             "guid": "mO3zv0rs)/",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo3"
@@ -2691,6 +2861,7 @@
             ],
             "flags": 0,
             "guid": "jMKIrj(d(F",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo3"
@@ -2705,6 +2876,7 @@
             ],
             "flags": 0,
             "guid": "E6tGmo~PA#",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo3"
@@ -2719,6 +2891,7 @@
             ],
             "flags": 0,
             "guid": "y]AF|#5AXP",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo3"
@@ -2733,6 +2906,7 @@
             ],
             "flags": 0,
             "guid": "BPS9J4`L-.",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO2"
@@ -2747,6 +2921,7 @@
             ],
             "flags": 0,
             "guid": "p.?8*N5AQC",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO2"
@@ -2761,6 +2936,7 @@
             ],
             "flags": 0,
             "guid": "FLNut@<%9A",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO2"
@@ -2775,6 +2951,7 @@
             ],
             "flags": 0,
             "guid": "pkRn73~sA7",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO2"
@@ -2789,6 +2966,7 @@
             ],
             "flags": 0,
             "guid": "Q|_+FpChFo",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO2"
@@ -2803,6 +2981,7 @@
             ],
             "flags": 0,
             "guid": "y*aa+p3uRa",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO2"
@@ -2817,6 +2996,7 @@
             ],
             "flags": 0,
             "guid": "Na#4P+02|M",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO2"
@@ -2831,6 +3011,7 @@
             ],
             "flags": 0,
             "guid": "y*%ozFMLyk",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO3"
@@ -2845,6 +3026,7 @@
             ],
             "flags": 0,
             "guid": "oqI]1vKCgO",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO3"
@@ -2859,6 +3041,7 @@
             ],
             "flags": 0,
             "guid": "Mn-NIWJv4H",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO3"
@@ -2873,6 +3056,7 @@
             ],
             "flags": 0,
             "guid": "cIN#)Aws_}",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO3"
@@ -2887,6 +3071,7 @@
             ],
             "flags": 0,
             "guid": "b`/|}t#na;",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO3"
@@ -2901,6 +3086,7 @@
             ],
             "flags": 0,
             "guid": "IHGMj[meYC",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO3"
@@ -2915,6 +3101,7 @@
             ],
             "flags": 0,
             "guid": "k-elLj)~~z",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO3"
@@ -2929,6 +3116,7 @@
             ],
             "flags": 0,
             "guid": "D.~yh==^UZ",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO3"
@@ -2943,6 +3131,7 @@
             ],
             "flags": 0,
             "guid": "h>l5SC2QGH",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO3"
@@ -2957,6 +3146,7 @@
             ],
             "flags": 0,
             "guid": "yQ=UiS]uKh",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO3"
@@ -2971,6 +3161,7 @@
             ],
             "flags": 0,
             "guid": "s?,E!>%6i-",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CCT::LO3"
@@ -2985,6 +3176,7 @@
             ],
             "flags": 0,
             "guid": "b[`Hy>}Yn(",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CBL"
@@ -2999,6 +3191,7 @@
             ],
             "flags": 0,
             "guid": "n}mU=8aWC+",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CBL::LO2"
@@ -3013,6 +3206,7 @@
             ],
             "flags": 0,
             "guid": "M~y9`g5EK[",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::O&G::CBL::LO2"
@@ -3027,6 +3221,7 @@
             ],
             "flags": 0,
             "guid": "B;T[&oZ@Cg",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL1"
@@ -3041,6 +3236,7 @@
             ],
             "flags": 0,
             "guid": "P*4xwZ5Fe?",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL1"
@@ -3055,6 +3251,7 @@
             ],
             "flags": 0,
             "guid": "n].+d|EY)P",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL1"
@@ -3069,6 +3266,7 @@
             ],
             "flags": 0,
             "guid": "OQDL%7@#}}",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL1"
@@ -3083,6 +3281,7 @@
             ],
             "flags": 0,
             "guid": "E>f*`E[FRr",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL1"
@@ -3097,6 +3296,7 @@
             ],
             "flags": 0,
             "guid": "k#J1y609~h",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL1"
@@ -3111,6 +3311,7 @@
             ],
             "flags": 0,
             "guid": "J/uFWujsXc",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL1"
@@ -3125,6 +3326,7 @@
             ],
             "flags": 0,
             "guid": "PPVjJ*i_+e",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -3139,6 +3341,7 @@
             ],
             "flags": 0,
             "guid": "b=XAc~bG|(",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -3153,6 +3356,7 @@
             ],
             "flags": 0,
             "guid": "H(FHPqc)*O",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3167,6 +3371,7 @@
             ],
             "flags": 0,
             "guid": "vm{rR5j?e",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3181,6 +3386,7 @@
             ],
             "flags": 0,
             "guid": "r&!N]/FO!o",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3195,6 +3401,7 @@
             ],
             "flags": 0,
             "guid": "I`%JN-74@c",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3209,6 +3416,7 @@
             ],
             "flags": 0,
             "guid": "F>N9G`1/`,",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3223,6 +3431,7 @@
             ],
             "flags": 0,
             "guid": "fHw#//!LDL",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3237,6 +3446,7 @@
             ],
             "flags": 0,
             "guid": "d[5Oka-nKz",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3251,6 +3461,7 @@
             ],
             "flags": 0,
             "guid": "LkDl!bb@*A",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3265,6 +3476,7 @@
             ],
             "flags": 0,
             "guid": "q(w9_(sc!l",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3279,6 +3491,7 @@
             ],
             "flags": 0,
             "guid": "i:9l^>U$-]",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3293,6 +3506,7 @@
             ],
             "flags": 0,
             "guid": "Eo{Dg+?T6t",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3307,6 +3521,7 @@
             ],
             "flags": 0,
             "guid": "x#[MQgvu4Y",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3321,6 +3536,7 @@
             ],
             "flags": 0,
             "guid": "h<+,YR>4{P",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3335,6 +3551,7 @@
             ],
             "flags": 0,
             "guid": "Qm)!ti_}#X",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3349,6 +3566,7 @@
             ],
             "flags": 0,
             "guid": "l.Z[5b#W/[",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO10"
@@ -3363,6 +3581,7 @@
             ],
             "flags": 0,
             "guid": "i}FAKfE[7E",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3377,6 +3596,7 @@
             ],
             "flags": 0,
             "guid": "n?yZCRo(/u",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3391,6 +3611,7 @@
             ],
             "flags": 0,
             "guid": "l,)xWot+v7",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3405,6 +3626,7 @@
             ],
             "flags": 0,
             "guid": "vO.xP:#!#l",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3419,6 +3641,7 @@
             ],
             "flags": 0,
             "guid": "zwM1u./mV|",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3433,6 +3656,7 @@
             ],
             "flags": 0,
             "guid": "v,;&iwf*q$",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3447,6 +3671,7 @@
             ],
             "flags": 0,
             "guid": "yz5]DB].!n",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3461,6 +3686,7 @@
             ],
             "flags": 0,
             "guid": "Bn&SZZ+2W-",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3475,6 +3701,7 @@
             ],
             "flags": 0,
             "guid": "n~xV+3dJk$",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3489,6 +3716,7 @@
             ],
             "flags": 0,
             "guid": "m3#Rqz]~vG",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3503,6 +3731,7 @@
             ],
             "flags": 0,
             "guid": "KQVyr@Gd9D",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3517,6 +3746,7 @@
             ],
             "flags": 0,
             "guid": "G{zSoXLo_X",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3531,6 +3761,7 @@
             ],
             "flags": 0,
             "guid": "gY!g4@=Xb3",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3545,6 +3776,7 @@
             ],
             "flags": 0,
             "guid": "dU*Xd]Gh;P",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3559,6 +3791,7 @@
             ],
             "flags": 0,
             "guid": "LBuk9i#0x#",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO11"
@@ -3573,6 +3806,7 @@
             ],
             "flags": 0,
             "guid": "iLD$]Y)kb|",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO12"
@@ -3587,6 +3821,7 @@
             ],
             "flags": 0,
             "guid": "H&5XVc<>M(",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO12"
@@ -3601,6 +3836,7 @@
             ],
             "flags": 0,
             "guid": "Bs{RNs^l8(",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO13"
@@ -3615,6 +3851,7 @@
             ],
             "flags": 0,
             "guid": "LN!-hwomk!",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO13"
@@ -3629,6 +3866,7 @@
             ],
             "flags": 0,
             "guid": "jz8IVZ*rlG",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::LO13"
@@ -3643,6 +3881,7 @@
             ],
             "flags": 0,
             "guid": "tcDT+.wpfI",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::Pictures"
@@ -3657,6 +3896,7 @@
             ],
             "flags": 0,
             "guid": "ElBY3omRuS",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::Pictures"
@@ -3671,6 +3911,7 @@
             ],
             "flags": 0,
             "guid": "BMguIbK6,q",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::Pictures"
@@ -3685,6 +3926,7 @@
             ],
             "flags": 0,
             "guid": "roaOb>^q@I",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::Pictures"
@@ -3699,6 +3941,7 @@
             ],
             "flags": 0,
             "guid": "FpA%~9(?l%",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::Pictures"
@@ -3713,6 +3956,7 @@
             ],
             "flags": 0,
             "guid": "nVT)i5_=xM",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::Pictures"
@@ -3727,6 +3971,7 @@
             ],
             "flags": 0,
             "guid": "KXo5;+W7{k",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::Pictures"
@@ -3741,6 +3986,7 @@
             ],
             "flags": 0,
             "guid": "b#d]oDGi1o",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::Pictures"
@@ -3755,6 +4001,7 @@
             ],
             "flags": 0,
             "guid": "OR#&gnyM8{",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::Pictures"
@@ -3769,6 +4016,7 @@
             ],
             "flags": 0,
             "guid": "w;CMi)};%;",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::Pictures"
@@ -3783,6 +4031,7 @@
             ],
             "flags": 0,
             "guid": "t{Y&PVLkHl",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::Pictures"
@@ -3797,6 +4046,7 @@
             ],
             "flags": 0,
             "guid": "qFEa@)h^V:",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::Pictures"
@@ -3811,6 +4061,7 @@
             ],
             "flags": 0,
             "guid": "ig,%~/+S~/",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT3::Pictures"
@@ -3825,6 +4076,7 @@
             ],
             "flags": 0,
             "guid": "BmfRq/KZ6*",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO14"
@@ -3839,6 +4091,7 @@
             ],
             "flags": 0,
             "guid": "mEebd=$S>+",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO14"
@@ -3853,6 +4106,7 @@
             ],
             "flags": 0,
             "guid": "k08=]w9:.M",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO2"
@@ -3867,6 +4121,7 @@
             ],
             "flags": 0,
             "guid": "fiwW9((>b.",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Surg_A::CCT::LO5"
@@ -3881,6 +4136,7 @@
             ],
             "flags": 0,
             "guid": "l[sGvU<w[{",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO15"
@@ -3895,6 +4151,7 @@
             ],
             "flags": 0,
             "guid": "s.:P#pRg%o",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO15"
@@ -3909,6 +4166,7 @@
             ],
             "flags": 0,
             "guid": "m.pCQ?GKoS",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO15"
@@ -3923,6 +4181,7 @@
             ],
             "flags": 0,
             "guid": "E-=`[}!C.7",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO15"
@@ -3937,6 +4196,7 @@
             ],
             "flags": 0,
             "guid": "w,6WI^_DrC",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO16"
@@ -3951,6 +4211,7 @@
             ],
             "flags": 0,
             "guid": "xjp83?BU&j",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO16"
@@ -3965,6 +4226,7 @@
             ],
             "flags": 0,
             "guid": "i{]+cTf`5t",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO16"
@@ -3979,6 +4241,7 @@
             ],
             "flags": 0,
             "guid": "n(MA+rKHXR",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO16"
@@ -3993,6 +4256,7 @@
             ],
             "flags": 0,
             "guid": "y(%Uq6/weJ",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO16"
@@ -4007,6 +4271,7 @@
             ],
             "flags": 0,
             "guid": "cqSI_J;*~v",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO17"
@@ -4021,6 +4286,7 @@
             ],
             "flags": 0,
             "guid": "QHOR`.0WGQ",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO17"
@@ -4035,6 +4301,7 @@
             ],
             "flags": 0,
             "guid": "hsc,]7ydsC",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO17"
@@ -4049,6 +4316,7 @@
             ],
             "flags": 0,
             "guid": "A{NO_=+KG-",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO17"
@@ -4063,6 +4331,7 @@
             ],
             "flags": 0,
             "guid": "hL5q+U4~,3",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO17"
@@ -4077,6 +4346,7 @@
             ],
             "flags": 0,
             "guid": "Q&oy_)SiSe",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO17"
@@ -4091,6 +4361,7 @@
             ],
             "flags": 0,
             "guid": "dd-/1Y/-9I",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO17"
@@ -4105,6 +4376,7 @@
             ],
             "flags": 0,
             "guid": "s@CxTrEPq(",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO17"
@@ -4119,6 +4391,7 @@
             ],
             "flags": 0,
             "guid": "N/cb9+kV9",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO17"
@@ -4133,6 +4406,7 @@
             ],
             "flags": 0,
             "guid": "r,ODj2,v)%",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO17"
@@ -4147,6 +4421,7 @@
             ],
             "flags": 0,
             "guid": "I;qBFV}lw&",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO17"
@@ -4161,6 +4436,7 @@
             ],
             "flags": 0,
             "guid": "G4Gvl@BPz&",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO17"
@@ -4175,6 +4451,7 @@
             ],
             "flags": 0,
             "guid": "l&=hx(o-8k",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO17"
@@ -4189,6 +4466,7 @@
             ],
             "flags": 0,
             "guid": "C>M?)Lsi&(",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO17"
@@ -4203,6 +4481,7 @@
             ],
             "flags": 0,
             "guid": "kQ$E[c?z%D",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT4::LO18"
@@ -4217,6 +4496,7 @@
             ],
             "flags": 0,
             "guid": "s_@ggf)t)@",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4231,6 +4511,7 @@
             ],
             "flags": 0,
             "guid": "r?1[Vbmf{S",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4245,6 +4526,7 @@
             ],
             "flags": 0,
             "guid": "fgI40K$S5{",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4259,6 +4541,7 @@
             ],
             "flags": 0,
             "guid": "F4sG(,/@+}",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4273,6 +4556,7 @@
             ],
             "flags": 0,
             "guid": "K?`V#r7FR(",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4287,6 +4571,7 @@
             ],
             "flags": 0,
             "guid": "l([HEQ:$i<",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4301,6 +4586,7 @@
             ],
             "flags": 0,
             "guid": "1jf]}D_Tt",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4315,6 +4601,7 @@
             ],
             "flags": 0,
             "guid": "iz,rtl7aYP",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4329,6 +4616,7 @@
             ],
             "flags": 0,
             "guid": "D0|+b4lv-U",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4343,6 +4631,7 @@
             ],
             "flags": 0,
             "guid": "%|0enVy-9",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4357,6 +4646,7 @@
             ],
             "flags": 0,
             "guid": "i/NR^EJVx<",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4371,6 +4661,7 @@
             ],
             "flags": 0,
             "guid": "Q-d`E<)#7-",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4385,6 +4676,7 @@
             ],
             "flags": 0,
             "guid": "zp/d6r,URt",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4399,6 +4691,7 @@
             ],
             "flags": 0,
             "guid": "vJ{>b|XUfl",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4413,6 +4706,7 @@
             ],
             "flags": 0,
             "guid": "Gl@e4@etiO",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4427,6 +4721,7 @@
             ],
             "flags": 0,
             "guid": "t`#c6!hsz2",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4441,6 +4736,7 @@
             ],
             "flags": 0,
             "guid": "NYL,%JWJZ|",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4455,6 +4751,7 @@
             ],
             "flags": 0,
             "guid": "Emf9oHG*[f",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4469,6 +4766,7 @@
             ],
             "flags": 0,
             "guid": "fA}^c/GSr5",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4483,6 +4781,7 @@
             ],
             "flags": 0,
             "guid": "b4Xhq*BY;C",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4497,6 +4796,7 @@
             ],
             "flags": 0,
             "guid": "hN3<wV:.eO",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4511,6 +4811,7 @@
             ],
             "flags": 0,
             "guid": "nFO,J(jFD~",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4525,6 +4826,7 @@
             ],
             "flags": 0,
             "guid": "QB{OV^zzvH",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4539,6 +4841,7 @@
             ],
             "flags": 0,
             "guid": "i7*]n+Vi}?",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4553,6 +4856,7 @@
             ],
             "flags": 0,
             "guid": "ukb3&mJUV<",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4567,6 +4871,7 @@
             ],
             "flags": 0,
             "guid": "e`R4/O39tM",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4581,6 +4886,7 @@
             ],
             "flags": 0,
             "guid": "qv#q,gX(@U",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4595,6 +4901,7 @@
             ],
             "flags": 0,
             "guid": "p:7IA7;ag`",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4609,6 +4916,7 @@
             ],
             "flags": 0,
             "guid": "rAq!mX6hDx",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4623,6 +4931,7 @@
             ],
             "flags": 0,
             "guid": "L/iY]%*-;H",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4637,6 +4946,7 @@
             ],
             "flags": 0,
             "guid": "lINNh*)e<F",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4651,6 +4961,7 @@
             ],
             "flags": 0,
             "guid": "iKZ-x_p@B_",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4665,6 +4976,7 @@
             ],
             "flags": 0,
             "guid": "Dm5p&^z^E:",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT5::LO19"
@@ -4679,6 +4991,7 @@
             ],
             "flags": 0,
             "guid": ")}88J*eL5",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4693,6 +5006,7 @@
             ],
             "flags": 0,
             "guid": "bMK&dfQnLj",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4707,6 +5021,7 @@
             ],
             "flags": 0,
             "guid": "b`>z#pV_/f",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4721,6 +5036,7 @@
             ],
             "flags": 0,
             "guid": "DL)uXN,:v]",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4735,6 +5051,7 @@
             ],
             "flags": 0,
             "guid": "E`*M?MQ-t*",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4749,6 +5066,7 @@
             ],
             "flags": 0,
             "guid": "IzK$bl>=8-",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4763,6 +5081,7 @@
             ],
             "flags": 0,
             "guid": "sT|.WMT*{8",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4777,6 +5096,7 @@
             ],
             "flags": 0,
             "guid": "JviUWYG9FN",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4791,6 +5111,7 @@
             ],
             "flags": 0,
             "guid": "G*zK0#*sq7",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4805,6 +5126,7 @@
             ],
             "flags": 0,
             "guid": "xsY)Uy:74$",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4819,6 +5141,7 @@
             ],
             "flags": 0,
             "guid": "iw|p6V*|ke",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4833,6 +5156,7 @@
             ],
             "flags": 0,
             "guid": "A3EYGU5@O[",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4847,6 +5171,7 @@
             ],
             "flags": 0,
             "guid": "Hf*`p=_`v(",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4861,6 +5186,7 @@
             ],
             "flags": 0,
             "guid": "k4ud,lQt1.",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4875,6 +5201,7 @@
             ],
             "flags": 0,
             "guid": "sOFFghctT.",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4889,6 +5216,7 @@
             ],
             "flags": 0,
             "guid": "AVBE2B*y);",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4903,6 +5231,7 @@
             ],
             "flags": 0,
             "guid": "JDYUmm/3$3",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4917,6 +5246,7 @@
             ],
             "flags": 0,
             "guid": "GBc~R>B<*(",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Paeds::CBL2"
@@ -4931,6 +5261,7 @@
             ],
             "flags": 0,
             "guid": "ts=RtJ7m}_",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo3"
@@ -4945,6 +5276,7 @@
             ],
             "flags": 0,
             "guid": "GcSx+C}pf1",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo3"
@@ -4959,6 +5291,7 @@
             ],
             "flags": 0,
             "guid": "u>Bm!h#^ND",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo4"
@@ -4973,6 +5306,7 @@
             ],
             "flags": 0,
             "guid": "w]?(um[b/7",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo4"
@@ -4987,6 +5321,7 @@
             ],
             "flags": 0,
             "guid": "ho=^vX*}IP",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo4"
@@ -5001,6 +5336,7 @@
             ],
             "flags": 0,
             "guid": "Qo7RXI)/e&",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo4"
@@ -5015,6 +5351,7 @@
             ],
             "flags": 0,
             "guid": "x[?k?%k.-]",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo4"
@@ -5029,6 +5366,7 @@
             ],
             "flags": 0,
             "guid": "wF]4_A004J",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo4"
@@ -5043,6 +5381,7 @@
             ],
             "flags": 0,
             "guid": "c}76Bc!%j*",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Pharmacology::Endo4"
@@ -5057,6 +5396,7 @@
             ],
             "flags": 0,
             "guid": "NJ#@fD-c6G",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL2"
@@ -5071,6 +5411,7 @@
             ],
             "flags": 0,
             "guid": "j<ht{(;k)(",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL2"
@@ -5085,6 +5426,7 @@
             ],
             "flags": 0,
             "guid": "s3Gf${1;lL",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL2"
@@ -5099,6 +5441,7 @@
             ],
             "flags": 0,
             "guid": "D3lMUJ{pp#",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL2"
@@ -5113,10 +5456,1441 @@
             ],
             "flags": 0,
             "guid": "rt%kw9:>6S",
+            "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::Med_B::CBL2"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Questions",
+                "Answers"
+            ],
+            "flags": 0,
+            "guid": "ju(OT_C.OL",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which hormones are primarily responsible for the ovarian cycle?",
+                "Progesterone and Oestrogen (However GnRH, LH and FSH all play an important in the Hypothalamic-Pituitary-Gonadal axis)."
+            ],
+            "flags": 0,
+            "guid": "KlS[Hz$#G%",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which axis is responsible for successful ovulation?",
+                "Hypothalamic-Pituitary-Gonadal axis."
+            ],
+            "flags": 0,
+            "guid": "C#s+tSFpOL",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Progesterone?",
+                "It is an androgen sex steroid hormone, primarily released from the Corpus Luteum and placenta and acts synergistically with with oestrogen."
+            ],
+            "flags": 0,
+            "guid": "J=f.AJLu>v",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which organs do progesterone primarily act upon?",
+                "- Uterus <br>- Ovaries<br>- Breasts<br>- Brain"
+            ],
+            "flags": 0,
+            "guid": "yH3K^r3_Lg",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the three phases of the uterine cycle?",
+                "1. Menses<br>2. Proliferative phase<br>3. Secretory phase"
+            ],
+            "flags": 0,
+            "guid": "v)I^|W@[#?",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Should implantation not occur what does the corpus luteum become?",
+                "Corpus Albicans"
+            ],
+            "flags": 0,
+            "guid": "fBk|a{@/-f",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Should impantation occur hCG is is released from what cells?",
+                "Syncitiotrophoblasts"
+            ],
+            "flags": 0,
+            "guid": "bTu72k.Wkv",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How many days post ovulation does positive feedback prevent the degradation of the corpus luteum and maintain progesterone production?",
+                "9 days"
+            ],
+            "flags": 0,
+            "guid": "o`z#U:|nyT",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the actions of progesterone?",
+                "1. Establish uterine receptivity by blocking the proliferative effect of oestrogen by inducing genes that allow the endometrium to permit embryo attachment<br>2. Negative regulator of trophoblast invasion by controlling matrix metalloproteinase (MMP) activity<br>3. Thickens cervical mucus to form a plug preventing bacteria from ascending from the vagina into a uterus<br>4. Allows contraction of mammary smooth muscle cells to stimulate milk excretion"
+            ],
+            "flags": 0,
+            "guid": "sW$EqRao6d",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where is progesterone produced?",
+                "- Ovaries<br>- Adrenal glands<br>- Corpus Luteum <br>- Placenta"
+            ],
+            "flags": 0,
+            "guid": "L9h6sdO.PQ",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Between what days of the menstrual cycle will menstruation occur?",
+                "Days 0 to 7"
+            ],
+            "flags": 0,
+            "guid": "r$vG?a|`J#",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Between what days of the menstrual cycle is the proliferative phase?",
+                "Days 7 to 14"
+            ],
+            "flags": 0,
+            "guid": "g`{9Y?OjUH",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Between what days of the menstrual cycle is the secretory phase?",
+                "Days 14 to 28"
+            ],
+            "flags": 0,
+            "guid": "Lf~{4&ZikL",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "At what day of the menstrual cycle is the level of LH highest?",
+                "Day 13"
+            ],
+            "flags": 0,
+            "guid": "J73aI4x%S<",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "At what day of the menstrual cycle is the level of FSH highest?",
+                "Day 13"
+            ],
+            "flags": 0,
+            "guid": "D;..pbm=BS",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "At what day of the menstrual cycle is the level of oestrogen highest?",
+                "Day 13"
+            ],
+            "flags": 0,
+            "guid": "td[;Rf:E;i",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "At what day of the menstrual cycle is the level of progesterone highest?",
+                "Day 19-20"
+            ],
+            "flags": 0,
+            "guid": "C**B}f?99R",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "At what day of the menstrual cycle does the corpus luteum form?",
+                "Day 14-16"
+            ],
+            "flags": 0,
+            "guid": "u^W)<kG>U2",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "FSH acts on what cells of the ovary to produce oestrogen?",
+                "Granulosa cells"
+            ],
+            "flags": 0,
+            "guid": "g|KU/WORk^",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Oestrogen is derived from what pre-curser molecule?",
+                "Cholesterol"
+            ],
+            "flags": 0,
+            "guid": "K#rj9Ne2:B",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does oestrogen effect bones?",
+                "1. Inhibit osteoclastic activity <br>2. Stimulate bone growth <br>3. Unites epiphyses with the shaft of long bones"
+            ],
+            "flags": 0,
+            "guid": "JVT4Kg7&5;",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of primary amenorrhoea?",
+                "No menstruation up to 16 years of age"
+            ],
+            "flags": 0,
+            "guid": "En26gz2DN@",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is secondary amenorrhoea?",
+                "A break in menstruation for at least 6 months"
+            ],
+            "flags": 0,
+            "guid": "nhE,jv8pn2",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are symptoms of oestrogen deficiency?",
+                "- Hot flushes <br>- Sexual dysfunction <br>- Mood changes <br>- Urinary symptoms (atrophy if urethral and bladder mucosa)"
+            ],
+            "flags": 0,
+            "guid": "P,2+{n,A9W",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the upstream (Hypothalamus and Pituitary) causes of female hypogonadism?",
+                "Hypothalamic disease <br>- Hypothalamic genetic mutations <br>- Craniopharyngioma <br>Pituitary disease<br>- Pituitary adenoma <br>- Kallman syndrome <br>- Sheehan syndrome"
+            ],
+            "flags": 0,
+            "guid": "w!c|$v{.&Z",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are causes of follicle depletion?",
+                "Insufficient follicle numbers <br>- Blepherophimosis, ptosis and epicanthus inversus (BPES)<br>- 46 XY gondal dysgenesis <br>Accelerated follicle loss<br>- Turners syndrome (XO)<br>- Trisomy or polysomy X or mosaic variants<br>- Macrodeletions Xp or Xq<br>- Autosomal or X translocations"
+            ],
+            "flags": 0,
+            "guid": "x:_~zAFT!+",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are causes of ovarian follicle dysfunction?",
+                "Signalling defects<br>- FSH and LH receptor mutations <br>Enzyme deficiency <br>- 17a hydroxylase deficiency <br>- Aromatase deficiency <br>Autoimmunity <br>- Autoimmune polyglandular syndrome (type 1 and 2) <br>- Autoimmune polyendocrinopathy-candiasis-ectodernal dystrophy <br>- Associated with Myasthenia gravis, Rheumatoid arthritis, DM, SLE, Addison's and thyroid disease"
+            ],
+            "flags": 0,
+            "guid": "dJ{6a#5:xr",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What infections are associated with ovarian failure?",
+                "- Mumps<br>- TB<br>- Malaria<br>- Varicella<br>- Shigella<br>- HIV"
+            ],
+            "flags": 0,
+            "guid": "J}:mn=i&f$",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of oligomenorrhoea?",
+                "A womans cycle is 35 days or over OR they have lass than 9 cycles per year"
+            ],
+            "flags": 0,
+            "guid": "iDt3!Ld|#e",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the most common cause of oligomenorrhoea?",
+                "Polycystic ovarian syndrome"
+            ],
+            "flags": 0,
+            "guid": "fg1%wQ*7?q",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is menorrhagia?",
+                "Heavy periods"
+            ],
+            "flags": 0,
+            "guid": "Mcol4sq+0",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is dysmenorrhoea?",
+                "Painful periods"
+            ],
+            "flags": 0,
+            "guid": "NLe#s^:NOK",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is polymenorrhoea",
+                "Periods which are less than 21 days apart"
+            ],
+            "flags": 0,
+            "guid": "qGa!<LP_0l",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are hypothalamic causes of amenorrhoea or oligomenorrhoea?",
+                "- Infiltration <br>- Congenital GnRH deficiency <br>- Eating disorders <br>- Stress<br>- Exercise <br>- Weight loss"
+            ],
+            "flags": 0,
+            "guid": "yV^gqN=Sy7",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are pituitary causes of amenorrhoea or oligomenorrhoea?",
+                "- Hyperprolactinaemia<br>- Pituitary infarction/infiltration (sheehans syndrome)<br>- Prolactinoma"
+            ],
+            "flags": 0,
+            "guid": "q_t@meZMvh",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are adrenal and ovarian cuases of amenorrhoea or oligomenorrhoea?",
+                "- Adrenal and ovarian tumours <br>- Polycystic ovarian syndrome (PCOS)"
+            ],
+            "flags": 0,
+            "guid": "vhT,-cm64I",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which endocrine conditions can cause amenorrhoea or oligomenorrhoea?",
+                "- Type two diabetes<br>- Hyper and Hypothyroidism"
+            ],
+            "flags": 0,
+            "guid": "v2/=OUC.UM",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What types of medications can cause amenorrhoea or oligomenorrhoea?",
+                "- Antipsychotics <br>- Steroids<br>- Chemotherapy"
+            ],
+            "flags": 0,
+            "guid": "i[fKjqbyp$",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the menopause?",
+                "Permanent cessation of the mesntrual cycle<br>- 12 months without periods in a women aged 50 or over"
+            ],
+            "flags": 0,
+            "guid": "yM+OwblNMx",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the symptoms indicative of menopause?",
+                "- Menstrual disturbances<br>- Hot flushes <br>- Mood changes <br>- Sexual dysfunction <br>- Urinary symptoms"
+            ],
+            "flags": 0,
+            "guid": "DWJYNIZW]e",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What may occur as a consequence of a woman going through the menopause?",
+                "- Osteoporosis <br>- Increased cardiovascular risk<br>- Cognitive impairment"
+            ],
+            "flags": 0,
+            "guid": "gC=|07n$#Y",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the different forms of contraception available?",
+                "- Diaphragm <br>- Implant <br>- Injection<br>- IUD/IUS<br>- Condoms <br>- Vaginal ring<br>- Vasectomy <br>- Hormone contraceptive pill"
+            ],
+            "flags": 0,
+            "guid": "v(H>fdQ7o^",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are key questions to ask for a patient with heavy menstrual bleeding?",
+                "- Extent of the bleeding including flooding, clots and use of sanitary products<br>- Associated pain <br>- Family history of HMB<br>- Any history of clotting problems <br>- Any suggestion of personal clotting problems e.g. heavy since menarche, epitaxis, easily bruised<br>- Sexual history <br>- Psycological impact of the problem"
+            ],
+            "flags": 0,
+            "guid": "QV-si0e_-m",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What examinations are suitable for a patient who has intramenstrual bleeding?",
+                "Examinations<br>- Abdominal exam <br>- Vaginal exam"
+            ],
+            "flags": 0,
+            "guid": "pJI[_upiaT",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What investigations should you carry out for a patient who has intramenstrual bleeding?",
+                "- Pregnancy test<br>- Infection screen<br>- Abdominal ultrasound<br>- Hysteroscopy and endometrial biopsy"
+            ],
+            "flags": 0,
+            "guid": "D[?C3pY/iF",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What examinations are suitable for a patient who has post-coital bleeding?",
+                "- General observation<br>- Abdominal palpation<br>- Speculum <br>- Bimanual"
+            ],
+            "flags": 0,
+            "guid": "j3vgcv*!yo",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What investigations are suitable for a patient who has post-coital bleeding?",
+                "- Low vaginal swab <br>- Colposcopy"
+            ],
+            "flags": 0,
+            "guid": "eBqa[}i<lX",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the first line therapy for persistent heavy menstrual bleeding?",
+                "1st line - IUS (Intrauterine system) Mirena coil<br>2nd line - Combined hormonal contraceptive pill OR Tranexamic acid (an antifibrinolytic)"
+            ],
+            "flags": 0,
+            "guid": "Py[95Y3H*h",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are side effects associated with the mirena IUS?",
+                "- Irregular menses (for the first 6 months)<br>- Breast tenderness<br>- Acne<br>- Headaches <br>- Amennhorea <br>- Perforation"
+            ],
+            "flags": 0,
+            "guid": "j{yc3%7va]",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are side effects associated with the COC pill?",
+                "- Mood change <br>- Headache <br>- Migraine<br>- Nausea<br>- Breast tenderness<br>- DVT (CVA and ACS in older women)"
+            ],
+            "flags": 0,
+            "guid": "K?=N?+~7y{",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a Leiomyoma?",
+                "A uterine fibroid"
+            ],
+            "flags": 0,
+            "guid": "hX`}gKnrnU",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are red flags for current pelvic pain?",
+                "- Bleeding per rectum<br>- New bowel symptoms over 50 y/o<br>- New pain after menopause<br>- Pelvic mass<br>- Suicidal ideation <br>- Irregular vaginal bleeding over 40 y/o<br>- Post-coital bleeding"
+            ],
+            "flags": 0,
+            "guid": "PMw1^z_e*k",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How would a patient with PID present?",
+                "- Pyrexial <br>- Abdominal tenderness<br>- Discharge<br>- PV bleeding<br>- Deep dyspareunia <br>- Dysuria"
+            ],
+            "flags": 0,
+            "guid": "rjiWawMzg(",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How would a patient with a ruptured ectopic pregnancy present?",
+                "- Mild pyrexia <br>- Tachycardic <br>- Hypotensive <br>- PV bleeding <br>- Lower abdominal tenderness<br>- Adenexal mass and tenderness"
+            ],
+            "flags": 0,
+            "guid": "L&,=k[C{@T",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are potential causes of chronic pelvic pain?",
+                "- Endometriosis/adenomyosis<br>- Adhesions<br>- IBS <br>- Interstital cystitis <br>- Ovarian cause <br>- MSK <br>- Pelvic organ prolapse<br>- Nerve entrapment/enpingement<br>- CNS/PNS"
+            ],
+            "flags": 0,
+            "guid": "d3[5(O%8]Q",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are infectious causes of acute pelvic pain?",
+                "- UTI <br>- Pelvic Inflammatory Disease"
+            ],
+            "flags": 0,
+            "guid": "rAOgLXB=Vn",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are obstetric causes of acute pelvic pain?",
+                "- Miscarriage<br>- Ectopic pregnancy <br>- Abruption <br>- Uterine rupure"
+            ],
+            "flags": 0,
+            "guid": "sRuLQ#iUuj",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are gynaecological causes of acute pelvic pain?",
+                "- Ovulation <br>- Dysmenorrhoea<br>- Rupture of ovarian cyst <br>- Fibroid degeneration<br>- Pelvic tumour <br>- Pelvic vein thrombosis"
+            ],
+            "flags": 0,
+            "guid": "z(P~.qD#I=",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are gastrointestinal causes of acute pelvic pain?",
+                "- IBS<br>- Appendicitis <br>- Adhesions <br>- Strangulated hernia"
+            ],
+            "flags": 0,
+            "guid": "z@d]eLj@6k",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What non-medical interventions can help alleviate pain in dysmenorrhoea?",
+                "- Smoking cessation<br>- Exercise<br>- Heat<br>- Massage<br>- Relaxation (yoga/pilates) <br>- TENS"
+            ],
+            "flags": 0,
+            "guid": "PCgMpkYA[o",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What investigations would you carry out in a patient complaining of pelvic pain?",
+                "Bedside tests<br>- Urine analysis<br>- Pregnancy test <br><br>Investigations <br>- FBC, U+E, LFT, CRP, Ca-125, Clotting screen, ESR, Calprotectin,<br><br>Imaging<br>- Abdominal uss, MRI"
+            ],
+            "flags": 0,
+            "guid": "cs5FA3)RoG",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How would you treat a patient with endometriosis where immediate fertility isn't wanted?",
+                "1st line<br>- Oral contraceptive pill (POP or COC depending upon patient choice and factors) <br>- NSAID (Ibuprofen or Naproxen)<br><br>2nd line <br>- GnRH antagonist (elagolix)<br><br>3rd line<br>- Androgen (Danazol or Gestrinone)<br><br>4th line<br>- Hysterctomy with bilateral salpingo-oophrectomy and excision of peritoneal disease"
+            ],
+            "flags": 0,
+            "guid": "j@IHF~>dge",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What questions are important to ask when taking a sexual history?",
+                "- When was their last STI screening?<br>- Have they ever had an STI previously? <br>- When did they last have sex? Was it with a male or female partner? Was it a casual or regular partner? Did they use condoms? Did they have vaginal, oral or anal sex?<br>- How many different partners have they had in the last 6 months? <br>- Have they ever had sex with anybody from other parts of the world other than the UK? <br>- Have they ever paid for sex or been paid for sex? <br>- Have they ever injected drugs?"
+            ],
+            "flags": 0,
+            "guid": "lZRoW>(_*E",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What investigations would be appropriate for a patient with suspect chlamydia infection?",
+                "Examinations<br>- General exam <br>- Abdominal exam <br>- Bimanual<br><br>Bedside tests<br>- Pregnancy test<br>- Urinary test<br><br>Investigations <br>- Speculum exam with high vaginal swab and nucleic acid amplification<br>- Bloods: FBC, U+E, LFT, CRP and screen for HIV, Hepatitis and Syphilis"
+            ],
+            "flags": 0,
+            "guid": "QWG&Sk:2:[",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is a chlamydia infection treated?",
+                "In men and non-pregnant women<br>- Azithromycin 1g as a single dose (if unsure of compliance) OR Doxycycline 100mg OD BD for 1/52<br><br>In pregnant women<br>- Azithromycin 1g as a single dose <br>- Secondary options: Amoxicillin 500mg TDS 1/52 OR Erythromycin 500mg QDS 1/52"
+            ],
+            "flags": 0,
+            "guid": "NOrq>]!LG[",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What screening is offered in pregnancy?",
+                "- Sickle cell and thalassaemia <br>- Infectious disease (HIV, Hep B and Syphilis) <br>- Down's (Trisomy 21), Edward's (Trisomy 18) and Patau's (Trisomy 13)<br>- 20 week scan (looks for 11 physical conditions in the baby) <br>- Diabetic retinopathy (for women with diabetes)"
+            ],
+            "flags": 0,
+            "guid": "qr%>];4An%",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the purpose and timing of the ultrasound scans in pregnancy?",
+                "12 week dating scan (Between 8 to 14 weeks)<br>- To establish and EDD (estimated date of delivery)<br>- Down's syndrome screening (if consented) (T21) <br>- Establish how many children are gestating<br>- Ensure the position of the placenta<br>- Check baby's development<br><br>20 week scan (Between 18 to 21 weeks) <br>- Screens for 11 rare conditions including: Anencephaly, Spina bifida, Cleft lip, Diaphgramatic hernia, Gastroschisis, Exophalos, Cardiac abnormalities, Bilateral renal agenesis, Skeletal dysplasia, Edwards syndrome (T18) and Patau's syndrome (T13)"
+            ],
+            "flags": 0,
+            "guid": "mp^pl2NT^8",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What nutritional supplements are recommended in pregnancy?",
+                "Folic Acid <br>- 400mcg if no history of Neural Tube Defects (NTD) or Epilepsy <br>- 5mg if : <br> - 1 or more of the parents have a NTD<br> - 1 or more of the parents have a family history of NTD<br> - A previous pregnancy was affected by a NTD<br> - Mother has diabetes<br> - Mother takes anti-epileptic medication<br> - Mother takes anti-retroviral for HIV <br><br>Vitamin D supplement is recommended"
+            ],
+            "flags": 0,
+            "guid": "A$Wpk;.]Nz",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What examinations would you do for a patient complaining of post-coital bleeding?",
+                "- General observation<br>- Abdominal palpation<br>- Speculum <br>- Bimanual"
+            ],
+            "flags": 0,
+            "guid": "c^X}WYw/`r",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What investigations would you do for a patient complaining of post-coital bleeding?",
+                "- Low vaginal swab <br>- Colposcopy"
+            ],
+            "flags": 0,
+            "guid": "o]5<RN[eLx",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What further questions would you ask a patient complaining of post-coital bleeding?",
+                "- Is there any associated dyspareunia? <br>- Is there any inter-menstrual bleeding?<br>- Have they recently changed sexual partner?<br>- Any vaginal discharge? <br>- Any abdominal pain? <br>- Any urinary symptoms?"
+            ],
+            "flags": 0,
+            "guid": "Kjq{J?gM;q",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for an ectopic pregnancy?",
+                "- Previous ectopic pregnancy <br>- Previous tubal sterilisation surgery<br>- IUD use<br>- Previous genital infections (e.g. PID)"
+            ],
+            "flags": 0,
+            "guid": "i21w9j8CEg",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are some possible cervical causes of post-coital bleeding?",
+                "- Cervicitis (chlamydia) <br>- Cervical polyp<br>- Cervical carcinoma <br>- Trauma <br>- Ectropion"
+            ],
+            "flags": 0,
+            "guid": "oIh_dpdgIO",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are some possible vaginal causes of post-coital bleeding?",
+                "- Vaginitis <br>- Vaginal cancer"
+            ],
+            "flags": 0,
+            "guid": "HZ4{p@R<8I",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What occurs in the first stage of labour?",
+                "Primigravida (8-18 hours), Multigravida (5-12 hours)<br>Latent phase: <br>- Painful contractions AND <br>- Some cervical change, including cervical effacement and dilation up to 4cm<br><br>Active phase/Established<br>- There are regular painfil contractions AND<br>- Progressive cervical dilation from 4cm"
+            ],
+            "flags": 0,
+            "guid": "LDuRQTmzFL",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What occurs in the second stage of labour?",
+                "Passive 2nd stage of labour<br>- Full dilation of the cervix (10cm) before or in absence of involuntary expulsive contractions<br><br>Active 2nd stage of labour<br>-Full dilatation and expulsive contractions or active maternal effort to delivery of foetus"
+            ],
+            "flags": 0,
+            "guid": "yz(/<o,miO",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What occurs in the third stage of labour?",
+                "This is the time from birth of the baby to the expulsion of the placenta and membranes"
+            ],
+            "flags": 0,
+            "guid": "FEfn(#]bow",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the average length of gestation?",
+                "40 weeks"
+            ],
+            "flags": 0,
+            "guid": "la3Zc@tz,M",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of premature birth?",
+                "Babies born before 37 weeks of gestation"
+            ],
+            "flags": 0,
+            "guid": "h0F7_;D/.b",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are common health issues encountered during pregnancy?",
+                "- Constipation <br>- Cramp<br>- Feeling faint <br>- Feeling hot <br>- Incontinence<br>- Polyuria<br> - Skin and hair changes <br>- Varicose veins"
+            ],
+            "flags": 0,
+            "guid": "s+EZXlYO<l",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the most severe form of nausea and vomiting that occurs during pregnancy?",
+                "Hyperemesis gravidarum"
+            ],
+            "flags": 0,
+            "guid": "cBVri(wjsy",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How can hyperemesis gravidarum without volume depletion be managed?",
+                "1st line - Conservative management e.g. Ginger 250mg QDS<br><br>2nd line - Pyridoxine and/or doxylamine <br><br>3rd line - Antihistamine/Antiemetics e.g. Diphenhydramine 25-50mg QDS up to 300mg/day"
+            ],
+            "flags": 0,
+            "guid": "l%I)SoDM!e",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are some serious conditions that can affect a pregnant patient?",
+                "- Gestational diabetes<br>- Pre-eclampsia <br>- Eclampsia"
+            ],
+            "flags": 0,
+            "guid": "Er}:P|MW5=",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is pre-eclampsia?",
+                "A disorder of pregnancy associated with new-onset hypertension (defined as a blood pressure ?140 mmHg systolic and/or ?90 mmHg diastolic), which occurs most often after 20 weeks of gestation and frequently near term. Although often accompanied by new-onset proteinuria, hypertension and other signs or symptoms of pre-eclampsia may present in some women in the absence of proteinuria."
+            ],
+            "flags": 0,
+            "guid": "yLpiU%/q*p",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is pre-eclampsia treated?",
+                "1st line <br>- Admitted into hospital for monitoring <br>- Decision regarding delivery. (&lt;34 weeks continuing pregnancy is advisable with monitoring, 34-36 weeks decision made on a case by case basis, 37 weeks and over immediate delivery)<br>- Antihypertensive therapy <br>- Magnesium sulphate if seizures present"
+            ],
+            "flags": 0,
+            "guid": "EA>kFjU@/j",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Describe the movement of the foetus through the birth canal?",
+                "1. Flexion<br>2. Internal rotation of head<br>3. Extension <br>4. External rotation of head"
+            ],
+            "flags": 0,
+            "guid": "tw=.HP?;y}",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is the foetus monitored during labour?",
+                "1st line <br>- Intermittent ausculatation <br><br>2nd line <br>- Continuous cardiotocography"
+            ],
+            "flags": 0,
+            "guid": "=AUO9!sMX",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When should continous cardiotocography be used during labour?",
+                "Should be used if any of the following risk factors arise during initial assessment or during labour: <br>- Maternal pulse over 120bpm on 2 occaisons 30 minutes apart<br>- Temp 38°C or above on a single reading OR 37.5°C or above on 2 consecutive occaisons 1 hour apart<br>- Suspected chorioamnionitis or sepsis<br>- Pain reported by the woman that differs from the pain normally associated with contractions"
+            ],
+            "flags": 0,
+            "guid": "lv^!H(v#;_",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a normal baseline foetal heart rate?",
+                "110-160bpm"
+            ],
+            "flags": 0,
+            "guid": "H5dO;lMwi`",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are non-reassuring or abnormal foetal heart rates?",
+                "Non-reassuring <br>- 100-109bpm<br>- 161-180bpm <br><br>ABNORMAL<br>- below 100bpm<br>- above 180bpm"
+            ],
+            "flags": 0,
+            "guid": "zBJ_^TH^5x",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is normal baseline variablility for foetal heart rate?",
+                "5-25 bpm"
+            ],
+            "flags": 0,
+            "guid": "LvFx)C,]l@",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are non-reassuring or abonormal variations in foetal heart rate?",
+                "Non-reassuring <br>- less than 5bpm for 30 to 50 minutes<br>- more than 25bpm for 15-25 minutes <br><br>ABNORMAL<br>- less than 5bpm for more than 50 minutes<br>- more than 25bpm for more than 25 minutes<br>- Sinusoidal"
+            ],
+            "flags": 0,
+            "guid": "J?XXpq,tvU",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are concerning characteristics for variable heart rate decelerations?",
+                "- Lasting more than 60 seconds<br>- Reduced baseline variability within the deceleration<br>- Failure to return to baseline<br>- Biphasic (W) shape<br>- No shouldering"
+            ],
+            "flags": 0,
+            "guid": "G%%}s<[U4>",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is normal for foetal heart rate decelerations?",
+                "- No decelerations <br>- Early decelerations<br>- Variable decelerations with no concerning characteristics for less than 90 minutes"
+            ],
+            "flags": 0,
+            "guid": "A9_SV2|G8-",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are non-reassuring features of foetal heart rate decelerations?",
+                "Non-reassuring<br>- Variable decelerations with no concerning characteristics for 90 minutes or more <br>- Variable decelerations with any concerning characteristics in up to 50% of contractions for 30 minutes or more<br>- Variable decelerations with any concerning characteristics in over 50% of contractions for less than 30 minutes<br>- Late decelerations in over 50% of contractions for less than 30 minutes, with no maternal or foetal clinical risk factors such as vaginal bleeding or significant meconium<br><br>Abnormal<br>- Variable decelerations with any concerning characteristics in over 50% of contractions for 30 minutes (or less if there are any maternal or foetal clinical risk factors) <br>- Late decelerations for 30 minutes (or less if there are any maternal or foetal clinical risk factors) <br>- Acute bradycardia, or a single prolonged deceleration lasting 3 minutes or more"
+            ],
+            "flags": 0,
+            "guid": "Q1g-{&Bqm+",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Are foetal heart rate accelerations a positive or negative sign?",
+                "Postive sign<br>- The presence of accelerations, even with reduced baseline variability, is generally a sign that the baby is healthy"
+            ],
+            "flags": 0,
+            "guid": "j4Tl;j@<nm",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications that arise due to pre-term birth?",
+                "Neurology<br>- Cerebral palsy <br>- Apnea of prematurity <br>- Hypoxic-ischaemic encephalopathy <br><br>Cardiovascular <br>- Patent ductus arteriosus <br><br>Respiratory <br>- Respiratory distress syndrome<br><br>Gastrointestinal <br>- Neonatal hypoglycaemia <br>- Inguinal hernia<br>- Necrotizing enterocolitis<br><br>Haematology <br>- Anaemia of prematurity <br>- Thrombocytopaenia<br>- Hyperbilirubinaemia<br><br>Infection<br>- Sepsis<br>- Pneumonia<br>- Urinary tract infection"
+            ],
+            "flags": 0,
+            "guid": "s_>@*iPA[7",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What appointments should a prospective mother make to a healthcare professional?",
+                "1. 18-12 weeks appointment<br>2.  16 weeks appointment <br>3. 25 weeks appointment (if first baby) <br>4. 28 weeks appointment <br>5. 31 weeks appointment (if first baby) <br>6. 34 weeks appointment<br>7. 36 weeks appointment  <br>8. 38 weeks appointment <br>9. 40 weeks appointment (if first baby) <br>10. 41 weeks appointment<br>11. 42 weeks (offer of inducement)"
+            ],
+            "flags": 0,
+            "guid": "HD#gk-%j@y",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What occurs at the 8-12 week booking appointment?",
+                "The midwife or doctor will:<br>- Give handheld notes and plan of care<br>- Plan the care you'll get through pregnancy and determine if you may need additional care or support<br>- Identify any potential risks associated with any work you may do<br>- Measure height, weight, BMI, BP and test urine for protein. <br>- Determine risk of pre-eclampsia or gestational diabetes<br>- Offer screening tests and ensure you understand what is involved <br>- Offer 2 ultrasound scans (8-14 weeks and 18-20 weeks) <br>- Ask about mood and identify possible depression<br>- Ask about any past or present severe mental illness of psychiatric treatment"
+            ],
+            "flags": 0,
+            "guid": "tm1NLa~4/$",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What occurs at the 16 weeks appointment?",
+                "Midwife or doctor will give paitent information on the 18-20 week ultrasound. They will also:-<br>- Review, discuss and record the results of any screening tests<br>- Measure the patients blood pressure and test urine for protein<br>- Consider an iron supplement in anaemic"
+            ],
+            "flags": 0,
+            "guid": "O*Sn+qo:F_",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What occurs at the 25 weeks appointment for a first time mother?",
+                "Doctor or midwife will<br>- Use a tape meaure to measure the size of the patients uterus<br>- Measure the patients BP and test urine for protein"
+            ],
+            "flags": 0,
+            "guid": "vx&=Zh`z);",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What occurs at the 28 weeks appointment for a mother?",
+                "Doctor or midwife will<br>- Use a tape meaure to measure the size of the patients uterus<br>- Measure the patients BP and test urine for protein<br>- Offer more screening tests<br>- Offer the first anti-D treatment if the patient is rhesus negative<br>- Consider an iron supplement if anaemic"
+            ],
+            "flags": 0,
+            "guid": "o`?2$;W(,x",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What occurs at the 31 week appointment for a first time mother?",
+                "Doctor or midwife will<br>- Review, discuss and record results of any screening tests from the last appointment<br>- Use a tape measure to measure the size of the patients uterus<br>- Measure the patients blood pressure and test urine for protein"
+            ],
+            "flags": 0,
+            "guid": "Cstnytv,vC",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What occurs at the 34 week appointment for a mother?",
+                "Doctor or midwife will give the patient information about preparing for labour and birth, including how to recognise active labour, ways of coping with pain in labour and the patients birth plan. They will also disscuss and give information on a caesarean section:<br>- Review, discuss and record the results of any screening tests from the last appointment <br>- Use a tape measure to measure the size of the patients uterus<br>- Measure the patients blood pressure and test urine for protein<br>- Offer the patient a second anti-D treatment if rhesus negative"
+            ],
+            "flags": 0,
+            "guid": "PonLI?FR)]",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What occurs at the 36 week appointment for a mother?",
+                "Doctor or midwife will give the patient information about:<br>- Breastfeeding<br>- Caring for the newborn<br>- Vitamin K and screening tests for the newborn<br>- Mothers health after the baby is born<br>- Talk about the baby blues and postnatal depression<br><br>They will also:<br>- Use a tape measure to measure the size of the patients uterus<br>- Check the position of the baby<br>- Measure the mothers blood pressure and test urine for protein<br>- Offer external cephalic version (ECV) if the baby is in the breech position"
+            ],
+            "flags": 0,
+            "guid": "y4,>M[bT.m",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What occurs at the 38 week appointment for a mother?",
+                "Doctor or midwife will discuss the options and choices about what happens if the patients pregnancy lasts longer than 41 weeks. They will also:<br>- Use a tape measure to measure the size of the patients uterus<br>- Measure the patients blood pressure and test urine for protein"
+            ],
+            "flags": 0,
+            "guid": "Kj.fdMPB]J",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What conditions does the newborn blood spot test detect?",
+                "- Sickle cell disease<br>- Cystic fibrosis<br>- Congenital hypothyroidism<br>- Phenylketonuria (PKU)<br>- Medium-chain acyl-CoA dehydrogenase deficiency (MCADD) <br>- Maple syrup urine disease (MSUD)<br>- Isovalric acidaemia (IVA)<br>- Glutaric aciduria type 1 (GA1) <br>- Homocystinuria (pyridoxine unresponsive) (HCU)"
+            ],
+            "flags": 0,
+            "guid": "M[Ef$-}UzM",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What hearing screen occurs within 3 days of birth?",
+                "- An automated otoacoustic emission (AOAE) test"
+            ],
+            "flags": 0,
+            "guid": "eLs>&d^ik}",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does the newborn physical exam test for?",
+                "- Eyes (looking for cataracts) <br>- Heart (looking for congenital malformations) <br>- Hips (Developmental dystocia of the hip) DDH - occurs in 1-2 in 1000<br>- Testicles (Checking for undescended testicle)"
+            ],
+            "flags": 0,
+            "guid": "r]m&uBB|Ud",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": []
         }
     ]
 }
