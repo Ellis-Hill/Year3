@@ -56,6 +56,7 @@
     "extendRev": 50,
     "media_files": [
         "0e90dff35e89cc556e6d5c8af3f835_jumbo.jpeg",
+        "20130607_111705.jpg",
         "2cd4d7d93a4ad89f308e0dbe7dab6f_jumbo.jpg",
         "2ec94c408f9a866d6d666b7f193a50_jumbo.jpg",
         "44b9e96900d0c9985525f7ba61e3dd_jumbo.jpg",
@@ -94,6 +95,7 @@
         "bd2__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg1XQ.jpg",
         "bd3__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
         "boil2-s.jpg",
+        "breast-fat-necrosis-430691-v1-eff5292762cf48d29df217d2e014e9df.png",
         "c0828cb54c211d52feedc56f27fffce6.jpg",
         "carbuncle01-s.jpg",
         "cellulitis-012__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg1XQ.JPG",
@@ -101,6 +103,7 @@
         "clubbing1-s.jpg",
         "conglob2-s.jpg",
         "dc1106-case2_68491-1.jpg",
+        "ds00678_w7_mastitisthu_jpg.jpg",
         "e81786277d5fe098b9c081d7e4b3c4_jumbo.jpg",
         "ecz-disc1__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
         "ecz-herp1-s.jpg",
@@ -116,12 +119,14 @@
         "fc4644640b03a32bfb13e0c5d54725_jumbo.jpg",
         "follicul1__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDEzXQ.jpg",
         "folliculitis5-s.jpg",
+        "galactocele.jpg",
         "half-s.jpg",
         "hidradenitis2-s.jpg",
         "hidradenitis6__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg1XQ.jpg",
         "hs-axilla-063__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.JPG",
         "icd6-s.jpg",
         "igne3-s.jpg",
+        "image.axd",
         "images.jpg",
         "impet1__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
         "impet6-s.jpg",
@@ -132,7 +137,9 @@
         "ka3-s.jpg",
         "koilonychia-s.jpg",
         "lds3-s.jpg",
+        "lightbox_d0f04ab014bb11eabd3aede23f367e29-Figure-7-1-.png",
         "lm3-s.jpg",
+        "mammary_duct_ectasia.jpg",
         "nail-psoriasis-pitting-oil-spots__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDU0XQ.jpg",
         "nail-psoriasis1-s.jpg",
         "nec-fas1__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg1XQ.jpg",
@@ -158,7 +165,9 @@
         "paste-18a24eaefce4471431965b92914e878b6be6c70c.jpg",
         "paste-1917cde4e336a394704ffc32cf463988a6f9ab4a.jpg",
         "paste-1a4439a1d935b323bea47d9cd1da504abfc18c4d.jpg",
+        "paste-1c3caa1d947c347ae6dec1d05872b09d708365b8.jpg",
         "paste-1d240ebd3ad790613afa548257fa0185a36f3d88.jpg",
+        "paste-1d5c3cd3015db34312ada4d3965586fa23a48f57.jpg",
         "paste-1f5a2ff93577782d182781a09cc3767b485b0f52.jpg",
         "paste-1f8ada068e90e6fa698737c56a920c5db963abcc.jpg",
         "paste-21a7128c2e071b15c10e6e9a4f833290f3364997.jpg",
@@ -173,6 +182,7 @@
         "paste-32edd3091b0524479b22dc977ede3ccd03e42c3c.jpg",
         "paste-34711ba1c4563d2427bd00a77e92f55e235980e2.jpg",
         "paste-37f28022125bc51499d1dcd70ea87cef7b34e50c.jpg",
+        "paste-3c39ec44edd7f055ef39bfadc504499e9796b041.jpg",
         "paste-3ca6bad99da52e68e4f45920badedc4b7c7bb657.jpg",
         "paste-3d7e5aadc8dc20a869d097d15d8c4a635381a74e.jpg",
         "paste-3fc37f514ee170ece1769e60d2106e6ec4233a9f.jpg",
@@ -193,6 +203,7 @@
         "paste-58f1dbeff170e7d2b74ffae52b507a052d0935b1.jpg",
         "paste-59796990161983d83e160d826562bfed37712855.jpg",
         "paste-5d65d8391809be3891db8909ae52c85c800d9097.jpg",
+        "paste-5dc33236391f51bab69890df4966053f855f9d91.jpg",
         "paste-5e1fea309d92cf44e4a826607380cb0c81461aa7.jpg",
         "paste-5f87fb0733b353c68f2ad1302118478328a478e5.jpg",
         "paste-60c44d9c7f5c807ffc645c2f347cd2eecc80c40c.jpg",
@@ -219,6 +230,7 @@
         "paste-854f55462133a60bcae4d26fd7bc6e38d4fb5889.jpg",
         "paste-88afb57f077bb03092b3a0bba4d809fb045f9825.jpg",
         "paste-896a89f87c220a582c2d6273827cd52393a6883e.jpg",
+        "paste-8cabc7fe22bffca28eec6926ad3852fa20ae70bb.jpg",
         "paste-8cb56255552b5ad18a4a422f3475e8b15ae514d8.jpg",
         "paste-961b61b484b09a01e19b709a70e7ad7ae92c8ea4.jpg",
         "paste-98be70276d2de0f62a133ef9547120561547f8a1.jpg",
@@ -321,7 +333,8 @@
         "urticaria-leg-02__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.JPG",
         "urticaria2-s.jpg",
         "wart6-s.jpg",
-        "wart9-s.jpg"
+        "wart9-s.jpg",
+        "wudBt291X8KWIrh-CL3Vj5YHpD1kCk1K_DLXIVmmClhnhQx-tGGbeGfcayVudgcZg-nJmfYy0TiEdbvetrEOjf5SdJavF4eYQuHzb4HT1jhC-TX-oA.jpg"
     ],
     "name": "Year3",
     "note_models": [
@@ -365,6 +378,110 @@
             "tags": [
                 "dermatology"
             ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Forward",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #ffffff;text-align: left }",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-2ca8e",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Forward",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #FFFFFF; }",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-89343",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -597,7 +714,7 @@
             "req": [],
             "sortf": 0,
             "tags": [
-                "Y3::Surg_B::CBL3::LO5::Truma_Orthopaedics"
+                "Y3::Surg_A::CBL4::LO2"
             ],
             "tmpls": [
                 {
@@ -647,6 +764,545 @@
             "tags": [
                 "Dermatology,",
                 "Y3::Med_A::Dermatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of cyclical mastalgia?",
+                "<div><b></b><b>History</b></div><div>Typical patient is a young woman.</div>Bilateral, diffuse pain/ heaviness/ tightness.<div><div><div><div>Usually worse premenstrually and relieved by menstruation.</div></div><div><br></div></div></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "lpN%tZ|B,B",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for cyclical mastalgia?",
+                "<b>1. Conservative</b> e.g. smoking cessation; weight loss; supportive bra, worn at night.<div><div><br><b>2. Meds</b> (consider) e.g. simple analgesia, danazol, OCP (regimen change), tamoxifen.</div></div><div><br></div><div><b>NOTES</b></div><div><i>Danazol</i> is an anti-gonadotrophin, blocks oestrogen and progesterone receptors (only licensed drug).</div><div><i>OCP</i> = oral contraceptive pill.</div><div><i><br></i></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "u+u7n6g?`~",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is mammary duct ectasia?",
+                "<div><b>A benign breast condition</b> characterised by the dilation and engorgement of mammary ducts.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "bI9(qQybg",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a breast cyst?",
+                "A dilated, fluid-filled terminal duct lobule.<div><br></div><div><b>NOTES</b></div><div>Typical patient is a peri-menopausal woman.</div><div>Usually a short history of tender breast lump.</div><div><div>USS may differentiate between cysts and solid lumps.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "k4hhw`4wCf",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for a breast cyst?",
+                "<b>1. Conservative </b>e.g. patient education, consider aspiration.<div><b>2. Surgical excision</b> (rarely indicated).</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "gBhYI}6oox",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of primary breast cancer",
+                "<div>Sort by type</div><div><br></div><div><b>1. Ductal carcinoma</b> and DCIS.</div><div><b>2. Lobular carcinoma. </b></div><div><b>3. Other invasive breast carcinoma </b>e.g. tubular, mucinous, medullary.</div><div><b>4. Sarcoma.</b></div><div><br></div><div><div><b>NOTES</b></div><div><div><i>Ductal carcinoma</i> accounts for large majority of malignant lesions.</div><div><i>Paget disease</i> of the breast is believed to be a manifestation of ductal carcinoma.</div><div><i>DCIS</i> = ductal carcinoma in situ.</div><div><i><br></i></div></div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "jK)W6h0~Pc",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast,",
+                "Y3::Surg_A::Breast",
+                "cancer"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a phyllodes tumour?",
+                "<div>An uncommon <b>fibro-epithelial tumour</b> of the breast.</div><div><br></div><div><b>NOTES</b><br>Usually benign, occasionally malignant.</div><div>Usually presents as a firm, well defined lump, similar to a fibroadenoma.</div><div>Named 'phyllodes' from the Greek for leaf, due to the histological appearance.<br></div><div><img src=\"lightbox_d0f04ab014bb11eabd3aede23f367e29-Figure-7-1-.png\"><br></div><div><br></div><div>UPDATED 2020</div><div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "n/0`u0+c65",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for breast cancer?",
+                "<div><div>Sort by history</div></div><div><br></div><b>Demographics </b>e.g. age, female, caucasian.<div><div><b>PMHx </b>e.g. prev cancer or b<span style=\"\"><div style=\"display: inline !important; \">enign breast disease, o</div></span>estrogen exposure, radiation.</div><div><b>FHx </b>e.g. BRCA1/2.</div></div><div><b>SHx </b>e.g. alcohol excess.</div><div><br></div><div><b>NOTES</b></div><div><i>Oestrogen exposure</i>: early menarche, late menopause, nulliparity, lack of breast feeding, OCP/HRT, obesity (post menopause).</div><div><br></div><div><i>UPDATED 2020</i></div>"
+            ],
+            "flags": 0,
+            "guid": "bWJw3nl@HB",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for ductal carcinoma in situ (DCIS)?",
+                "<div>Sort by members of the MDT<div><br></div><div><b>1. Surgeon</b> e.g. WLE, mastectomy.</div><div><b>2. Nurse specialist </b>e.g. patient education.</div><div><b>3. Oncologist</b> e.g. hormone therapy, radiotherapy.</div></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "e/*Ck7lf&c",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast",
+                "sugery"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which methods are available for breast reconstruction?",
+                "<div>Sort by mechanism</div><div><br></div><div><b>1. Autologous tissue </b>e.g. TRAM flap, latissimus dorsi flap.</div><div><b>2. Prosthetic device</b> e.g. implant, tissue expander.</div><div><div><br></div><div><b>NOTES</b></div><div><i>TRAM</i> = transverse rectus abdominus myocutaneous (scar is similar to C-section).</div><div><i>Latissimus dorsi scar </i>is on the back at the bra line.</div></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "sN)b/Po{$o",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast",
+                "surgery"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of a breast lump?",
+                "Sort by seriousness<div><br></div><div><b>Malignant </b>e.g. primary or secondary cancer.</div><div><b>Benign</b> e.g. fibroadenoma, cyst, fibrocystic change, galactocoele, fat necrosis.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "hy#7^tbfQ;",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is fat necrosis of the breast?",
+                "A benign breast disorder.<div><br></div><div><b>NOTES</b></div><div>Results from post-traumatic fibrosis and calcification of breast tissue.<div>Presents as a firm, painless breast lump, similar to breast cancer.</div></div><div><br></div><div><img src=\"breast-fat-necrosis-430691-v1-eff5292762cf48d29df217d2e014e9df.png\"><br></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "ht+biY2r@k",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the components of triple assessment?",
+                "<div><b>1. Clinical assessment </b>(history and examination).</div><b>2. Imaging</b> (mammograpy or USS).<div><div><b>3. Tissue sampling</b> (cytology or biopsy).</div></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "cv{=<v=T[`",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When is mastectomy preferable to wide local excision (WLE)?",
+                "Sort by rationale<div><br></div><div><b>1. High risk of cancer</b> e.g. recurrent cancer, strong FHx.</div><div><div><b>2. Poor cosmetic result with WLE</b> e.g. big tumour in small breast, central, multicentric, or lobular tumour.</div></div><div><b>3. Patient preference.</b></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "sswy1$wo_=",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast",
+                "surgery"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is tamoxifen?",
+                "<div>A selective oestrogen receptor modulator.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "tb.1BRj%9^",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast,",
+                "Pharmacology",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of gynaecomastia?",
+                "<div>Sort by mechanism</div><div><br></div><div><b>1. High oestrogen</b> e.g. liver failure, exogenous oestrogen.</div><div><b>2. High prolactin</b> e.g. prolactinoma, dopamine antagonists.</div><div><b>3. Low androgen</b> e.g. spironolactone, zoladex, hypogonadism, old age.</div><div><div><div></div><div><b><u><br></u></b></div><div><b>NOTES</b></div><div>Must exclude breast cancer, especially if unilateral swelling.</div></div></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "cNN<4UQ7[@",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Gastroenterology,",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of a galactocoele?",
+                "<b>History</b><div>Patient is lactating.<br><div><div>Subareolar lump.<br>Moderately painful.<div><br><b>Exam</b><br><i>Inspection: </i>smooth, spherical swelling.</div><div><i>Palpation: </i>may be very hard, rarely fluctuant.<br></div><div><br></div><div><b>NOTES</b></div><div>A galactocoele is a milk-containing cyst.</div><div>Resolution must await the cessation of breast feeding.</div></div></div></div><div>Aspiration of milky fluid is diagnostic.</div><div><br></div><div><img src=\"galactocele.jpg\"><br></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "gNjCkxWmVk",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected breast cancer?",
+                "<b>1. Initial tests </b>(including assessment of fitness for surgery)<div><i>Bloods</i> e.g. FBC, U&amp;E, CRP, LFT, bone profile.</div><div><i>ECG.</i></div><div><i>Radiology</i> e.g. mammogram/ USS, CXR.</div><div><b><br></b></div><div><b>2. Biopsy </b>e.g. FNA or core biopsy (breast lump and lymph nodes).</div><div><div><b>3. Staging </b>e.g. CT scan, bone scintigraphy, PET scan.</div></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "tc<Jqif|57",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast",
+                "surgery"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List 3 worrying features of nipple discharge",
+                "<div>1. Spontaneous (no manipulation).</div><div>2. Bloody.</div><div>3. Unilateral.</div><div>4. Uniductal.</div><u><br></u><div><b>NOTES</b><br><div>If bilateral or from multiple ducts, discharge is rarely pathological.</div></div><div><div><i>Bloody: </i>may be papilloma, carcinoma, duct ectasia, Paget disease.</div><div><i>Clear: </i>may be papilloma.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "hym-VBmqur",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the recommended screening for breast cancer?",
+                "Mammogram every 3y for women aged 50-71y.<div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "c+I@ZwAM2t",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the most common sites for breast cancer mets?",
+                "<div><div>1. Bone<div>2. Liver</div><div><div>3. Lungs</div></div></div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "NqtDp-^fq:",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of breast cancer?",
+                "<div>Clinical presentation is variable.</div><br><b>History</b><br><div><i>Symptoms due to primary </i>e.g. breast lump (usually painless), involvement of overlying skin or nipple.</div><div><i>Symptoms due to mets </i>e.g. bone pain, jaundice, dyspnoea, cough.</div><div><i>Constitutional symptoms</i> e.g. tiredness, weight loss.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>cachexia, visible lump, skin changes, nipple changes.</div><div><i>Palpation: </i>lump is usually firm, irregular, nontender, may be tethered; may be hepatomegaly or bone tenderness.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "qR9}8Yloyv",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is 'peau d'orange'?",
+                "<div>A sign of locally advanced breast cancer.</div><div>- Due to lymphatic obstruction by cancer cells&nbsp;</div><div><br></div><div><img src=\"20130607_111705.jpg\"><br></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "gsJ#b#$E6;",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is inflammatory breast cancer?",
+                "A rare, aggressive, clinical variant of breast cancer.<div><br></div><div><br></div><div><img src=\"paste-1d5c3cd3015db34312ada4d3965586fa23a48f57.jpg\"><br></div><div><b>NOTES</b></div><div>Characterised by diffuse erythema and oedema (peau d'orange).</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "tZ29$Mh-.m",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for a patient with newly discovered BRCA1/2 mutations?",
+                "<b>1. Conservative</b><div>Patient education.</div><div><i>Breast surveillance</i> e.g. mammography, MRI.</div><div><i>Ovarian surveillance</i> e.g. CA-125, transvaginal USS.</div><div><br></div><div><div><b>2. Prophylactic surgery</b> (consider) e.g. bilateral mastectomy and salpingo-oopherectomy.</div></div><div><br></div><div><b>3. Prophylactic meds</b> (consider) e.g. tamoxifen (vs breast cancer) and OCP (vs ovarian cancer).</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "HNVNhT|UBg",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::O&G",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the hormone therapy options for breast cancer",
+                "<div>Sort by mechanism</div><div><br></div><div><b>Oestrogen blockade</b></div><div>1. Tamoxifen.<br>2. Aromatase inhibitors e.g. anastrozole.</div><div>3. GnRH analogues e.g. goserelin (zoladex).</div><div><br></div><div><b>HER2 blockade</b><br>1. Trastuzumab (herceptin).<br></div><br><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "j%Z=-.6#1b",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Breast,",
+                "Pharmacology",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of mammary duct ectasia?",
+                "<div><b></b><b>History</b></div><div>Typical patient is a middle aged woman.</div><div>Nipple discharge (yellow, brown, green, or bloody).</div><div><b><br></b></div><div><b>Exam</b></div><div><i>Inspection: </i>multifocal, multi-colour nipple discharge, nipple retraction (interductal fibrosis).</div><div><i>Palpation: </i>subareolar lump.</div><div><br></div><div><img src=\"mammary_duct_ectasia.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "zz.J^lz7pQ",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the treatment options for breast cancer?",
+                "Sort by members of the MDT<div><br></div><div><b>1. Surgeon</b> e.g. WLE, mastectomy, axillary surgery.</div><div><div><b>2. Nurse specialist</b> e.g. patient education.</div></div><div><b>3. Oncologist </b>e.g. hormone therapy, chemotherapy, radiotherapy.</div><div><div><b>4. Palliative care.</b></div></div><div><b><br></b></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "KNO8oG!;ey",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Breast,",
+                "Y3::Surg_A::Breast",
+                "surgery"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of mastitis?",
+                "Sort by mechanism<div><br></div><div><b>Infection </b>e.g. simple (lactational) mastitis, cellulitis, abscess.</div><div><b>Neoplasia </b>e.g. inflammatory breast cancer.</div><div><b>Inflammatory</b> e.g. post-irradiation, periductal mastitis, idiopathic granulomatous mastitis.</div><div><br></div><div><img src=\"ds00678_w7_mastitisthu_jpg.jpg\"><br></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "n<JLZG(6N@",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of tamoxifen?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div>1. Endometrial cancer.</div><div>2. Venous thromboembolism.</div><div><b><br></b></div><div><b>All the rest</b></div><div>1. Menopausal symptoms<b> </b>e.g. menstrual changes, hot flushes, labile mood, vaginal discharge.</div><div>2. GIT e.g. N&amp;V.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "z]L]Qe;$rX",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Breast.",
+                "Pharmacology,",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a fibroadenoma?",
+                "<b>A benign breast tumour</b>, containing both glandular and fibrous tissue.<div>- Presents as well-defined, solid, mobile mass</div><div>- Usually persist during reproductive years, grow during pregnancy and regress at menopause&nbsp;</div><div>- For most women, there is no increase in risk of cancer</div><div><img src=\"image.axd\"><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "K7xm}hTz=b",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is an intraductal papilloma?",
+                "A type of benign breast lesion.<div>- Often presents as nipple discharge with an underlying lump</div><div>- Unless there is associated atypia, no increased cancer risk.&nbsp;<br><div><br></div><div><img src=\"wudBt291X8KWIrh-CL3Vj5YHpD1kCk1K_DLXIVmmClhnhQx-tGGbeGfcayVudgcZg-nJmfYy0TiEdbvetrEOjf5SdJavF4eYQuHzb4HT1jhC-TX-oA.jpg\"><br></div></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "wIQ(~ov`Ss",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a sentinel node biopsy?",
+                "An investigation used in breast cancer staging.<div>- Coloured and/or radiolabeled dye is injected at the tumour site.</div><div>- The hot node is then biopsied&nbsp;</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "ICgqK)slC@",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Breast",
+                "Y3::Surg_A::Breast"
             ]
         },
         {
@@ -8316,8 +8972,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What factors influence the likelihood of experiencing side effects with steroids?",
-                "Duration of therapy<div>Dose</div><div>Mode of delivery</div><div>Diagnosis</div><div><br></div><div>Most side effects are reversible on cessation of therapy; exceptions are cardiovascular and bone related</div>"
+                "What factors influence the likelihood of experiencing side effects with steroids? (The four D's)",
+                "Duration of therapy<div>Dose</div><div>Mode of Delivery</div><div>Diagnosis</div><div><br></div><div>Most side effects are reversible on cessation of therapy; exceptions are cardiovascular and bone related</div>"
             ],
             "flags": 0,
             "guid": "GcSx+C}pf1",
@@ -10465,7 +11121,7 @@
             "newlyAdded": false,
             "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
             "tags": [
-                "Y3::Surg_B::CBL3::LO5::Truma_Orthopaedics"
+                "Y3::Surg_B::CBL3::LO6::Truma_Orthopaedics"
             ]
         },
         {
@@ -10480,7 +11136,7 @@
             "newlyAdded": false,
             "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
             "tags": [
-                "Y3::Surg_B::CBL3::LO5::Truma_Orthopaedics"
+                "Y3::Surg_B::CBL3::LO6::Truma_Orthopaedics"
             ]
         },
         {
@@ -10495,7 +11151,562 @@
             "newlyAdded": false,
             "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
             "tags": [
-                "Y3::Surg_B::CBL3::LO5::Truma_Orthopaedics"
+                "Y3::Surg_B::CBL3::LO6::Truma_Orthopaedics"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do you initially manage a patient with a dislocated knee?",
+                "1. Reduce knee joint (if needed)&nbsp;<div>2. Perform physical exam including examination of distal perfusion and ankle brachial indices</div><div>3. Next step is then determined on the character of distal pulses and ABPI&nbsp;</div><div><img src=\"paste-8cabc7fe22bffca28eec6926ad3852fa20ae70bb.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "m/CJI+2Tm",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_B::CBL3::LO7::Truma_Orthopaedics"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What guidance is used to treat vascular and neurological damage associated with fractures?",
+                "BOAST Guidance&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "D0a0T{TKev",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_B::CBL3::LO8::Truma_Orthopaedics"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are questions you should ask a patient informing you of a breast lump?",
+                "- How long have you had the lump?<div>- Has it changed in size?</div><div>- Does it alter with their periods?&nbsp;</div><div>- Is it tender?&nbsp;</div><div>- Is there any change in the overlying skin?&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "b<jk8I0V*g",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What questions would you ask a patient complaining of breast pain?",
+                "- Is it cyclical?&nbsp;<div>- Are they pubertal or peri-menopausal?&nbsp;</div><div>- Could it be referred pain?&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "sE=)<]E%[*",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What questions would you ask a patient who inform you of nipple changes?&nbsp;",
+                "Eczematous<div>- Is the eczema on the nipple of the areola?</div><div>- Are there any other areas of eczema?&nbsp;</div><div><br></div><div>Retraction</div><div>- Is this longstanding or is it a new symptom?&nbsp;</div><div><br></div><div>Discharge?&nbsp;</div><div>- Is the discharge spontaneous or induced?&nbsp;</div><div>- Is the discharge from one breast or both?&nbsp;</div><div>- How frequent is it?&nbsp;</div><div>- What colour is it?&nbsp;</div><div>- Have they been recently pregnant?&nbsp;</div><div>- What is their menopausal status?&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "i#&>|PzS-a",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are risk factors associated with breast cancer?&nbsp;",
+                "Age<div>- 80% of cancers are diagnosed in the 50-64 age group&nbsp;</div><div><br></div><div>Reproductive history&nbsp;</div><div>- Early age of menarche&nbsp;</div><div>- Late age of first child&nbsp;</div><div>- Nulliparous women&nbsp;</div><div>- Bottle feeding rather than breast feeding&nbsp;</div><div>- Delayed menopause&nbsp;</div><div><br></div><div>Family history&nbsp;</div><div>- 5% of breast cancers associated with genetic abnormality&nbsp;</div><div>- 1st/2nd degree relatives with cancers at early age&nbsp;</div><div><br></div><div>Other&nbsp;</div><div>- OCP/HRT&nbsp;</div><div>- Radiation exposure&nbsp;</div><div>- Alcohol&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "nptVCfEURR",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "On clinical examination of the breast what features should be looked for?&nbsp;",
+                "- Eczema<div>- Erythema&nbsp;</div><div>- Skin puckering&nbsp;</div><div>- Frank ulceration&nbsp;</div><div>- Scars&nbsp;</div><div>- Asymmetry&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "NPu%CbYMAw",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What investigations would you carry out in a patient with a breast lump?&nbsp;",
+                "Radiological&nbsp;<div>- Mammogram (x-ray)&nbsp;</div><div>- USS&nbsp;</div><div>- MRI&nbsp;</div><div>- CT and Bone scan&nbsp;</div><div><br></div><div>Pathological&nbsp;</div><div>- Cytology (FNA)&nbsp;</div><div>- Core biopsy&nbsp;</div><div>- Vaccum-assisted biopsy&nbsp;</div><div>- Excision biopsy&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "vdPfnKZG1[",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the components of a triple assessment?",
+                "1. Clinical assesment and examination&nbsp;<div>2.&nbsp; Radiological investigations (mammogram and MRI)&nbsp;</div><div>3. Histological evaluation&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "KAJ)+xy+:G",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Name some benign breast conditions",
+                "- Congenital problems (extra nipples, hypoplasia of the breast, chest wall abnormalities, accessory tissue)&nbsp;<div>- Nipple discharge</div><div>- Mastitis/abscess&nbsp;</div><div>- Mastalgia&nbsp;</div><div>- Gynaecomastia&nbsp;</div><div>- Benign neoplasms e.g. fibroadenomas</div>"
+            ],
+            "flags": 0,
+            "guid": "Mtx)oK-n<l",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How would you manage a patient with nipple discharge?&nbsp;",
+                "<img src=\"paste-3c39ec44edd7f055ef39bfadc504499e9796b041.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "qF8S@85.FF",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How would a breast abscess present and how would it be managed?&nbsp;",
+                "Presentation&nbsp;<div>- Erythematous&nbsp;</div><div>- Tender on palpation&nbsp;</div><div>- Fluctuant</div><div>- Pyrexia</div><div>- Flu-like symptoms, malaise and myalgia&nbsp;</div><div>&nbsp;<img src=\"paste-5dc33236391f51bab69890df4966053f855f9d91.jpg\"></div><div><br></div><div>Management&nbsp;</div><div>- Aspiration + abx e.g. Doxycycline 100mg BD, Cefalexin 500mg QDS, Flucloxacillin 250-500mg QDS PO&nbsp;</div><div>- Excision of overlying skin if any necrosis&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "On#XxM+@W7",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How would mastitis present and how would it be managed?",
+                "Presentation&nbsp;<div>- Pyrexia&nbsp;</div><div>- Tender to touch&nbsp;</div><div>- Warm to touch&nbsp;</div><div>- Breast erythema&nbsp;</div><div>- Dry cracked skin&nbsp;</div><div><br></div><div>Management&nbsp;</div><div>- Tests to rule out inflammatory breast cancer&nbsp;</div><div>- Flucloxacillin 250-500mg QDS for 1/52&nbsp;</div><div>- Effective milk removal&nbsp;</div><div>- Analgesia e.g. Paracetamol 500-1g QDS or Ibuprofen 200-400mg TDS</div>"
+            ],
+            "flags": 0,
+            "guid": "P$E<T+PdBB",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What microbe is the usual cause of mastitis?",
+                "Staphylococcus&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "e3mYZQ*|Kq",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are important features of mastlagia to establish?",
+                "- Age of patient&nbsp;<div>- Unilateral or bilateral</div><div>- Site</div><div>- Cylical or non-cylical&nbsp;</div><div>- Any history of OCP and HRT?&nbsp;</div><div>- Any associated lumps?&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "tsT=Fn{]|w",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is gynaecomastia?",
+                "Hyperplasia of stromal and ductal tissue in the male breast&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "IZ9Q5)kF43",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are possible causes of male gynaecomastia?",
+                "- Physiological e.g. weight gain<div>- Pathological e.g. Cushings syndrome&nbsp;</div><div>- Drug induced e.g. Antipsychotics, Digoxin, Alcohol&nbsp;</div><div>- Idiopathic&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "x9Xp4997cf",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Name some types of benign breast neoplasms",
+                "- Fibroadenoma&nbsp;<div>- Cysts&nbsp;</div><div>- Duct papilloma&nbsp;</div><div>- Adenoma&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "ReIqV922}i",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a fibroadenoma?",
+                "- Most common lesion of the breast&nbsp;<div>- Composed of connective tissue and proliferating epithelium<br><div>- Occurs in up to 25% of women between 15-35 years&nbsp;</div><div>- Hormone dependent&nbsp;</div></div>"
+            ],
+            "flags": 0,
+            "guid": "FOMs9($GeG",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "On examination how would a fibroadenoma present like?&nbsp;",
+                "- Firm&nbsp;<div>- Non tender&nbsp;</div><div>- Highly mobile&nbsp;</div><div>- Single or multiple&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "z|DT{#O,UZ",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How can fibroadenomas be managed?&nbsp;",
+                "- Conservatively&nbsp;<div>- Surgically&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "gpKdwOjr?3",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are breast cysts?",
+                "- Fluid filled sacs within the breast&nbsp;<div>- Common over 35, often perimenopausal&nbsp;</div><div>- Fluctuate with menstrual cycle&nbsp;</div><div>- Well demarcated from surrounding tissue&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "yt-=r=e$Ol",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How would a breast cysts present on examination?",
+                "- Firm&nbsp;<div>- Mobile&nbsp;</div><div>- Can be tender or non-tender&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "r1epU2uRtU",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How can breast cysts be treated?",
+                "- Aspiration (if fluid aspirated is bloody, biopsy will need to be taken)&nbsp;<div>- Excision (if does not resolve on aspiration)&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "zz>IEF8v04",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is fibrocystsic change of the breast?",
+                "- Loose association of cyst formation, breast nodularity, stromal proliferation and epithelial hyperplasia&nbsp;<div>- Associated with the imbalance of progesterone and oestrogen&nbsp;</div><div>- Most common between ages 30-50&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "Ra^g)Q_Y2",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of fibrocystic change?",
+                "- Bilateral cyclic pain<div>- Breast swelling</div><div>- Palpable mass&nbsp;</div><div>- Heaviness&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "uJb$I{-st8",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How can fibrocystic change be managed?&nbsp;",
+                "1st line: Conservative management and analgesia<div>2nd line: Hormonal therapy e.g. Tamoxifen 10mg OD on days 15-25 of menstrual cycle for 3 months&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "M9P}!&Cn{^",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What gene mutations increase the risk of breast cancer?&nbsp;",
+                "- BRCA<div>- Li-Fraumeni&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "d>T|efA#n,",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of breast cancer?",
+                "- Hard, irregular, tethered lump&nbsp;<div>- Change in breast shape&nbsp;</div><div>- Ulceration&nbsp;</div><div>- Skin changes e.g. Peau d'orange</div><div>- Inflammation&nbsp;</div><div>- Nipple changes e.g. Paget's disease, discharge, inversion</div><div>- Axillary lumps&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "RdiF`B1/*.",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How can breast cancer be managed?&nbsp;",
+                "- Surgery (best chance of cure)&nbsp;<div>- Chemotherapy&nbsp;</div><div>- Radiotherapy&nbsp;</div><div>- Endocrine treatment e.g. Tamoxifen&nbsp;</div><div>- Genetic assessment&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "t+af4jQt8B",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the different types of breast malignancy?",
+                "- DCIS (Ductal carcinoma in-situ)&nbsp;<div>- Ductal&nbsp;</div><div>- Lobular&nbsp;</div><div>- Mixed&nbsp;</div><div>- Tubular&nbsp;</div><div>- Mucinous&nbsp;</div><div>- Intracystic papillary&nbsp;</div><div>- Medullary&nbsp;</div><div>- Sarcoma/Lyphoma&nbsp;</div><div><img src=\"paste-1c3caa1d947c347ae6dec1d05872b09d708365b8.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "i]}*CaNc0(",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When is breast screening offered in the UK?",
+                "Screening is offered from age 50 to their 71st birthday and are automatically invited every 3 years"
+            ],
+            "flags": 0,
+            "guid": "pM2qwG@R/L",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What surgical options are available to treat breast cancer?",
+                "Breast Conservation \"Lumpectomy\"&nbsp;<div>- Wide local excision (WLE), wire or U/S guided, diagnostic excision&nbsp;</div><div>- Mammoplasty/reduction&nbsp;</div><div><br></div><div>Mastectomy&nbsp;</div><div>- Simple/Skin-sparing/Subcutaneous/Nipple-spraring mastectomy&nbsp;</div><div>- Immediate/delayed reconstruction&nbsp;</div><div>- Sentinel node biopsy/ Axillary node clearance&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "lH7f4S`Q{=",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What features of breast symptoms are red flags and mean immediate referreral to 2ww?",
+                "- 30 or over and have a lump in breast, with or without pain, that has no apparent cause&nbsp;<div>- 50 or over and have a change to the nipple, such are discharge or retraction</div>"
+            ],
+            "flags": 0,
+            "guid": "K_I|P+gG:M",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A GP will refer a patient to specialist breast clinic or genetic clinic for what reasons?",
+                "- 1st degree relative diagnosed with breast cancer aged younger than 40<div>- One 1st degree male relative diagnosed with breast cancer at any age</div><div>- One 1st degree relative with cancer in both breasts where the first cancer was aged younger than 50</div><div>- Two 1st degree relatives or 1 first degree and 1 second degree relative, diagnosed with breast cancer at any age</div><div>- One 1st degree or 2nd degree relative diagnosed with breast cancer at any age and one 1st degree or 2nd degree relative diagnosed with ovarian cancer at any age&nbsp;</div><div>- Three 1st degree or 2nd degree relatives diagnosed with breast cancer at any age&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "FLCT&)a0UW",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO7"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A GP will refer a patient to specialist breast clinic or genetic clinic for what reasons if a patient has one 1st degree or 2nd degree relative diagnosed with breast cancer when they were older than 40 years and one of the following?",
+                "- Cancer was bilateral&nbsp;<div>- Cancer was in a man&nbsp;</div><div>- Ovarian cancer&nbsp;</div><div>- Jewish ancestry&nbsp;</div><div>- Sarcoma in a relative younger than 45 y/o&nbsp;</div><div>- Brain tumour called glioma or childhood adrenal cortical carcinomas&nbsp;</div><div>- Complicated patterns of multiple cancers diagnosed at a young age&nbsp;</div><div>- Two or more relatives with breast cancer on patients fathers side of the family</div>"
+            ],
+            "flags": 0,
+            "guid": "iMxPH6DN4^",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO7"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What conservative advice can be given to mothers with lactational mastitis?",
+                "- Use a breast pump if possible or feed regularly to empty breast<div>- Warm/cool compress</div><div>- Massage&nbsp;</div><div>- Breast support&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "c:rHDB0Pj;",
+            "newlyAdded": false,
+            "note_model_uuid": "07a75cc0-ab17-11ea-a45e-448a5b9c6601",
+            "tags": [
+                "Y3::Surg_A::CBL4::LO2"
             ]
         }
     ]
