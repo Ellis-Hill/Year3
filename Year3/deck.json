@@ -67,6 +67,7 @@
         "96291a27f3bf09d440ba91fd69e031_jumbo.jpg",
         "9e850a957d733c3629e4cabff896cc_jumbo.jpg",
         "Annotation 2020-05-18 154250.png",
+        "BiPCHE8IAAAqwaS.jpg",
         "FakJQSI5oFPKsKHgpMxVvab4o-Yf9QAXvitVdedB_e3ZK6ukxYJITsAzI5bghKi7XVHUH_j5vUWl90baDAGKC8vMpOm_9h0.jpg",
         "a-conglobata2__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg0XQ.jpg",
         "a09b44e02b25f117743f3d11a299cf_jumbo.jpg",
@@ -189,6 +190,7 @@
         "paste-3d7e5aadc8dc20a869d097d15d8c4a635381a74e.jpg",
         "paste-3fc37f514ee170ece1769e60d2106e6ec4233a9f.jpg",
         "paste-4168573d85c78a36308b1428ceea4695b65ce80d.jpg",
+        "paste-42f44909e2a3515fcab08a049bbac7d26f6af0f1.jpg",
         "paste-442df0b7f89ede5d61d1b4460ddd71123cd7d19b.jpg",
         "paste-4521798b8e5991d908c2b8bb48b4ecbf4e7b568f.jpg",
         "paste-452a9886e87b4376cf08980427d881d4b7dad7e8.jpg",
@@ -215,6 +217,7 @@
         "paste-6bb90434fdfcf6c037281101df3392d09c00bdc0.jpg",
         "paste-6c1c28e3eda7285284c1955847812503ec062234.jpg",
         "paste-6cbc4a03805806f9349461d2c59807f4a03436d4.jpg",
+        "paste-6eaa2fabf75b2933174bc2480778a31d71d22811.jpg",
         "paste-70ce0fdcea609c4556ec29e31dc9c346b30a7eeb.jpg",
         "paste-711b0f280ccc10484d782502f5cae0f754c45657.jpg",
         "paste-71d032175e438192679dee4e2a166ce930b2877d.jpg",
@@ -238,6 +241,7 @@
         "paste-974cfccf784ed02937e3d2962f36cb3ca0cb8a3b.jpg",
         "paste-98be70276d2de0f62a133ef9547120561547f8a1.jpg",
         "paste-9a3ec697e57c65e74f95f81b08272718b7f0e0f8.jpg",
+        "paste-9ce7572a95d039c3a76e1ecf905d0437d13d9fbe.jpg",
         "paste-9d3d0efba9e44d45339549fd962d39fe34fa4033.jpg",
         "paste-9df8312f446f22060d39209b8ad2ad4c6f39a7a1.jpg",
         "paste-9ebb3a4d6062eddeb3c9ad8e9b639540191be424.jpg",
@@ -276,6 +280,7 @@
         "paste-d6ec03b7ef6defcc225512a33cffec7bf34eb8b9.jpg",
         "paste-d816bf38a2edf904da0e11b41f0f580663c9ca11.jpg",
         "paste-dc5a88f0cba303e95b72b81b4317eb0ba4ee83ad.jpg",
+        "paste-dfc064d6b87d5b7f1f1f0174239d81f08870f3f6.jpg",
         "paste-e1ecc8f8f49a032609a9bb488309cb6bf2fa102f.jpg",
         "paste-e1fd969f11736611cb6ccad699c14bc91505df3b.jpg",
         "paste-e377e58b319922517cda972bff091e06414fca49.jpg",
@@ -783,7 +788,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "Y3::Surg_A::CBL3::LO16"
+                "Y3::Surg_A::CBL1::LO4-LO5"
             ],
             "tmpls": [
                 {
@@ -12254,6 +12259,276 @@
             "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
             "tags": [
                 "Y3::Surg_A::CBL3::LO16"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When seeing a patient with gsatrointestinal symptoms what are important questions to ask?",
+                "Bowel habit<div>- What are their normal bowel habits like? Any recent change to constipation or diarrhoea? If so how long has the change been present for?</div><div><br></div><div>PR bleeding&nbsp;</div><div>- How long for? Frequency? Type of blood i.e. bright/dark? Volume? Mucus?&nbsp;</div><div><br></div><div>Weight loss&nbsp;</div><div>- How much? Time frame? Intentional?&nbsp;</div><div><br></div><div>Vomiting</div><div>- How long for and how frequently (risk of dehydration)? Colour? i.e. dark green/brown could suggest bowel obstruction&nbsp;</div><div><br></div><div>Abdominal distension&nbsp;</div><div>- Gross distension i.e. can't do their trousers up anymore or just feel slightly bloated?&nbsp;</div><div><br></div><div>Fevers&nbsp;</div><div>- How long for?&nbsp;</div><div><br></div><div>Urinary symptoms</div><div>- Assess for differentials of lower abdo pain - could it be urinary? Recurrent UTIs/pneumaturia (air in urine) could be suggestive of a colonic fistula</div>"
+            ],
+            "flags": 0,
+            "guid": "Ihjzhz`n._",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is diverticular disease?",
+                "- Outpouchings of mucous membrane through the muscle wall of the bowel<div>- Lie alongside the taenia coli and are overlapped by the epiploic appendices&nbsp;</div><div>- Most common in sigmoid colon&nbsp;</div><div>- Increasing incidence in patients over 40y/o</div><div><img src=\"paste-dfc064d6b87d5b7f1f1f0174239d81f08870f3f6.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "Kk5!_e0Xih",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is diverticulitis?",
+                "Inflammation and infection of diverticula (outpouching)&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "iCd%FB1`8o",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the Hinchey Classification of diverticulitis?",
+                "Grade I - Diverticulitis +/- pericolic acbscbess<div>Grade II - Diverticulitis with distant abscess i.e. pelvis</div><div>Grade III - Generalised purulent peritonitis&nbsp;</div><div>Grade IV - Faeculent discharge and peritonitis&nbsp;</div><div><img src=\"paste-9ce7572a95d039c3a76e1ecf905d0437d13d9fbe.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "ME-.Upsc@;",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How will diverticulitis be investigated?&nbsp;",
+                "Bedside tests<div>- Urine dipstick&nbsp;<div><br></div><div>Bloods&nbsp;</div></div><div>- FBC, CRP, U&amp;E's, LFTs, clotting, lactate ABG&nbsp;</div><div><br></div><div>Imaging&nbsp;</div><div>- CXR (assess for perforation resulting in air under the diaphragm)</div><div>- CT abdo/pelvis (confirm diverticulitis and look for complications i.e. perforation, abscess, fistula)&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "jZ``V(:G3I",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How will diverticular disease be investigated?",
+                "- OP colonoscopy or CT colonoscopy&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "nM2=[_80WF",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How can diverticular disease be managed?",
+                "Dietary advice&nbsp;<div>- High fibre diets&nbsp;</div><div><br></div><div>Bulking agents&nbsp;</div><div>- Fybogel&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "vM~#8a:f;?",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is acute divericulitis managed?&nbsp;",
+                "If septic<div>- Antibiotic</div><div>- Fluids&nbsp;</div><div>- Oxygen&nbsp;</div><div>- Blood cultures&nbsp;</div><div>- Lactate</div><div>- Urine output&nbsp;</div><div><br></div><div>Drainage of abscess&nbsp;</div><div><br></div><div>Surgery - Resection of diseased bowel +/- a stoma i.e. Hartmann's procedure&nbsp;</div><div><br></div><div>Follow up - Endoscopy after 6 wekks if they haven't had one recently to rule out cancer&nbsp;</div><div><img src=\"paste-42f44909e2a3515fcab08a049bbac7d26f6af0f1.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "u?js|zI>JJ",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are potential complications of Diverticulitis?",
+                "Pericolic abscess&nbsp;<div>Perforation&nbsp;</div><div>Fistula - Bladder (colovesical), Vagina (colovaginal), Skin (colocutaneous)&nbsp;</div><div>Stricture</div>"
+            ],
+            "flags": 0,
+            "guid": "Qyv(pZFyAp",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is systemic inflammatory response syndrome (SIRS)?&nbsp;",
+                "A clinical response arising from an insult. With 2 or more of:&nbsp;<div>- Temp &gt;38 or &lt;36</div><div>- HR &gt;90bpm&nbsp;</div><div>- RR &gt;20bpm&nbsp;</div><div>- White cell count &gt;12 or &lt;4</div>"
+            ],
+            "flags": 0,
+            "guid": "f_WrNnh=UK",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is sepsis?",
+                "SIRS with a presumed or confirmed source of infection&nbsp;<div><img src=\"paste-6eaa2fabf75b2933174bc2480778a31d71d22811.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "N[G~.R|w`K",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is sepsis managed?&nbsp;",
+                "Sepsis 6 - TAKE 3, GIVE 3&nbsp;<div><br></div><div>Take&nbsp;</div><div>- Blood cultures&nbsp;</div><div>- Urine output&nbsp;</div><div>- Lactate level&nbsp;</div><div><br></div><div>GIVE&nbsp;<br>- IV antibiotics&nbsp;</div><div>- IV fluids&nbsp;</div><div>- High flow O2 (if needed)&nbsp;</div><div><img src=\"BiPCHE8IAAAqwaS.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "HEh/~$f{MF",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is serum lactate a measure of?",
+                "- It is a product of anaeobic metabolism. A reliable marker of tissue perfusion and hypoxia&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "BmnGZ6D)44",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are causes of bowel obstruction?",
+                "In the lumen&nbsp;<div>- Faecal impaction&nbsp;</div><div>- Intussusception&nbsp;</div><div>- Gallstone 'ileus'&nbsp;</div><div>- Parasites&nbsp;</div><div><br></div><div>In the bowel wall&nbsp;</div><div>- Tumours&nbsp;</div><div>- Crohn's disease causing strictures&nbsp;</div><div>- Diverticular strictures&nbsp;</div><div>- Congenital atresia (newborns)&nbsp;</div><div><br></div><div>Outside the bowel wall&nbsp;</div><div>- Strangulated henia&nbsp;</div><div>- Adhesions&nbsp;</div><div>- Volvulus&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "J,yvEKrl$!",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO4-LO5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the stereotypical history of bowel obstruction?",
+                "Pain&nbsp;<div>- Often colicky&nbsp;</div><div>- Central (small bowel), lower abdominal (large bowel)&nbsp;</div><div>- Can become constant if perforation or strangulation&nbsp;</div><div><br></div><div>Abdominal distension&nbsp;</div><div>- Particularly in large bowel obstruction and volvulus&nbsp;</div><div><br></div><div>Absolute constipation&nbsp;</div><div>- No passage of flatus or faeces&nbsp;</div><div>- Partial obstruction may still pass flatus&nbsp;</div><div><br></div><div>Vomiting&nbsp;</div><div>- Bilious in nature e.g. Dark green/brown. May become faeculent&nbsp;</div><div>- Could be absent in closed loop bowel obstruction&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "C?3eC^;cWF",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO4-LO5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How would bowel obstruction appear on examination?&nbsp;",
+                "Dehydration<div>- Dry mucus membranes, tachycardia, poor urine output&nbsp;</div><div>Abdominal distension&nbsp;</div><div>Tenderness&nbsp;</div><div>Hernia&nbsp;</div><div>Bowel sound&nbsp;</div><div>- Tinkling or absent&nbsp;</div><div><br></div><div>PR Examination&nbsp;</div><div>- Palpable masses&nbsp;</div><div>- Empty rectum&nbsp;</div><div>- Palpable faeces&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "y!=DdE%9uT",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO4-LO5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How would you investigate bowel obstruction?&nbsp;",
+                "Bloods&nbsp;<div>- FBC, U&amp;Es, CRP, Amylase, Lactate, Clotting, G&amp;S&nbsp;</div><div><br></div><div>Imaging&nbsp;</div><div>- Abdo xray&nbsp;</div><div>- CT scan&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "ct?BKj-LYi",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO4-LO5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is bowel obstruction managed?&nbsp;",
+                "1. Make patient NBM<div>2. 'Drip and Suck'&nbsp;</div><div>- IV fluids (replace fluid loss and electrolytes)</div><div>- Ryles NG ube (decompress the bowel and prevent vomit aspiration)&nbsp;</div><div>3. Analgesia&nbsp;</div><div>4. Surgery&nbsp;</div><div>- Release adhesions&nbsp;</div><div>- Resect strangulated bowel&nbsp;</div><div>- Repair hernia&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "L$N,roJs{T",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL1::LO4-LO5"
             ]
         }
     ]
