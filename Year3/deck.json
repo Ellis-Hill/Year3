@@ -123,6 +123,7 @@
         "follicul1__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDEzXQ.jpg",
         "folliculitis5-s.jpg",
         "galactocele.jpg",
+        "general-principles-of-surgery-medical-finals-revision-notes-4-638.jpg",
         "half-s.jpg",
         "hidradenitis2-s.jpg",
         "hidradenitis6__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg1XQ.jpg",
@@ -191,6 +192,7 @@
         "paste-3fc37f514ee170ece1769e60d2106e6ec4233a9f.jpg",
         "paste-4168573d85c78a36308b1428ceea4695b65ce80d.jpg",
         "paste-42f44909e2a3515fcab08a049bbac7d26f6af0f1.jpg",
+        "paste-436b1e4a145f29b50c5469cebc527310b6e9cd83.jpg",
         "paste-442df0b7f89ede5d61d1b4460ddd71123cd7d19b.jpg",
         "paste-4521798b8e5991d908c2b8bb48b4ecbf4e7b568f.jpg",
         "paste-452a9886e87b4376cf08980427d881d4b7dad7e8.jpg",
@@ -788,7 +790,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "Y3::Surg_A::CBL1::LO4-LO5"
+                "Y3::Surg_A::CBL2::LO7"
             ],
             "tmpls": [
                 {
@@ -802,49 +804,6 @@
                 }
             ],
             "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "2241246f-b089-11ea-a0fc-48ba4e4e145b",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ],
-            "type": 1,
             "vers": []
         }
     ],
@@ -9303,7 +9262,7 @@
             "flags": 0,
             "guid": "C#s+tSFpOL",
             "newlyAdded": false,
-            "note_model_uuid": "2241246f-b089-11ea-a0fc-48ba4e4e145b",
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
             "tags": []
         },
         {
@@ -12529,6 +12488,141 @@
             "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
             "tags": [
                 "Y3::Surg_A::CBL1::LO4-LO5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do the letters in the surgical sieve A VITAMIN D stand for?",
+                "<div>- Acquired</div>- Vascular&nbsp;<div>- Infection/Inflammation&nbsp;</div><div>- Autoimmune&nbsp;</div><div>- Metabolic&nbsp;</div><div>- Idiopathic&nbsp;</div><div>- Neoplastic&nbsp;</div><div>- Degerative&nbsp;</div><div>- (S) Syphilis&nbsp;</div><div><img src=\"general-principles-of-surgery-medical-finals-revision-notes-4-638.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "M|j^D#0FxB",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL2::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What investigations would be carried out in a patient with abdominal pain?&nbsp;",
+                "Bedside - Urine (MSSU)&nbsp;<div><br></div><div>Bloods&nbsp;</div><div>- FBC, U&amp;E, LFTs, Amylase, ABG, Clotting, GS, bHCG&nbsp;</div><div><br></div><div>Imaging</div><div>- Abdo xray&nbsp;</div><div>- USS&nbsp;</div><div>- Endoscopy&nbsp;</div><div>- Laparoscopy&nbsp;</div><div><br></div><div><img src=\"paste-436b1e4a145f29b50c5469cebc527310b6e9cd83.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "G!x[iKL(UQ",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL2::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How would a jaundiced patient be investigated?",
+                "Bedside&nbsp;<div>- Urine&nbsp;</div><div><br></div><div>Bloods&nbsp;</div><div>- FBC, U&amp;E, LFTs, Hb, Viral serology, tumour markers</div><div><br></div><div>Imaging&nbsp;</div><div>- USS</div><div>- CT</div><div>- MRI</div><div>- MRCP&nbsp;</div><div>- ERCP&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "b`1VOW+zC,",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL2::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are differential diagnosis for abdominal pain?",
+                "- Biliary colic&nbsp;<div>- Cholecystitis&nbsp;</div><div>- MI</div><div>- Pneumonia&nbsp;</div><div>- Peptic ulcer disease&nbsp;</div><div>- MSK&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "sUvgLEr0*o",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL2::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is cholecystitis managed?&nbsp;",
+                "1st line - Analgesia and IV fluids&nbsp;<div>&nbsp;Followed by&nbsp;</div><div>&nbsp; - Antibiotic therapy&nbsp;</div><div>&nbsp; - Cholecystectomy&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "o%Hk{kRH6(",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL2::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Name some differentials for Cholelithiasis (Gall stones)",
+                "- Peptic ulcer disease (PUD)&nbsp;<div>- Gallbladder cancer&nbsp;</div><div>- Gallbladder polyps&nbsp;</div><div>- Acalculous cholecystitis&nbsp;</div><div>- Sphincter of Oddi dysfunction (SOD)&nbsp;</div><div>- Non-biliary acute pancreatitis&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "eAW5Bz,3A5",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL2::LO6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How would cholelithiasis (gallstones) be investigated?&nbsp;",
+                "Bloods&nbsp;<div>- FBC, LFTs, Lipase, Amylase</div><div><br></div><div>Imaging&nbsp;</div><div>- Abdominal ultrasound&nbsp;</div><div>- Abdominal CT<br>- MRCP (magnetic resonance cholangiopancreatography)</div><div>- ERCP (endoscopic retrograde cholangiopancreatography)&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "Flv#y=cjFc",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL2::LO6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How can cholelithiasis be managed?",
+                "Cholecystectomy&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "o7_9;00/LC",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL2::LO7"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Charcot's triad?",
+                "- Fever<div>- Jaundice&nbsp;</div><div>- Right upper quadrant pain&nbsp;</div><div>Indicative of Cholangitis&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "FZu9sVM.Ii",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::CBL2::LO7"
             ]
         }
     ]
