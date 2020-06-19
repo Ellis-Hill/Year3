@@ -144,6 +144,7 @@
         "ka2__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
         "ka3-s.jpg",
         "koilonychia-s.jpg",
+        "ks7-s.jpg",
         "lds3-s.jpg",
         "lightbox_d0f04ab014bb11eabd3aede23f367e29-Figure-7-1-.png",
         "lm3-s.jpg",
@@ -304,6 +305,7 @@
         "paste-f7b7f56c3d72b342f4301d660d959b635e89a8d0.jpg",
         "paste-f82716acc5918c9adf6d2ffc983e65d821bde4a7.jpg",
         "paste-feb3bf1dc01853b8ce1ff31a2b7e2a735f946cad.jpg",
+        "patch2-s.jpg",
         "pit-rosea1-s.jpg",
         "pit-rosea3__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDM2XQ.jpg",
         "pitros1__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg1XQ.jpg",
@@ -4047,6 +4049,2161 @@
             "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
             "tags": [
                 "Y3::Med_A::Dermatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In assessment of fever in the returning traveler, which are the key questions to ask?",
+                "Sort by history<div><br></div><div><b>1. History of symptoms.</b></div><div><b>2. Travel history </b>including dates, locations, means of travel.</div><div><b>3. Activities </b>including sex, drugs, food, soil and water contact.</div><div><b>4. Preparation for travel </b>e.g. vaccines, chemoprophylaxis.</div><div><b>5. All the rest </b>e.g. PMHx, DHx, SHx.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AOBS,lKYP]",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful for fever in the returning traveler?",
+                "Sort by modality<div><br></div><div><b>1. Bloods</b> e.g. FBC, U&amp;Es, LFTs, CRP, culture, blood smears for malaria.</div><div><b>2 Urine dip.</b></div><div><b>3. CXR.</b></div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ixw40>?`.b",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which are the most common causes of fever in the returning traveler?",
+                "Sort by incidence<div><br></div><div><b>1. Malaria.</b></div><div><b>2. Dengue fever.</b></div><div><b>3. Mononucleosis </b>(EBV or CMV).</div><div><b>4. Rickettsial infection.</b></div><div><b>5. Enteric fever</b> (typhoid or paratyphoid).</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f^xRJ;YMdh",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the incubation period for Plasmodium falciparum?",
+                "12-14 days<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lEwgqjgqfU",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of uncomplicated malaria?",
+                "<b>History</b><div>Fever, headache, arthralgia and myalgia, cough, anorexia, D&amp;V.</div><div><br></div><div><b>Exam</b></div><div><i>Obs:</i> fever, tachycardia, tachypnoea.</div><div><i>Inspection: </i>conjunctival pallor, may be jaundice.</div><div><i>Palpation: </i>splenomegaly.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GH}KO]09V",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which insect is the vector for malaria?",
+                "The female Anopheles mosquito<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z$U9YJur9N",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of malaria?",
+                "Sort by organ system<div><br></div><div><b>1. Cerebral malaria: </b>acute confusion, reduced consciousness, seizures.</div><div><b>2. Resp: </b>ARDS.</div><div><b>3. Blood: </b>severe anaemia (haemolysis), coagulopathy (DIC).</div><div><b>4. Renal:</b> AKI, haemoglobinuria (blackwater fever).</div><div><b>5. Liver failure.</b></div><div><b>6. Metabolic: </b>acidosis, hypoglycaemia.</div><div><br></div><div><b>NOTES</b></div><div><i>ARDS </i>= acute respiratory distress syndrome.</div><div><i>DIC</i> = disseminated intravascular coagulation.</div><div><i>AKI</i> = acute kidney injury.</div><div><br></div><div><div>UPDATED 2020</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w!p<{FL!6;",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Metabolic,",
+                "Nephrology,",
+                "Neurology,",
+                "Respiratory,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which Plasmodium species is most virulent?",
+                "P. falciparum<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h}tR_?/l2W",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected malaria?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important</b></div><div>1. Blood smear.</div><div>2. Rapid diagnostic tests (RDT).</div><div><br></div><div><b>All the rest</b></div><div>1. Bloods e.g. FBC, U&amp;E, LFTs.</div><div>2. Urine dip.</div><div>3. CXR.</div><div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LxkB,&SA-X",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which species of Plasmodium cause human malaria?",
+                "Sort by virulence<div><br></div><div><b>Most virulent: </b>Plasmodium falciparum.</div><div><b>All the rest: </b>P. vivax; P. ovale; P. malariae; P. knowlesi.</div><div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m%j)NC&kjd",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for malaria?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - consider IV fluids, catheter, monitor input/output.</div><div>Consider discussion with ICU.</div><div><br></div><div><b>2. Meds</b></div><div><i>First line: </i>artemisinin combination therapy (ACT).</div><div><i>Second line: </i>atovaquone-proguanil; quinine-based regimens; mefloquine.</div><div><br></div><div><b>NOTES</b></div><div><i>Chloroquine</i> can be used for malaria acquired in certain countries e.g. the Middle East, Central America West of the Panama Canal, and parts of the Caribbean.</div><div><i>Quinine</i> is first line in pregnancy.</div><div><i><br></i></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nMGX{);&8?",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by malaria 'recrudescence'?",
+                "Relapse of infection with the original strain<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Murp1I!@XB",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which species of Plasmodium are capable of causing relapsing malaria?",
+                "P. vivax and P. ovale.<div><br></div><div><b>NOTES</b></div><div>Infection with these species may result in formation of 'hyponozoites' (quiescent stage) in the liver.</div><div><i>Primaquine</i> is active against hypnozoites.</div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L)o(<{Iv<u",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which measures are used for malaria prophylaxis?",
+                "<b>1. Patient education</b> e.g. transmission; symptoms.<div><br></div><div><b>2. Mosquito bite prevention</b> e.g. staying indoors between dusk and dawn; insect repellant; mosquito nets.</div><div><br></div><div><b>3. Chemoprophylaxis</b> e.g. atovaquone-proguanil; mefloquine; doxycycline; chloroquine; primaquine.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hr;XO6zi.,",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of antimalarial drugs",
+                "Sort by type<div><br></div><div><b>1. Artemisinin derivatives </b>e.g. artesunate.</div><div><b>2. Quinoline derivatives </b>e.g. chloroquine, quinine, mefloquine, primaquine.</div><div><b>3. Antifolates </b>e.g. atovaquone-proguanil.</div><div><b>4. Antimicrobials </b>e.g. doxycycline, clindamycin.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EucC.>G3ud",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of the artimisinin derivatives?",
+                "<div>Activity against the blood stages of all Plasmodium species.</div><div><br></div><div><b>NOTES</b></div><i>Artemisinins</i> bind iron, break peroxide bridges, and lead to generation of free radicals that damage parasite proteins.<div><i>Derived</i> from the Chinese sweet wormwood plant.</div><div><div><div><br></div><div>UPDATED 2020</div></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mJDX*7iitS",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of the quinoline derivatives?",
+                "Activity against the blood stages of Plasmodium infection<div><br></div><div><b>NOTES</b></div><div><i>Quinoline derivatives</i> act in the parasite food vacuole, prevent heme polymerase activity, and cause accumulation of cytotoxic free heme.</div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E[{ly6C_oB",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of atovaquone-proguanil?",
+                "Activity against Plasmodium folate synthesis<div><br></div><div><b>NOTES</b></div><div><i>Atovaquone</i> blocks the parasite mitochondrial electron transport chain.</div><div><i>Proguanil</i> inhibits parasite dihydrofolate reductase.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i/!/Qyp2`}",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of doxycycline? (as an antimalarial)",
+                "Activity against protein synthesis in the <b>apicoplast</b>.<div><br></div><div><b>NOTES</b></div><div><i>The apicoplast</i> is an organelle derived from prokaryotic ancestors.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b>TA3dlPVp",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'primary infection' with tuberculosis (TB)?",
+                "New TB infection in a previously naive host<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j|M!V.Y5]b",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the stages of pulmonary tuberculosis (TB) infection",
+                "Sort chronologically<div><br></div><div>1. Transmission.</div><div>2. Primary infection.</div><div>3. Latent phase (90% of cases).</div><div>4. Reactivation TB.</div><div><br></div><div><b>NOTES</b></div><div><i>Following primary infection, </i>10% of cases progress to TB pneumonia.</div><div><i>Reactivation TB</i> accounts for 90% of adult cases in HIV negative individuals.</div><div><i>HIV</i> = human immunodeficiency virus.</div><div>&nbsp;</div><div><div>UPDATED 2020</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k,=x?&+(Q~",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of primary infection with tuberculosis (TB)?",
+                "<b>History</b><div>Fever without other symptoms (majority of cases).</div><div>May be pleuritic or retrosternal chest pain, tiredness, cough (minority of cases).</div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>fever.</div><div><i>Inspection: </i>may be cough.</div><div><br></div><div><div><b>NOTES</b></div><div><i>Fever</i> lasts on average 14-21 days.</div><div><i><br></i></div><div>UPDATED 2020</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OA-oI:^t*0",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the CXR findings in primary infection with tuberculosis (TB)?",
+                "Sort by incidence<div><br></div><div><b>1. Hilar lymphadenopathy.</b></div><div><b>2. Pleural effusion.</b></div><div><b>3. Pulmonary infiltrates</b> (usually right perihilar).</div><div><br></div><div><div><b>NOTES</b></div><div><i>CXR</i> is often normal in primary infection.</div><div><i><br></i></div><div>UPDATED 2020</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iV]mzl0qWV",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of reactivation tuberculosis (TB)?",
+                "<b>History</b><div>Chronic cough.</div><div>Fever and night sweats.</div><div>Weight loss.</div><div>Tiredness.</div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>fever.</div><div><i>Inspection: </i>may be clubbing.</div><div><i>Percussion: </i>may be dullness (effusion).</div><div><i>Auscultation: </i>may be decreased breath sounds (effusion), creps (parenchymal infection), amphoric breath sounds (cavities).</div><div><br></div><div><b>NOTES</b></div><div><i>Fever</i> is usually absent in the morning, then rises through the day to reach a peak in the late afternoon or evening, then subsides in sleep.</div><div><i>Cough</i> gets progressively worse, at first nonproductive and present only in the mornings, later may be productive of yellow blood-streaked sputum and continuous through the day.</div><div><br></div><div><div>UPDATED 2020</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ik~v-TIeS~",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the CXR findings in reactivation tuberculosis (TB)?",
+                "<b>Pulmonary infiltrates and cavities</b>, most often in the apical posterior segment of upper lobes.<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H|mW?Ax+Df",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is 'directly observed therapy' (DOT)?",
+                "Providing antituberculous drugs directly to the patient and watching as the patient swallows them.<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pZ]}85fZ5C",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for active, drug-sensitive tuberculosis (TB)?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - consider IV fluids.</div><div><br></div><div><b>2. Isolation</b> and inform public health.</div><div><b><br></b></div><div><b>3. Meds</b> (DOT)</div><div><i>Initial phase</i> (2 months): rifampicin, isoniazid, pyrazinamide, and ethambutol.</div><div><i>Continuation phase</i> (4 months): rifampicin and isoniazid.</div><div><br></div><div><div><b>NOTES</b></div><div><i>Extended treatment</i> is required for TB meningitis, bone and joint disease.</div><div><i>Mnemonic for drugs</i> = RIPE (rifampicin, isoniazid, pyrazinamide, ethambutol).</div><div><i>DOT</i> = directly observed therapy.</div><div><i><br></i></div><div>UPDATED 2020</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OZ;w&Zn-Fq",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of isoniazid?",
+                "Sort by mechanism<div><br></div><div>1. Hepatitis</div><div>2. Peripheral neuropathy</div><div><br></div><div><b>NOTES</b></div><div><i>Pyridoxine</i> is given to minimise the risk of peripheral neuropathy.</div><div><br></div><div><div>UPDATED 2020</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Lu}02F*kny",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Neurology,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of rifampicin?",
+                "Sort by mechanism<div><br></div><div><b>1. Hepatic enzyme induction</b> (interaction with OCP, warfarin, antiretrovirals).</div><div><b>2. Red discolouration</b> of body fluids e.g. urine, tears, sweat.</div><div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tt~K&?E*s!",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of pyrazinamide?",
+                "Sort by mechanism<div><br></div><div><b>1. Hepatitis.</b></div><div><b>2. Hyperuricaemia </b>(gout flares).</div><div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C2vqiM)rUT",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Metabolic,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of ethambutol?",
+                "Optic neuritis<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J?CHd8pR4d",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Neurology,",
+                "Opthalmology,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected latent tuberculosis (TB)?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important</b></div><div>1. IGRA.</div><div>2. TST.</div><div><br></div><div><b>All the rest</b></div><div>1. Bloods.</div><div>2. CXR.</div><div><br></div><div><b>NOTES</b></div><div><i>IGRA</i> = interferon gamma release assay.</div><div><i>TST</i> = tuberculin skin test (Mantoux).</div><div><br></div><div><div>UPDATED 2020</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zNwKEuUgdY",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Describe the procedure for the tuberculin skin test (TST)",
+                "Intradermal injection of tuberculin material, then measurement of area of induration after 48-72h.<div><br></div><div><b>NOTES</b></div><div><i>Positive TST</i> suggests tuberculosis infection.</div><div><div><i>Mantoux technique</i> = intradermal injection to inner surface of the forearm.</div></div><div><i>Tuberculin material </i>is usually 'purified protein derivative' (PDD).</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P{`tzJb{Pp",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which micro-organism causes tuberculosis (TB)?",
+                "Mycobacterium tuberculosis.<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HgTo-VMLpF",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for latent tuberculosis (TB)?",
+                "<b>1. Patient education</b> e.g. importance of completing course of medication.<div><br></div><div><b>2. Meds</b> (DOT)</div><div><i>First line: </i>9 months of isoniazid.</div><div><i>Second line: </i>4 months of rifampicin; 3 months of isoniazid with rifapentine.</div><div><br></div><div><b>NOTES</b></div><div><i>DOT</i> = directly observed therapy.</div><div><i><br></i></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P*}D6bCoKp",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'drug-resistant tuberculosis'?",
+                "Resistance to one of the first line anti-TB drugs.<div><br></div><div><b>NOTES</b></div><div><i>First line drugs</i> include isoniazid, rifampicin, pyrazinamide, ethambutol, and streptomycin.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ao/_Y=!A*k",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'multidrug-resistant tuberculosis' (MDR-TB)?",
+                "Resistance to isoniazid and rifampicin and possibly additional agents.<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nx,|Llg<gL",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'extensively drug-resistant tuberculosis' (XDR-TB)?",
+                "Resistance to isoniazid, rifampicin, and fluoroquinolones, plus either aminoglycosides or capreomycin.<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C|g^Mecn3h",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'miliary' tuberculosis (TB)?",
+                "Progressive, widely disseminated haematogenous TB.<div><br></div><div><b>NOTES</b></div><div><i>Gross pathology</i> of the lungs resembles millet seeds.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zpA>eIhKe>",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which are the most common sites of extrapulmonary tuberculosis infection?",
+                "Sort by incidence<div><br></div><div><b>Most common</b></div><div><i>1. Lymphatic system.</i></div><div><i>2. Bones and joints.</i></div><div><i>3. GIT </i>e.g. hepatic disease, enteritis, peritonitis.</div><div><i>4.CNS </i>e.g. meningitis, tuberculoma.</div><div><br></div><div><b>All the rest </b>e.g. urinary tract, genital tract, adrenal, cardiovascular, skin, breast.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w4,c^y|y}e",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Neurology,",
+                "Orthopaedics,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected active tuberculosis (TB)?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important</b></div><div><i>1. CXR.</i></div><div><i>2. Sputum samples</i> (AFB smear, cultures, sensitivities, NAA test).</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods.</i></div><div><i>2. Pleural fluid aspirate</i> (consider).</div><div><i>3. Pleural tissue biopsy </i>(consider).</div><div><br></div><div><b>NOTES</b></div><div><i>Three sputum samples</i> should be collected at 8-24h intervals (with at least one collected in the early morning).</div><div><i>Sputum</i> may be produced spontaneously or induced.</div><div><i>Gastric aspirates</i> may be useful in children who can not produce sputum.</div><div><i>AFB</i> = acid fast bacilli.</div><div><i>NAA</i> = nucleic acid amplification.</div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F-u,:B(8e7",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of acute retroviral syndrome (acute HIV infection)?",
+                "<b>History</b><div>Fever.</div><div><div>Myalgia, arthralgia.</div></div><div>Sore throat.</div><div>Rash.</div><div>Headache.</div><div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>fever.</div><div><i>Inspection: </i>mouth ulcers, pharyngitis, pink maculopapular rash.</div><div><i>Palpation: </i>generalised nontender lymphadenopathy, mild hepatosplenomegaly.</div><div><br></div><div><b>NOTES</b></div><div>Acute HIV infection may often be asymptomatic.</div><div><i>Headache</i> is often described as retroorbital pain, exacerbated by eye movement.</div></div><div><i>HIV</i> = human immunodeficiency virus.</div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ks!y%i|*M4",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the average time between HIV exposure and development of acute retroviral syndrome?",
+                "2-4 weeks<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B//i8jGwZJ",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected HIV infection?",
+                "Sort by type<div><br></div><div>1. Serology.</div><div>2. HIV antigen detection (ELISA).</div><div>3. HIV RNA detection (RTPCR).</div><div><br></div><div><div><b>NOTES</b></div><div><i>HIV</i> = human immunodeficiency virus.</div><div><i>ELISA</i> = enzyme-linked immuno-sorbent assay.</div><div><i>RTPCR</i> = real time polymerase chain reaction.</div></div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "/_X3uJH`2",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in newly-diagnosed HIV infection?",
+                "Sort by type<div><br></div><div><b>1. HIV-related tests </b>e.g. serology, CD4 count and percentage, viral load, resistance testing.</div><div><br></div><div><b>2. General blood tests </b>e.g. FBC, U&amp;E, LFTs, HbA1c, lipids.</div><div><b><br></b></div><div><b>3. Screening for other infections</b> e.g. viral hepatitis, tuberculosis, syphilis, gonorrhoea, chlamydia, trichomonas, CMV, VZV, toxoplasma.</div><div><b><br></b></div><div><b>4. Screening for HPV-associated cancer</b> e.g. cervical and anal cancer.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ha]?&w;)uP",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Oncology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the stages of HIV infection",
+                "Sort chronologically<div><br></div><div>1. Viral transmission.</div><div>2. Acute HIV infection and seroconversion.</div><div>3. Chronic HIV infection: asymptomatic, early symptomatic, AIDS, advanced HIV infection.</div><div><br></div><div><b>NOTES</b></div><div><i>AIDS</i> = acquired immune deficiency syndrome, defined as CD4 count &lt;200 cells/µL or presence of an AIDS-defining condition.</div><div><i>Advanced HIV infection</i> characterised by CD4 count &lt;50 cell/µL.</div><div><div><i>HIV</i> = human immunodeficiency virus.</div></div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M>^rf:5Ver",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by HIV seroconversion?",
+                "Development of detectable antibodies against HIV antigens.<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Qz!I{jUmE$",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List 4 AIDS-defining conditions",
+                "Sort by incidence<div><br></div><div>1. Pneumocystis jirovecii pneumonia (PCP).</div><div>2. Oesophageal candidiasis.</div><div>3. Kaposi sarcoma.</div><div>4. Toxoplasmic encephalitis.</div><div>5. Disseminated Mycobacterium avium infection.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ucUG(}QJYk",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of antiretroviral drugs",
+                "Sort by mechanism<div><br></div><div>1. Nucleoside reverse transcriptase inhibitors (<b>NRTIs</b>).</div><div>2. Non-nucleoside reverse transcriptase inhibitors (<b>NNRTIs</b>).</div><div>3. Protease inhibitors (<b>PIs</b>).</div><div>4. Integrase strand transfer inhibitors (<b>INSTIs</b>).</div><div>5. <b>CCR5 antagonists.</b></div><div><br></div><div><b>NOTES</b></div><div><i>NRTIs</i> include tenofovir, emtricitabine, lamivudine, and abacavir.</div><div><i><br></i></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f]`y}LBz)r",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which types of drug are used in a typical antiretroviral therapy (ART) regimen?",
+                "Usually two nucleoside agents (nucleoside backbone) plus a third drug (with a different mechanism).<div><br></div><div><b>NOTES</b></div><div><i>The choice of nucleoside agent </i>is determined by renal function, resistance testing, viral load, presence of chronic HBV, and heart disease.</div><div><i><br></i></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LdN64`>PZl",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which micro-organism causes PCP?",
+                "<b>Pneumocystis jirovecii </b>(a fungus).<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rAtG8D>V;g",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of PCP?",
+                "<b>History</b> (symptoms progress over days to weeks)<div>Fever.</div><div>Nonproductive cough.</div><div>Dyspnoea on exertion.</div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>fever, tachypnoea, oxygen desaturation on exercise.</div><div><i>Auscultation: </i>crackles and wheezes.</div><div><br></div><div><b>NOTES</b></div><div><i>PCP</i> = pneumocystis pneumonia.</div><div><i>Chest examination</i> is normal in about half of cases.</div><div><i>Oral candidiasis </i>is a common co-infection.</div><div><br></div><div><div>UPDATED 2020</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w{<soQHwd;",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected PCP?",
+                "Sort by modality<div><br></div><div><b>1. Bloods </b>e.g. beta-glucan, LDH, FBC, CD4 cells, CRP.</div><div><b>2. Sputum or BAL</b> (staining and microscopy).</div><div><b>3. CXR.</b></div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Or~B:K#2)1",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for PCP in HIV patients?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - consider IV fluids.</div><div><br></div><div><b>2. Meds</b></div><div>Co-trimoxazole (trimethoprim-sulfamethoxazole).</div><div>Consider corticosteriods at start of treatment.</div><div><br></div><div><b>NOTES</b></div><div><div><i>Symptoms</i> often worsen after 2-3 days of treatment, presumably due to increased inflammation with dying organisms.</div><div><i>PCP</i> = pneumocystis pneumonia.</div></div><div><i>HIV</i> = human immunodeficiency virus.</div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t,4w;s#lgb",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Kaposi sarcoma?",
+                "<b>A vascular tumour</b>, caused by HHV-8 infection.<div><br></div><div><b>NOTES</b></div><div><i>Four epidemiological forms: </i>AIDS-related, endemic or African, organ transplant-associated, and classic (older men of Mediterranean and Jewish origin).</div><div><i>HHV</i> = human herpes virus.</div><div><i>AIDS</i> = acquired immunodeficiency syndrome.</div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I{gl/#J,BH",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Oncology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of AIDS-related Kaposi sarcoma?",
+                "Sort symptoms by organ system<div><br></div><div><b>History</b><div><i>Skin: </i>new lesions (not itchy or painful).</div><div><i>Oral cavity: </i>pain, bleeding.</div><div><i>GIT: </i>upper or lower tract bleeding.</div><div><i>Lungs: </i>dyspnoea, cough, haemoptysis.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>eliptical pink or purple skin lesions, arranged along skin tension lines.</div><div><br></div><div><b>NOTES</b></div><div><i>Common sites</i> include legs, face (especially nose), oral mucosa, and genitalia.</div></div><div><i>AIDS</i> = acquired immunodeficiency syndrome.</div><div><i>GIT</i> = gastrointestinal tract.</div><div><br></div><div><img src=\"patch2-s.jpg\"></div><div>Patch stage</div><div><br></div><div><img src=\"ks7-s.jpg\"></div><div>Plaque stage</div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j-V;WVqt&/",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Infection,",
+                "Oncology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for AIDS-related Kaposi sarcoma?",
+                "<b>1. Patient education </b>e.g. ensure compliance with ART regimen.<div><br></div><div><b>2. Local treatments </b>e.g. intralesional chemotherapy, radiation therapy.</div><div><br></div><div><b>3. Systemic chemotherapy</b> e.g. doxorubicin.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c0neBot6_G",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Infection,",
+                "Oncology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful is suspected AIDS-related Kaposi sarcoma?",
+                "<b>Skin biopsy </b>(confirm diagnosis and rule out bacillary angiomatosis)<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w#c47SiS_H",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Infection,",
+                "Oncology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of AIDS?",
+                "HIV infection with CD4 cell count &lt;200 cells/µL or presence of an AIDS-defining condition.<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u@@mSKEE#F",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of AIDS-related toxoplasmic encephalitis?",
+                "<b>History</b><div>Headache.</div><div>Fever.</div><div>Acute confusion, decreased consciousness, seizure.</div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>fever.</div><div><i>Inspection: </i>signs of delirium, decreased consciousness.</div><div><i>Neurology: </i>may be focal deficit.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DM$wuii5k=",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List 3 manifestations of AIDS-related toxoplasmosis",
+                "Sort by organ system<div><br></div><div>1. Encephalitis.</div><div>2. Pneumonitis.</div><div>3. Chorioretinitis.</div><div><br></div><div><b>NOTES</b></div><div><i>Pneumonitis</i> presents with fever, dyspnoea, and non-productive cough.</div><div><i>Chorioretinitis</i> (posterior uveitis) presents with eye pain and decreased visual acuity.</div><div><i>AIDS</i> = acquired immunodeficiency syndrome.</div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y_V:B$!R`0",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected AIDS-related toxoplasmic encephalitis?",
+                "Sort by modality<div><br></div><div><b>1. Bloods </b>e.g. toxoplasma IgG, CD4 count.</div><div><b>2. Brain imaging </b>(MRI or CT).</div><div><br></div><div><b>NOTES</b></div><div><i>Imaging</i> may show multiple ring-enhancing lesions.</div><div><i>Biopsy</i> is rarely indicated.</div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EsUHF,]coR",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for AIDS-related toxoplasmic encephalitis?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - consider IV fluids.</div><div><br></div><div><b>2. Meds</b></div><div><i>Initial phase </i>(6 weeks): sulfadiazine and pyrimethamine.</div><div><i>Secondary prophylaxis: </i>half dose sulfadiazine and pyrimethamine.</div><div><br></div><div><b>NOTES</b></div><div><i>Leucovorin</i> may be given to prevent pyrimethamine-induced haematological toxicity.</div><div><i>AIDS</i> = acquired immunodeficieny syndrome.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v#4R{I4F]X",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is immune reconstitution syndrome (IRIS)?",
+                "Paradoxical worsening of pre-existing infectious processes following initiation of ART in HIV-infection.<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P*PDNhnmaw",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which micro-organism causes toxoplasmic encephalitis?",
+                "<b>Toxoplasma gondii</b> (intracellular protozoan parasite)<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pq}1~bs6Ip",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the indications for primary prophylaxis against toxoplasmosis in HIV infection?",
+                "CD4 cell count &lt;100 cells/µL and T. gondii IgG-positive.<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v@t#XqU+>e",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which medication is used for primary prophylaxis against toxoplasmosis in HIV infection?",
+                "<b>Trimethoprim-sulfamethoxazole </b>(co-trimoxazole).<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gNc:S8WU$D",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the indications for prophylaxis against PCP in HIV infection?",
+                "Any of the following<div><br></div><div>1. History of PCP.</div><div>2. CD4 cell count &lt;200 cell/µL.</div><div>3. History of oropharyngeal candidiasis.</div><div><br></div><div><b>NOTES</b></div><div><i>PCP</i> = pneumocystis pneumonia.</div><div><i>HIV</i> = human immunodeficiency virus.</div><div><i><br></i></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HZcq4)kH%U",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which medication is used for prophylaxis against PCP in HIV infection?",
+                "<b>Trimethoprim-sulfamethoxazole </b>(co-trimoxazole).<div><br></div><div><b>NOTES</b></div><div><div><i>PCP</i> = pneumocystis pneumonia.</div></div><div><div><i style=\"font-style: italic; \">HIV</i> = human immunodeficiency virus.</div></div><div><i><br></i></div><div>&nbsp;UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BX7q%1sD?g",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of cellulitis?",
+                "<b>History</b><div>Swelling and redness of skin, often on the leg.</div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>may be fever.</div><div><i>Inspection:</i> unilateral leg swelling, with poorly-defined erythema.</div><div><i>Palpation: </i>warmth.</div><div><br></div><div><b>NOTES</b></div><div><u><br></u></div><div><div><img src=\"paste-18098992185664.jpg\"></div><div>Right leg cellulitis</div><div><br></div><div>UPDATED 2020</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B(~:SkQKQO",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which micro-organisms most commonly cause cellulitis?",
+                "Sort by incidence<div><br></div><div>1. Beta-haemolytic Streptococci.</div><div>2. Staphylococcus aureus (including MRSA).</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zp9Ux+6=hN",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for cellulitis? ",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - consider IV fluids.</div><div><br></div><div><b>2. Elevation of affected area.</b></div><div><b><br></b></div><div><b>3. Meds </b>e.g. flucloxacillin IV.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p43t5:[(Eb",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of meningitis? ",
+                "<b>History</b><br><div>Meningism (headache, neck stiffness, and photophobia).</div><div>Fever.</div><div>Purpuric rash (if meningococcal septicaemia).</div><div>Acute confusion, decreased consciousness, seizures.</div><div style=\"font-weight: bold; \"><br></div><div style=\"font-weight: bold; \"><b>Exam</b></div><div><i>Obs:</i> fever, tachycardia, tachypnoea.</div><div><i>Inspection: </i>purpuric rash, signs of delirium.</div><div><i>Palpation: </i>neck stiffness.</div><div><i>Bedside tests:</i> Kernig or Brudzinski sign.</div><div><br></div><div><b>NOTES</b></div><div><i>Presents</i> typically within 24h of symptom onset.</div><div><i>Meningococcal rash</i> may be difficult to see in dark-skinned people, look at palms and conjunctiva.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zYJ[Jq&A2t",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for meningitis?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - IV access, consider fluid challenge.<br><div><b><br></b></div><div><b>2. Meds</b></div><div><b><font color=\"#008000\">Ceftriaxone 2g OD IV.</font></b></div><div>Add <b><font color=\"#008000\">amoxicillin 2g 4 hourly</font></b> if &gt;50y old, pregnant, or immunocompromised.</div><div>Consider dexamethasone, discuss with senior colleague.</div><div><br></div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lA4e*lNn.[",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected meningitis?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important</b></div><div><i>1. CSF:</i> microbiology (cell count, Gram stain, culture), biochem (protein, glucose, lactate), rapid antigen test and PCR.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods: </i>culture, VBG, glucose, FBC, clotting, U&amp;E, rapid antigen test and PCR.</div><div><div><i>2. Imaging: </i>CT or MRI head, CXR.</div><div><br></div><div><b>NOTES</b></div><div><i>CT head</i> may show spread of infection via skull fracture.</div><div><br></div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MF~[.JU2fT",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Neurology,",
+                "Oncology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the contraindications to lumbar puncture (LP)?",
+                "Sort by possible complication<div><b><br></b></div><div><b>1. Bleeding </b>e.g. known clotting derangement.</div><div><b>2. Coning</b> (raised ICP) e.g. nausea, vomiting, papilloedema, suggestive CT.</div><div><b>3. Infection </b>e.g. lumbar skin infection.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B51Duhi{^)",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which micro-organisms cause meningitis in adults?",
+                "Sort by incidence<div><br></div><div><b>Most common</b></div><div><i>1. Streptococcus pneumoniae.</i></div><div><i>2. Neisseria meningitidis.</i></div><div><i>3. Listeria monocytogenes</i> (older adults and immunosuppressed).</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bacteria</i> e.g. Haemophilus influenzae, Streptococci, Staphylococci, Gram negative bacilli.</div><div><i>2. Viruses </i>e.g. enterovirus.</div><div><i>3. </i><i>Spirochetes</i> e.g. Lyme diseaes, syphilis.</div><div><i>4. Fungi</i> e.g. cryptococcus.</div><div><i>5. Tuberculosis.</i></div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oTUaKfUe^r",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the upper limit of normal for LP opening pressure?",
+                "200mm H2O<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P_X!lC#4yT",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the upper limit of normal for CSF protein?",
+                "50 mg/dL<div>&nbsp;<br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zOzhMeW]m]",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the lower limit of normal for the CSF-to-serum glucose ratio?",
+                "0.6<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EGc0a66?Q>",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the upper limit of normal for CSF white cells?",
+                "5 cells/µL.<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CKuw1|5_{G",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which CSF findings are typical of bacterial infection?",
+                "Sort by test<div><br></div><div><b>1. WBC</b> usually &gt;1000/µL (majority neutrophils).</div><div><b>2. Glucose</b> usually &lt;45mg/dL.</div><div><b>3. Protein </b>usually &gt;250mg/dL.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q$pVu$Pa2x",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which CSF findings are typical of viral meningitis?",
+                "Sort by test<div><br></div><div><b>1. WBC </b>usually &lt;250/µL (majority lymphocytes).</div><div><b>2. Glucose normal.</b></div><div><b>3. Protein </b>usually &lt;150mg/dL.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vC`lc4wKP[",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Infection,",
+                "Neurology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of infective endocarditis?",
+                "<b>History</b><br><i>Constitutional symptoms</i> e.g. fever, night sweats, tiredness, weight loss.<br><i>Symptoms of emboli</i> e.g. stroke, pulmonary embolism.<br><br><b>Exam</b><br><i>Obs:</i> fever.<div><i>Inspection: </i>splinter haemorrhages and petechiae (conjunctivae), may be clubbing, Osler nodes, or Janeway lesions.</div><div><i>Palpation: </i>may be splenomegaly.</div><div><i>Auscultation: </i>may be new regurgitation murmur.</div><div><i>Bedside tests: </i>urine dip may show blood, ophthalmoscopy may show Roth spots.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KTI^S+ZVq2",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of infective endocarditis?",
+                "Sort by anatomy<div><br></div><div><b>1. Heart </b>e.g. valve damage, heart failure, aortic root abscess.</div><div><b>2. Emboli</b> (ischaemia and metastatic infection) e.g. brain abscess, glomerulonephritis, bacteraemia.<br></div><div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B^ItfzLn.O",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_B::Infection",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the diagnostic criteria for infective endocarditis?",
+                "<div>Any of the following combinations of 'Modified Duke Criteria':</div><div><br></div><div>1. Two major criteria.</div><div>2. One major and three minor criteria.</div><div>3. Five minor criteria.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fDl*Bb+O.$",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Emergency,",
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for infective endocarditis?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - IV access.</div><div><br><b>2. Meds</b><br>IV antibiotics 4-6 weeks (see local guidelines).</div><div><br><div><b>3. Surgery</b></div><div>Consider if prosthetic material, heart failure, or valve damage.<br></div><div><br></div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "flk8wSLah<",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Emergency,",
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected infective endocarditis?",
+                "<b>1. Bloods</b> e.g. cultures, FBC, U&amp;Es, CRP.<div><b>2. Urine dip</b> (glomerulonephritis).</div><div><b>3. ECG</b> (may show conduction abnormalities).</div><div><b>4. Echocardiogram.</b></div><div><b><br></b></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j=Bj7WwfBz",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which micro-organisms most commonly cause infective endocarditis?",
+                "<div>Sort by prevalence</div><div></div><br><b>Most common</b><br><div><i>1. Streptococci </i>e.g. Viridans group, S. bovis.</div><div><i>2. Staphylococci </i>e.g. S. aureus, coagulase neg.<i><br></i><div><br><b>All the rest</b><br><i>1. Enterococci</i> e.g. E. faecalis, E. faecium.</div><div><i>2. HACEK group</i> e.g. Haemophilus aphrophilus.</div><div><i>3. Q fever</i> (Coxiella burnetii)</div></div><div><br></div><div><b>NOTES</b></div><div>Staph and strep together account for large majority of cases.</div><div><i>Strep bovis</i> has a strong association with colorectal cancer.</div><div><i>HACEK group</i> = Haemophilus aphrophilus, Actinobacillus actinomycetemcomitans, Cardiobacterium hominis, Eikenella corrodens, and Kingella kingae.</div><div><br></div><div><div>UPDATED 2020</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t-pMW9wR$i",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Infection,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of postoperative fever?",
+                "Sort by mechanism<div><br></div><div><b>1. Infection </b>e.g. surgical site infection, LRTI, UTI, line infection, intra-abdominal abscess or anastomosis breakdown.</div><div><b>2. Thrombosis </b>e.g. DVT, PE.</div><div><b>3. Inflammatory </b>(stimulus of surgery).</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h}>Rw.Xu?`",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Inflammation,",
+                "Y3::Med_B::Infection",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List 5 antibiotic families",
+                "Sort by mechanism<div><br></div><div><b>1. Beta lactams </b>e.g. penicillins, cephalosporins, carbapenems.</div><div><b>2. Macrolides </b>e.g. erythromycin.</div><div><b>3. Tetracyclines</b> e.g. doxycycline.</div><div><b>4. Aminoglycosides</b> e.g. gentamicin.</div><div><b>5. Glycopeptides </b>e.g. vancomicin.</div><div><b>6. Fluoroquinolones</b> e.g. ciprofloxacin.</div><div><b>7. Trimethoprim.</b></div><div><b>8. Metronidazole.</b></div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sig!f1c/i?",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of the penicillins?",
+                "Inhibition of a family of bacterial enzymes involved in cell wall synthesis.<div><b><br></b></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rLLgZMl;4",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of the cephalosporins?",
+                "Inhibition of a family of bacterial enzymes involved in cell wall synthesis.<div><br></div><div><b>NOTES</b></div><div><i>Cephalosporins</i> are beta lactam antibiotics.</div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g,Tf[s#$1?",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of the carbapenems?",
+                "Inhibition of a family of bacterial enzymes involved in cell wall synthesis.<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Pya|G3ye!E",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of the macrolides?",
+                "Bind the 50S subunit of the bacterial ribosome (inhibit protein synthesis)<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C96pp]tb(y",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of the tetracyclines?",
+                "Bind the 30S subunit of the bacterial ribosome (inhibit protein synthesis)<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p:4g.EHj;(",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of the aminogycosides?",
+                "Bind the 30S subunit of the bacterial ribosome (inhibit protein synthesis)<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l7V(|3F&r@",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of the glycopeptide antibiotics?",
+                "Bind bacterial cell wall components, preventing cell wall polymerisation.<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DxyGs%MzKm",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of the fluoroquinolones?",
+                "Bind enzymes involved in bacterial DNA replication.<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Lac_D<TwTN",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of trimethoprim?",
+                "Binds bacterial dihydrofolate reductase (inhibits DNA metabolism)<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FOKpADoB2S",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of metronidazole?",
+                "Acts as a substrate for particular enzymes in anaerobic bacteria, the product creates toxic free radicals.<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HIRZ#eBETq",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of beta lactam antibiotics?",
+                "Sort by mechanism<div><br></div><div><b>1. IgE-mediated </b>e.g. anaphylaxis, angiodema, urticaria.</div><div><b>2. Serum sickness.</b></div><div><b>3. Skin </b>e.g. morbilliform rash, erythema multiforme.</div><div><b>4. CNS </b>e.g. penicillin neurotoxicity (only with very high doses).</div><div><b>5. Kidneys </b>e.g. interstitial nephritis.</div><div><b>6. GIT</b> e.g. diarrhoea.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KH^z$<;yS>",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Gastroenterology,",
+                "Infection,",
+                "Nephrology,",
+                "Neurology,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of macrolides?",
+                "Sort by organ system<div><br></div><div><b>1. Heart</b> e.g. QT prolongation.</div><div><b>2. Liver</b> e.g. hepatitis, cholestasis.</div><div><b>3. GIT</b> e.g. nausea, diarrhoea.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vsw!JC)0A>",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Gastroenterology,",
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of the tetracyclines?",
+                "Sort by organ system<div><br></div><div><b>1. GIT </b>e.g. nausea, diarrhoea.</div><div><b>2. Skin</b> e.g. photosensitivity.</div><div><b>3. Teeth and bone</b> (yellow discolouration of teeth in children).</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ry<_t{z_bT",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Gastroenterology,",
+                "Infection,",
+                "Orthopaedics,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of aminoglycosides?",
+                "Sort by organ system<div><br></div><div><b>1. Nephrotoxicity.</b></div><div><b>2. Ototoxicity</b> (vestibular and cochlear damage).</div><div><b>3. Neuromuscular blockade.</b></div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jQ{mx?[%Ot",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Nephrology,",
+                "Neurology,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of vancomycin?",
+                "Sort by organ system<div><br></div><div><b>1. CVS</b> e.g. hypotension and flushing.</div><div><b>2. Skin </b>e.g. erythema on face and upper body (red man syndrome).</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "=7R?#A)1F",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of fluoroquinolones?",
+                "Sort by organ system<div><br></div><div><b>1. GIT</b> e.g. nausea, vomiting, diarrhoea (increased risk of Clostridium difficile).</div><div><b>2. CNS </b>e.g. light headedness, acute confusion, seizures.</div><div><b>3. Tendon rupture.</b></div><div><b>4. CVS</b> e.g. QT prolongation.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uv5lxdwX~!",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Gastroenterology,",
+                "Infection,",
+                "Neurology,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of trimethoprim-sulfamethoxazole (cotrimoxazole)?",
+                "Sort by organ system<div><br></div><div><b>GIT</b> e.g. nausea, vomiting.</div><div><b>Skin</b> e.g. rash, SJS/ TEN.</div><div><b>Kidneys</b> e.g. reduction in creatinine secretion.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ec~lXpX(Ze",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Gastroenterology,",
+                "Infection,",
+                "Nephrology,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of metronidazole?",
+                "Sort by organ system<div><br></div><div><b>1. GIT</b> e.g. nausea, vomiting, diarrhoea, 'metallic taste'.</div><div><b>2. CNS </b>e.g. acute confusion, seizures (only at high doses).</div><div><b>3. Genitourinary</b> e.g. transient red-brown urine.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B6NcY;@huV",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Neurology,",
+                "Pharmacology,",
+                "Urology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of antibiotic is ceftriaxone?",
+                "A 3rd generation cephalosporin<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b$xLh(C{;q",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of antibiotic is cefotaxime?",
+                "A 3rd generation cephalosporin<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pcBw1B*KS5",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of antibiotic is tazocin?",
+                "Piperacillin (4th generation penicillin) and tazobactam (beta lactamase inhibitor)<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r9t.1=s;gM",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of antibiotic is co-amoxiclav?",
+                "Amoxicillin (2nd generation penicillin) and clavulanate (beta lactamase inhibitor)<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "APyXnco6A.",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of antibiotic is erythromycin?",
+                "A macrolide<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kA|L`;b[j8",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of antibiotic is clarithromycin?",
+                "A macrolide<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v_oENAd<=r",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of antibiotic is doxycycline?",
+                "A tetracycline<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mc`4<[5Mu;",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of antibiotic is gentamicin?",
+                "An aminoglycoside<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Pd4d?cTd-D",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of antibiotic is teicoplanin?",
+                "A glycopeptide<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bKn{5=YXV%",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of antibiotic is ciprofloxacin?",
+                "A fluoroquinolone<div><br></div><div><b>UPDATED 2020</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w.Ue+7+:I5",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Infection"
             ]
         },
         {
