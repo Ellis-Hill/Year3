@@ -37,7 +37,7 @@
                     7
                 ],
                 "order": 0,
-                "perDay": 31,
+                "perDay": 30,
                 "separate": true
             },
             "replayq": true,
@@ -61,6 +61,7 @@
     "media_files": [
         "0e90dff35e89cc556e6d5c8af3f835_jumbo.jpeg",
         "1200px-Diagram_showing_how_the_testicle_is_removed_(orchidectomy)_CRUK_141.svg.png",
+        "2-Table1-1.png",
         "20130607_111705.jpg",
         "2cd4d7d93a4ad89f308e0dbe7dab6f_jumbo.jpg",
         "2ec94c408f9a866d6d666b7f193a50_jumbo.jpg",
@@ -117,6 +118,8 @@
         "en3-s.jpg",
         "ermulti1__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDE3XQ.jpg",
         "ermulti2-s.jpg",
+        "ermulti2__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
+        "ermulti3__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDE2XQ.jpg",
         "erysipelas4-s.jpg",
         "erythrasma2-s.jpg",
         "erythrasma3-s.jpg",
@@ -170,17 +173,26 @@
         "paste-08b7a4524527bc79e5537bc72fbceda21248ac37.jpg",
         "paste-1053404e979bbcb4bd0565bf410d29f2c67b5fbd.jpg",
         "paste-119688fa857334f7191b2075611bffccc8847810.jpg",
+        "paste-1455993913575.jpg",
+        "paste-1705102016743.jpg",
         "paste-18098992185664.jpg",
         "paste-181e62178291753b0a7b8da28ad5340f2daa48ea.jpg",
+        "paste-1829656068327.jpg",
         "paste-1843dcdfdd835abe2c2d0ee728fa90f6ce4a6a39.jpg",
+        "paste-1876900708583.jpg",
         "paste-18a24eaefce4471431965b92914e878b6be6c70c.jpg",
+        "paste-1915555414247.jpg",
         "paste-1917cde4e336a394704ffc32cf463988a6f9ab4a.jpg",
+        "paste-1962800054503.jpg",
         "paste-1a4439a1d935b323bea47d9cd1da504abfc18c4d.jpg",
         "paste-1c3caa1d947c347ae6dec1d05872b09d708365b8.jpg",
         "paste-1d240ebd3ad790613afa548257fa0185a36f3d88.jpg",
         "paste-1d5c3cd3015db34312ada4d3965586fa23a48f57.jpg",
         "paste-1f5a2ff93577782d182781a09cc3767b485b0f52.jpg",
         "paste-1f8ada068e90e6fa698737c56a920c5db963abcc.jpg",
+        "paste-2001454760167.jpg",
+        "paste-2040109465831.jpg",
+        "paste-2087354106087.jpg",
         "paste-21a7128c2e071b15c10e6e9a4f833290f3364997.jpg",
         "paste-21c1d781a62826c80d27bbb180531d81f7c46fcf.jpg",
         "paste-2311da894383d4d35c5233235deb836a033bac52.jpg",
@@ -292,6 +304,7 @@
         "paste-d6ec03b7ef6defcc225512a33cffec7bf34eb8b9.jpg",
         "paste-d816bf38a2edf904da0e11b41f0f580663c9ca11.jpg",
         "paste-dc5a88f0cba303e95b72b81b4317eb0ba4ee83ad.jpg",
+        "paste-de51ccd788bb8f5d91ed8f4ad70e29a6fd7795e6.jpg",
         "paste-dfc064d6b87d5b7f1f1f0174239d81f08870f3f6.jpg",
         "paste-e1ecc8f8f49a032609a9bb488309cb6bf2fa102f.jpg",
         "paste-e1fd969f11736611cb6ccad699c14bc91505df3b.jpg",
@@ -402,6 +415,58 @@
             "tags": [
                 "dermatology"
             ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Forward",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #ffffff;text-align: left }",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-1f6f7-ca6f1-84bdf",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -652,6 +717,60 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "Y3::Med_B::CBL3::LO8"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
@@ -763,60 +882,6 @@
             ],
             "type": 1,
             "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 12,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 12,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [
-                "Y3::Med_B::CBL3::LO8"
-            ],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
         }
     ],
     "notes": [
@@ -850,6 +915,414 @@
             "tags": [
                 "Dermatology,",
                 "Y3::Med_A::Dermatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which system is used to describe severity in internal haemorrhoids?",
+                "<div>1st to 4th degree</div><div><br></div><div><b>NOTES</b></div><i>1st degree</i> are confined to the anal canal.<br><i>2nd degree</i> prolapse on defacation, then reduce spontaneously.<br><i>3rd degree</i> prolapse on defacation, may be manually reduced.<br><i>4th degree</i> remain prolapsed at all times.<div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "r4~wSv}g~w",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for colorectal cancer?",
+                "Sort by history<div><br></div><b>Demographics </b>e.g. age, male, Afrocaribbean.<div><b>PMHx </b>e.g. familial colorectal cancer syndrome, inflammatory bowel disease, previous radiotherapy.</div><div><b>FHx </b>e.g. HNPCC, FAP, Peutz-Jeghers, Juvenile polyposis.</div><div><br></div><div><b>NOTES</b></div><div><i>HNPCC</i> = hereditary non-polyposis colon cancer (Lynch Syndrome).</div><div><i>FAP</i> = familial adenomatous polyposis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "h3^sqVLi9n",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which system is used for staging in colorectal cancer?",
+                "TNM system<div><div><div><br></div><div><b>NOTES</b></div><div>T = Tumour.<br>N = Nodes.<br>M = Mets.</div><div><br><i>Dukes' criteria (old staging system)</i></div><div>A = Involving only mucosa and submucosa.<br>B = Involving muscle wall.<br>C = Involving regional lymph nodes.<br>D = Distant mets.</div></div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "kBG1wn!`35",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of colorectal cancer?",
+                "<div>Clinical presentation is variable.</div><div><br></div><b></b><b>History</b><br><i>Symptoms due to primary </i>e.g. chronic constipation, overflow diarrhoea, mucus, bleeding, tenesmus.<div><div><i>Symptoms due to mets</i> e.g. jaundice.</div><div><i>Constitutional symptoms</i> e.g. tiredness, weight loss.<br><br><b>Exam</b><br><i>Inspection: </i>cachexia, pallor, jaundice.<br><i>Palpation: </i>LIF mass, hepatomegaly.</div><div><i>PR: </i>palpable mass, blood, mucus.<br></div></div><div><br></div><div><b>NOTES</b></div><div>Colorectal cancer may present with obstruction or perforation.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "na$JQP*J:]",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected colorectal cancer?",
+                "<b><div></div></b><div><div><span style=\"font-weight: bold\">1. Initial tests<span style=\"font-weight: normal;\"> </span></span>(including assessment of fitness for surgery)</div><i>Bloods:</i> FBC, U&amp;E, CRP, LFT.</div><div><i>ECG.</i></div><div><div><i>Radiology</i> e.g. barium enema, CT colon, CXR.</div><div><i>Colonoscopy.</i></div><div><br></div></div><div><b>2. Diagnostic biopsy</b> (done at colonoscopy).</div><div><b>3. Staging</b> e.g. CT, MRI, PET.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "m4TsVC#!NU",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Y3::Surg_A::General_Surgery",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of stoma formation?",
+                "Sort by time of onset<div><br></div><div><b>Early</b></div><div><i>1. Stomal necrosis.</i></div><div><br></div><div><b>Late</b></div><div><i>1. Peristomal skin breakdown</i> e.g. mechanical trauma, irritant or allergic contact dermatitis.</div><div><i>2. Parastomal hernia formation.</i></div><div><i>3. Stomal stenosis.</i></div><div><i>4. Stomal retraction or prolapse.</i></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "bY6>jbLuTu",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are haemorrhoids?",
+                "Enlarged, prolapsing, or symptomatic anal cushions.<div><br></div><div><b>NOTES</b><br><div><i>Anal cushions</i> are saccules formed from draining veins, supported by smooth muscle.</div></div><div><i>Internal haemorrhoids</i> are located proximal to the dentate line.</div><div><i>External haemorrhoids</i> are located distal to the dentate line.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "k2|`QPNzX:",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of uncomplicated haemorrhoids?",
+                "<b>History</b><br>Painless, bright red rectal bleeding at defaecation.<br>May be mucus or pruritus ani.<div><br></div><div><b>Exam</b></div><div><i>PR:</i> haemorrhoids may be visible or palpable.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "gnWxo5qB=}",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of haemorrhoids?",
+                "Sort by mechanism<div><b><br></b></div><div>1. Bleeding.<br>2. Thrombosis.</div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "vX1k5X4D/z",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for haemorrhoids?",
+                "<b>1. Conservative</b> e.g. high fibre diet; laxative such as laxido.&nbsp;<div><br></div><div><b>2. Pharmacology </b>e.g. Topical corticosteroids - Hydrocortisone 2.5% BD for 5-7/7&nbsp;<br><div><br><b>2. Proctoscopic</b></div><div><i>Sclerotherapy</i> e.g. 5% phenol injection.</div><div><i>Banding</i> i.e. O-ring rubber band to areas of protruding mucosae.</div><div><br><b>3. Surgical</b>: haemorrhoidectomy (very rarely indicated).<br></div><div><br></div><div><b>NOTES</b></div><div>Bands must be applied above the dentate line, otherwise they may be painful.</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "e>ZMV00na~",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for thrombosed haemorrhoids?",
+                "<b>1. Conservative </b>e.g. cold compresses.<div><div><br><b>2. Meds </b>e.g. local anaesthetic cream (lidocaine); analgesia.</div><div><b><font color=\"#008000\"><br></font></b></div><div><b>3. Surgery</b>: haemorrhoidectomy (very rarely indicated).<br></div></div><div><br></div><div><b>NOTES</b></div><div>Condition is usually self limiting in 2-3 weeks.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "olR%zp.5Df",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of fissure in ano?",
+                "<b></b><b>History</b><br>Typical patient is a young adult.<br><div>Tearing pain on opening bowels.<br>Small volume bleeding on toilet paper.<br>Constipation due to pain (reluctant to push).<br><br><b>Exam</b><br><i>Inspection: </i>linear fissure in posterior midline, may be 'sentinel pile' if chronic fissure.</div><div><i>Palpation: </i>very tender, anal sphincter in spasm.</div><div><br></div><div><b>NOTES</b></div><div><i>A 'sentinel pile'</i> is heaped up skin at the lowermost extent of the linear ulcer.<br></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "qTXU,#`?/9",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for fissure in ano?",
+                "<b>1. Conservative </b>e.g. high fibre diet; warm sitz bath following bowel movements.<div><div><div><br><b>2. Meds</b> (consider)<br>Laxatives e.g. laxido.</div><div>Cream e.g. diltiazem, GTN, LA.</div><div>Botulinum toxin injection.<br><br><b>3. Surgery</b> (very rarely indicated)<br>Lateral sphincterotomy.<br></div></div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "twc~G(x<zH",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for an anorectal abscess?",
+                "<b>1</b><b>. Surgical drainage.</b><div><b>2. Antibiotics</b> if sepsis or cellulitis (see local guidelines).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "s4/oh!(dX=",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of fistula in ano?",
+                "Sort by prevalence<div><br></div><div><b>Most common:</b> anorectal abscess.</div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. Neoplasia</i> e.g. anorectal cancer.</div><div><i>2. Inflammatory</i> e.g. Crohn disease.<br><i>3. Trauma</i> e.g. inexpert surgical drainage.<br></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "cVmM3V-:d",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Goodsall's law?",
+                "<b>Describes the anatomy of fistulae in ano:</b><div><b><br></b><div><div><i>Posterior</i> fistulae follow a curvilinear route to open in the midline of anus.</div><div><i>Anterior</i> fistulae follow a radial route to open directly into the anus.<br></div></div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "s%~G@:#d)K",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of fistula in ano?",
+                "<b></b><b>History</b><br>Chronically discharging opening in perianal skin.<br>Pruritus.<br>Perianal discomfort.<br><br><b>Exam</b><br><i>Inspection: </i>perianal skin may be inflamed, fistula opening may be visible.<div><div><br></div><div><b>NOTES</b></div><div>Examination under anaesthetic is required.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "bl%*ESxbn}",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for fistula in ano?",
+                "<b>1. Surgical</b><div><i>Low lying fistula:</i> primary fistulotomy or injection of fibrin sealant.</div><div><i>High fistula:</i> draining seton thread, then consider definitive treatment e.g. endoanal advancement flap.</div><div><br></div><div><b>NOTES</b></div><div><i>Low lying fistulae</i> have their internal opening below the internal sphincter.</div><div><i>High fistulae</i> have their internal opening above the internal sphincter.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "rDrwn,%v>S",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of a palpable mass in the rectum?",
+                "Sort by anatomy<br><br><b>1. Rectum</b> e.g. cancer, polyp, diverticular disease.<div><b>2. Prostate</b> e.g. cancer, BPH.<br><b>3. Pelvic organs</b> e.g. cancer, ovarian cyst, endometriosis.<br></div><div><b>4. Foreign body</b> e.g. ring pessary, tampon.</div><div><br></div><div><b>NOTES</b></div><div><i>BPH</i> = benign prostatic hypertrophy.&nbsp;</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "qo)U<YrE&w",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of paralytic ileus?",
+                "<div>Sort by mechanism</div><div style=\"font-weight: bold; \"><b><br></b></div><b>1. Infection </b>e.g. peritonitis.<div><b>2. Trauma </b>e.g. post-laparotomy (lasts &lt;48h).<br><b>3. </b><b>Drugs </b>e.g. anticholinergics, opiates, lithium.</div><div><b>4. Metabolic </b>e.g. elecrolyte derangement, particularly hypoK.</div><div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "rlgfar07B]",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of acute appendicitis?",
+                "<b></b><b>History</b><br>Abdo pain (SOCRATES)<div>S - periumbilical, moving later to the RIF.</div><div>C - starts diffuse, then sharp.</div><div>A - anorexia, nausea, constipation.</div><div>E - exacerbated by movement e.g. speed bumps, coughing.</div><div><div><div><div><br><b style=\"font-weight: bold; \">Exam</b><br><i>Obs:</i> low grade fever, tachycardia.<br><i>Palpation: </i>tenderness, guarding, and rebound in RIF, may be Rovsing's sign.</div><div><i>PR: </i>may be tender (retrocoaecal or pelvic appendix).<br><br></div><div><b>NOTES</b></div><div><i>If appendix ruptures</i> there may be temporary remission of pain before general peritonitis sets in.</div></div></div></div><div><i>Atypical presentations</i> are more common in children and elderly people.</div><div><div><br></div></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "uI{-iR9(xe",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Meckel's diverticulum?",
+                "The embryological remnant of the <b>vitelline duct.</b><div><br></div><div><b>NOTES</b></div><div><i>Vitelline duct </i>connects the embryological midgut to the yolk sac.</div><div><i>Rule of Twos: </i>2 feet from the ileocecal valve (in the ileum), 2 inches long, 2% of population, 2x more common in males, 2% symptomatic.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "diAY)mudg.",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of Meckel's diverticulum?",
+                "<div>Sort symptoms by mechanism</div><div><br></div><div><b>History</b></div><div><i>1. Diverticular inflammation:</i> abdo pain and fever, similar to appendicitis (may perforate).</div><div><i>2. Ectopic gastric mucosa:</i> rectal bleeding (ulceration of nearby mucosa).</div><div><i>3. Intussusception:</i> bowel obstruction.</div><div><br></div><div><b>Exam</b></div><div>Usually no signs.</div><div><br></div><div><b>NOTES</b></div><div><i>Meckel's diverticulum </i>is often asymptomatic.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "i;O*fPSK5+",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
             ]
         },
         {
@@ -1151,6 +1624,778 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the risk factors for gallstones?",
+                "<div><div>Sort by history</div></div><div><br></div><div>5F's&nbsp;</div><div><br></div><div>Female&nbsp;</div><div>Fat&nbsp;</div><div>Forty&nbsp;</div><div>Fertile&nbsp;</div><div>Fair&nbsp;</div><div><br></div><b>Demographics </b>e.g. age, female.<div><b>PMHx</b></div><div><i>High oestrogen</i> e.g. pregnancy.</div><div><i>High lipids</i> e.g. obesity, rapid weight loss, hyperlipidaemia.</div><div><i>Haemolysis.</i></div><div><i>Gallbladder stasis </i>e.g. diabetes, total parenteral nutrition.</div><div><b>DHx </b>e.g. oestrogen, fibrates.</div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "u9XNFnQ,rA",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of gallstones?",
+                "<div>Sort by anatomy</div><div style=\"font-weight: bold; \"><b><br></b></div><b>1. Gallbladder </b>e.g. biliary colic, cholecystitis, Mirizzi's syndrome, carcinoma.<div><div><b>2. Bile duct </b>e.g. obstructive jaundice, pancreatitis, cholangitis, cholangiocarcinoma.</div><div><b>3. Intestine </b>e.g. gallstone ileus.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qp}iD>h5$G",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of biliary colic?",
+                "<b></b><b>History</b><br>Abdo pain (SOCRATES)<div>S - RUQ, chest.</div><div>O - after fatty meal.</div><div>C - dull, intense.</div><div>R - to back or right shoulder blade.</div><div>T - severity increases over &lt;1h, plateaus for &gt;1h, then decreases over several hrs.</div><div><div><div><div><br><b>Exam</b><br>Usually no signs.<br></div></div></div><div><br></div><div><b>NOTES</b></div><div>May present as chest pain.<br></div><div><div><div><div>Murphy's sign is negative.</div></div></div></div></div><div><div>&nbsp;UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "soUxosV#rE",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of acute cholecystitis?",
+                "<b></b><b>History</b><br>Abdo pain (SOCRATES)<div>S - RUQ.</div><div>O - after fatty food.</div><div>C - steady and severe.</div><div>R - to shoulder or back.</div><div>A - fever, anorexia, N&amp;V.</div><div><div><div><div><div><br><b>Exam</b><br><i>Obs:</i> fever, tachycardia.<br><i>Inspection: </i>lying still.<br><i>Palpation: </i>guarding, may be Murphy's sign.</div></div></div><div><br></div><div><b>NOTES</b></div><div>Patient usually lies still because local peritoneal inflammation is aggravated by movement.</div></div></div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "gDkPcj@_3C",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of ascending cholangitis?",
+                "<b></b><b>History</b><br>Fever and rigors.<br>RUQ pain.<div>Cholestatic jaundice (yellow skin, pale stools, dark urine, pruritus).</div><div>May be acute confusion.</div><div><br><b>Exam</b><br><i>Obs: </i>high fever, tachycardia, hypotension.<br><i>Inspection: </i>jaundice.</div><div><i>Palpation: </i>RUQ tenderness.</div><div><br></div><div><b>NOTES</b></div><div><i>Charcot's Triad:</i> high fever and rigors, jaundice, RUQ pain.</div><div><i>Reynold's Pentad: </i>as above plus confusion and hypotension.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "tqJ11vxOE-",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of acute pancreatitis?",
+                "<div>Sort by prevalence.</div><div><br></div><div><b>Most common</b><br><i>1. Gallstones.<br>2. Alcohol.<br>3. ERCP.</i><br><br></div><div><b>All the rest</b><br><i>1. Infection</i> e.g. mumps, HIV, Coxsackie B.</div><div><i>2. Inflammatory</i> e.g. autoimmune pancreatitis.</div><div><i>3. Trauma.</i></div><div><i>4. Endocrine </i>e.g. hyperlipidaemia, hypercalcaemia.</div><div><i>5. Drugs</i> e.g. azathioprine, mesalazine.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "gb)CxBtc12",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of chronic pancreatitis?",
+                "Sort by prevalence<div><i><br></i><b>Most common:</b> alcohol excess.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Hereditary pancreatitis.<b><br></b></i></div><div><i>2. Tropical pancreatitis</i> (aetiology unclear).</div><div><i>3. Autoimmune chronic pancreatitis.</i></div><div><b><br></b></div><div><b>NOTES</b></div><div>Chronic pancreatitis may be idiopathic.</div><div>Alcohol causes proteins to precipitate in the pancreatic ducts, leading to dilatation and fibrosis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "j6yqp]FK$/",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for pancreas cancer?",
+                "<div><div>Sort by history</div></div><div><br></div><b>Demographics </b>e.g. age.<div><div><b>PMHx </b>e.g. chronic pancreatitis, obesity.</div><div><b>SHx </b>e.g. smoking.</div></div><div><b>FHx</b> e.g. hereditary pancreatitis, hereditary cancer syndromes (including BRCA).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "p(9*yk,;Z2",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Oncology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of pancreas cancer?",
+                "<b>History</b><br><div><div>Typically presents with painless cholestatic jaundice (yellow skin, dark urine, pale stools, pruritus).</div><div><i>Other symptoms due to primary </i>e.g. upper abdo pain, 'gnawing quality', radiating to the back, often worse at night.</div><div><i>Constitutional symptoms</i> e.g. tiredness, weight loss.</div><div><br></div><div><b>Exam</b></div></div><div><i>Inspection: </i>jaundice, excoriations, cachexia, pallor.</div><div><i>Palpation: </i>RUQ mass, hepatomegaly, Courvoisier’s sign.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "fnJnw>^Y_&",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of gastric cancer?",
+                "<div>Sort symptoms by anatomy</div><div><br></div><b>History</b><br><i>Symptoms due to primary </i>e.g. epigastric pain, dysphagia, haematemesis and melaena (minority of cases).<br><i>Symptoms due to mets </i>e.g. jaundice.<div><i>Constitutional symptoms</i> e.g. tiredness, weight loss.<br><div><br><b>Exam</b><br><i>Inspection: </i>cachexia, pallor.<br><i>Palpation: </i>epigastric mass, lymphadenopathy e.g. Virchow's node, hepatomegaly.<br></div><div><br></div><div><b>NOTES</b></div><div><i>Lymphadenopathy</i> e.g. Virchow's node (left supraclavicular), Sister Mary Joseph's node (periumbilical), Irish node (left axilla).</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "fr@-b<4b;9",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of oesophageal cancer?",
+                "<div>Sort symptoms by anatomy</div><div><br></div><b>History</b><br><i>Symtoms due to primary </i>e.g. progressive dysphagia (solids then liquids), regurgitation, haematemesis and malaena (rare).<div><div><div><i>Symptoms due to mets </i>e.g. jaundice.</div><div><i>Constitutional symptoms</i> e.g. tiredness, weight loss.</div><div><br><b>Exam</b><br><i>Inspection: </i>cachexia, pallor.<br><i>Palpation: </i>epigastric mass, Virchow's node, hepatomegaly.</div></div><div><br></div><div><b>NOTES</b></div><div>Dysphagia often starts with bread and meat.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "m4F^CPCfJU",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for SCC of the oesophagus?",
+                "<div><div>Sort by history</div></div><div><br></div><div><b>Demographics </b>e.g. age, Afro-caribbean.</div><div><div><b>PMHx </b>e.g. previous gastrectomy, caustic strictures.</div><div><b>SHx </b>e.g. smoking, alcohol, betel nuts, diet low in fruit and veg.</div><div><br></div></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "e|c<8j28l<",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Oncology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for oesophageal adenocarcinoma?",
+                "<div><div>Sort by history</div></div><div><br></div><div><b>Demographics </b>e.g. age, male, caucasian.</div><div><div><b>PMHx </b>e.g. obesity, GORD (Barrett oesophagus).</div><div><b>SHx </b>e.g. smoking, obesity.</div><div><b><br></b></div><div><b>NOTES</b></div><div>Alcohol excess and Helicobacter pylori infection are not risk factors.</div></div><div><i>GORD</i> = gastro-oesophageal reflux disease.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "b-R.1%2UeP",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Cullen's sign?",
+                "Periumbilical bruising<br><br><div><b>NOTES</b></div><div>Seen in acute pancreatitis, blunt abdominal trauma, ruptured AAA, ruptured ectopic pregnancy.</div><div><i>AAA</i> = abdominal aortic aneurysm.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "mtbp7k(nA2",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Grey Turner's sign?",
+                "Bruising of the flanks<div><br></div><div><b>NOTES</b></div><div>May be seen in acute pancreatitis, blunt abdominal trauma, ruptured AAA, or heamorrhagic ectopic pregnancy.<br></div><div><div><i>AAA</i> = abdominal aortic aneurysm.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "r2!{}X*L<#",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which severity scores are used in assessment of suspected acute pancreatitis?",
+                "1. Glasgow prognostic score (&gt;3 indicates pancreatitis).<div>2. Ranson score.</div><div>3. APACHE II score.<br><div><br></div><div><b>NOTES</b><br>Glasgow score is calculated at admission and at 48h.</div><div><br></div><div><i>Glasgow score components (mnemonic PANCREAS):<br></i>PaO2 &lt;8kPa.<br>Age &gt;55y.<br>Neutrophilia, WCC &gt;15 x 10^9 cells/l.<br>Ca &lt;2.0mmol/l.<br>Renal, urea &gt;16mmol/l.<br>Enzymes, LDH &gt;600 IU/l or AST &gt;200 IU/l.<br>Albumin &lt;30g/l.<br>Sugar, glucose &gt;10mmol/l (no diabetes).<br></div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "m{d(8g>*=&",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the early complications of acute pancreatitis?",
+                "<div>Sort by mechanism</div><div><br></div><b>1. Systemic inflammation</b> e.g. SIRS, ARDS, DIC.<div><b>2. Hypovolaemia </b>(3rd space loss).</div><div><b>3. HypoCa</b> (saponification of fat).</div><div><b>4. Hyperglycaemia</b> (glucagon release).</div><div><br></div><div><b>NOTES</b></div><div><i>SIRS</i> = systemic inflammatory response syndrome.</div><div><i>ARDS</i> = acute respiratory distress syndrome.</div><div><i>DIC</i> = disseminated intravascular coagulation.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "o{X{XqaG<C",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Murphy's sign?",
+                "<div><b>RUQ tenderness to palpation on deep breathing</b> (seen in cholecystitis).</div><div><br></div><div><b>NOTES</b></div><div><i>Technique: </i>Lie patient supine, ask her to breathe out. Place a hand below the right costal margin in the mid clavicular line, then ask her to breathe in. If the patient winces with a 'catch' in breath, the test is considered positive.</div><div><i>RUQ</i> = right upper quadrant.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "sUvsznP6+l",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Mirizzi's syndrome?",
+                "<div><b>Common bile duct obstruction</b>, due to extrinsic compression by a gallstone in either the cystic duct or Hartmann's pouch of the gallbladder.</div><div><br></div><div><b>NOTES</b></div><div>Presents with symptoms of cholestatic jaundice.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "hno2De=I!.",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where is McBurney's point?",
+                "About 2 inches from the right ASIS towards the umbilicus.<div><br></div><div><b>NOTES</b></div><div>McBurney's point is usually tender in appendicitis.</div><div><i>ASIS</i> = anterior superior iliac spine.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "mXsf,zsnpV",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy",
+                "Y3::Surg_A::General_Surgery",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the treatment options for oesophageal cancer?",
+                "<div>Sort by members of the MDT</div><div><br></div><div><b>1. Surgeon</b> (radical or palliative surgery) e.g. oesophagectomy, stenting.</div><div><b>2. Nurse specialist </b>e.g. patient education.</div><div><b>3. Oncologist</b> e.g. chemotherapy, radiotherapy.</div><div><div><b style=\"font-weight: bold; \">4. Endoscopist </b>e.g. endoscopic therapy (early cancer).</div></div><div><b>5. Palliative care.</b></div><div><div><b><br></b></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "uT2wS`xkAe",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected gastric cancer?",
+                "<div><div><div><span style=\"font-weight: bold\">1. Initial tests<span style=\"font-weight: normal; \"> </span></span>(including assessment of fitness for surgery)</div><i>Bloods: </i>FBC, U&amp;E, CRP, LFT.</div><div><i>ECG.</i><div><i>Radiology</i> e.g. CXR, barium swallow.</div></div><div><b><br></b></div><div><b>2. Biopsy:</b> OGD.</div><div><b>3. Staging </b>e.g. barium meal (linitis plastica), EUS, CT, PET, laparoscopy.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "l/P>|Cq:%B",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the treatment options for gastric cancer?",
+                "<div>Sort by members of the MDT</div><div><br></div><div><b>1. Surgeon</b> (radical or palliative surgery) e.g. subtotal or total gastrectomy, stenting.</div><div><b>2. Nurse specialist </b>e.g. patient education.</div><div><b>3. Oncologist</b> e.g. chemotherapy, radiotherapy.</div><div><div><b>4. Endoscopist </b>e.g. endoscopic therapy (early cancer).</div><div><b>5. Palliative care.</b></div></div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "paei!ROmGo",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of cholestatic jaundice?",
+                "Sort by mechanism<br><br><b>1. Gallstones.</b><br><b>2. Benign strictures </b>e.g. PBC, PSC, choledochal cyst.<br><b>3. Malignant strictures</b> e.g. pancreas cancer, extrinsic compression by metastatic tumour.<br><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "uc8r^)[<p7",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the treatment options for pancreas cancer?",
+                "<div>Sort by members of the MDT</div><div><br></div><div><b>1. Surgeon</b> e.g. Whipple procedure, distal pancreatectomy.</div><div><div><b>2. Nurse specialist </b>e.g. patient education.</div></div><div><b>3. Oncologist </b>e.g. chemotherapy.</div><div><b>4. Endoscopist</b> e.g. CBD stent.</div><div><div><b>5. Palliative care.</b></div></div><div><br></div><div><b>NOTES</b></div><div>Only a small minority of tumours are suitable for resection.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "e34f>r0Q%b",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of acute pancreatitis?",
+                "<b><div></div></b>Clinical presentation is variable.<div style=\"font-weight: bold; \"><b><br></b></div><b></b><b>History</b><br>Abdo pain (SOCRATES)<div>S - epigastric.</div><div>O - acute.</div><div>C - burning, boring, increasing severity.</div><div>R - to back.</div><div>A - anorexia, N&amp;V.</div><div><div><div><div style=\"font-weight: bold; \"><br></div><div><div><b style=\"font-weight: bold; \">Exam</b><br><i>Obs:</i> fever, tachycardia, tachypnoea, hypotension, oliguria.<br><i>Inspection: </i>abdominal distention (epigastrium), may be jaundice, Cullen's or Grey Turner's sign.<br><i>Palpation: </i>abdo tenderness with guarding.<br><i>Auscultation: </i>decreased bowel sounds.</div></div></div></div></div><div><br></div><div><b>NOTES</b></div><div>May present with collapse and shock.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "r;X2T]v7@M",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of chronic pancreatitis?",
+                "<b></b><b>History</b><br><div>Typical patient has a history of alcohol excess.</div><div>Abdo pain (SOCRATES)<div>S - epigastric.</div><div>O - after fatty food.</div><div>C - constant and severe.</div><div>R - to back.</div><div><div><div>A - pancreatic exocrine dysfunction (steatorrhoea, weight loss) and endocrine dysfunction (diabetes).</div></div></div><div>E - relieved by leaning forwards and heat pads.</div><div>S - usually very severe, requiring opiates.</div><div><br></div></div><div><b>Exam</b><br></div><div><i>Inspection: </i>cachexic, may be erythema ab igne from heat pads.</div><div><i>Palpation: </i>tender epigastrium.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "s[#37+S.~k",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected chronic pancreatitis?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important:</b> faecal elastase.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods</i> e.g. screen for autoimmune pancreatitis, blood glucose</div><div><i>2. Imaging</i> e.g. AXR, USS, CT, MRI.<br><div><b><br></b></div><div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "c=JV2V[s45",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Emergency",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for chronic pancreatitis?",
+                "<b>1. Conservative</b> e.g. alcohol abstinence and smoking cessation&nbsp;<div><br><b>2. Meds</b><br><i>Analgesia</i> e.g. morphine.</div><div><i>Exocrine replacement </i>e.g. creon.</div><div><i>Endocrine replacement </i>e.g. metformin, insulin, etc.</div><div><i>Proton Pump Inhibitor </i>e.g. Lansoprazole</div><div><div><br><b>3. Endoscopic </b>consider pancreatic duct stents.</div><div><br></div><div><b>4. Surgery </b>consider decompression or resection.</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "i!`bp8].3r",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for biliary colic?",
+                "<b>1. </b><b>Meds</b> e.g. ibuprofen.<div><div><br></div><div><b>2. Surgical</b> e.g. elective cholecystectomy.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "vz4=7}O^+P",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of acute cholecystitis?",
+                "Sort by prevalence<div><br></div><div><b>1. Gallstones.<br>2. Acalculous</b> (usually critically ill patients).</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "h%ZjiIK$O!",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected acute cholecystitis?",
+                "<b>1. Bloods</b><div>VBG, culture, FBC, U&amp;Es, CRP, LFTs, lactate.<div><div><b><br></b></div><div><b>2. Imaging</b></div><div><i>First line: </i>abdo USS (look for gallstones).</div><div><i>Second line: </i>cholescintigraphy.</div><div><br><b>NOTES</b></div><div><i>Cholescintigraphy</i> (HIDA scan).</div><div><i>HIDA</i> = hepatic iminodiacetic acid, selectively taken up by hepatocytes and excreted in bile.</div><div>Failure to visualise gallbladder in cholescintigraphy suggests cholecystitis.</div></div><div><i>VBG</i> = venous blood gas.</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "f-AnXtG=$a",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for acute cholecystitis?",
+                "<div><div><b>1. Resus</b></div></div><div>A+B - consider airway support and O2.</div><div>C - IV fluids, catheter, monitor input/ output.</div><div>Make NBM.</div><div><br><b>2. Meds</b></div><div>Analgesia.<br>Antibiotics (see local guidelines).</div><div><div><br><b>3. Surgery</b></div></div><div><i>If gangrene or perforation suspected:</i> emergency cholecystectomy or gallbladder drainage.</div><div><i>If low risk for cholecystectomy:</i> laparoscopic cholecystectomy same admission.</div><div><i>If high risk for cholecystectomy:</i> gallbladder drainage.</div><div><br></div><div><b>NOTES</b></div><div><div><i>Gallbladder drainage</i> may be percutaneous (first line) or endoscopic (second line).</div></div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "fJPFsp6%6h",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of ascending cholangitis?",
+                "Sort by mechanism<div><b><br></b></div><div><b>1. Cholestasis </b>e.g. gallstones; malignant stricture (such as pancreas cancer); benign stricture (such as PSC).</div><div><b>2. Disruption of sphincter of Oddi </b>e.g. ERCP.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "q_k<^_VGNb",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for ascending cholangitis?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - IV fluids, catheter, monitor input/output.</div><div><br></div><div><b>2. Meds</b></div><div>Broad spectrum antibiotics (see local guidelines).</div><div><br></div><div><b>3. Biliary drainage</b></div><div><i>First line: </i>ERCP.</div><div><i>Second line: </i>PTC.</div><div><i>Third line: </i>choledochotomy with placement of T-tube (surgery).</div><div><br></div><div><b>4. Surgery</b> consider cholecystectomy if gallstones.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "o=*P9)&K&j",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for acute appendicitis?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - IV fluids, monitor input/output.<br><div>Make NBM, call surgeon.</div><div><br><b>2. Meds<br></b><i>Analgesia.</i><br><i>Antibiotics</i> (see local guidelines).<br><br><b>3. Surgery</b> (appendicectomy).<br><br></div><div><b>NOTES</b></div><div>If appendix mass palpable and no signs of peritonitis, surgery may be delayed several weeks.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "j)*+d7C{<_",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of gastrectomy?",
+                "<div><div>Sort by general vs specific</div><div><b style=\"font-weight: bold; \"><br></b></div><div><b style=\"font-weight: bold; \">General</b><div><i>1. GA-related</i> e.g. intubation trauma, adverse drug reactions.<div><i>2. Haemorrhage.</i></div><div><i>3. Damage.</i></div><div><div><i>4. Infection</i> e.g. wound, pneumonia.</div><div><i>5. Venous thromboembolism.</i></div></div></div><br><b>Specific</b></div><div><i>1.</i><div style=\"display: inline !important; \"><i> Anastomosis-related</i> e.g. breakdown, stricture, or obstruction.</div></div><div><i>2. Postgastrectomy syndromes</i> e.g. early or late dumping syndromes.</div><div><i>3. Malabsorption</i> e.g. iron, B12, folate.<br></div><div><i>4. Gastric cancer</i> (bile reflux into stomach remnant).</div></div><div><br></div><div><b>NOTES</b></div><div><div><i>Early dumping syndrome</i> = hypotension due to rapid transit of hyperosmolar gastric contents into small bowel.</div><div><i>Late dumping syndrome</i> = postprandial hypoglycaemia due to excess insulin secretion.</div></div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "hM{s4z^UDl",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of groin lumps?",
+                "Sort by anatomy<br><br><b>1. Hernias </b>e.g. inguinal, femoral.<br><b>2. Superficial </b>e.g. lipoma, abscess, sebaceous cyst.<div><div><div><b style=\"font-weight: bold; \">3. B</b><b style=\"font-weight: bold; \">lood vessels</b><b> </b>e.g. femoral aneurysm, pseudoaneurysm, saphena varix.</div><div><div><b style=\"font-weight: bold; \">4. Lymph nodes.</b></div></div></div><div><b>5. Nerves</b> e.g. femoral neuroma.</div><div><div><div><b>6. Psoas</b> e.g. abscess, bursa.<br><b>7. Testicular apparatus </b>e.g. ectopic, undescended, hydrocoele of the cord.</div></div></div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "kavWy8FgOE",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected acute pancreatitis?",
+                "<b>1. Bloods</b><div><i>Arterial:</i> ABG (consider).</div><div><i>Capillary: </i>BMs.</div><div><i>Venous:</i> amylase, FBC, U&amp;Es, CRP, LFTs, Ca, glucose.<div><div><b>2. Urine:</b> amylase.<br><b>3. Imaging:</b><span style=\"\"> CXR, AXR, a</span>bdo USS, consider CT with contrast.</div></div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "vJyiX?tO6",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for acute pancreatitis?",
+                "<b>1. Resus</b><div>A+B - consider airway support, O2.</div><div>C<i> - </i>IV fluids, catheter, monitor input/output.</div><div>Discuss with surgeon, consider ICU.</div><div><div><br><b>2. Meds</b><br>IV fluids.</div><div>Analgesia.</div><div>Nutritional support e.g. NJT.</div><div><br><b>3. ERCP </b>(if gallstone pancreatitis).</div><div><br></div><div><b>4. Cholecystectomy</b> (consider if gallstones).</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "oG52fx2Mz-",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Courvoisier's sign?",
+                "<div>A nontender, palpably distended gallbladder.</div><div><br></div><div><b>NOTES</b><br><i>Courvoisier's law</i> = Curvoisier's sign is unlikely due to gallstones (more likely malignancy).</div><div>Gallstones usually cause a shrunken, fibrotic gall bladder.<br></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "iv|6=6y5r_",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Oncology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Rovsing's sign?",
+                "<div>Pain in the RIF on palpation of the LIF</div><div><br></div><div><b>NOTES</b></div><div>Seen in acute appendicitis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "rCPmIff#X}",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of acute cholecystitis?",
+                "<div>Sort by mechanism</div><div><b><br></b></div><div><b>1. Gangrene.</b><br><b>2. Perforation.</b><div><b>3. Cholecystoenteric fistula</b> ± gallstone ileus.<br></div></div><div><br></div><div><b>NOTES</b></div><div>Perforation often results in a pericholecystic abscess.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "ku;-!C7&<c",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "List 3 worrying features of nipple discharge",
                 "<div>1. Spontaneous (no manipulation).</div><div>2. Bloody.</div><div>3. Unilateral.</div><div>4. Uniductal.</div><u><br></u><div><b>NOTES</b><br><div>If bilateral or from multiple ducts, discharge is rarely pathological.</div></div><div><div><i>Bloody: </i>may be papilloma, carcinoma, duct ectasia, Paget disease.</div><div><i>Clear: </i>may be papilloma.</div></div><div><br></div><div>UPDATED 2020</div>"
             ],
@@ -1161,6 +2406,491 @@
             "tags": [
                 "Breast",
                 "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of hiatus hernia",
+                "Sort by anatomy<div><b><br></b></div><div><b>1. Sliding </b>(large majority of cases).<br><b>2. Rolling.</b><br><br><div><b>NOTES</b></div><div><i>Sliding:</i> characterised by displacement of the gastro-oesophageal junction above the diaphragm.</div><div><i>Rolling</i> (a.k.a. para-oesophageal): characterised by upwards displacement of the fundus through the diaphragm.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "p]NSW]$Gf]",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of a hiatus hernia?",
+                "Sort symptoms by mechanism<div><b><br></b></div><div><b></b><b>History</b><br><i>GORD, inflammation, stricturing:</i> retrosternal pain, haematemesis, melaena, dysphagia.</div><div><i>Gastric volvulus:</i> dysphagia, obstruction.<br><div><i>Compression of lung: </i>dyspnoea.</div><div><i>Irritation of pericardium or diaphragm:</i> palpitations or hiccups.</div><div><div><br></div><div><b>Exam</b></div><div><i>Auscultation: </i>bowel sounds may be audible in the thorax.</div><div><br></div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "ha?@UGEQHn",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the late complications of acute pancreatitis?",
+                "Sort by mechanism<div><b><br></b></div><div><b>1. Infected pancreatic necrosis.</b><br><div><div><b>2. Pancreatic pseudocyst.</b><br></div><div><b>3. Pancreatic abscess </b>(infected pseudocyst).</div></div><div><br></div><div><b>NOTES</b></div><div><i>Infected necrosis</i> usually presents &gt;2 weeks after acute pancreatitis with signs of systemic infection.</div><div><i>Pseudocysts</i> usually present with symptoms of bowel obstruction or obstructive jaundice.</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "sNVh0utH_W",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected oesophageal cancer?",
+                "<div><div><span style=\"font-weight: bold\">1. Initial tests<span style=\"font-weight: normal; \"> </span></span>(including assessment of fitness for surgery)</div><i>Bloods:</i> FBC, U&amp;E, CRP, LFT.</div><div><i>ECG.</i></div><div><div><i>Radiology</i> e.g. CXR, barium swallow.</div><div style=\"font-weight: bold; \"><br></div><div><b>2. Biopsy</b> (done at OGD).</div><div><b>3. Staging </b>e.g. EUS, CT, PET, laparoscopy, bronchoscopy.</div><div><br></div><div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "t6);W/LI3<",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected fistula in ano?",
+                "<b>1. Examination under anaesthetic</b> (EUA).<br><b>2. Imaging</b> (complex cases) e.g. MRI, USS.<br><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "gnW9[G;S6^",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of rectal prolapse",
+                "Sort by anatomy<div><br></div><div><b>1. Complete rectal prolapse</b> (circumferetial full thickness rectal wall prolapse).</div><div><b>2. Partial rectal prolapse</b> (mucosa only).</div><div><br></div><div><div><div><b>NOTES</b></div><div>Rectal prolapse is also called rectal procidentia.</div></div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "uhFl,t<6,=",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of rectal prolapse?",
+                "<b></b><b>History</b><br>Sensation of prolapse on defecation.<br>May be faecal incontinence or mucus discharge.<div>May be digital manoeuvres to aid defaecation.<br><br><b>Exam</b><br><i>Inspection: </i>prolapse may be visible or appear on straining.<div><br></div><div><div><b>NOTES</b></div><div><div><div><div><div>Rectal prolapse is also called rectal procidentia.</div></div></div></div></div></div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "e]7MySV4~K",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for rectal prolapse?",
+                "<div>Sort by history</div><div><br></div><div><b>Demographics</b> e.g. age, female.</div><div><b>PMHx </b>e.g. many vaginal deliveries, pelvic surgery, chronic straining, pelvic floor dysfunction or anatomic defects.</div><div><br></div><div><b>NOTES</b></div><div><div><div><div>Rectal prolapse is also called rectal procidentia.</div></div></div></div><div><i>Pelvic floor anatomic defects</i> e.g. rectocoele, cystocoele, enterocoele.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "r>{vt]:lH]",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected rectal prolapse?",
+                "<div><span style=\"font-weight: 800\">1</span><b>. Imaging</b></div>Consider dynamic pelvic MRI and cystocolpoproctography.<div><br></div><div><b>2. Colonoscopy.</b><div><b>3. Colonic transit study </b>(if chronic constipation).</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qpLw;>M@;v",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of diverticular disease?",
+                "Sort by mechanism<div><b><br></b></div><div><b>1. Inflammation </b>e.g. diverticulitis, pericolic abscess, perforation, fistula formation.<br><b>2. Obstruction </b>e.g. adherent small bowel loops, fibrotic stricture.<br><b>3. Bleeding</b> (frank or occult).<br></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "mkL*3Sx]|W",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of diverticulitis?",
+                "<b>History</b><br>Abdo pain (SOCRATES)<div><div>S - central, moving later to the LIF.</div><div>C - starts diffuse, then sharp.</div></div><div>A - anorexia, nausea, altered bowel habit, PR bleeding.</div><div>T - may be intermittent or constant.</div><div><br><b>Exam<br></b><i>Obs:</i> fever, tachycardia.<br><i>Palpation: </i>tender LIF, may be palpable mass.</div><div><i>PR: </i>may be tenderness or mass (low lying pelvic abscess).</div><div><br></div><div><b>NOTES</b></div><div>About one third of patients with diverticulitis will go on to develop complications e.g. perforation, abscess, fistulation, stricture.<div></div></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "tIYIn3?ZHX",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for uncomplicated diverticulitis?",
+                "<b>1. Resus</b><br>A+B - consider airway support and O2.<div>C - consider IV fluids.<div><div><br><b>2. Meds</b><div>Analgesia.<br>Antibiotics (see local guidelines) e.g. co-amoxiclav ≥7 days.</div><div>Consider adding mesalazine.<br><br></div><div><b>NOTES</b><br>Failure to settle &lt;48h suggests pericolic abscess, do CT with contrast.<br>An abscess will require drainage or surgical resection.</div></div></div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "p9!ni8D%z>",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of anal pain?",
+                "Sort by seriousness<div><b><br></b></div><div>1. Anal cancer.</div><div>2. Perianal abscess.<br>3. Anal fissure.<br>4. Complicated haemorrhoid.<br>5. Perianal haematoma.</div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "POb`+**~_",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of small bowel obstruction?",
+                "Sort by prevalence<div><br></div><div><b>Most common</b><br><i>1. Adhesions.<br>2. Hernia obstruction.<br>3. Malignancy</i> (usually carcinomatosis).<div><br></div><div><b>All the rest</b> (sort by mechanism)</div><div><i>1. Extrinsic </i>e.g. volvulus.</div><div><i>2. Intramural </i>e.g. inflammatory or ischaemic stricture.</div><div><i>3. Intraluminal </i>e.g. intussusception, gallstone ileus.</div></div><div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "u`>om#a3yq",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for small bowel obstruction?",
+                "<div><div><div><div>Must find and address the underlying cause, in the meantime:</div></div></div></div><div><br></div><b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - IV fluids, catheter, monitor input/output.</div><div>NGT suction if vomiting (Nasogastric decompression)&nbsp;</div><div>Make NBM, call surgeon.<div><div><br><b>2. Meds</b> (analgesia) - Morphine Sulphate 2.5 to 5mg IV every 3-4 hours&nbsp;<br><br><b>3. Surgery </b>(emergency laparotomy).</div></div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "jSucM&@%25",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of large bowel obstruction?",
+                "Sort by prevalence<br><br><b>1. Cancer </b>e.g. colorectal, external compression.<br><b>2. Volvulus </b>e.g. sigmoid, caecal.<br><b>3. Inflammatory stricture </b>e.g. diverticulitis, inflammatory bowel disease.<br><b>4. Ischaemic stricture.</b><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "n86c/meUZV",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of large bowel obstruction?",
+                "<b></b><b>History</b><br>Abdo pain (SOCRATES)<div>S - generalised.</div><div>C - colicky.</div><div>A - absolute constipation, abdo swelling, N&amp;V.<div><br><b>Exam</b><i><br>Inspection: </i>dehydration, swollen abdomen.</div><div><i>Palpation: </i>tender abdomen.</div><div><i>Auscultation: </i>high pitched bowel sounds.</div><div><i>PR: </i>may be palpable obstruction.</div><div><br></div><div><b>NOTES</b></div><div>Tender RIF in this context may indicate imminent caecal perforation.<br></div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "h!v^}?vFdN",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of a rectal bleed?",
+                "Sort by anatomy<br><br><b>1. Anorectal </b>e.g. varices, cancer, haemorrhoids, fissure in ano.<div><div><b>2. Colonic </b>e.g. diverticular disease, colitis (inflammatory, ischaemic, infective), angiodysplasia, cancer.</div><div><b>3. Upper GI </b>e.g. varices, peptic ulcer, aorto-enteric fistula, cancer.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "q8C4)exKWZ",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of a fistula?",
+                "An abnormal, epithelialised communication between two surfaces.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qVL-8`:pq",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of a sinus?",
+                "Abnormal, blind-ending, epitheliased tract in an organ.<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "c&-Od+J`yO",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where is the origin of a femoral hernia?",
+                "The femoral ring<div><br></div><div><b>NOTES</b><br>The femoral ring lies below and lateral to the pubic tubercle.</div><div>More specifically, lies below the inguinal ligament, medial to the femoral sheath and lateral to the lacunar ligament.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "kYx>gS@*l|",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where is the origin of an indirect inguinal hernia?",
+                "<div>The deep inguinal ring</div><div><br></div><div><b>NOTES</b></div><div><i>The deep ring</i> lies at the midpoint of the inguinal ligament, above and medial to the pubic tubercle.</div><div><i>The deep ring</i> lies lateral to the inferior epigastric artery.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "d@s3jFU/?R",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of oesophagectomy?",
+                "<div><div>Sort by general vs specific</div><div><span style=\"font-weight: bold\"><br></span></div><div><span style=\"font-weight: bold\">General</span></div></div><div><div><div><div><i>1. GA-related</i> e.g. intubation trauma, adverse drug reactions.<div><i>2. Haemorrhage.</i></div><div><i>3. Damage </i>e.g. vagus or laryngeal nerve.</div><div><div><i>4. Infection</i> e.g. wound, pneumonia.</div><div><i>5. Venous thromboembolism.</i></div></div></div><br><b style=\"font-weight: bold; \">Specific</b></div><div><i>1.</i><div style=\"display: inline !important; \"><i> Anastomosis related</i> e.g. leak, stricture, conduit ischaemia.</div></div><div><i>2. Functional conduit disorders</i> e.g. early or late dumping syndrome, delayed gastric emptying, reflux.</div><div><i><br></i></div></div></div><div><b>NOTES</b></div><div><i>Early dumping syndrome</i> = hypotension due to rapid transit of hyperosmolar gastric contents into small bowel.</div><div><i>Late dumping syndrome</i> = postprandial hypoglycaemia due to excess insulin secretion.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "J&%2|YR$8s",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a PEG tube?",
+                "<div>A gastrostomy tube</div><div><br></div><div><b>NOTES</b></div><div><i>PEG</i> = percutaneous endoscopic gastrostomy.</div><div>Used for long term feeding when oral feeding is impossible or contraindicated.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "qq|s+kFlQ/",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of thrombosed haemorrhoids?",
+                "<b></b><b>History</b><br><div>Acute anal pain.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>large, swollen, dark blue/black haemorrhoids.</div><div><i>Palpation: </i>acutely tender, sphincter spasm.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "O|v>N4{0|5",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A patient has suffered a rectal bleed and is haemodynamically unstable. What is the treatment?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div><div><div><div>C - IV access x2, fluid bolus, check clotting and correct derangement, monitor input/output.</div></div><div>Make NBM.</div><div>Discuss with surgeon ± interventional radiologist.</div></div></div><div><br></div><div><div><div><b>2. Upper GI</b><b><div style=\"display: inline !important; \"></div></b><b> investigation </b>(OGD ± treatment).</div></div><div><br></div><div><b>3. Lower GI investigation</b></div><div><i>Massive bleed:</i> consider CT angiogram ± embolisation.</div><div><i>Moderate bleed:</i> consider colonoscopy ± treatment.</div><div><i><br></i></div><div><b>4. Surgery</b> e.g. laparotomy ± segmental resection or colectomy.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "rSbM1yC/$S",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the recommended screening for colorectal cancer?",
+                "<b><span style=\"\"><div></div></span></b><div><b>If aged 55</b>&nbsp;will be invited for a one off colonscopy&nbsp;</div><div><b>Faecal occult blood test (FOB) or Faecal Immunochemical Test (FIT)</b>&nbsp;every 2y for men and women aged 60-74y.</div><div>If over 75 can ask for a free home testing kit every two years</div><div><br></div><div><b>NOTES</b></div><div>High risk groups require more regular screening e.g. annual colonoscopy.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "qVSE<64wrS",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Screening,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
             ]
         },
         {
@@ -1247,6 +2977,80 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Which types of surgery particularly predispose to pulmonary embolism?",
+                "<div>Sort by anatomy</div><div><br></div><div>1. Major abdominal or pelvic surgery.</div><div>2. Hip or knee replacement.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "LK_R)%0nA:",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Respiratory,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of laparoscopic cholecystectomy?",
+                "<div>Sort by general vs specific</div><div><b><br></b></div><div><b>General</b></div><div><div><i>1. GA-related</i> (intubation trauma, adverse drug reactions).</div><div><i>2. Haemorrhage.</i></div><div><i>3. Damage</i> e.g. bile duct, bowel.</div><div><i>4. Infection</i> (collections of bile or blood).</div><div><i>5. Venous thromboembolism.</i></div><div><br></div><div><b>Specific</b></div><div><i>1. Conversion to open cholecystectomy.</i></div><div><i>2. Bile leaks.</i></div><div><i>3. Retained CBD stones.</i></div><div><i>4. Post-cholecystectomy syndrome.</i></div></div><div><i><br></i></div><div><b>NOTES</b></div><div><i>Post-cholecystectomy syndrome</i> = persistent dyspepsia following cholecystectomy.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "rk>C}n(K9`",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the prophylactic treatment for venous thromboembolism?",
+                "<div><b>1. Conservative </b>e.g. ensure hydration, encourage mobilisation.</div><div><br></div><div><b>2. Mechanical </b>e.g. antiembolism stockings (AES).</div><div><br></div><div><b>3. Meds </b>e.g. DOACs, low molecular weight heparin (LMWH) such as enoxaparin 40mg OD.</div><div><br></div><div><b>NOTES</b></div><div><i>AES</i> are contraindicated in peripheral vascular disease.</div><div><i>LMWH</i> dose must be reduced in renal dysfunction.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "dP_?l7S9rk",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is gallstone ileus?",
+                "<div><b>Small bowel obstruction</b>, due a gall stone in the lumen of the intestine.</div><div><br></div><div><b>NOTES</b></div><div>Stone enters the bowel via a cholcysto-enteric fistula.</div><div><br><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "rL@7ih]e+L",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Gastroenterology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is the treatment for a patient with newly discovered BRCA1/2 mutations?",
                 "<b>1. Conservative</b><div>Patient education.</div><div><i>Breast surveillance</i> e.g. mammography, MRI.</div><div><i>Ovarian surveillance</i> e.g. CA-125, transvaginal USS.</div><div><br></div><div><div><b>2. Prophylactic surgery</b> (consider) e.g. bilateral mastectomy and salpingo-oopherectomy.</div></div><div><br></div><div><b>3. Prophylactic meds</b> (consider) e.g. tamoxifen (vs breast cancer) and OCP (vs ovarian cancer).</div><div><br></div><div><b>UPDATED 2020</b></div>"
             ],
@@ -1258,6 +3062,132 @@
                 "Breast",
                 "Y3::O&G",
                 "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which system is used to describe peritoneal contamination in complicated diverticular disease?",
+                "Hinchey classification<div><br></div><div><b>NOTES</b></div><div><i>Stage 1:</i> pericolic or mesenteric abscess.<div><i>Stage 2:</i> walled off pelvic abscess.</div><div><i>Stage 3:</i> generalised purulent peritonitis.</div><div><i>Stage 4:</i> generalised faecal peritonitis.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "i8}G`F!Q`N",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the indications for splenectomy?",
+                "Sort by mechanism<div><b><br></b></div><div><b>1. Trauma.</b><div><b>2. Cytopenia</b> due to hypersplenism.</div></div><div><b>3. Painfully enlarged spleen</b> e.g. myelofibrosis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "kyV[f9W9aI",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of splenectomy?",
+                "<div>Sort by general vs specific</div><div style=\"font-weight: bold; \"><b><br></b></div><b>General</b><div><i>1. GA-related</i> e.g. intubation trauma, adverse drug reactions.</div><div><i>2. Haemorrhage.</i></div><div><i>3. Damage</i> e.g. pancreas, stomach.</div><div><i>4. Infection </i>e.g. subphrenic abscess, overwhelming post-splenectomy sepsis.</div><div><i>5. Venous thromboembolism </i>(especially if thrombocytosis).</div><div><br></div><div><b>Specific</b></div><div><i>1. Post-splenectomy sepsis.</i></div><div><div><i>2. Pancreatitis.</i></div><div><i>3. Transient thrombocytosis.</i></div></div><div><i><br></i></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "o2zj0Sa[np",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a pilonidal sinus?",
+                "A subcutaneous sinus tract in the natal cleft<div><br></div><div><b>NOTES</b></div><div>Also called intergluteal pilonidal disease.</div><div>Clinical presentation is highly variable, may be acute or chronic infection.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "g~t&VHj@<K",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of inguinal hernia repair?",
+                "<div>Sort by general vs specific</div><div style=\"font-weight: bold; \"><b><br></b></div><b>General</b><div><i>1. GA-related </i>e.g. intubation trauma, adverse drug reactions.</div><div><i>2. Damage</i> e.g. nerves (usually transient), occasionally damage to testicular blood vessels.</div><div><i>3. Haemorrhage</i> e.g. haematoma, bruising.</div><div><i>4. Infection </i>e.g. wound, mesh.</div><div><i>5. Venous thromboembolism.</i></div><div><br></div><div><b>Specific</b></div><div><i>1. Urinary retention</i> (due to medications and muscle spasm).</div><div><i>2. Seroma</i>.</div><div><i>3. Re-occurence.</i></div><div><i><br></i></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "PlpoE:SHdv",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A patient with T2DM (on insulin) is booked for a long operation (&gt;2h). Outline the management for pre-op glycaemic control.",
+                "<div>On the morning of surgery:</div><div><br></div><div>1. Nil by mouth.</div><div>2. Sliding scale from midnight (monitor BMs).</div><div>3. Omit oral hypoglycaemics and morning insulin.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "o!XT!g!NhV",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A patient with T2DM (on insulin) has had a long operation (&gt;2h). Outline the management for post-op glycaemic control.",
+                "1. Resume normal eating and drinking asap.<div>2. Once eating resume usual insulin and oral hypoglyacaemics (other than metformin), stop sliding scale (about 2h after usual SC insulin has been given).</div><div><br></div><div><div><b>NOTES</b></div><div><div><i>Metformin</i> should be held until there is documentation of adequate renal function.</div><div><i>Sliding scale</i> = variable rate intravenous insulin infusion.</div></div></div><div><div><i>T2DM</i> = type 2 diabetes mellitus.</div></div><div><br></div><div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "qLXN69@kMv",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
             ]
         },
         {
@@ -1297,6 +3227,96 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the causes of constipation?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><i>1. Obstruction</i> of large or small bowel.</div><div><i>2. Dysmotility</i> e.g. SCC/CES, hypercalcaemia (bone mets).</div><div><br></div><div><b>All the rest</b> (sort by mechanism)</div><div><i>1. Dysmotility </i>e.g. neurological (PD, MS), hypothyroidism, drugs (opiates), IBS.</div><div><i>2. Hard faeces</i> e.g. lack of dietary fibre, dehydration.</div><div><i>3. Patient not pushing</i> e.g. haemorrhoids, fissure, pelvic floor dysfunction.</div><div><br></div><div><b>NOTES</b></div><div><i>Large bowel obstruction </i>e.g. cancer, volvulus, inflammatory or ischaemic stricture.</div><div><i>Small bowel obstruction </i>e.g. adhesions, hernia, cancer.</div><div>&nbsp;UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "z&]{NtA:U",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the treatment options for colorectal cancer?",
+                "<div><div>Sort by members of the MDT</div><div><br></div><div><b>1. Surgeon </b>e.g. radical or palliative surgery, for primary or mets.</div><div><b>2. Nurse specialist </b>e.g. patient education.</div><div><b>3. Oncologist </b>e.g. chemotherapy, radiotherapy.</div><div><b>4. Palliative care.</b></div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "A]PiuNfUbs",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Oncology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for rectal prolapse?",
+                "<b>1. Conservative </b>e.g. high fibre diet; consider laxatives and enemas.<div><br></div><div><b>2</b><b>. Surgery </b>(intra-abdominal or perineal approach).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "wZOLBe%v/m",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of paralytic ileus?",
+                "<b></b><b>History</b><br><div>Abdo swelling.</div><div>Anorexia, N&amp;V.</div><div>Constipation.</div><div>May be diffuse abdo pain.<br><div><br><b>Exam</b><i><br>Inspection: </i>signs of dehydration, swollen abdomen.</div><div><i>Palpation:</i> mild diffuse tenderness.</div><div><i>Percussion: </i>tympanic.</div><div><i>Auscultation: </i>reduced bowel sounds.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "mi4/U6QDDR",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the indications for ileostomy?",
+                "Sort by mechanism<div><b><br></b></div><div><b>1. Terminal ileostomy</b> for resection of distal bowel.<div><b>2. Loop (defunctioning) ileostomy</b> to protect a distal anastomosis.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Kp?AD}~qAO",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the treatment options for breast cancer?",
                 "Sort by members of the MDT<div><br></div><div><b>1. Surgeon</b> e.g. WLE, mastectomy, axillary surgery.</div><div><div><b>2. Nurse specialist</b> e.g. patient education.</div></div><div><b>3. Oncologist </b>e.g. hormone therapy, chemotherapy, radiotherapy.</div><div><div><b>4. Palliative care.</b></div></div><div><b><br></b></div><div><b>UPDATED 2020</b></div>"
             ],
@@ -1308,6 +3328,783 @@
                 "Breast,",
                 "Y3::Surg_A::Breast",
                 "surgery"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'first degree' internal haemorrhoids?",
+                "Haemorrhoids confined to the anal canal.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "kMd4<C:_eW",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'second degree' internal haemorrhoids?",
+                "Haemorrhoids prolapse on defaecation then reduce spontaneously.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Ls1v;i:a=Q",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'third degree' internal haemorrhoids?",
+                "Haemorrhoids prolapse on defaecation but may be manually reduced.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Ku*o|EOr[!",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'fourth degree' internal haemorrhoids?",
+                "Haemorrhoids remain prolpased at all times.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "tD2:<#<:|Z",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A patient with T2DM (on insulin) is booked for a short operation (&lt;2h). Outline the management for pre-op glycaemic control.",
+                "On the morning of surgery:<div><br></div><div>1. Nil by mouth.</div><div>2. Start 5% dextrose IVI from midnight (monitor BMs).</div><div>3. Omit oral hypoglycaemics and morning short-acting insulin (give long-acting insulin as normal).</div><div><br></div><div><b>NOTES</b></div><div>Patient shold be first on the list.</div><div><div><i>T2DM</i> = type 2 diabetes mellitus.</div></div><div><br></div><div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "igcda4-z~v",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A patient with T2DM (not on insulin) is booked for a long operation (&gt;2h). Outline the management for pre-op glycaemic control.",
+                "<div>On the morning of surgery:</div><div><br></div><div>1. Nil by mouth.</div><div>2. Sliding scale from midnight (monitor BMs).</div><div>3. Omit oral hypoglycaemics.</div><div><br></div><div><b>NOTES</b></div><div>Patient should be admitted the day before surgery and be first on the list.</div><div><i>Sliding scale</i> = variable rate intravenous insulin infusion.</div><div><div><i>T2DM</i> = type 2 diabetes mellitus.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "ln0t0d.G<B",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A patient with T2DM (not on insulin) is booked for a short operation (&lt;2h). Outline the management for pre-op glycaemic control.",
+                "On the morning of surgery:<div><br></div><div>1. Nil by mouth.</div><div>2. Start 5% dextrose IVI from midnight (monitor BMs).</div><div>3. Omit oral hypoglycaemics.</div><div><br></div><div><b>NOTES</b></div><div>Patient shold be first on the list.</div><div><div><i>T2DM</i> = type 2 diabetes mellitus.</div></div><div><br></div><div>&nbsp;UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "pP:1&8V`dL",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A patient with T2DM (not on insulin) has had a long operation (&gt;2h). Outline the management for  post-op gylcaemic control.",
+                "1. Resume normal eating and drinking asap.<div>2. Once eating, resume usual oral hypoglyacaemics (other than metformin) and stop sliding scale.</div><div><div><div><br></div><div><b>NOTES</b></div><div><div><i>Metformin</i> should be held until there is documentation of adequate renal function.</div><div><i>Sliding scale</i> = variable rate intravenous insulin infusion.</div><div><i>T2DM</i> = type 2 diabetes mellitus.</div><div></div><br><div>UPDATED 2020</div></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "Hq1Bl@;_3o",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the daily fluid requirements for an adult?",
+                "25-30 ml/kg/24h<div><br></div><div><b>NOTES</b></div><div>The standard 70kg man therefore requires about 2100 ml/24h.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "OlN1oo%g3R",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the daily sodium requirements for an adult?",
+                "1 mmol/kg/day<div><br></div><div><div><b>NOTES</b></div><div>The standard 70kg man therefore requires about 70 mmol/24h.</div><div><br></div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "Kg1&P2W?g3",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the daily potassium requirements for an adult?",
+                "1 mmol/kg/day<div><br></div><div><div><b>NOTES</b></div><div>The standard 70kg man therefore requires about 70 mmol/24h.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "p=U`%~Y#q_",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the daily glucose requirements for an adult?",
+                "50-100g/24h<div><br></div><div><div><b>NOTES</b></div><div>1 litre of 5% dextrose contains 50g of dextrose.</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "Hq0vh79e3K",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of colorectal polyp",
+                "Sort by seriousness<div><br></div><div><b>1. Malignant.</b></div><div><b>2. Benign</b> e.g. hyperplastic; mucosal; inflammatory pseudopolyps; submucosal; hamartomatous.</div><div><br></div><div><b>NOTES</b></div><div><i>Hyperplastic: </i>most common non-neoplastic, some have malignant potential.</div><div><i>Mucosal:</i> histology resembles normal mucosa.</div><div><i>Inflammatory peudopolyps: </i>islands of normal mucosa between linear ulcers, seen in inflammatory bowel disease.</div><div><i>Submucosal:</i> benign tumours (lipomas, lymphoid aggregates) or malignant tumours (carcinoids).</div><div><i>Hamartomatous: </i>normal tissue growing in a disorganised mass e.g. juvenile polyps, Peutz-Jeghers polyps.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "A~,Wtc^{kB",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A patient has suffered a rectal bleed and is haemodynamically stable. What is the treatment?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div><div>C - IV access x2, consider fluids, check FBC, clotting, G&amp;S.</div><div><br></div></div><div><b>2. Endoscopy</b></div><div><i>First:</i> colonoscopy ± treatment.</div><div><i>Second:</i> consider OGD ± treatment.</div><div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "d8Y}VBc;&T",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected ascending cholangitis?",
+                "<b>1. Bloods </b>e.g. VBG, lactate, culture, LFTs, FBC, U&amp;Es, CRP, amylase.<div><div><div><b>2. Imaging </b>e.g. abdo USS (look for biliary dilatation), consider MRCP.<br><b>3. Biliary drainage</b> (ERCP) send sample for culture.</div><div><br></div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "g_jdk7.kE%",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency",
+                "Gastroenterology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of dysphagia?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><i>1. Malignancy.</i></div><div><br></div><div><b>All the rest</b></div><div><i>1. Stricture (oesophagitis) </i>e.g. GORD, infective (Candida), inflammatory, drugs (NSAIDs, bisphosphonates), caustic liquids, radiotherapy.</div><div><i>2. Motility disorder </i>e.g. achalasia, other neurological dysfunction.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "BAGPjjhFH3",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Charcot's triad?",
+                "<b>1. High fever</b> ± rigors.<div><b>2. Jaundice.</b></div><div><b>3. RUQ pain.</b></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "IY@QoMpa4O",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Infection,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Reynold's pentad?",
+                "1. High fever ± rigors.<div>2. Jaundice.</div><div>3. RUQ pain.</div><div>4. Confusion.</div><div>5. Hypotension.</div><div><br></div><div><b>NOTES</b></div><div>Seen in ascending cholangitis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "w>IyTTTMt-",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'volvulus'?",
+                "Torsion of a segment of bowel around its mesentery, often leading to bowel obstruction.<div><br></div><div><b>NOTES</b></div><div>The most common sites are the sigmoid colon and the caecum.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "m{,&|@Qvik",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is the treatment for uncomplicated sigmoid volvulus?</div>",
+                "<b>1. Resus</b><div>A+B - Consider airway support and O2.</div><div>C - IV fluids, monitor input/output.</div><div>Make NBM.<br></div><div><br></div><div><b>2. Meds:</b> analgesia.</div><div><br></div><div><b>3. Endoscopy:</b> sigmoidoscopy with placement of a rectal tube.</div><div><br></div><div><b>4. Surgery:</b> elective sigmoid resection.</div><div><br></div><div><b>NOTES</b></div><div><i>Volvulus</i> may result in bowel ischaemia and peritonitis, which requires emergency laparotomy.</div><div><div><i>NBM</i> = nil by mouth.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Nf^v2WA|2!",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of a diverticulum?",
+                "A small sac or pouch projection from the wall of a hollow organ.<div><br></div><div><b>NOTES</b></div><div>The wall of a 'true diverticulum' contains all the layers of the parent organ e.g. Meckel's diverticulum.</div><div>The wall of a 'pseudo-diverticulum' contain only some of the layers e.g. diverticular disease of the colon.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "GSjuva]gKn",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where is the origin of a direct inguinal hernia?",
+                "The superficial inguinal ring.<div><br></div><div><b>NOTES</b></div><div><i>The superficial ring</i> lies above and lateral to the pubic tubercle, in 'Hesselbach's triangle' (inguinal ligament, inferior epigastric artery, and rectus abdominus).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "H<GzEd2=fC",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is early dumping syndrome?",
+                "<b>Hypotension</b> due to rapid transit of hyperosmolar gastric contents into small bowel.<div><br></div><div><b>NOTES</b></div><div><div><i>Early dumping syndrome</i> may complicate oesophagectomy or gastrectomy.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "zN|$ur}.1M",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is late dumping syndrome?",
+                "<b>Postprandial hypoglycaemia</b> due to excess insulin secretion.<div><br></div><div><b>NOTES</b></div><div><i>Late dumping syndrome</i> may complicate oesophagectomy or gastrectomy.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "C^d,VGgjS,",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of cholangiocarcinoma?",
+                "<b></b><b>History</b><br><div><div><i>Symptoms due to primary </i>e.g. cholestatic jaundice (yellow skin, dark urine, pale stools, pruritus), typically painless.</div><div><i>Constitutional symptoms</i> e.g. tiredness, weight loss, fever.</div><div><br></div><div><b>Exam</b></div></div><div><i>Obs: </i>may be fever.</div><div><i>Inspection: </i>jaundice, excoriations, cachexia, pallor.</div><div><i>Palpation: </i>RUQ mass, hepatomegaly, Courvoisier’s sign (rare).</div><div><br></div><div><b>NOTES</b></div><div><div><i>Courvoisier’s sign = </i>palpable, nontender gallbladder in a patient with jaundice.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "AGV8c=h`:=",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected cholangiocarcinoma?",
+                "<div><div><span style=\"font-weight: bold\">1. Initial tests<span style=\"font-weight: normal; \"> </span></span>(including assessment of fitness for surgery)</div><i>Bloods: </i>LFT, U&amp;E, FBC, tumour markers (CA19-9, CEA, AFP).</div><div><i>ECG.</i><div><i>Radiology</i> e.g. USS abdomen, MRI, CXR.</div></div><div><b><br></b></div><div><b>2. Biopsy</b> e.g. ERCP, FNA, CT-guided (tissue diagnosis not always needed).</div><div><b>3. Staging </b>e.g. CT abdo pelvis, MRCP, PET, laparoscopy.</div><div><br></div><div><b>NOTES</b></div><div><i>CEA</i> = carcinoembryonic antigen.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "tl*h`NoU-)",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the treatment options for cholangiocarcinoma?",
+                "<div>Sort by members of the MDT</div><div><br></div><div><b>1. Surgeon</b> e.g. surgical excisions, liver transplant.</div><div><b>2. Nurse specialist </b>e.g. patient education.</div><div><b>3. Oncologist </b>e.g. chemotherapy, radiotherapy.</div><div><b>4. Endoscopist</b> e.g. CBD stent.</div><div><b>5. Palliative care </b>(usually mainstay of treatment).</div><div><br></div><div><b>NOTES</b></div><div>Only a small minority of tumours are suitable for resection.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "fv!BmzXi*K",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Oncology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of acute mesenteric ischaemia?",
+                "<b></b><b>History</b><br><div>Typical patient has a background of AF.</div><div>Abdo pain (SOCRATES)</div><div>S - periumbilical.</div><div>O - acute.</div><div>A - diarrhoea, N&amp;V.</div><div>S - severe, disproportionate to physcial findings.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>may be gross distension (late sign).</div><div><i>Palpation: </i>peritonism (late sign).</div><div><i>Auscultation: </i>absent bowel sounds (late sign).</div><div><i>Bedside tests: </i>stool sample may reveal occult blood.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "t4_r`mahxi",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of acute mesenteric ischaemia?",
+                "Sort by mechanism<div><br></div><div><b>1. Arterial occlusion</b> (embolism or thrombosis).</div><div><b>2. Nonocclusive ischaemia </b>(hypoperfusion and arterial spasm).</div><div><b>3. Venous thrombosis.</b></div><div><b><br></b></div><div><b>NOTES</b></div><div>Embolism accounts for the majority of cases.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "tuM&v8ZAfT",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected acute mesenteric ischaemia?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important:</b>&nbsp;CT angiography.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods </i>e.g. VBG, lactate, FBC, G&amp;S.</div><div><i>2. Stool</i> e.g. occult blood.</div><div><i>3. ECG</i> e.g. AF.</div><div><i>4. Imaging</i> e.g. AXR.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "d[[#)lRUW?",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for acute mesenteric ischaemia?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - IV fluids.</div><div>Make NBM.</div><div><br></div><div><b>2. Meds</b></div><div>Heparin infusion.</div><div>Analgesia.</div><div>Broad spectrum antibiotics (see local guidelines).</div><div><br></div><div><b>3. Interventional radiology</b> e.g. stenting.</div><div><br></div><div><b>4. Surgery</b> e.g. embolectomy, thrombectomy, bowel resection.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "HdCx$maLUv",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which system is used to describe the anatomy of perianal abscesses?",
+                "Simple vs complex<div><br></div><div><b>1. Simple</b><div><b>2. Complex</b></div><div><i>Ischiorectal abscess</i> (beyond external sphincter).</div><div><i>Intersphincteric</i> (between internal and external sphincters).</div><div><i>Supralevator.</i></div><div><i>Horseshoe</i> (posterior to the anal canal).</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "vwq5C@SZU6",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which system is used to describe the anatomy of fistulae in ano?",
+                "<div>Sort by relationship to the sphincters</div><div><br></div>1. Inter-sphincteric.<div>2. Trans-</div><div>3. Supra-</div><div>4. Extra-</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "whB[==EjO|",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a choledochal cyst?",
+                "Cysts in the biliary tree<div><br><div><b>NOTES</b></div><div>Also called biliary cysts.</div><div>May be congenital or acquired, usually present in childhood.</div><div>Complications include cholangiocarcinoma and cystolithiasis.</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "on[avV`Weq",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What lies at the mid inguinal point?",
+                "The femoral artery<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "c[i{SpS4Mv",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What lies at the midpoint of the inguinal ligament?",
+                "The deep inguinal ring<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "C:S$XdEm71",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What forms the anterior wall of the inguinal canal?",
+                "The external oblique aponeurosis, reinforced laterally by internal oblique.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "g&$h-YT5x:",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What forms the posterior wall of the inguinal canal?",
+                "The transversalis fascia, reinforced medially by the conjoint tendon.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "o86~h*:c3s",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What forms the roof of the inguinal canal?",
+                "The lower edge of the internal oblique and transversus muscles.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "d]yej0Fg7.",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What forms the floor of the inguinal canal?",
+                "The inguinal ligament, reinforced medially by the lacunar ligament.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qEP|/Zs$$A",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What lies within the inguinal canal?",
+                "<b>Males:</b> spermatic cord.<div><b>Females:</b> round ligament.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "os(Ko*gff.",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the contents of the spermatic cord?",
+                "Rule of 3s<div><br></div><div><b>3 arteries:</b> gonadal, vas deferens, cremasteric.</div><div><b>3 nerves: </b>genital branch of genitofemoral, ilioinguinal, sympathetics.</div><div><b>3 others: </b>vas deferens, lymphatics, pampiniform plexus (veins).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "B9}P<*rk7",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the coverings of the spermatic cord?",
+                "Sort by anatomy<div><br></div><div><b>1. Internal spermatic fascia</b> (from transveralis fascia).</div><div><b>2. Cremasteric fascia</b> (from internal oblique).</div><div><b>3. External spermatic fascia</b> (from external oblique).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "J:uEtn;EZU",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
             ]
         },
         {
@@ -1389,6 +4186,44 @@
             "tags": [
                 "Breast",
                 "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which antiemetics may be best for prevention of postoperative nausea and vomiting?",
+                "<b>Serotonin antagonists</b> e.g. ondansetron.<div><br></div><div><b>NOTES</b></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J`;O:7R6te",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which antiemetics may be best for treatment of postoperative nausea and vomiting?",
+                "<b>Dopamine antagonists </b>e.g. metoclopramide (first line).<div><br></div><div><b>NOTES</b></div><div><i>Second line agents</i> include ondansetron (serotonin antagonist) and dexamethasone.</div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lsj(k@lnU`",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
             ]
         },
         {
@@ -3987,7 +6822,7 @@
             "data": "",
             "fields": [
                 "What are the causes of erythema multiforme?",
-                "Sort by incidence<div><br></div><div><b>1. Herpes simplex virus</b></div><div><b>2. Mycoplasma pneumoniae</b></div><div><b>3. Other infection</b></div><div><b>4. Meds</b> e.g. NSAIDS, sulfonamides</div><div><br></div><div><b>NOTES</b></div><div><div><i style=\"font-style: italic; \">NSAIDs</i> = non-steroidal anti-inflammatory drugs</div><div style=\"font-style: italic; \"><br></div></div><div>UPDATED 2020</div>",
+                "Sort by incidence<div><br></div><div><b>1. Herpes simplex virus</b></div><div><b>2. Mycoplasma pneumoniae</b></div><div><b>3. Other infection</b></div><div><b>4. Meds</b> e.g. NSAIDS, sulfonamides</div><div><br></div><div><b>NOTES</b></div><div><div><i style=\"font-style: italic; \">NSAIDs</i> = non-steroidal anti-inflammatory drugs</div><div style=\"font-style: italic; \"><br></div></div><div style=\"font-style: italic; \"><img src=\"ermulti1__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDE3XQ.jpg\"><img src=\"ermulti3__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDE2XQ.jpg\">&nbsp;<img src=\"ermulti2__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg\"><br></div><div style=\"font-style: italic; \"><br></div><div>UPDATED 2020</div>",
                 ""
             ],
             "flags": 0,
@@ -4073,7 +6908,7 @@
             "data": "",
             "fields": [
                 "Which investigations may be useful for fever in the returning traveler?",
-                "Sort by modality<div><br></div><div><b>1. Bloods</b> e.g. FBC, U&amp;Es, LFTs, CRP, culture, blood smears for malaria.</div><div><b>2 Urine dip.</b></div><div><b>3. CXR.</b></div><div><br></div><div>UPDATED 2020<br></div>",
+                "Sort by modality<div><br></div><div><b>1. Bloods</b> e.g. FBC, U&amp;Es, LFTs, CRP, culture, blood smears for malaria.</div><div><b>2. Urine dip.</b></div><div><b>3. CXR.</b></div><div><br></div><div>UPDATED 2020<br></div>",
                 ""
             ],
             "flags": 0,
@@ -5668,6 +8503,25 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the causes of postoperative fever? ",
+                "Sort by mechanism<div><br></div><div><b>1. Infection </b>e.g. surgical site infection, LRTI, UTI, line infection, intra-abdominal abscess or anastomosis breakdown.</div><div><b>2. Thrombosis </b>e.g. DVT, PE.</div><div><b>3. Inflammatory </b>(stimulus of surgery).</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HO&Fg$_/wW",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "List 5 antibiotic families",
                 "Sort by mechanism<div><br></div><div><b>1. Beta lactams </b>e.g. penicillins, cephalosporins, carbapenems.</div><div><b>2. Macrolides </b>e.g. erythromycin.</div><div><b>3. Tetracyclines</b> e.g. doxycycline.</div><div><b>4. Aminoglycosides</b> e.g. gentamicin.</div><div><b>5. Glycopeptides </b>e.g. vancomicin.</div><div><b>6. Fluoroquinolones</b> e.g. ciprofloxacin.</div><div><b>7. Trimethoprim.</b></div><div><b>8. Metronidazole.</b></div><div><br></div><div>UPDATED 2020<br></div>",
                 ""
@@ -6210,6 +9064,168 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is the name of this incision?<div><img src=\"paste-1455993913575.jpg\"></div>",
+                "<div>Midline laparotomy</div><div><br></div><div><b>NOTES</b></div><div>Used for most laparotomies.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "]*P:NL=Ws",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the name of this incision?<div><img src=\"paste-1705102016743.jpg\"></div>",
+                "<div>Paramedian incision</div><div><br></div><div><b>NOTES</b></div><div>Used for upper gastrointestinal surgery.</div><div>High risk of bleeding and herniae.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "RjIvK;w)u|",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the name of this incision?<div><img src=\"paste-1829656068327.jpg\"></div>",
+                "<div>Kocher incision</div><div><br></div><div><b>NOTES</b></div><div>Used in biliary surgery e.g. cholecystectomy.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "LQ9LZd#}Q[",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the name of this incision?<div><img src=\"paste-1876900708583.jpg\"></div>",
+                "<div>Reverse Kocher incision</div><div><br></div><div><b>NOTES</b></div><div>Used for splenectomy.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "c2~8u`SOO",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the name of this incision?<div><img src=\"paste-1915555414247.jpg\"></div>",
+                "<div>Rooftop incision</div><div><br></div><div><b>NOTES</b></div><div>Used in pancreatic and gastric surgery.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "DITyY(Kl,[",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the name of this incision?<div><img src=\"paste-1962800054503.jpg\"></div>",
+                "<div>Gridiron incision</div><div><br></div><div><b>NOTES</b></div><div>Used in appendicectomy.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "Fe[K$9Et<t",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the name of this incision?<div><img src=\"paste-2001454760167.jpg\"></div>",
+                "<div>Lanz incision</div><div><br></div><div><b>NOTES</b></div><div>Used in appendicectomy (modification of gridiron incision)</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "q$opv-%N]>",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the name of this incision?<div><img src=\"paste-2040109465831.jpg\"></div>",
+                "<div>Pfannenstiel incision</div><div><br></div><div><b>NOTES</b></div><div>Used extensively in gynaecological and pelvic surgery.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "oM3tUz5)UR",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the name of this incision?<div><img src=\"paste-2087354106087.jpg\"></div>",
+                "<div>Rutherford Morrison (hockeystick) incision</div><div><br></div><div><b>NOTES</b></div><div>Usually used in kidney transplant (donor kidney is usually transplanted into righ iliac fossa).</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "CP+gP7jjnC",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is the treatment for scabies?",
                 "<b>1. Meds</b><div>First line: permethrin 5% cream, oral ivermectin</div><div>Second line: topical benzyl benzoate, malathion</div><div><br></div><div><b>NOTES</b></div><div>All family members must be treated simultaneously</div><div>Fomites must be placed in a plastic bag for 3 days or washed in hot water</div><div>Patients can return to work or school the day after treatment</div><div><br></div><div><b>UPDATED 2020</b></div>"
             ],
@@ -6222,6 +9238,197 @@
                 "Diseases",
                 "Infectious",
                 "Y3::Med_A::Dermatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the different classes of haemorrhagic shock?&nbsp;",
+                "Class I &lt;15% blood loss&nbsp;<div>Class II 15-30% blood loss&nbsp;</div><div>Class III 30-40% blood loss&nbsp;</div><div>Class IV &gt;40% blood loss&nbsp;</div><div><br></div><div>Notes&nbsp;</div><div>Class I - Shock is completely compensated for&nbsp;</div><div>Class II - Shock causes tachycardia&nbsp;</div><div>Class III - Shock causes tachycardia, hypotension and confusion&nbsp;</div><div>Class IV - Shock causes loss of consciousness and severe hypotension&nbsp;</div><div><img src=\"paste-de51ccd788bb8f5d91ed8f4ad70e29a6fd7795e6.jpg\"><br></div><div>Source :-&nbsp;<a href=\"https://www.ncbi.nlm.nih.gov/books/NBK470382/\">https://www.ncbi.nlm.nih.gov/books/NBK470382/</a>&nbsp;Updated 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "fHDcqcrQ5u",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the risk of a small, direct inguinal hernia from strangulating within 12 months?&nbsp;",
+                "&lt;5%&nbsp;<div><br></div><div>Notes : Annual probablity of strangulation is up to 3% and is more common in indirect hernias.&nbsp;</div><div><br></div><div>References: NICE http://guidance.nice.org.uk/TA83/Guidance/pdf/English UPDATED 2020&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "ogI^1$+d+)",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Boas' sign?&nbsp;",
+                "Boas' sign is hyperaesthesia beneath the right scapula&nbsp;&nbsp;<div><br></div><div><b>NOTES&nbsp;</b>&nbsp;</div><div>This occurs due to the abdominal wall innervation of this region is from the spinal roots that lie at this level</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "ERdNx3U__G",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Mittelschmerz?&nbsp;",
+                "Mittelschmerz is pain associated with ovulation and usually occurs within the middle of an ovulatory cycle&nbsp;<div><br></div><div><b>SOURCE&nbsp;</b>&nbsp;-&nbsp;<a href=\"https://www.nhs.uk/conditions/ovulation-pain/\">https://www.nhs.uk/conditions/ovulation-pain/</a>&nbsp;UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "ONtBGV}DsA",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Richter's hernia?&nbsp;",
+                "<b>Richter hernia</b>&nbsp;(partial enterocele) is the protrusion and/or strangulation of only part of the circumference of the intestine's antimesenteric border through a rigid small defect of the abdominal wall.&nbsp;<div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "uh^n1)*47t",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the Psoas stretch sign?",
+                "Acute retrocaecal appendicitis is indicated when the right thigh is passively extended with the patient lying on their side with their knees extended"
+            ],
+            "flags": 0,
+            "guid": "oh)oe%HYxD",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is an allograft?",
+                "Transplant of tissue from genetically non identical donor from the same species&nbsp;<div><br></div><div><b>NOTES</b>&nbsp;</div><div>Solid organ transplant from non related donor<br></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "vgsY*DXvxz",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is an isograft?&nbsp;",
+                "Graft of tissue between two individuals who are genetically identical<div><br></div><div><b>NOTES</b>&nbsp;</div><div>Solid organ transplant in identical twins<br></div>"
+            ],
+            "flags": 0,
+            "guid": "sVr]SS2,!3",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is an autograft?",
+                "Transplantation of organs or tissues from one part of the body to another in the same individual&nbsp;<div><br></div><div><b>NOTES&nbsp;</b></div><div>Skin graft<b><br></b></div>"
+            ],
+            "flags": 0,
+            "guid": "fM6sPp0Dhg",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a xenograft?",
+                "Tissue transplanted from another species&nbsp;<div><br></div><div><b>NOTES&nbsp;</b>&nbsp;</div><div>Porcine heart valve<br></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "DBV:jA**LH",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What score is used to determine the severity of an upper GI bleed?",
+                "Blatchford score (also known as glasgow-blatchford score)&nbsp;<div><br></div><div><b>NOTES</b>&nbsp;</div><div><img src=\"2-Table1-1.png\"><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "mx}DR0EQuJ",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_A::General_Surgery",
+                "general",
+                "surgery,"
             ]
         },
         {
@@ -6888,7 +10095,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "When is cervical screnning offered?",
+                "When is cervical screening offered?",
                 "Offered to women aged from <b>25 to 49</b> every <b>3 years</b> and women aged from <b>50 to 64</b> every <b>5 years</b>."
             ],
             "flags": 0,
@@ -12828,7 +16035,7 @@
             "data": "",
             "fields": [
                 "How can a asymptomatic abdominal aortic aneurysm present?",
-                "Unruptured\n- Often these are asymptomatic \n- Often found accidentally on an abdominal exam as a pulsatile mass"
+                "Unruptured&nbsp;<div>- Often these are asymptomatic&nbsp;</div><div>&nbsp;- Often found accidentally on an abdominal exam as a pulsatile mass</div>"
             ],
             "flags": 0,
             "guid": "Bi0;&5M&{&",
@@ -13222,7 +16429,7 @@
             "data": "",
             "fields": [
                 "How are Gartland type 2 fractures treated?&nbsp;",
-                "- Any type II fracture with unacceptable inital alignment or for which there is concern about displacement or noncompliant follow-up should be reduced and pinned&nbsp;"
+                "<div>- Reduced and pinned</div><div>- Particularly if concern about displacement of non-compliant follow-up</div>"
             ],
             "flags": 0,
             "guid": "g5OWUQKVfD",
