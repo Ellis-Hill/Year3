@@ -65,15 +65,22 @@
         "20130607_111705.jpg",
         "2cd4d7d93a4ad89f308e0dbe7dab6f_jumbo.jpg",
         "2ec94c408f9a866d6d666b7f193a50_jumbo.jpg",
+        "35129tn.jpg",
         "44b9e96900d0c9985525f7ba61e3dd_jumbo.jpg",
         "5aa3649db055e957f47df9385c6eec_jumbo.jpg",
         "686f7ab526fa115d5ed7561153a2a9_jumbo.jpg",
         "8961d0908e6d30681a504a1c5b3bca_jumbo.jpg",
         "96291a27f3bf09d440ba91fd69e031_jumbo.jpg",
         "9e850a957d733c3629e4cabff896cc_jumbo.jpg",
+        "AF_with_RVR-Ashmans_phenomenon-RBBB_aberrancy.png",
         "Annotation 2020-05-18 154250.png",
         "BiPCHE8IAAAqwaS.jpg",
+        "ECG-1st-degree-AV-block-2.jpg",
+        "ECG-Complete-heart-block-CHB.jpg",
+        "ECG-Wenckebach-AV-block-1.jpg",
+        "ECG-showing-sinus-bradycardia.png",
         "FakJQSI5oFPKsKHgpMxVvab4o-Yf9QAXvitVdedB_e3ZK6ukxYJITsAzI5bghKi7XVHUH_j5vUWl90baDAGKC8vMpOm_9h0.jpg",
+        "Prehospital+limb+leads.jpg",
         "a-conglobata2__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg0XQ.jpg",
         "a09b44e02b25f117743f3d11a299cf_jumbo.jpg",
         "acd-plaster__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
@@ -131,6 +138,7 @@
         "folliculitis5-s.jpg",
         "galactocele.jpg",
         "general-principles-of-surgery-medical-finals-revision-notes-4-638.jpg",
+        "graphic-2.gif",
         "half-s.jpg",
         "hidradenitis2-s.jpg",
         "hidradenitis6__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg1XQ.jpg",
@@ -151,6 +159,7 @@
         "lds3-s.jpg",
         "lightbox_d0f04ab014bb11eabd3aede23f367e29-Figure-7-1-.png",
         "lm3-s.jpg",
+        "mHkWrMOdPCXlqyrQneYKzl5Po_8YP1jSttTfMtvipQjCcZB692T92YuXdkdzhRDnQ2VstY5-fJ93jKtJMwD_X37IN5V1g9pf5qcw1dtP13WWTtPvsEwSLDCCTU3MTYl7ZUGA.png",
         "mammary_duct_ectasia.jpg",
         "nail-psoriasis-pitting-oil-spots__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDU0XQ.jpg",
         "nail-psoriasis1-s.jpg",
@@ -207,6 +216,7 @@
         "paste-32edd3091b0524479b22dc977ede3ccd03e42c3c.jpg",
         "paste-34711ba1c4563d2427bd00a77e92f55e235980e2.jpg",
         "paste-37f28022125bc51499d1dcd70ea87cef7b34e50c.jpg",
+        "paste-39db8a3ea65e70f60e972c5a036bbbea3b0cbb22.jpg",
         "paste-3c39ec44edd7f055ef39bfadc504499e9796b041.jpg",
         "paste-3ca6bad99da52e68e4f45920badedc4b7c7bb657.jpg",
         "paste-3d7e5aadc8dc20a869d097d15d8c4a635381a74e.jpg",
@@ -318,6 +328,7 @@
         "paste-f7b7f56c3d72b342f4301d660d959b635e89a8d0.jpg",
         "paste-f82716acc5918c9adf6d2ffc983e65d821bde4a7.jpg",
         "paste-feb3bf1dc01853b8ce1ff31a2b7e2a735f946cad.jpg",
+        "pasteOEAgjF.png",
         "patch2-s.jpg",
         "pit-rosea1-s.jpg",
         "pit-rosea3__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDM2XQ.jpg",
@@ -483,6 +494,58 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #ffffff;text-align: left }",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-849c1",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Forward",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #ffffff;text-align: left }",
             "flds": [
@@ -580,6 +643,84 @@
                     "name": "Forward",
                     "ord": 0,
                     "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #FFFFFF; }\n.card2 { background-color: #FFFFFF; }",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Reverse",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-3925e",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Forward",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Reverse",
+                    "ord": 1,
+                    "qfmt": "{{#Reverse}}\n{{Back}}\n{{/Reverse}}"
                 }
             ],
             "type": 0,
@@ -753,7 +894,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "Y3::Med_B::CBL3::LO8"
+                "Y3::Med_A::CBL2::LO5"
             ],
             "tmpls": [
                 {
@@ -933,6 +1074,102 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of aortic stenosis (AS)?",
+                "<b></b><b>History</b><br>Angina<br>Exertional syncope<br>Exertional dyspnoea<br><br><b>Exam</b><br><i>Obs:</i> narrow pulse pressure<div><i>Palpation: </i>slow rising pulse, 'heaving' apex</div><div><div><i>Auscultation: </i>ejection systolic murmur (loudest in the aortic area with breath held in expiration, may radiate to carotids), soft S2</div><div><div><br></div><div><b>NOTES</b></div><div>Symptoms (listed above in order of appearance) develop late in the natural history of the disease</div></div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "jZJtb<p=I>",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected aortic stenosis (AS)?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important:</b> echocardiogram.</div><div><br></div><div style=\"display: inline !important; \"><b>All the rest</b></div><div><i>1. Bloods</i> e.g. FBC, film.</div><div><i>2. ECG</i> may show LVH.<br><i>3. CXR</i> may show cardiomegaly or calcification of aortic ring.<br></div><div><br></div><div><b>NOTES</b></div><div><i>Work up for valve replacement </i>may include CT, MRI, coronary angiography.</div><div><i>Bloods</i> may show anaemia due to haemolysis at a tight aortic stenosis.</div><div><i>LVH = </i> left ventricular hypertrophy.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "neU8l$.8+o",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for aortic stenosis (AS)?",
+                "<div><b>1. Conservative</b></div><div>Patient education e.g. dental hygiene.</div><div><div>If left-sided heart faiure consider low salt diet and immunisations.</div></div><div><br></div><div style=\"font-weight: bold; \"></div><b>2. Meds</b> (consider)<br>Meds for systolic left-sided heart failure.<br><br><b>3. Surgery</b><br><i>First line:</i> open valve replacement or TAVI.<div><i>Second line: </i>balloon valvuloplasty.<br><div><br></div><div><b>NOTES</b></div><div><i>TAVI</i> = transcatheter aortic valve implantation</div><div><br></div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "i31yoTQ40W",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of aortic regurgitation (AR)?",
+                "Sort by acute vs chronic<br><br><b>Acute</b><br><i>1. Aortic dissection.<br>2. Infective endocarditis.</i><br><br><b>Chronic</b><br><i>1. Cusp abnormality</i> e.g. degenerative or bicuspid valve.<br><div><i>2. Aortic root dilatation</i> e.g. idiopathic, aortitis (autoimmune or infective), connective tissue disorder (Marfan's, Ehlers-Danlos).</div><div><br></div><div><b>NOTES</b></div><div><i>Autoimmune aortitis</i> may result from giant cell arteritis (GCA) or ankylosing spondylitis.</div><div><i>Infective aortitis</i> may result from syphilis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "nFu%xFa!`A",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of aortic regurgitation (AR)?",
+                "<b><div></div></b><b>History</b><br><div><i>Symptoms of left-sided heart failure</i> e.g. tiredness, dyspnoea, orthopnoea, etc.<br></div><div><br></div><div><b>Exam</b></div><div><i>Obs:</i> systolic hypertension with wide pulse pressure.</div><div><i>Inspection: </i>visible collapsing pulse e.g. Corrigan's sign.</div><div><i>Palpation: </i>collapsing pulse, laterally displaced 'thrusting' apex.</div><div><i>Auscultation: </i>early diastolic murmur (heard best at the lower left sternal edge on leaning forward with breath held in expiration), may be Austin-Flint murmur, may be bibasal creps.</div><div><br></div><div><b>NOTES</b></div><div><i>Austin-Flint murmur</i> is mid-diastolic, and best heard at the apex.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "rQ{$@V^*[+",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected aortic regurgitation (AR)?",
+                "Sort by clinical relevance<div><b><br></b></div><div><b>Most important:</b> echocardiogram (diagnostic).</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods</i> e.g. FBC, CRP, cultures, VDRL.<div><div><div><i>2. ECG</i> may show LVH.<br></div></div></div></div><div><br></div><div><b>NOTES</b></div><div><i>VDRL</i> = venereal disease research laboratory (test for syphilis).</div><div><i>LVH</i> = left ventricular hypertrophy.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "ds-=1`j1k@",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular",
+                "Y3::Med_A::Cardiology"
             ]
         },
         {
@@ -1624,6 +1861,800 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the causes of sinus bradycardia?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><i>1. Rasied ICP</i> (Cushing reflex).</div><div><br></div><div><b>All the rest</b></div><div><i>1. Physiological</i> e.g. increased vagal tone in athletes, during sleep.</div><div><i>2. Cardiac</i> e.g. SA node disease due to fibrosis or ischaemia.</div><div><i>3. Non-cardiac</i> e.g. vasovagal, hypothyroidism, hyperkalaemia, hypothermia.</div><div><i>4. Drug-induced</i> e.g. beta-blockade, diltiazem, digoxin, amiodarone.</div><div><i><br></i></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "cwDFGZk%*y",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of complete heart block?",
+                "<b></b><b>History</b><br>Syncope, presyncope.<div><i>Symptoms of heart failure</i> e.g. tiredness, dyspnoea, orthopnoea, etc.</div><div><br><div><b>Exam</b><br><i>Obs:</i> bradycardia, hypotension.</div><div><i>Inspection: </i>'cannon A waves' in JVP.</div><div><i>Auscultation: </i>may be bibasal crackles.</div></div><div><br></div><div><b>NOTES</b></div><div><i>Cannon A waves</i> are due to the left atrium contracting against a closed tricuspid valve.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "vXAVI2!TSK",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of left bundle branch block (LBBB)?",
+                "<span style=\"\">Sort by mechanism</span><div><span style=\"\"><br><b>1. Hypertension.<br>2. Coronary artery disease.<br></b></span><div><b>3. Cardiomyopathy.<br>4. Valve disease</b> e.g. aortic stenosis.</div></div><div><br></div><div><b>NOTES</b></div><div><i>LBBB</i> usually reflects slowly progressive degenerative disease of the conduction system.</div><div><i>Chronic conditions </i>(listed above) may contribute to myocardial fibrosis, leading to LBBB.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "f<X1^/;Xj+",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of supraventricular tachycardia",
+                "<div>Sort by rhythm</div><div><br></div><div><b>Regular</b></div><div><i>1. Sinus tachycardia.</i></div><div><i>2. AV junctional tachycardia </i>e.g. AVNRT, AVRT.</div><div><i>3. Atrial flutter.</i></div><div><br></div><div><b>Irregular</b></div><div><i>1. Atrial fibrillation.</i></div><div><i>2. Multifocal atrial tachycardia.</i></div><div><br></div><div><b>NOTES</b></div><div>The term 'supraventricular tachycardia' most commonly refers to AV junctional tachycardia.</div><div><i>AVNRT</i> = AV node re-entry tachycardia.</div><div><i>AVRT</i> = AV re-entry tachycardia (accessory pathway as in Wolff-Parkinson-White syndrome)</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "J6#[_$U~_",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What classification system is used for antiarrhythmic drugs?",
+                "Vaughan Williams class I-IV.<div><br></div><div><b>NOTES</b></div><div><i>Class I</i> are Na channel blockers e.g. flecainide.</div><div><i>Class II</i> are beta-blockers e.g. bisoprolol.</div><div><i>Class III</i> are K channel blockers e.g. amiodarone, sotalol.</div><div><i>Class IV</i> are Ca channel blockers e.g. diltiazem.</div><div><i>Others</i> include digoxin and adenosine.<br></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "h#pJ<cydmi",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<span style=\"\">What is atrioventricular reentry tachycardia (AVRT)?</span>",
+                "<div><b>A type of supraventricular tachycardia</b>, due to an accessory pathway between the atria and the ventricles.</div><div><br></div><div><b>NOTES</b></div><div><i>Wolf Parkinson White syndrome </i>is an example.</div><div><i>Anterograde conduction</i> via an accessory bundle may be visible as a delta wave (pre-excitation) on the ECG.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "b1)U7i5u&9",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of atrial fibrillation (AF)?",
+                "<div>Sort by prevalence</div><div><br></div><b>Most common</b><div><div><i>1. Hypertension.<br>2. Ischaemic heart disease.<br>3. Valve disease</i> (most commonly MR).<br><br><b>All the rest<br></b><i style=\"font-style: italic; \">1. 'Lone AF'.</i></div><div><i style=\"font-style: italic; \">2. Heart disease</i> e.g. cardiomyopathy.<br><i style=\"font-style: italic; \">3. Lung disease</i> e.g. pneumonia, pulmonary embolism.</div><div><i>4. Hyperthyroidism.<br>5. Drugs</i> e.g. alcohol, caffeine.</div></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "t#NI8I!v]?",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of atrial fibrillation (AF)?",
+                "<div>Sort by mechanism</div><div><br></div><b>1. Embolism </b> e.g. stroke, ischaemic bowel, ischaemic limb.<br><b>2. Acute heart failure.</b><br><b>3. Cardiomyopathy </b>(chronic AF).<div><br></div><div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "kPiJ{?4c;+",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of left-sided heart failure?",
+                "<div>Sort by prevalence</div><div><br></div><div><b>Most common</b></div><div><i>1. Ischaemic heart disease.<br>2. Hypertension.<br>3. Valve disease</i> e.g. AS, MR.</div><div><br></div><div><b>All the rest<br></b><i>1. Low output</i> e.g. myocardial disease, pericardial disease, valve disease.</div><div><i>2. High output</i> e.g. volume overload, pregnancy, hyperthyroidism, etc.</div><div><br></div><div><b>NOTES</b></div><div><i>Hypertension</i> is the most common cause of heart failure in women.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "f&af%wH$0,",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which CXR changes are seen in heart failure?",
+                "Mnemomic ABCDE<br><br><b>A</b>lveolar shadowing.<br>Kerly <b>B</b> lines.<br><b>C</b>ardiomegaly.<br><b>D</b>ilated, prominent upper lobe vessels.<br>Pleural <b>e</b>ffusion.<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "qv37U4uJIp",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Radiology",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of hypertension?",
+                "Sort by mechanism<div><br></div><div><b>1. Primary</b> (essential hypertension).</div><div><b>2. Secondary</b></div><div><i>Vascular</i> e.g. renovascular disease, coarctation of aorta.</div><div><i>Renal</i> e.g. chronic kidney disease.</div><div><i>Adrenal</i> e.g. Conn syndrome, Cushing syndrome, phaeochromocytoma.</div><div><i>Drugs</i> e.g. corticosteroids, NSAIDs, alcohol.</div><div><i>Endocrine</i> e.g. hyperthyroidism.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "r{K4m1Q[bw",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which bedside tests may be useful in a patient with hypertension?",
+                "<div><b>1. Opthalmoscopy</b> may show hypertensive retinopathy.<br><b>2. Urine dip</b> may show blood or protein.<br><b>3. ECG</b> may show left ventricular hypertrophy.</div><div><br></div><div><b>NOTES</b></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "fHzNSJht#y",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of beta-blockers?",
+                "<div>Sort by organ system</div><div><br></div><div><b>1. CVS </b>e.g. exacerbation of pulmonary oedema, hypotension, cold peripheries.</div><div><b>2. Resp </b>e.g. bronchoconstriction.<br><b>3. CNS </b>e.g. tiredness, sexual dysfunction.<div><br></div></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "g$Bc?pzOau",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of mitral stenosis?",
+                "<div>Sort by prevalence</div><div><br></div><b>Most common</b><div>1. Rheumatic heart disease.<div>2. Congenital mitral stenosis.</div><div><br></div><div><b>All the rest</b></div><div>1. Calcification.</div><div>2. Infective endocarditis.<br><div><b><br></b></div><div>&nbsp;UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "kz&z@V#<(3",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected mitral stenosis?",
+                "Sort by clinical relevance<div><b><br></b></div><div><b>Most important:</b> echocardiogram.</div><div><br></div><b>All the rest</b><div><i>1. ECG</i> may show AF, bifid P waves (LA dilatation).<br><i>2. CXR</i> may show left atrial enlargement, heart failure.<br></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "uV;RgrS)Lx",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for mitral stenosis?",
+                "<div><b>1. Conservative</b> e.g. dental hygiene; low salt diet and immunisations (if left-sided heart failure).</div><div><br></div><div><b>2. Meds</b> (consider)<br>Meds for AF e.g. rate control, warfarin.<br>Meds for left-sided heart failure e.g. furosemide, etc.</div><div><br><b>3. Surgery<br></b><i>First line:</i> mitral commissurotomy (balloon catheter).<br><i>Second line:</i> mitral valve replacement.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "b]AB?0xIb8",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of mitral regurgitation (MR)?",
+                "Sort by acute vs chronic<div><br></div><div><b>Acute</b></div><div><i>1. Myocardial infarction.</i></div><div><i>2. Infective endocarditis.</i></div><div><br></div><div><b>Chronic</b></div><div><i>1. Primary</i> (disorder of valve apparatus) e.g. valve prolapse, rheumatic fever, collagen disease.</div><div><i>2. Secondary</i> (left ventricular dilation) e.g. ischaemic heart disease, cardiomyopathy.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "pMv}}^UlI2",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of mitral regurgitation (MR)?",
+                "<b>History</b><br><div><i>Symptoms of left-sided heart failure</i> e.g. tiredness, dyspnoea, orthopnoea, etc.<br></div><div></div><div><b><br></b></div><div><b>Exam</b><i><br></i></div><div><i>Palpation: </i>laterally displaced 'thrusting' apex.</div><div><i>Auscultation: </i>pansystolic murmur (loudest at the apex with breath held in expiration, may radiate to axilla), loud P2, bibasal creps.</div><div><u><br></u></div><div><b>NOTES</b></div><div>MR may result in atrial fibrillation (AF).</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "kZne0jxe{H",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected mitral regurgitation (MR)?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important:</b> echocardiogram.</div><div><br></div><div style=\"display: inline !important; \"><b>All the rest</b></div><div><i>1. Bloods</i> e.g. culture, FBC, CRP. <br><i>2. ECG </i>may show LVH, AF, bifid P-waves (LA dilatation).<br><i>3. Radiology</i> e.g. CXR.<br></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "hCS&CDoOY(",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for mitral regurgitation (MR)?",
+                "<div><b>1. Conservative</b> e.g. dental hygiene.</div><div><br><b>2. Meds</b> (consider)<br>Meds for systolic left-sided heart failure.</div><div>Meds for atrial fibrillation.<br><br><b>3. Surgery</b></div><div><i>First line:</i> mitral valve repair.</div><div><i>Second line:</i> mitral valve replacement.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "gh?:8ukJ/m",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the diagnostic criteria for 'severe hypertension'?",
+                "<b>sBP ≥180</b> and/or <b>dBP ≥120</b>.<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "b~&I/3qEjZ",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Describe the protocol for ambulatory BP monitoring (ABPM)",
+                "<b>24-48h protocol.</b> Measurements every 20 mins during the day and every 60 mins during sleep.<div><u><br></u></div><div><b>NOTES</b></div><div>Hypertension defined as average BP ≥135/85.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "r!)T&]<CUm",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Describe the protocol for home blood pressure monitoring (HBPM)",
+                "<div><b>7 day protocol. </b>Measure BP morning and evening each day.</div><div><br></div><div><b>NOTES</b></div><div>Hypertension defined as average BP ≥135/85.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "q2E]:I^X)Z",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Describe the procedure for measurement of lying and standing BP",
+                "1. Lie supine for 5 mins, measure BP.<br>2. Stand and measure BP immediately.<div>3. Repeat measurement after 3 minutes.<br><br></div><div><b>NOTES</b><br><i>Postural drop</i> is significant if ≥20mmHg systolic or ≥10mmHg diastolic.<br></div><div>Normal physiological response to standing is to increase BP.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "O.PP:V8&7",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which diagnostic criteria are used for infective endocarditis?",
+                "<b>Modified Duke criteria</b><div><br></div><div>Diagnosis requires any of the following:<div></div><div>1. Two major criteria.</div><div>2. One major and three minor criteria.</div><div>3. Five minor criteria.</div><div><br></div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "mxWrJ&(CDZ",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which micro-organisms most commonly cause infective endocarditis?",
+                "<div>Sort by prevalence</div><div></div><br><b>Most common</b><br><div><i>1. Streptococci </i>e.g. Viridans group, S. bovis.</div><div><i>2. Staphylococci </i>e.g. S. aureus, coagulase neg.<i><br></i><div><br><b>All the rest</b><br><i>1. Enterococci</i> e.g. E. faecalis, E. faecium.</div><div><i>2. HACEK group</i> e.g. Haemophilus aphrophilus.</div><div><i>3. Q fever</i> (Coxiella burnetii)</div></div><div><br></div><div><b>NOTES</b></div><div>Staph and strep together account for large majority of cases.</div><div><i>Strep bovis</i> has a strong association with colorectal cancer.</div><div><i>HACEK group</i> = Haemophilus aphrophilus, Actinobacillus actinomycetemcomitans, Cardiobacterium hominis, Eikenella corrodens, and Kingella kingae.</div><div><br></div><div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "tX<{!@!FJQ",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Diseases",
+                "Infectious",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is an Osler node?",
+                "<div>A sign of infective endocarditis caused by immune complex deposition.</div><div><br></div><div><b>NOTES</b></div><div><i>Sites:</i> usually fingers or toes.</div><div><i>Lesions: </i>red or purple, tender papules.</div><div>Thought to result from septic microemboi triggering local vasculitis.</div><br><img src=\"pasteOEAgjF.png\"><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "l_9~Q,J7Sa",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Infection,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a Janeway lesion?",
+                "A skin lesion seen in infective endocarditis.<div><br></div><div><img src=\"graphic-2.gif\" style=\"width: 213px; height: 150px;\"><br></div><div><b>NOTES</b></div><div><i>Sites: </i>palms and soles, usually thenar or hypothenar eminence.</div><div><i>Lesion: </i>nontender papule, often haemorrhagic.</div><div>Due to septic microemboli.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "fK?FMh|^et",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Dermatology,",
+                "Infection,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of infective endocarditis?",
+                "Sort by anatomy<div><br></div><div><b>1. Heart </b>e.g. valve damage, heart failure, aortic root abscess.</div><div><b>2. Emboli</b> (ischaemia and metastatic infection) e.g. brain abscess, glomerulonephritis, bacteraemia.<br></div><div><br></div><div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "m0*9L/e):f",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for infective endocarditis?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - IV access.</div><div><br><b>2. Meds</b><br>IV antibiotics 4-6 weeks (see local guidelines).<br><div><br><b>3. Surgery</b></div><div>Consider if prosthetic material, heart failure, or valve damage.<br></div><div><br></div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "eI-lVz~boZ",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of pericarditis?",
+                "Sort by mechanism<div><br></div><div><b>Infection</b> e.g. coxsackie virus, Streptococcus pneumoniae, tuberculosis.</div><div><b>Neoplasia</b> e.g. lung cancer mets.</div><div><b>Inflammatory</b> e.g. RA, SLE, Dressler syndrome.</div><div><b>Iatrogenic</b> e.g. radiotherapy.</div><div><b>Metabolic</b> e.g. uraemia.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "hGiuJ]#%Zq",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of myocarditis?",
+                "Sort by prevalence<div><br></div><div><b>Most common:</b> viral infection e.g. coxsackie virus, parvovirus.<br><br><b>All the rest</b></div><div><i>1. Other infection</i> e.g. Chagas disease.</div><div><i>2. Inflammatory</i> e.g. rheumatic fever, SLE, polymyositis, large vessel vasculitis.</div><div><i>3. Drugs</i> e.g. cocaine, alcohol.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "ei&E.1c9^i",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of myocarditis?",
+                "Clinical presentation is variable<div><b><br></b></div><div><b></b><b>History</b><br><div>Cardiac chest pain.</div><div>Palpitations.</div><div><i>Symptoms of heart failure</i> e.g. tiredness, dyspnoea, orthopnoea, etc.<br><br><b>Exam</b><i><br>Obs: </i>may be hypotension, tachycardia, tachypnoea.</div><div><i>Inspection: </i>may be peripheral oedema.</div><div><i>Auscultation: </i>may be bibasal crackles, S3 or S4.</div></div><div><i>Bedside tests: </i>ECG may show arrhythmia.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "h0i*@hl>TR",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of acute myocardial infarction (MI)?",
+                "Sort by anatomy<div><br></div><div><b>1. Myocardium </b>e.g. scarring, aneurysm, rupture.</div><div><b>2. Conduction pathways</b> e.g. arrhythmia.</div><div><b>3. Valves</b> e.g. acute regurgitation.</div><div><b>4. Pericardium</b> e.g. pericarditis, tamponade, Dressler syndrome.</div><div><b>5. Emboli </b>e.g. thrombi formed in cardiac aneurysm.</div><div><br></div><div><b>NOTES</b></div><div><i>Heart failure </i>may result from many of the above complictions.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "b>i@P0&otw",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of dilated cardiomyopathy?",
+                "Sort by mechanism<div><br></div><div><div><b>Idiopathic.<br>Infection </b>e.g. Chagas disease, HIV.<br><b>Vascular</b> e.g. ischaemic heart disease.</div><div><b>Inflammatory</b> e.g. autoimmune cardiomyopathy, sarcoidosis.</div><div><b>Endocrine</b> e.g. hyperthyroidism.</div><div><b>Drugs</b> e.g. alcohol, cocaine, heavy metals.<br></div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "de0L$eV5,/",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of cardiomyopathy",
+                "Sort by gross pathology<div><b><br></b></div><div><b>1. Dilated</b> e.g. idiopathic, ischaemic, alcoholic, hyperthyroid, familial.</div><div><b>2. Hypertrophic</b> (usually familial).<br><b>3. Restrictive</b> e.g. amyloidosis.<br><b>4. Arrhythmogenic right ventricular</b> (usually familial).<br><b>5. Unclassified </b>e.g. Takotsubo cardiomyopathy.</div><div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "pf#4bru1ly",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of stable angina?",
+                "<b></b><b>History</b><br>Chest pain (SOCRATES)<div>S - central.</div><div>O - triggered by a predictable level of exertion, cold, emotion.</div><div>C - tight, heavy, squeezing.</div><div>R - to arms, neck, or jaw.</div><div>A - N&amp;V, dyspnoea.</div><div>E - relieved by rest or GTN ≤5 mins.</div><div><div><div><br><b>Exam</b></div></div></div><div>Usually no signs.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "pE{.JWju`~",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected stable angina?",
+                "<b>1. Bloods</b> e.g. FBC, U&amp;Es, lipids, HbA1c, TFTs.<br><div><b>2. ECG:</b> look for ischaemic changes.</div><div><br></div><div><b>3. Imaging</b></div><div><i>If low likelihood of CAD</i>, consider CT calcium scoring.</div><div><i>If intermediate likelihood of CAD</i>, consider noninvasive functional imaging e.g. myocardial perfusion scintigraphy, stress echo.</div><div><i>If high likelihood of CAD</i>, consider angiography and angioplasty.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "oiX.7dFwVf",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of high output heart failure?",
+                "Sort by mechanism<div><br><div><b>1. Volume overload </b>e.g. kidney failure.</div><div><b>2. Anaemia.</b></div><div><b>3. Pregnancy.</b></div><div><b>4. Hyperthyroidism.</b></div><div><b>5. Paget's disease of bone.</b></div><div><b>6. Arteriovenous malformations.</b></div><div><b>7. Beriberi </b>(thiamine deficiency).</div><div><br></div><div><b>NOTES</b></div><div>Cardiac output is normal or high but can't meet demands.<br></div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "lF#SPtDNGJ",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What <span style=\"\">functional classification is used for h</span>eart failure?",
+                "New York Heart Association (NYHA) Class I-IV.<br><br><div><b>NOTES</b></div><div><i>Class I:</i> asymptomatic on ordinary physical activity.<br><i>Class II:</i> symptomatic on ordinary physical activity.<br><i>Class III:</i> symptomatic on minimal physical activity.<br><i>Class IV:</i> symptomatic at rest.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "nLto)y<g<X",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for left ventricular systolic failure?",
+                "Must find and address the underlying cause.<div><br></div><b>1. Patient education</b> e.g. smoking cessation, diet low in salt.<div><br></div><div><b>2. Immunisations.</b></div><div><br></div><div><b>3. Meds</b></div><div><i>Loop diuretics</i> e.g. furosemide.</div><div><i>ACE-i/ARB</i> e.g. ramipril, losartan.</div><div><i>Beta-blocker</i> e.g. bisoprolol.</div><div>Consider aldosterone antagonist (e.g. spironolactone) or hydralazine plus nitrate (selected patients).</div><div><br></div><div><b>4. Interventional</b> (consider)</div><div>Cardiac resynchronisation therapy.</div><div>Implantable cardioverter-defibrillator (in patients at risk of sudden cardiac death).</div><div><br></div><div><b>NOTES</b></div><div><i>Loop diuretics</i> have no mortality benefit.</div><div>ACE-i, ARBs, beta-blockers, and spironolactone all have a proven mortality benefit.</div><div><i>Beta blockers</i> should not be started during the acute phase.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "q6ET%tec&y",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of thiazide diuretics?",
+                "Sort by mechanism<div><b><br></b></div><div><b>1. Electrolyte derangement</b> e.g. hypokalaemia, hyponatraemia.<div><b>2. Hyperuricaemia</b> (risk of gout).</div><div><b>3. Acute kidney injury.</b><br><b>4. Hypotension.</b></div><div><b>5. Impaired glucose tolerance.</b></div></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "pBzS8(.YcT",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of calcium channel blockers (CCBs)?",
+                "Sort by organ system<div><b><br></b></div><div><b>1. CVS </b>e.g. hypotension, peripheral oedema, facial flushing.</div><div><b>2. CNS </b>e.g. tiredness.</div><b>3. GIT </b>e.g. gingival hyperplasia, constipation.<div><b><br></b></div><div><b>NOTES</b></div><div>Constipation is especially common with verapamil.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "h<9%m<j[D0",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the families of calcium channel blocker (CCB)",
+                "<b style=\"font-weight: bold; \">1. Dihydropyridine</b> e.g. amlodipine, felodipine, nifedipine.<div><b>2. Non-dihydropyridine </b>e.g. diltiazem, verapamil.</div><div><u><br></u></div><div><b>NOTES</b><div><i>Dihydropyridines</i> are used to treat hypertension.</div><div><i>Non-dihydropyridines</i> are more cardioselective, and used to treat angina and rate control atrial fibrilliation.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "t`2AX3}L$w",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of angiotensin receptor blockers (ARBs)?",
+                "Sort by mechanism<div><b><br></b></div><div><b>1. Hypotension.</b><br><b>2. Diarrhoea.</b><br><b style=\"font-weight: bold; \">3. Acute kidney injury</b> (AKI).<br><b>4. Hyperkalaemia.</b><br><b>5. Teratogenicity</b> (renal dysgenesis).<br><br><div><div><b>NOTES</b></div></div><div><div><i>AKI</i> may result from dilatation of the efferent arteriole and subsequent decrease in glomerular filtration rate.</div><div><i>Hyperkalaemia</i> may result from decreased aldosterone.</div><div><br></div><div>UPDATED 2020</div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "c~:vThecVD",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of alpha-blockers?",
+                "<div>Sort by organ system</div><div><br></div><div><b>1. CVS</b> e.g. hypotension, oedema.</div><div><b>2. CNS</b> e.g. light-headedness, tiredness, headache, low libido.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "eSlJj*=>uc",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which stroke risk stratification score is used in atrial fibrillation (AF)?",
+                "CHADS-VASC score.<div><br></div><div><b>NOTES</b></div><div><i>0 points </i>= no anticoagulation preferred.</div><div><i>1 point</i> = consider oral anticoagulant.</div><div><i>≥2 points</i> = oral anticoagulation preferred.</div><div><br></div><div><i>CHADS-VASC components:<br></i>Congestive cardiac failure (1 pt).<br>Hypertension (1 pt).<br>Age ≥75y (2 pts).<br>DM (1 pt).<br>Prior stroke, TIA or embolic event (2 pts).<br>Vascular disease e.g. PVD, MI (1 pt).<br>Age 65-74 years (1 pt).<br>Sex female (1 pt).<br></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "q$9R=TrKNa",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Neurology",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which drug families may cause postural hypotension?",
+                "<div>Sort by mechanism</div><div style=\"font-weight: bold; \"><b><br></b></div><b>1. Diuretics.</b><div><b>2. Antihypertensives</b> e.g. ACE-i/ARBs, CCBs, alpha and beta-blockers.<br><b>3. TCAs</b> e.g. amitriptyline.<br><b>4. Dopamine agonists</b> e.g. levodopa.<br><b>5. Nitrates</b> e.g. isosorbide mononitrate.<br><b>6. PDE-5 antagonists </b>e.g. sildenafil.<div><br></div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "kAAe!)6P0%",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected cardiac tamponade?",
+                "<div>Sort by clinical relevance<div><br></div><div><b>Most important:</b> echocardiogram.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods:</i> U&amp;E, FBC, CRP, TFTs.</div><div><div><i>2. ECG.</i></div><div><i>3. Radiology</i> e.g. CXR.</div></div><div><br></div><div><b>NOTES</b></div><div><i>ECG </i>may show sinus tachycardia, electrical alternans, low QRS voltage, ST elevation in several territories (pericarditis).</div><div><i>Electrical alternans</i> is alternation of QRS amplitude or axis.</div><div><i>CXR</i> may show large globular 'boot shaped' heart.</div></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "c/|jL9`tqj",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Emergency",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the risk factors for gallstones?",
                 "<div><div>Sort by history</div></div><div><br></div><div>5F's&nbsp;</div><div><br></div><div>Female&nbsp;</div><div>Fat&nbsp;</div><div>Forty&nbsp;</div><div>Fertile&nbsp;</div><div>Fair&nbsp;</div><div><br></div><b>Demographics </b>e.g. age, female.<div><b>PMHx</b></div><div><i>High oestrogen</i> e.g. pregnancy.</div><div><i>High lipids</i> e.g. obesity, rapid weight loss, hyperlipidaemia.</div><div><i>Haemolysis.</i></div><div><i>Gallbladder stasis </i>e.g. diabetes, total parenteral nutrition.</div><div><b>DHx </b>e.g. oestrogen, fibrates.</div><div><b><br></b></div><div>UPDATED 2020<br></div>"
             ],
@@ -1781,6 +2812,153 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the cardiac causes of clubbing?",
+                "<span style=\"\">Sort by prevalence</span><div><br><b>1. Congenital cyanotic heart disease.</b></div><div><b>2. Subacute bacterial endocarditis.<br>3. Atrial myxoma </b>(extremely rare).</div><div><br></div><div><b>NOTES</b></div><div><span style=\"font-weight: normal; \"><i>Bacterial endocarditis</i></span><span style=\"font-weight: normal; \"> rarely causes significant clubbing today because it is treated early.</span></div><div><span style=\"font-weight: normal; \"><br></span></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "J;b~F?$`+",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of advanced pulmonary hypertension?",
+                "<b>History</b><br><div><i>Symptoms of heart failure</i> e.g. exertional dyspnoea, tiredness, peripheral oedema.</div><div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>may be tachypnoea, tachycardia, hypotension.</div><div><i>Inspection: </i>raised JVP, large V wave (TR), peripheral oedema.</div><div><i>Palpation: </i>RV heave, pulsatile hepatomegaly (TR).</div><div><i>Auscultation: </i>loud P2 (early sign), pansystolic murmur (TR).</div><div><i>Bedside tests: </i>ECG may show signs of right ventricular hypertrophy.</div><div><br></div><div><b>NOTES</b></div><div><i>JVP = </i> jugular venous pressure.</div><div><i>RV</i> = right ventricle.</div><div><i>TR</i> = tricuspid regurgitation.</div><div><i>P2</i> = pulmonary component of second heart sound.</div><div><i>PR</i> = pulmonary regurgitation (Graham Steell murmur).</div><div><div><i>ECG signs</i> of RVH include: right axis deviation; P pulmonale; tall R wave in V1 and deep S wave in V6; TWI in V1-V4.</div></div><div><br></div></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "eReYN#%zv2",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Respiratory,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which heart abnormalities are present in tetralogy of Fallot?",
+                "<div>Sort by anatomy</div><div><br></div><div><b>1. Overriding aorta.</b></div><div><span style=\"\"><b>2. Pulmonary stenosis.</b></span></div><div><span style=\"font-style: normal; \"><b>3. Right ventricular hypertrophy.<br>4. VSD.</b></span></div><div><span style=\"font-style: normal; \"><br></span></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "o!9RkX~MNi",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Paediatrics",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of infective endocarditis?",
+                "<b></b><b>History</b><br><i>Constitutional symptoms</i> e.g. fever, night sweats, tiredness, weight loss.<br><i>Symptoms of emboli</i> e.g. stroke, pulmonary embolism.<br><br><b>Exam</b><br><i>Obs:</i> fever.<div><i>Inspection: </i>splinter haemorrhages and petechiae (conjunctivae), may be clubbing, Osler nodes, or Janeway lesions.</div><div><i>Palpation: </i>may be splenomegaly.</div><div><i>Auscultation: </i>may be new regurgitation murmur.</div><div><i>Bedside tests: </i>urine dip may show blood, ophthalmoscopy may show Roth spots.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "g-qK}mxpe.",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of an irregularly irregular pulse?",
+                "Sort by mechanism<div><br></div><div><b>1. Atrial fibrillation.</b><div><b>2. Atrial flutter with variable block.<br>3. Atrial or ventricular ectopics.</b></div></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "c~,g>}pZ49",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of a collapsing pulse?",
+                "Sort by mechanism<div><b><br></b></div><div><b>1. Aortic regurgitation.<br>2. Hyperdynamic circulation</b> e.g. pregnancy, anaemia, hyperthyroidism.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "tl}d5QG*].",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of pulsus paradoxus?",
+                "Sort by mechanism<div><b><br></b></div><div><b>1. Obstructive airways disease</b> e.g. COPD, asthma.<br><b>2. Pneumothorax.</b></div><div><b>3. Cardiac tamponade.</b><br><div><br></div><div><b>NOTES</b></div><div><i>Pulsus paradoxus</i> = inspiratory drop in sBP &gt;10mmHg (<i>sBP</i> usually falls slightly on inspiration).</div></div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "m|}&b9A*20",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of a raised JVP?",
+                "Sort by mechanism of right-sided heart failure.<br><br><div><b>1. Low output:</b><div><i>Inflow obstruction</i> e.g. SVC compression, cardiac tamponade.<br><i>Pump failure</i><b> </b>e.g. myocardial infarction.<div><i>Outflow obstruction</i> e.g. PE, cor pulmonale, left-sided heart failure.</div><div><br></div><div><b>2. High output</b> e.g. volume overload, anaemia, hyperthyroidism, etc.<br><div><br></div><div>UPDATED 2020<br></div></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "i6Ns-S0g%y",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Respiratory,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of a non-palpable apex beat?",
+                "Sort by anatomy.<br><br><b>1. Chest wall </b>e.g. apex behind a rib, fat.<br><b>2. Lungs </b>e.g. pneumothorax, haemothorax, effusion, emphysema.<br><b>3. Heart </b>e.g. pericardial effusion, dextrocardia.<div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "r:yI`Lem31",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
             ]
         },
         {
@@ -2378,6 +3556,166 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "List two thiazide-like diuretics",
+                "1. Indapamide.<div>2. Metolazone.<br><div><br></div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "n2X?JxyQ<u",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which scale is used to describe murmur intensity?",
+                "Levine Scale.<br><br><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "mqn:v(Kb6f",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which clinical features suggest severity in aortic stenosis (AS)?",
+                "<b></b><b>History</b><br>Any symptoms i.e. angina, exertional syncope, dyspnoea.<br><br><b>Exam</b><br><i>Obs: </i>narrow pulse pressure.<div><i>Palpation: </i>slow rising pulse.<div><i>Auscultation: </i>soft S2, bibasal crackles.</div></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "g)LQt!<(hZ",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which clinical features suggest severity in mitral regurgitation (MR)?",
+                "<b></b><b>History</b><br><div><i>Symptoms of heart failure</i> e.g. tiredness, dyspnoea, orthopnoea, etc.<br><span style=\"font-weight:600\"></span><br><b>Exam</b><br><i>Palpation: </i>displaced apex.<div><i>Auscultation: </i>loud P2 (pulmonary hypertension), bibasal crackles (pulmonary oedema).</div></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "hgd8jG;9qe",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which clinical features suggest severity in aortic regurgitation (AR)?",
+                "<div><b></b><b>History</b></div><div><i>Symptoms of heart failure</i> e.g. tiredness, dyspnoea, orthopnoea, etc.</div><div><br></div><div style=\"font-weight: bold; \"></div><b>Exam</b><br><i>Obs: </i>wide pulse pressure.<div><i>Palpation: </i>collapsing pulse, displaced apex.</div><div><i>Auscultation: </i>bibasal crackles, atrial fibrillation.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "i|;fiqO5x8",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which clinical features suggest severity in mitral stenosis?",
+                "<b></b><b>History</b><br><div><i>Symptoms of heart failure</i> e.g. tiredness, dyspnoea, orthopnoea, etc.</div><div><b><br></b></div><div><b>Exam</b></div><div><i>Palpation: </i>parasternal heave.</div><div><i>Auscultation: </i>loud P2.<div><i>Beside tests: </i>ECG may show RVH.</div></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "pGs8b_V_Q!",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Why is S1 loud in mitral stenosis?",
+                "Increased pressure forces the valve leaflets to <b>close from a wider excursion.</b><div><b><br></b></div><div><b>NOTES</b><br><div>In the healthy heart, the mitral valve leaflets close from a relatively small excursion.<br></div></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "qkRiX]T$.b",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What mechanism causes the fourth heart sound?",
+                "<div>Atrial filling of the ventricles.</div><div><br></div><div><b>NOTES</b></div><div>Coincides with atrial contraction, heard in late diastole in patients with heart failure.</div><div>Best heard with the bell of the stethoscope over the apex.</div><div>Sounds like 'Ten-nes-see' i.e. S4-S1-S2.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "p(nt&jHpBB",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Graham Steell's murmur?",
+                "<b>Pulmonary regurgitation</b>, due to pulmonary hypertension.<div><br></div><div><b>NOTES</b></div><div>This an early diastolic murmur, heard best at the left sternal edge in the second intercostal space, with breath held in inspiration.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "u!uiQ8@z3L",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of amiodarone?",
+                "<div>Sort by organ system</div><div><br></div><div></div><div><b>1. Thyroid</b> e.g. hypo- or hyperthyroidism.</div><div><div><b>2. Heart</b> e.g. bradycardia, heart block.</div><div><span style=\"\"><div></div><div><b>3. Lungs</b> e.g. fibrosis.</div><div><b style=\"font-weight: bold; \">4. GIT</b> e.g. N&amp;V.</div><div><b style=\"font-weight: bold; \">5. Liver</b> e.g. hepatitis.</div><div><b style=\"font-weight: bold; \">6. Skin</b> e.g. photosensitivity, blue discolouration.</div><div><b>7. Eyes</b> e.g.<span style=\"font-weight: normal;\"> corneal microdeposits.</span></div></span></div><div><b>8. Neuro</b> e.g. tremor, peripheral neuropathy, coordination problems.<br><div><br></div><div><b>NOTES</b></div><div>Amiodarone has many drug interactions.</div><div><br></div><div>UPDATED 2020<br></div><div><div></div></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "sm]>`HI/{5",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the complications of acute cholecystitis?",
                 "<div>Sort by mechanism</div><div><b><br></b></div><div><b>1. Gangrene.</b><br><b>2. Perforation.</b><div><b>3. Cholecystoenteric fistula</b> ± gallstone ileus.<br></div></div><div><br></div><div><b>NOTES</b></div><div>Perforation often results in a pericholecystic abscess.</div><div><br></div><div>UPDATED 2020</div>"
             ],
@@ -2390,6 +3728,23 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What monitoring is required for amiodarone?",
+                "<div>Sort chronolgically</div><div><br></div><div><b>1. Before starting:</b> LFTs, TFTs, ECG, CXR.</div><div><b>2. Every 6 months:</b> LFTs, TFTs.</div><div><b>3. Every year:</b> ECG, CXR.</div><div><br></div><div><b>NOTES</b></div><div>Review regular meds before starting (amiodarone has many interactions).</div><div><div>Warn patient to limit sunlight exposure and use sunscreen.</div></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "b--{r-j/9g",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
             ]
         },
         {
@@ -2717,6 +4072,54 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the adverse effects of loop diuretics?",
+                "Sort by mechanism<div><b><br></b></div><div><b>1. Electrolyte derangement</b> e.g. low K, low Na, low Mg, high Ca.<br><b></b><b>2. Hypotension.</b><br><b>3. Acute kidney injury</b> (dehydration).<br><b>4. Gout</b> (exacerbation).<b><br></b><div><br><b>NOTES</b></div><div><i>Gout</i> may result from hyperuricaemia.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "g)`~#1K}.7",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of spironolactone?",
+                "Sort by mechanism<div><br></div><div><b>1. Hyperkalaemia.</b><div><b>2. Acute kidney injury.</b></div><div><b>3. Hypotension.<br>4. Gynaecomastia</b> and sexual dysfunction.</div><div><br></div><div><b>NOTES</b></div><div><i>Hyperkalaemia</i> is due to aldosterone antagonism.</div><div><i>Gynaecomastia</i> may result from anti-androgen activity.<br>Epleronone is an alternative drug which does not cause gynaecomastia.</div><div><br></div><div>UPDATED 2020</div><div><div></div><div></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "c15Hz)ATF~",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for acute pulmonary oedema?",
+                "<b>1. Resus</b><div>A+B - Sit upright, O2 to target sats 94-98%.<br></div><div>C - IV access, cardiac monitor, input/output and daily weights.</div><div><b><font color=\"#008000\">Furosemide 40mg IV.</font></b></div><div><br></div><div>Consider CPAP and GTN infusion (escalate to level 2 care)</div><div><br></div><div><b>NOTES</b><br><i>Consider GTN infusion </i>if sBP &gt;90 and no critical aortic stenosis or other contraindication.</div><div><br></div><div><i>UPDATED 2020</i></div>"
+            ],
+            "flags": 0,
+            "guid": "t0FI[Qz_Y)",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the causes of a rectal bleed?",
                 "Sort by anatomy<br><br><b>1. Anorectal </b>e.g. varices, cancer, haemorrhoids, fissure in ano.<div><div><b>2. Colonic </b>e.g. diverticular disease, colitis (inflammatory, ischaemic, infective), angiodysplasia, cancer.</div><div><b>3. Upper GI </b>e.g. varices, peptic ulcer, aorto-enteric fistula, cancer.</div></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -2801,6 +4204,39 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of a midline sternotomy scar?",
+                "Sort by surgery type<div><br></div><div><b>1. Heart</b> e.g. CABG, valve surgery, transplant.<br><b>2. Lungs</b> e.g. transplant.</div><div><b>3. Previous trauma.</b></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "vL2o6^.er$",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Y3::Med_A::Cardiology",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Beck's triad?",
+                "<div><b>1. Raised JVP.</b></div><div><b>2. Muffled heart sounds.</b></div><div><b>3. Hypotension.</b></div><div><br></div><div><b>NOTES</b></div><div>Seen in cardiac tamponade.</div><div><br></div><div><i>UPDATED 2020</i></div>"
+            ],
+            "flags": 0,
+            "guid": "d&Iph>/qr6",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
             ]
         },
         {
@@ -2996,6 +4432,39 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is the treatment for smoking cessation?",
+                "<b>1. Conservative</b> e.g. education re: withdrawal symptoms; consider smoking cessation clinic.<div><div><br></div><div><b>2. Meds</b></div><div>Nicotine replacement e.g. gum, patch, inhaler.</div><div>Consider bupropion (Zyban) or varenicline (Champix).</div><div><br></div><div><b>NOTES</b></div><div><i>Bupropion</i> reduces withdrawal symptoms and reduces pleasurable effects of cigarettes.</div><div><i>Varenicline</i> reduces withdrawal symptoms.</div><div><i><br></i></div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "pgvyD=xN4m",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for a patient who has suffered a myocardial infarction (MI)?",
+                "<b>1. Patient education</b> e.g. smoking cessation, diet advice, exercise 20-30 mins/day to point of slight breathlessness.<div><i><br></i></div><div><b>2. Meds</b></div><div>ACE-i e.g. ramipril.</div><div>Beta-blocker e.g. bisoprolol.</div><div>Antiplatelets e.g. aspirin 75mg OD and Ticagrelor, Prasugrel or Clopidogrel.</div><div>Statin e.g. Atorvastatin 80mg.</div><div><br></div><div>Consider antihypertensives and glycaemic control.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "k6{4(#mr(p",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the complications of laparoscopic cholecystectomy?",
                 "<div>Sort by general vs specific</div><div><b><br></b></div><div><b>General</b></div><div><div><i>1. GA-related</i> (intubation trauma, adverse drug reactions).</div><div><i>2. Haemorrhage.</i></div><div><i>3. Damage</i> e.g. bile duct, bowel.</div><div><i>4. Infection</i> (collections of bile or blood).</div><div><i>5. Venous thromboembolism.</i></div><div><br></div><div><b>Specific</b></div><div><i>1. Conversion to open cholecystectomy.</i></div><div><i>2. Bile leaks.</i></div><div><i>3. Retained CBD stones.</i></div><div><i>4. Post-cholecystectomy syndrome.</i></div></div><div><i><br></i></div><div><b>NOTES</b></div><div><i>Post-cholecystectomy syndrome</i> = persistent dyspepsia following cholecystectomy.</div><div><br></div><div>UPDATED 2020</div>"
             ],
@@ -3014,6 +4483,54 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "When can a patient resume work following an uncomplicated myocardial infarction (MI)?",
+                "<div><b>Resume non-manual work when comfortable</b>, usually within 2-3 months.</div><div><br></div><div><b>NOTES</b></div><div>A phased return to work may be appropriate.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "Iz!*^pr;ma",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of right axis deviation on ECG?",
+                "<div>Sort by mechanism</div><div><br></div><div><b>1. Conduction block</b> e.g. RBBB with left posterior hemiblock (unusual).</div><div><div><b>2. Right ventricular hypertrophy.</b></div></div><div><b>3. Lateral wall MI.</b></div><div><b>4. Ventricular ectopic rhythms.</b></div><div><b>5. Pre-excitation syndromes.</b></div><br><div><b>NOTES</b></div><div><i>RBBB</i> in isolation does not cause right axis deviation.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "t6Jz7*88*l",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of left axis deviation on an ECG?",
+                "<div></div><div>Sort by mechanism</div><div><br></div><div><b>1. Conduction block</b> e.g. left anterior fascicular block, LBBB.</div><div><b>2. Left ventricular hypertrophy.</b></div><div><b>3. Inferior MI.</b></div><div><b>4. Ventricular ectopic rhythms.</b></div><div><b>5. Pre-excitation syndromes.</b></div><div><br></div><div><b>NOTES</b></div><div>Left axis deviation can be a normal variation.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "zUe$3]@P!:",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is the prophylactic treatment for venous thromboembolism?",
                 "<div><b>1. Conservative </b>e.g. ensure hydration, encourage mobilisation.</div><div><br></div><div><b>2. Mechanical </b>e.g. antiembolism stockings (AES).</div><div><br></div><div><b>3. Meds </b>e.g. DOACs, low molecular weight heparin (LMWH) such as enoxaparin 40mg OD.</div><div><br></div><div><b>NOTES</b></div><div><i>AES</i> are contraindicated in peripheral vascular disease.</div><div><i>LMWH</i> dose must be reduced in renal dysfunction.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -3026,6 +4543,38 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a transcatheter aortic valve implantation (TAVI)?",
+                "<div>A mechanism for aortic valve replacement.</div><div><br></div><div><b>NOTES</b></div><div>May be performed under general or local anaesthetic.</div><div>TAVI does not carry the same risks as surgical valve replacement.</div><div><br></div><div><b>UPDATED</b></div>"
+            ],
+            "flags": 0,
+            "guid": "l@Aec4dv7x",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of a raised troponin?",
+                "Sort by mechanism<div><b style=\"font-weight: bold; \"><br></b></div><div><b style=\"font-weight: bold; \">Increased production</b> (myocardial work) e.g. MI, PE, sepsis, heart failure, tachyarrhythmia.<div><b style=\"font-weight: bold; \">Decreased secretion</b> e.g. renal dysfunction.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "dD7Rir`hYZ",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
             ]
         },
         {
@@ -3068,6 +4617,22 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the causes of postural hypotension?",
+                "Sort by mechanism<div><br><div></div><div><b>1. Drugs </b>e.g. diuretics, antihypertensives, beta-blockers, levodopa.<div><b>2. Volume depletion.</b></div><div><b>3. Polyneuropathy </b>e.g. diabetes, paraneoplastic, autoimmune, etc.</div></div><div><b>4. Synucleinopathies</b> e.g. Parkinson disease, dementia with Lewy bodies.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "CnP)G`II*b",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Which system is used to describe peritoneal contamination in complicated diverticular disease?",
                 "Hinchey classification<div><br></div><div><b>NOTES</b></div><div><i>Stage 1:</i> pericolic or mesenteric abscess.<div><i>Stage 2:</i> walled off pelvic abscess.</div><div><i>Stage 3:</i> generalised purulent peritonitis.</div><div><i>Stage 4:</i> generalised faecal peritonitis.</div></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -3080,6 +4645,22 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of acquired AV nodal block?",
+                "Sort by prevalence<div><br></div><div><b>Most common</b></div><div><i>1. Fibrosis</i> (degenerative change).<div><i>2. Ischaemic heart disease.</i></div><div><i>3. Drugs</i> e.g. beta-blockers, verapamil.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Infection </i>e.g. Lyme disease, syphilis.</div><div><i>2. Inflammatory</i> e.g. sarcoidosis.</div><div><i>3. Depositional</i> e.g. amyloidosis.</div><div><i><br></i></div></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "y;*rs*CS-|",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
             ]
         },
         {
@@ -3122,6 +4703,22 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the ECG features of LVH?",
+                "<div>(S wave in V1 plus R wave in V5/V6) ≥ 3.5mV (Sokolow-Lyon criteria).</div><div><br></div><div><b>NOTES</b></div><div><i>LVH</i> = left ventricular hypertrophy.</div><div>3.5 mV = 35mm (7 large squares).</div><div>Young, athletic people are likely to meet the voltage criteria without having LVH.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "q.<5v?91Fv",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is a pilonidal sinus?",
                 "A subcutaneous sinus tract in the natal cleft<div><br></div><div><b>NOTES</b></div><div>Also called intergluteal pilonidal disease.</div><div>Clinical presentation is highly variable, may be acute or chronic infection.</div><div><br></div><div>UPDATED 2020</div>"
             ],
@@ -3152,6 +4749,71 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List two potassium-sparing diuretics",
+                "1. Amiloride (ENaC blocker).<div>2. Spironolactone, epleronone (aldosterone antagonists).<br><br><div><b>NOTES</b></div><div><i>ENaC</i> = epithelial sodium channel.</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "C5}@%eHH/b",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of aortic stenosis (AS)?",
+                "Sort by mechanism<div><br></div><div><b>1. Senile calcification</b> of a tricuspid or bicuspid aortic valve.<br><b>2. Rheumatic heart disease.</b></div><div><br></div><div><b>NOTES</b></div><div><i>Bicuspid aortic valves</i> calcify earlier than tricuspid ones.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "nEoM*o^[D8",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of left-sided heart failure?",
+                "<b></b><b>History</b><br><div>Exertional dyspnoea.</div><div>Tiredness.</div><div>Orthopnoea.</div><div>Paroxysmal nocturnal dyspnoea.</div><div>Syncope.</div><div><div><br><div><b>Exam<br></b><i>Obs:</i> tachycardia, hypotension.</div><div><i>Palpation: </i>may be pulsus alternans.</div><div><i>Auscultation: </i>bibasal crackles, may be S3.</div></div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "E1tcwlHAp[",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of tricuspid regurgitation (TR)?",
+                "<b>History</b><br><i>Symptoms of right heart failure</i> e.g. tiredness, peripheral oedema, ascites.<div><br><b>Exam</b><br><i>Inspection: </i>peripheral oedema and asites, prominent V waves in JVP.</div><div><i>Palpation:</i> pulsatile hepatomegaly.</div><div><i>Auscultation:</i> pansystolic murmur, best heard at the lower left sternal edge with breath held in inspiration.</div><div><br></div><div><b>NOTES</b></div><div><i>JVP</i> = jugular venous pressure.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "A#1>s@s~*e",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
             ]
         },
         {
@@ -3194,6 +4856,55 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is the treatment for essential hypertension?",
+                "<b>1. Conservative </b>e.g. smoking cessation; diet low in salt, caffeine, and alcohol; exercise; weight loss.<div><div><br></div></div><div><b>2. Meds</b></div><div><i>Step 1:</i></div><div>If &lt;55y old or type 2 diabetes, start ACE-i/ARB e.g. ramipril, losartan.</div><div>If ≥55y old or Afro-caribbean, start CCB e.g. amlodipine.</div><div><i>Step 2: </i>ACE-i/ARB plus CCB or thiazide-like diuretic.</div><div><i>Step 3: </i>ACE-i/ARB plus CCB plus thiazide-like diuretic.</div><div><i>Step 4: </i>Add a fourth drug e.g. spironolactone (if potassium 4.5mmol/L or less), alpha blocker or beta-blocker (if potassium more than 4.5mmol/L) and seek expert advice.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "Gz4@2rw{&-",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected heart failure?",
+                "<div>Sort by clinical relevance</div><div><br></div><div><b>Most important</b></div><div><i>1. Echocardiogram.</i></div><div><i>2. BNP</i> (if no previous MI).</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods:</i> look for anaemia, derangement of U&amp;Es, LFTs, lipids, TFTs, consider cardiac enzymes.</div><div><i>2. ECG</i> may show ischaemic changes, LVH, arrhythmias.</div><div><i>3. Imaging</i> e.g. CXR.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "m!ZLC%<,Q(",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of prosthetic heart valves?",
+                "Sort by local vs systemic<div><br></div><div><b>1. Local</b> e.g. infective endocarditis, valve failure, haemolysis.</div><div><b>2. Systemic</b> e.g. embolism.<br></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "^OUcJ!`>A",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "List the hormone therapy options for breast cancer",
                 "<div>Sort by mechanism</div><div><br></div><div><b>Oestrogen blockade</b></div><div>1. Tamoxifen.<br>2. Aromatase inhibitors e.g. anastrozole.</div><div>3. GnRH analogues e.g. goserelin (zoladex).</div><div><br></div><div><b>HER2 blockade</b><br>1. Trastuzumab (herceptin).<br></div><br><div><b>UPDATED 2020</b></div>"
             ],
@@ -3221,6 +4932,86 @@
             "tags": [
                 "Breast",
                 "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of second degree heart block",
+                "<b>Wenckeback type</b> (Mobitz 1) = progressive lengthening of PR interval, followed by a dropped QRS complex.<div><div><div><b>Mobitz type 2</b> = intermittent dropped QRS complex not preceded by a lengthening PR interval.</div></div><div><b>2:1 or 3:1 conduction</b> = alternate conducted and nonconducted atrial beats.</div><div><br></div><div><div><b>NOTES</b></div><div>Patient may require temporary or permanent pacing.</div><div><br></div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "l?c&!tfUfO",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of uncomplicated pericarditis?",
+                "<div><b></b><b>History</b></div><div>Chest pain (SOCRATES)</div><div>S - central chest.</div><div>C - sharp.</div><div>A - palpitations, may be viral symptoms.</div><div>E - worse on inspiration, positional.</div><div><br></div><div><b>Exam</b></div><div><i>Obs:</i> may be fever.</div><div><i>Auscultation: </i>may be pericardial rub, usually positional.</div><div><i>Bedside tests: </i>ECG may show ST elevation in several territories.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "KIIc/9lp$g",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in a patient with hypertension?",
+                "<div><b>1. Bedside tests</b> e.g. ophthalmoscopy, ECG, urine dip.</div><div><b>2. Bloods</b> e.g. FBC, U&amp;Es, lipids, HbA1c, TSH.</div><div><b>3. Urine</b> e.g. albumin creatinine ratio.</div><div><b>4. </b><b>Echocardiogram</b> (may show LVH).</div><div><br></div><div><b>NOTES</b></div><div>Consider investigations for Cushing syndrome, Conn syndrome, and phaeochromocytoma.</div><div><i>UPDATED 2020</i></div>"
+            ],
+            "flags": 0,
+            "guid": "K,x)~mJXE~",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In which ECG leads is T wave inversion a normal variation?",
+                "<div>III, aVR, V1, V2, sometimes in V3.</div><div><br></div><div><b>NOTES</b></div><div>T wave inversion is normal in aVR and V1, may be present in III and V2, occasionally present in V3.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "B?(1;:5i}B",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which 3 diseases does 'acute coronary syndrome' include?",
+                "<div>Sort by severity.</div><div><br></div><b>1. Unstable Angina.</b><div><b>2. NSTEMI</b> (non ST elevation MI).</div><div><b>3. STEMI </b>(ST elevation MI).</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "HK/kj7El^x",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
             ]
         },
         {
@@ -3299,6 +5090,246 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "How long is troponin elevated after an MI?",
+                "Up to 10 days<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "cr.gdI(^xE",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How long is CK-MB elevated after an MI?",
+                "2-3 days<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "Fi-58Q5KDa",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the ECG features of first degree heart block?",
+                "<b>Prolonged PR interval &gt;200ms,</b> with 1:1 ratio of P to QRS.<div><br></div><div><b>NOTES</b></div><div>200ms = 5 small squares.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "Q${Yc]UV{_",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the ECG features of second degree heart block?",
+                "<b>Intermittent dropped QRS, </b>with each QRS still preceded by a P wave.<div><br></div><div><b>NOTES</b></div><div><i>Wenckebach</i> (Mobitz 1) = progressive prolongation of PR interval, followed by a dropped QRS complex.</div><div><i>Mobitz type 2</i> = intermittent dropped QRS complex not preceded by a lengthening PR interval.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "e,^()4*?Y@",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the ECG features of third degree heart block?",
+                "No relation between P waves and QRS.<div><br></div><div><b>NOTES</b></div><div>Third degree heart block is also called complete heart block.</div><div><br></div><div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "DLRVT8f3@6",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the <u>rhythm</u> control treatment for atrial fibrillation (AF) with onset &lt;48h ago? (no haemodynamic compromise)",
+                "<b>1. Pharmacological cardioversion </b>(or electrical cardioversion)<div><i>Step 1:</i> anticoagulation with heparin IVI.</div><div><i>Step 2:</i> cardioversion with flecainide or propafenone (no structural heart disease) or amiodarone (structural heart disease).</div><div><br></div><div><b>2. Meds</b></div><div>Consider regular beta-blocker to maintain sinus rhythm.</div><div><br></div><div><b>NOTES</b></div><div>If onset confirmed as &lt;48h ago, further anticoagulation is unnecessary.</div><div>Regular meds may not be needed if an underlying trigger for AF has been corrected.</div><div>If regular beta-blocker ineffective, consider regular flecainide or propafenone (no structural heart disease) or amiodarone (structural heart disease).</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "u+aH+-vyyh",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the <u>rate</u> control treatment for permanent atrial fibrillation (AF)?",
+                "<b>1</b><b>. Meds</b><div><i>First line:</i> monotherapy with beta-blocker or diltiazem.</div><div><i>Second line:</i> combination therapy with beta-blocker, diltiazem, or  digoxin.</div><div><div>Consider thromboprophylaxis according to CHADS-VASC score.</div></div><div><br></div><div><b>NOTES</b></div><div><i>Digoxin</i> only for patients with a sedentary lifestyle.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "LiJgzr.cYs",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In persistent atrial fibrillation (AF), when is rhythm control preferable to rate control?",
+                "<div><b>Rate control is first line, unless:</b></div><div>1. AF has a reversible cause.</div><div>2. Heart failure thought to be primarily caused by AF.</div><div>3. New onset AF.</div><div>4. Atrial flutter considered to be suitable for ablation.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "QB{]]Vj@U$",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In persistent atrial fibrillation (AF), when is rate control preferable to rhythm control?",
+                "<div><b>Rate control is first line, unless:</b></div><div>1. AF has a reversible cause.</div><div>2. Heart failure thought to be primarily caused by AF.</div><div>3. New onset AF.</div><div>4. Atrial flutter considered to be suitable for ablation.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "DY3;~[i%XG",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for stable angina?",
+                "<b>1. Conservative</b> e.g. smoking cessation, diet advice; exercise and weight loss.<div><br></div><div><b>2. Meds for angina symptoms</b></div><div><i>First line:</i> GTN PRN and regular beta blocker (or diltiazem)</div><div><i>Second line:</i> consider adding amlodipine, ISMN, or nicorandil.</div><div><br></div><div><b>3. Meds for coronary artery disease</b> i.e. aspirin, statin, consider antihypertensives.</div><div><br></div><div><b>4. Revascularisation</b> (consider PCI or CABG)</div><div><br></div><div><b>NOTES</b></div><div><i>Diet</i> should be low in alcohol, caffeine, salt (hypertension) and fatty food (lipids).</div><div><br></div><div><i>UPDATED 2020</i></div>"
+            ],
+            "flags": 0,
+            "guid": "vh%7X@Z]*$",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of paroxysmal atrial fibrillation (AF)?",
+                "AF that self-terminates within 7 days.<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "wg)d|J8Ux8",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of persistent atrial fibrillation (AF)?",
+                "AF that fails to self-terminate within 7 days.<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "yVV99;7akj",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effect of ACE-inhibitors?",
+                "Sort by mechanism<div><br></div><div><b>1. Hypersensitivity</b> e.g. angioedema.</div><div><b>2. Hypotension</b>, especially first dose.</div><div><b>3. Acute kidney injury</b> (AKI).</div><div><b>4. Hyperkalaemia.</b></div><div><b>5. Persistent dry cough.</b></div><div><b>6. Teratogenicity.</b></div><div><br></div><div><b>NOTES</b></div><div><i>AKI</i> may result from dilatation of the efferent arteriole and subsequent decrease in glomerular filtration rate.</div><div><i>Hyperkalaemia</i> may result from decreased aldosterone or AKI.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "O%25^oB^gr",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of tricuspid regurgitation (TR)?",
+                "Sort by mechanism<div><b><br></b></div><div><b>1. Secondary</b> (pulmonary hypertension) e.g. chronic lung disease, left-sided heart failure.</div><div><b>2. Primary</b> (damage to valve) e.g. infective endocarditis, rheumatic heart disease.</div><div><b><br></b></div><div><b>NOTES</b></div><div><i>Secondary TR</i> is much more common.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "hm*FGLeg(F",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the diagnostic criteria for rheumatic fever?",
+                "Both of the following:<div><br></div><div>1. Recent group A Streptococcus infection.</div><div>2. Two major criteria OR one major and two minor criteria.</div><div><br></div><div><b>NOTES</b></div><div><i>Jones Criteria</i> are widely accepted.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "w|]r_uXyZp",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the indications for ileostomy?",
                 "Sort by mechanism<div><b><br></b></div><div><b>1. Terminal ileostomy</b> for resection of distal bowel.<div><b>2. Loop (defunctioning) ileostomy</b> to protect a distal anastomosis.</div></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -3317,6 +5348,315 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "List the major diagnostic criteria for infective endocarditis",
+                "<b>1. Positive blood cultures</b> from typical organisms.<div><b>2. Evidence of endocardial involvement </b>e.g. diagnostic echo, new valvular regurgitation.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "Qv5M:H_2wy",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Infection,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the minor diagnostic criteria for infective endocarditis",
+                "<b>History: </b>predisposition.<div><b>Exam: </b>fever &gt;38°C; vascular or immunological phenomena.</div><div><b>Investigations: </b>microbiological evidence; echo suggestive but not diagnostic.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "Fq4DI7C?Sx",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Why does sBP usually fall during inspiration?",
+                "Increased intrathoracic volume<div>-&gt; decreased intrathoracic pressure</div><div>-&gt; blood pools in the lungs</div><div>-&gt; reduced return to the left heart</div><div>-&gt; decreased sBP</div><div><div><br></div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "tr~z)RHej>",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5a7-af10-11ea-b639-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology",
+                "respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is pulsus paradoxus?",
+                "An inspiratory drop in sBP &gt;10mmHg.<div><b><br></b></div><div><b>NOTES</b></div><div>May result from obstructive airways disease or cardiac tamponade.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "y2$Q.>k.E,",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5a7-af10-11ea-b639-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of cardiac tamponade?",
+                "<b></b><b>History</b><br><div>Syncope.</div><div>Chest pain.</div><div>Dyspnoea.</div><div><br></div><div><b>Exam</b></div><div><i>Obs:</i> tachycardia, tachypnoea, hypotension, pulsus paradoxus.</div><div><i>Inspection: </i>elevated JVP, Kussmaul's sign, long CRT.</div><div><i>Auscultation: </i>quiet heart sounds.</div><div><i>Bedside tests: </i>ECG may show sinus tachycardia, low voltage, electrical alternans.</div><div><br></div><div><b>NOTES</b></div><div><div><i>Beck's triad </i>(high JVP, muffled heart sounds, and low BP) may be seen in acute cardiac tamponade.</div><div><i>Pulsus paradoxus</i> = BP falls &gt;10mmHg with inspiration.</div></div><div><i>Kussmaul's sign</i> = absence of inspiratory decline in JVP.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "wQC.09%eS(",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5a7-af10-11ea-b639-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for cardiac tamponade?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - IV fluids (increase preload).</div><div><br></div><div><b>2. Pericardiocentesis.</b></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "I]*FH{&d7w",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5a7-af10-11ea-b639-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of mitral stenosis?",
+                "<div>Sort symptoms by mechanism</div><div><br></div><b></b><b>History</b><br><div><i>Symptoms of AF</i> e.g. embolic event, palpitations.</div><div><i>Symptoms of left-sided heart failure</i> e.g. tiredness, dyspnoea, orthopnoea, etc.</div><div><i>Symptoms of compression </i>e.g. Ortner syndrome.</div><div><br></div><div><b>Exam</b></div><div><i>Obs:</i> may be tachycardia and hypotension.</div><div><i>Palpation: </i>irregular pulse, 'tapping' apex beat, may be parasternal heave.</div><div><i>Auscultation: </i>mid-diastolic murmur (low pitched, best heard at the apex with breath held in expiration), may be 'opening snap' and loud S1.</div><div><i>Bedside tests: </i>ECG may show AF or RVH.</div><div><br></div><div><b>NOTES</b></div><div><i>'Opening snap'</i> may be due to stiff mitral valve.</div><div><i>Loud S1</i> may be due to valve leaflets closing from a wide excursion under high pressure.</div><div><i>Ortner syndrome</i> = hoarse voice due to compression of the recurrent laryngeal nerve by the left atrium.</div><div><br></div><div><i>UPDATED 2020</i></div>"
+            ],
+            "flags": 0,
+            "guid": "hQj88lOGCf",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5a7-af10-11ea-b639-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected infective endocarditis?",
+                "<b>1. Bloods</b> e.g. cultures, FBC, U&amp;Es, CRP.<div><b>2. Urine dip</b> (glomerulonephritis).</div><div><b>3. ECG</b> (may show conduction abnormalities).</div><div><b>4. Echocardiogram.</b></div><div><b><br></b></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "zs3iV4:W]E",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5a7-af10-11ea-b639-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Infectious",
+                "Y3::Med_A::Cardiology",
+                "disease"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the major diagnostic criteria for rheumatic fever",
+                "<div><b>History:</b> migratory large joint polyarthritis.</div><div><b>Exam: </b>erythema marginatum; Sydenham's chorea; subcutaneous nodules.</div><div><b>Investigations: </b>evidence of carditis.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "b]5wyRQOyE",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5a7-af10-11ea-b639-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Rheumatology,",
+                "Y3::Med_A::Cardiology",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the minor diagnostic criteria for rheumatic fever",
+                "<b>History</b>: arthralgia.<div><div><b>Exam</b>: fever; prolonged PR interval.</div><div><b>Investigations</b>: raised inflammatory markers.</div></div><div><br></div><div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "n[Il?TBM:&",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5a7-af10-11ea-b639-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the <u>rhythm</u> control treatment for atrial fibrillation (AF) with onset &gt;48h ago? (no haemodynamic compromise)",
+                "<b>1. Electrical cardioversion</b><div><i>Step 1:</i> anticoagulation with warfarin for ≥3 weeks.</div><div><i>Step 2:</i> consider pretreatment with amiodarone for ≥4 weeks.</div><div><i>Step 3:</i> electrical cardioversion.</div><div><br></div><div><b>2. Meds</b></div><div>Anticoagulation with warfarin for ≥4 weeks.</div><div>Amiodarone for 12 months.</div><div>Consider regular beta-blocker to maintain sinus rhythm.</div><div><br></div><div><b>NOTES</b></div><div>Regular meds may not be needed if an underlying trigger for AF has been corrected.</div><div>If regular beta-blocker ineffective, consider regular flecainide or propafenone (no structural heart disease) or amiodarone (structural heart disease).</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "JP2vHwLPc(",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Emergency,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the <u>rhythm</u> control treatment for paroxysmal atrial fibrillation (PAF)?",
+                "<b>1</b><b>. Meds</b><div><i>First line: </i>consider 'pill in the pocket' therapy (flecainide or propafenone)</div><div><i>Second line: </i>regular beta-blocker.</div><div>Consider thromboprohylaxis according to CHADS-VASC score.</div><div><br></div><div><b>NOTES</b></div><div>If regular beta-blocker ineffective, consider regular flecainide or propafenone (no structural heart disease) or amiodarone (structural heart disease).</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "rCV]pI`mKV",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When can a patient resume driving following an uncomplicated myocardial infarction (MI)?",
+                "<div>DVLA recommends not driving for 4 weeks.</div><div><br></div><div><b>NOTES</b></div><div>Heavy goods vehicles or bus drivers must inform DVLA (license suspended for minimum for 6 weeks).</div><div><br></div><div><i>UPDATED 2020</i></div>"
+            ],
+            "flags": 0,
+            "guid": "kH1nThpd(a",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When can a patient resume physical exercise following an uncomplicated myocardial infarction (MI)?",
+                "<b>Very gradual increase in activity</b> is encouraged, up to a maximum of 20-30 mins/day (to the point of slight breathlessness).<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "uGQV.sl&<+",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When can a patient resume sexual activity following an uncomplicated myocardial infarction (MI)?",
+                "<b>Resume sexual activity when comfortable</b>, usually about 3 weeks.<div><br></div><div><b>NOTES</b></div><div>If patient can walk without discomfort, then sex should not cause problems.</div><div><i>Erectile dysfunction</i> is relatively common following MI, may results from emotional stress or from meds e.g. beta-blockers.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "yd,HywkTJ0",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which leads on the ECG represent the inferior wall of the heart?",
+                "II, III, and aVF.<div><br></div><div><img src=\"mHkWrMOdPCXlqyrQneYKzl5Po_8YP1jSttTfMtvipQjCcZB692T92YuXdkdzhRDnQ2VstY5-fJ93jKtJMwD_X37IN5V1g9pf5qcw1dtP13WWTtPvsEwSLDCCTU3MTYl7ZUGA.png\"><br></div><div><br></div><div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "i)D_D?;U;O",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which leads on the ECG represent the septum of the heart?",
+                "V1 and V2.<div><br></div><div><img src=\"mHkWrMOdPCXlqyrQneYKzl5Po_8YP1jSttTfMtvipQjCcZB692T92YuXdkdzhRDnQ2VstY5-fJ93jKtJMwD_X37IN5V1g9pf5qcw1dtP13WWTtPvsEwSLDCCTU3MTYl7ZUGA.png\"><br></div><div><br></div><div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "jYn;Sa$BAN",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which leads on the ECG represent the anterior wall of the heart?",
+                "V3 and V4.<div><b><br></b></div><div><img src=\"mHkWrMOdPCXlqyrQneYKzl5Po_8YP1jSttTfMtvipQjCcZB692T92YuXdkdzhRDnQ2VstY5-fJ93jKtJMwD_X37IN5V1g9pf5qcw1dtP13WWTtPvsEwSLDCCTU3MTYl7ZUGA.png\"><b><br></b></div><div><b><br></b></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "og@!GGD:/I",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which leads on the ECG represent the lateral wall of the heart?",
+                "V5, V6, I, and aVL.<div><br></div><div><img src=\"mHkWrMOdPCXlqyrQneYKzl5Po_8YP1jSttTfMtvipQjCcZB692T92YuXdkdzhRDnQ2VstY5-fJ93jKtJMwD_X37IN5V1g9pf5qcw1dtP13WWTtPvsEwSLDCCTU3MTYl7ZUGA.png\"><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "DH54QBormr",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the treatment options for breast cancer?",
                 "Sort by members of the MDT<div><br></div><div><b>1. Surgeon</b> e.g. WLE, mastectomy, axillary surgery.</div><div><div><b>2. Nurse specialist</b> e.g. patient education.</div></div><div><b>3. Oncologist </b>e.g. hormone therapy, chemotherapy, radiotherapy.</div><div><div><b>4. Palliative care.</b></div></div><div><b><br></b></div><div><b>UPDATED 2020</b></div>"
             ],
@@ -3328,6 +5668,166 @@
                 "Breast,",
                 "Y3::Surg_A::Breast",
                 "surgery"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by NYHA class I?",
+                "Heart failure, asymptomatic on ordinary physical activity.<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "r[Jp/_sEN_",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by NYHA class II?",
+                "Heart failure, symptomatic on ordinary physical activity (asymptomatic on minimal activity and at rest).<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "rW9@mGcg[T",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by NYHA class III?",
+                "Heart failure, symptomatic on minimal physical activity (asymptomatic at rest).<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "F7i;K{Q_5N",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by NYHA class IV?",
+                "Heart failure, symptomatic at rest.<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "A3|u>2<LfA",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by a 'grade 1' murmur?",
+                "Murmur just audible with optimum conditions.<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "DO{jVu-uL5",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by a 'grade 2' murmur?",
+                "Quiet murmur, no thrill.<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "QQqthWw<5}",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by a 'grade 3' murmur?",
+                "Loud murmur with no thrill.<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "urDA]rn9?q",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by a 'grade 4' murmur?",
+                "Loud murmur with a thrill.<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "J7b/MX(H75",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by a 'grade 5' murmur?",
+                "Murmur audible with only stethoscope rim touching the chest, with thrill.<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "L[xqq`AC)z",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by a 'grade 6' murmur?",
+                "Murmur audible with stethoscope not touching the chest, with a thrill.<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "jI1f`=%zVy",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
             ]
         },
         {
@@ -3400,6 +5900,247 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What mechanism causes the third heart sound?",
+                "Rapid filling of the ventricles.<div><br></div><div><b>NOTES</b></div><div>Coincides with ventrticular filling, heard in early diastole in patients with heart failure.</div><div>Best heard with the bell of the stethoscope over the apex.</div><div>Sounds like 'Ken-tu-ckey' i.e. S1-S2-S3.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "jI#Mg=cG)@",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the ECG features of bifascicular block?",
+                "Both left axis deviation and right bundle branch block.<div><br></div><div><b>NOTES</b></div><div>ECG changes reflect failure of conduction in the right bundle branch the left anterior fascicle.</div><div>The patient is at risk of complete heart block.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "nS6>xS>qJ<",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the ECG features of 'trifascicular block'?",
+                "All of the following:<div><br><div><b>1. RBBB.</b></div><div><b>2. Left axis deviation.</b></div><div><b>3. PR interval &gt;200ms.</b></div><div><br></div><div><b>NOTES</b></div><div><i>'Trifascicular block'</i> is a confusing name; if all three fascicles were blocked, the ECG would show complete heart block.</div><div>Rather this trace represents bifascicular block with delayed atrial conduction.</div><div><br></div></div><div><i>UPDATED 2020</i></div>"
+            ],
+            "flags": 0,
+            "guid": "n,`?H9jD{T",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the ECG features of pulmonary embolism (PE)?",
+                "<div>Sort by prevalence</div><div><b><br></b></div><div><b>Most common:</b> sinus tachycardia.<div><br></div><div><b>All the rest</b> (due to RV strain)</div><div><div><i>1. TWI and ST depression</i> in anteroseptal and inferior leads.</div><div><i>2. RBBB.</i></div><div><i>3. Right axis deviation.</i></div><div><i>4. Q wave in III.</i></div></div><div><br></div></div><div><b>NOTES</b></div><div><i>S1Q3T3 pattern </i>(historically described as typical of PE) occurs only in a minority of cases.</div><div><br></div><div><i>UPDATED 2020</i></div>"
+            ],
+            "flags": 0,
+            "guid": "NHtvx&h#xL",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the threshold for 'broad QRS complex' on ECG?",
+                "<b>120ms</b> (3 small squares).<div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "eOkad$~(mY",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is hypertrophic cardiomyopathy (HCM)?",
+                "A genetically-determined heart muscle disease characterised by left ventricular hypertrophy (LVH).<div><br></div><div><b>NOTES</b></div><div>Usually due to mutation in a sarcomere gene.</div><div>Characterised by left ventricular hypertrophy of various morphologies.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "e/1z)<.+?w",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of hypertrophic cardiomyopathy (HCM)?",
+                "Clinical presentation is variable.<div><div><br></div><div><b>History</b><b> </b>(sort by mechanism)</div><div><i>LV failure:</i> dyspnoea on exertion, tiredness, syncope and presyncope.</div><div><i>Myocardial ischaemia: </i>angina.</div><div><i>Conduction pathway dysfunction:</i> palpitations.</div><div><br></div><div><b>Exam</b></div></div><div><i>Palpation: </i>may be 'heaving' apex beat.</div><div><i>Auscultation: </i>may be systolic murmur (LV outflow obstruction or mitral regurge), S3, or S4.</div><div><i>Bedside tests:</i> ECG may show arrhythmia.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "kn`Y7.!]}-",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected hypertrophic cardiomyopathy (HCM)?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important</b></div><div><i>1. Echocardiogram.</i></div><div><i>2. 24h tape</i> (assess risk of arrhythmia).</div><div><br></div><div><b>All the rest</b></div><div><i>1. ECG.</i></div><div><i>2. Imaging</i> e.g. CXR, cardiac MRI.</div><div><i>3. Consider exercise test.</i></div><div><i><br></i></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "h!rgX6kx02",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for hypertrophic cardiomyopathy (HCM)?",
+                "<b>1. Conservative</b><div>Avoid volume depletion and diuretics (risk of syncope).</div><div>Avoid strenous exercise (risk of arrhythmia).</div><div>Surveillance echocardiogram.</div><div><br></div><div><b>2. Meds </b>(consider)</div><div>Beta-blocker or verapamil (symptom control).</div><div><br></div><div><b>3. Surgery</b></div><div><i>If severe outflow obstruction: </i>consider surgical myectomy or alcohol septal ablation.</div><div><br></div><div><b>UPDATED 2020</b>.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "y(GuZESBF_",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a ventricular septal defect (VSD)?",
+                "A congenital heart defect in the ventricular septum.<div><br></div><div><b>NOTES</b></div><div>Clinical presentation and natural history are variable, depending on the size and location of the defect.</div><div><i>Small VSDs</i> are usually haemodynamically insignificant.</div><div><i>Larger VSDs </i>may cause left-to-right shunting, volume overload of pulmonary arteries, and pulmonary hypertension.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "fBG3k]MOa?",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of a ventricular septal defect (VSD)?",
+                "Sort by mechanism<div><br></div><div><b>1. Haemodynamic </b>e.g. left-sided heart failure and pulmonary hypertension (L-&gt;R shunt); Eisenmenger syndrome (R-&gt;L shunt).</div><div><b>2. Structural </b>e.g. aortic regurgitation; double chamber right ventricle.</div><div><b>3. Arrhythmias</b> (atrial and ventricular tachycardias).</div><div><b>4. Endocarditis.</b></div><div><b><br></b></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "eJO{.:{GD5",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Eisenmenger syndrome?",
+                "<div><span style=\"font-weight: 800\">A R-&gt;L shunt, </span>usually following a reversal of a L-&gt;R shunt because of development of higher pressures in the R system e.g. VSD and pulmonary hypertension.</div><div><br></div><div><b>NOTES</b></div><div><i>Diagnosis</i> requires all of the following: evidence of a systemic to pulmonary communication; pulmonary arterial disease; cyanosis.</div><div><br></div><div><i>UPDATED 2020</i></div>"
+            ],
+            "flags": 0,
+            "guid": "NW)~Z16xGU",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is brain natriuretic peptide (BNP)?",
+                "A hormone released by the ventricles in response to increased ventricular filling pressure.<div><br></div><div><b>NOTES</b></div><div>BNP levels are used in diagnosis of heart failure (levels are elevated).</div><div>BNP and ANP (atrial natriuretic peptide) have diuretic, natriuretic, and hypotensive effects.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "Q/G:O|LB$9",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the tilt test?",
+                "An electrophysiology test used to investigate suspected vasovagal syncope.<div><br></div><div><b>NOTES</b></div><div>Typically used for young, healthy patients who suffer from recurrent falls; may discriminate between vasovagal and orthostatic hypotension.</div><div><i>Protocol:</i> patient has cardiac monitoring, lies supine for 5mins, then tilted head up for ~30mins.</div><div><i>Vasovagal response: </i>BP and HR both decrease.</div><div><i>Postural hypotension: </i>BP decrease and HR increase.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "c>B|+::=H#",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the most <u>serious</u> causes for nontraumatic, transient loss of consciousness  ",
+                "Sort by mechanism<div><br></div><div><b>1. Syncope</b></div><div><div><i>Haemorrhage</i> e.g. upper GI bleed, AAA rupture.</div><div><i>Low systemic resistance</i> e.g. sepsis.</div><div><i>Cardiac problem</i> e.g. inflow obstruction, arrhythmia, outflow obstruction.</div><div><i><br></i></div></div><div><b>2. </b><b>Seizure</b> e.g. SAH, hypoglycaemia.</div><div><br></div><div><b>NOTES</b></div><div><div><i>Syncope</i> = transient loss of consciousness due to cerebral hypoperfusion.</div><div><i>Cardiac inflow obstruction</i> e.g. pulmonary embolism, cardiac tamponade.</div><div><i>Cardiac outflow obstruction </i>e.g. aortic stenosis.</div><div><br></div></div><div><i>UPDATED 2020</i></div>"
+            ],
+            "flags": 0,
+            "guid": "t5qp;VR{e-",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Neurology,",
+                "Y3::Med_A::Cardiology"
             ]
         },
         {
@@ -4186,6 +6927,73 @@
             "tags": [
                 "Breast",
                 "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'syncope'?",
+                "Transient loss of consciousness and postural tone with spontaneous recovery, due to cerebral hypoperfusion.<div><u><br></u></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "v%RJim)1y|",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Post STEMI, with placement of a <u>bare metal</u> stent, which antiplatelets are indicated?",
+                "<b>1. Aspirin</b> 75mg OD long term.<div><b>2. Prasugrel</b> 10mg OD for 12 months.</div><div><b>3. Clopidogrel</b> 75mg OD for 1 month.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "d28!/w_B~v",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Post STEMI, with placement of a <u>drug eluting</u> stent, which antiplatelets are indicated?",
+                "<b>1. Aspirin </b>75mg OD long term.<div><b>2. Prasugrel </b>10mg OD for 12 months.</div><div><b>3. Clopidogrel </b>75mg OD for 12 months.<br><div><b>4. Ticagrelor </b>90mg OD for 12 months&nbsp;</div><div><br></div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "wm**b.M#Q?",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology,",
+                "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a Stokes-Adams attack?",
+                "Syncope resulting from arrhythmia.<div><br></div><div><div><b>UPDATED 2020</b></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g.RA2mdkb+",
+            "newlyAdded": false,
+            "note_model_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Y3::Med_A::Cardiology"
             ]
         },
         {
@@ -9058,6 +11866,24 @@
                 "Infection,",
                 "Pharmacology,",
                 "Y3::Med_B::Infection"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which drugs cause long QT syndrome?",
+                "Sort by type<div><br></div><div><b>1. Antiarrhythmics </b>e.g. amiodarone.</div><div><b>2. Antipsychotics </b>e.g. quetiapine.</div><div><b>3. Antidepressants </b>e.g. TCAs.</div><div><b>4. Methadone.</b></div><div><b>5. Antimicrobials </b>e.g. erythromycin, fluoroquinolones, antimalarials, azole antifungals.</div><div><br></div><div><b>UPDATED 2020</b></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jX&5PudDV|",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Pharmacology",
+                "Y3::Med_A::Cardiology"
             ]
         },
         {
@@ -15436,7 +18262,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What investigations would be appropriate for a patient with suspect chlamydia infection?",
+                "What investigations would be appropriate for a female patient with suspected chlamydia infection?",
                 "Examinations<br>- General exam <br>- Abdominal exam <br>- Bimanual<br><br>Bedside tests<br>- Pregnancy test<br>- Urinary test<br><br>Investigations <br>- Speculum exam with high vaginal swab and nucleic acid amplification<br>- Bloods: FBC, U+E, LFT, CRP and screen for HIV, Hepatitis and Syphilis"
             ],
             "flags": 0,
@@ -18402,6 +21228,261 @@
             "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
             "tags": [
                 "Y3::Med_B::CBL3::LO8"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of bradycardia?",
+                "-&nbsp; A heart rate less than 60bpm"
+            ],
+            "flags": 0,
+            "guid": "Q~,L>D=}]#",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are different causes of bradycardia?",
+                "- Physiological (e.g. sports people)&nbsp;<div>- Pharmacological e.g. beta-blockers</div><div>- Pathological&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "k$cpX[^`V",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are different types of bradyarrhythmias?",
+                "- Sinus bradycardia&nbsp;<div>- 1st degree AV block&nbsp;</div><div>- Wenckebach phenomenon (Mobitz type 1)&nbsp;</div><div>- Mobitz type II block&nbsp;</div><div>- Complete AV block&nbsp;</div><div>- Bundle branch block&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "w*b&0!=vqD",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does this ECG show?<div><img src=\"ECG-showing-sinus-bradycardia.png\"><br></div>",
+                "Sinus bradycardia&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "F6Op_^psiG",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What heart rhythm does this ECG show?<div><img src=\"ECG-1st-degree-AV-block-2.jpg\"><br></div>",
+                "1st degree AV block"
+            ],
+            "flags": 0,
+            "guid": "h=K?.{OA0/",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What heart rhythm does this ECG show?<div><img src=\"ECG-Wenckebach-AV-block-1.jpg\"><br></div>",
+                "- 2nd degree AV block&nbsp;<div>- Mobitz type 1</div><div>- Wenckebach phenomenon&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "NE8U!FV{@?",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What heart rhythm does this ECG trace show?<div><img src=\"35129tn.jpg\"><br></div>",
+                "- Mobitz type II&nbsp;<div>- 2nd degree AV block&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "w$Qu.I?,m^",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What heart rhythm is shown by this ECG trace?<div><img src=\"ECG-Complete-heart-block-CHB.jpg\"><br></div>",
+                "- Complete heart block&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "bM-H;V_0>/",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What bundle branch block is in this ECG?&nbsp;<div><img src=\"paste-39db8a3ea65e70f60e972c5a036bbbea3b0cbb22.jpg\"><br></div>",
+                "- Right Bundle Branch Block&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "lsn?oGKJQO",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What bundle branch block is shown in this ECG trace?<div><img src=\"Prehospital+limb+leads.jpg\"><br></div>",
+                "- Left bundle branch block&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "A]8VW6e#;/",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which patients are at risk of sudden death or serious morbidity as a result of bradyarrhythmias?",
+                "- Known heart failure&nbsp;<div>- Known ischaemic heart disease&nbsp;</div><div>- Known significant obstructive valvular heart disease (aortic stenosis)&nbsp;</div><div>- Known congenital heart disease</div>"
+            ],
+            "flags": 0,
+            "guid": "vGC~BUYiF{",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How would you investigate a patient with an arrythmia?&nbsp;",
+                "Bedside tests&nbsp;<div>- ECG&nbsp;</div><div>- Urine dip&nbsp;</div><div><br></div><div>Bloods&nbsp;</div><div>- FBC, U&amp;E, troponin, pH, digitalis levels&nbsp;</div><div><br></div><div>Imaging and other investigations&nbsp;</div><div>- Echocardiogram&nbsp;</div><div>- CXR&nbsp;&nbsp;</div><div>- Coronary angiography&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "o34{I6$[fQ",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How would you manage a patient with a bradyarrthymia?",
+                "- Monitoring&nbsp;<div>- Discontinuation of medications with cause AV-node blocking e.g. Beta blockers, non-DHP CCBs and digitalis</div><div>- Cardiac resynchronisation therapy ± ICD placement&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "nEd&{Dz@uN",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Why would a patient be fitted with a pacemaker?",
+                "- In a patient with irreversible bradycardia<div>- In a patient with irreversible tachycardia&nbsp;</div><div>- In a patient with heartblock&nbsp;</div><div>- In a patient who has developed heart block following a myocardial infarction&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "yX75%UD+MF",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the Ashman phenomenon?",
+                "- A particular type of wide QRS complex, often seen isolated that is typically seen in atrial fibrillation<div><img src=\"AF_with_RVR-Ashmans_phenomenon-RBBB_aberrancy.png\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "lfRJn|$o>",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does this ECG trace show?&nbsp;<div><img src=\"AF_with_RVR-Ashmans_phenomenon-RBBB_aberrancy.png\"><br></div>",
+                "- The Ashman Phenomenon&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "wDaBF>+mf4",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the cause of the Ashman phenomenon?",
+                "- There is significant prolongation of the RR interval from one beat to the next&nbsp;<div>- It is conducted aberrantly due to the increase in refractory period of the his-purkinje system&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "pL>IG`M#4*",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL2::LO5"
             ]
         }
     ]
