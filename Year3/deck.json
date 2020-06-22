@@ -76,7 +76,9 @@
         "Annotation 2020-05-18 154250.png",
         "BiPCHE8IAAAqwaS.jpg",
         "ECG-1st-degree-AV-block-2.jpg",
+        "ECG-Bifascicular-Block-RBBB-LAFB.jpg",
         "ECG-Complete-heart-block-CHB.jpg",
+        "ECG-Rhythm-strip-PR-interval-prolonged-extreme-1st-degree-AV-block.jpg",
         "ECG-Wenckebach-AV-block-1.jpg",
         "ECG-showing-sinus-bradycardia.png",
         "FakJQSI5oFPKsKHgpMxVvab4o-Yf9QAXvitVdedB_e3ZK6ukxYJITsAzI5bghKi7XVHUH_j5vUWl90baDAGKC8vMpOm_9h0.jpg",
@@ -205,6 +207,7 @@
         "paste-21a7128c2e071b15c10e6e9a4f833290f3364997.jpg",
         "paste-21c1d781a62826c80d27bbb180531d81f7c46fcf.jpg",
         "paste-2311da894383d4d35c5233235deb836a033bac52.jpg",
+        "paste-27671a58abdbdfada726d595497143c78fbb7e53.jpg",
         "paste-299e6616366ab5e700c58f78cf2fbddaae7dc00c.jpg",
         "paste-2f9726c4cbe72e01765f730db0035ae99d0b3fed.jpg",
         "paste-2fc42f7307c47a8ab0597fd2a4ade70599af9d17.jpg",
@@ -285,6 +288,7 @@
         "paste-a519df71023275ce815376260201bbe88ca2f22a.jpg",
         "paste-a6ab1f21fb80535afa081165842054bcfd9c00d0.jpg",
         "paste-a7a2234766a2a7155616f8e19bc998463a524acf.jpg",
+        "paste-acc790b6495f63ab720988681213d267e42fcc89.jpg",
         "paste-ad71cefd3bb6169d9162c238293ba393acba6dc8.jpg",
         "paste-ae95667aff3c375c29878df90b9944b1cc8dceff.jpg",
         "paste-aee1c45d8b0a2312bd5a03469a804ca31ae21f81.jpg",
@@ -327,6 +331,7 @@
         "paste-f73de04ff3ae677cd7f6911a93664c94b3457d9c.jpg",
         "paste-f7b7f56c3d72b342f4301d660d959b635e89a8d0.jpg",
         "paste-f82716acc5918c9adf6d2ffc983e65d821bde4a7.jpg",
+        "paste-fae7aa39164d07170530e0e48c65fef9745511d4.jpg",
         "paste-feb3bf1dc01853b8ce1ff31a2b7e2a735f946cad.jpg",
         "pasteOEAgjF.png",
         "patch2-s.jpg",
@@ -375,6 +380,7 @@
         "ten4__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
         "tincap3-s.jpg",
         "tinped4-s.jpg",
+        "trifascicular-2-2.jpg",
         "ulcer-diab-s.jpg",
         "ulcer-ven5-s.jpg",
         "urticaria-leg-02__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.JPG",
@@ -582,6 +588,60 @@
             ],
             "sortf": 0,
             "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Forward",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #ffffff;text-align: left }",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-1a796",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "respiratory"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -894,7 +954,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "Y3::Med_A::CBL2::LO5"
+                "Y3::Med_A::CBL3::LO4"
             ],
             "tmpls": [
                 {
@@ -2183,6 +2243,40 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the risk factors for pulmonary embolism (PE)?",
+                "<div><div>Sort by history</div></div><div><br></div><div><b>Recent history</b> e.g. long distance travel, surgery, immobilisation, high oestrogen.</div><div><b>PMHx</b> e.g. previous DVT/PE, thrombophilia, malignancy, inflammatory disorder.<div><div><b>DHx </b>e.g. OCP, HRT.</div><div><b>FHx</b> e.g. DVT/PE, thrombophilia.</div></div></div><div><br></div><div><b>NOTES</b></div><div><i>High oestrogen</i> e.g. pregnancy, postpartum</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "cTM8{+oEc",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of a pulmonary embolism (PE)?",
+                "Clinical presentation is variable.<div><b><br></b></div><div><b></b><b>History</b><br>Collapse.<div>Dyspnoea (may be exertional).<br>Pleuritic pain.<br>Cough.<br>Haemoptysis.</div><div><br></div><div><b>Exam</b><br><i>Obs:</i> hypoxia, tachypnea, tachycardia, pyrexia.<br><i>Inspection: </i>raised JVP.</div><div><i>Auscultation: </i>loud P2, crackles.</div><div><i>Bedside tests:</i> ECG may show sinus tachycardia, RV strain.<br><div><br></div><div><b>NOTES</b></div><div>Small PEs are often asymptomatic, large PEs may present with cardiac arrest.</div></div></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "u(kv?,xllt",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the diagnostic criteria for 'severe hypertension'?",
                 "<b>sBP ≥180</b> and/or <b>dBP ≥120</b>.<div><br></div><div><b>UPDATED 2020</b></div>"
             ],
@@ -2244,6 +2338,23 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the clinical features of an acute exacerbation of COPD?",
+                "<b></b><b>History</b><br>Increased cough.<br>Increased sputum (or change of colour).<div>Increased dyspnoea.</div><div><br></div><div><b>Exam</b></div><div><i>Obs:</i> tachypnoea, hypoxia, tachycardia.</div><div><i>Inspection: </i>increased work of breathing, may be cyanosis.</div><div><div><div><i>Palpation: </i>reduced expansion.</div></div></div><div><div><i>Percussion: </i>hyperresonance.</div><div><i>Auscultation: </i>wheeze, prolonged expiratory phase, decreased breath sounds.</div></div><div><br></div><div><b>NOTES</b></div><div><div><div>May be signs of advanced COPD e.g. hyperexpansion.</div></div></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "gqb|UwYuuJ",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Which diagnostic criteria are used for infective endocarditis?",
                 "<b>Modified Duke criteria</b><div><br></div><div>Diagnosis requires any of the following:<div></div><div>1. Two major criteria.</div><div>2. One major and three minor criteria.</div><div>3. Five minor criteria.</div><div><br></div><div><b>UPDATED 2020</b></div></div>"
             ],
@@ -2254,6 +2365,703 @@
             "tags": [
                 "Cardiovascular,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of type 1 respiratory failure?",
+                "PaO2 &lt;8.0 kPa with normal PaCO2 (&lt;6.0 kPa).<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "jIR2kd:id<",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of hypercapnia?",
+                "<b></b><b>History</b><br><div>Morning headache.</div><div><div>Restlessness, anxiety, poor concentration.<br></div><div>Decreased consciousness.</div><div><br><b>Exam</b><br><i>Inspection: </i>asterixis, peripheral vasodilation, decreased consciousness.</div><div><i>Palpation: </i>bounding pulse.<i><br></i></div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "e3FXSgu9~y",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of asthma?",
+                "<div><b></b><b>History</b></div><div>Paroxysmal episodes of wheeze, cough, dyspnoea, and chest tightness.</div><div>Symptoms usually worse at night/early morning.</div><div>Episodes may follow a specific trigger e.g. exercise.</div><div><br></div><div><b>Exam</b></div><div><i>Obs:</i> tachypnoea, tachycardia, hypoxaemia.</div><div><i>Inspection: </i>inability to complete sentences, accessory muscles.</div><div><i>Auscultation: </i>wheeze.</div><div><i>Bedside</i> <i>tests:</i> low PEF; bronchodilator reversibility.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "fA.jQ%^Va[",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for asthma in adults?",
+                "<b>1. Patient education</b> e.g. inhaler technique, smoking cessation, avoid triggers.<div><br><b>2. Meds</b><br><i><div></div></i><i>Step 1: </i>SABA PRN.<br><i>Step 2: </i>Add low dose ICS&nbsp;</div><div>Step 3: Add LTRA<br><i>Step 4:</i> Add LABA, determine whether LTRA is useful or not.&nbsp;</div><div><i>Step 5: </i>Switch to MART therapy in combination with low dose ICS</div><div><i>Step 6:</i>&nbsp;Continue MART therapy and increase ICS to moderate dose&nbsp;</div><div>Step 7: If still uncontrolled, refer to a specialist, increase ICS to high dose or trial theophylline&nbsp;</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "faI8(}qD#/",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for acute severe asthma?",
+                "<b>1. Resus</b><div>A+B - airway support, O2 to target sats of 94-98%.</div><div><div><i>Reduce bronchoconstriction:</i> salbutamol 5mg nebs (repeat every 15 mins) and ipratropium bromide 500µg nebs (repeat every 4h).<br><i>Reduce inflammation: </i>prednisolone 50mg PO or hydrocortisone 100mg IV 6-hourly.</div></div><div><br></div><div><i>If poor response, consider:</i></div><div>Magnesium sulfate 2g IV over 20 mins.</div><div>Aminophylline 5mg/kg IV over 20 mins.</div><div>Salbutamol 250µg IV (if inhaled therapy not possible).</div><div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "uiQ.c1<<;*",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which drug is in a Ventolin inhaler?",
+                "Salbutamol (short acting beta agonist)<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "e98c[1}jv:",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which drug is in a Clenil inhaler?",
+                "Beclometasone (corticosteroid).<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "bu0G/e8?|o",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which drugs are in a Seretide inhaler?",
+                "Fluticasone (corticosteroid) and salmeterol (long acting beta agonist).<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "nKan#bTk#L",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which drugs are in a Symbicort inhaler?",
+                "Budesonide (corticosteroid) and formoterol (long acting beta agonist)<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "oI]Fp>|+|>",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which scoring system is used to calculate the risk of pulmonary embolism (PE)?",
+                "Well's score<div><br></div><div><b>NOTES</b></div><div><div style=\"display: inline !important; \"><i>Score ≥5</i> = PE likely.</div></div><div><div style=\"display: inline !important; \"><i>Score &lt;5</i> = PE unlikely.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "s}zFRQiiw^",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the ECG features of pulmonary embolism (PE)?",
+                "<div><div>Sort by prevalence</div><div><b><br></b></div><div><b>Most common:</b> sinus tachycardia.<div><br></div><div><b>All the rest</b> (due to RV strain)</div><div><div><i>1. TWI and ST depression</i> in anteroseptal and inferior leads.</div><div><i>2. RBBB.</i></div><div><i>3. Right axis deviation.</i></div><div><i>4. Q wave in III.</i></div></div><div><br></div></div><div><b>NOTES</b></div><div><i>S1Q3T3 pattern </i>(historically described as typical of PE) occurs only in a minority of cases.</div><div><i>RV</i> = right ventricle.</div><div><i>TWI</i> = T wave inversion.</div><div><i>RBBB</i> = right bundle branch block (tall R in V1, deep S in V6 and I)</div><div><i><br></i></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "n%7ML%K_Dx",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for a primary spontaneous pneumothorax?",
+                "<div><div>Sort by history</div></div><div><br></div><b>Demographics</b> e.g. young, male (typical patient is tall and thin).<div><div><b>SHx </b>e.g. smoking.<br><b>FHx</b> of primary spontaneous pneumothorax.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "j_]K&ghMPW",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of a pneumothorax?",
+                "<b></b><b>History</b><br>Dyspnoea (instantaneous onset).<br>Pleuritic chest pain.<br><br><b>Exam</b><br><div><i></i><i>Obs:</i> tachypnoea, hypoxia, tachycardia, hypotension.<br><i>Inspection</i>: increased work of breathing, asymmetrical chest movement, raised JVP.</div><div><i>Palpation: </i>tracheal deviation, subcutaneous emphysema.</div><div><i>Percussion: </i>hyperresonant.</div><div><i>Auscultation: </i>diminished breath sounds.</div><div><br></div><div><b>NOTES</b></div><div>Hypoxia, hypotension and tracheal deviation are suggestive of tension pneumothorax.</div><div><br></div><div><i>UPDATED 2020</i></div>"
+            ],
+            "flags": 0,
+            "guid": "m?n@eHn}XA",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for a primary spontaneous pneumothorax? (not tension)",
+                "<div><div><b>1. Resus</b></div><div>A+B - consider airway support and O2.</div><div><br></div><div><b>2. Aspiration</b></div><div><i>First line:</i> simple needle aspiration.</div><div><i>Second line: </i>chest drain.</div><div><b><br></b></div><div><b>3. Thoracoscopy </b>(VATS) consider pleuradhesis, bleb stapling.</div></div><div><br></div><div><b>NOTES</b></div><div><div><i style=\"font-style: italic; \">Conservative treatment </i>may be possible for small (&lt;2cm) asymptomatic pneumothoraces.</div><div><i style=\"font-style: italic; \">VATS</i><i> =</i> video assisted thoracoscopic surgery.</div><div><i style=\"font-style: italic; \">Air travel should be postponed</i> for ≥2 weeks following resolution of pneumothorax on CXR.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "hV0Z+[z=0B",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for secondary spontaneous pneumothorax?",
+                "<div><div>Sort by underlying condition</div></div><div><br></div><div><b>1. COPD.</b></div><div><b>2. Cystic fibrosis.</b></div><div><b>3. Lung malignancy.</b></div><div><b>4. Necrotising pneumonia </b>such as TB or PCP.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "pQaMzp{,S3",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Genetics,",
+                "Infection,",
+                "Oncology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of interstitial lung disease?",
+                "<div>Clinical presentation is variable.</div><div style=\"font-style: italic; \"><br></div><div><b></b><b>History</b><br>Chronic dyspnoea.<br>Cough.<br>Haemoptysis.<br>May be known connective tissue disease.<br><br><b>Exam</b><br><i>Obs:</i> tachypnoea.</div><div><i>Inspection:</i> cyanosis, clubbing, raised JVP, peripheral oedema.</div><div><i>Palpation: </i>symmetrically decreased expansion.</div><div><i>Auscultation: </i>'velcro rales' (fine crackles), reduced air entry.</div><div><br></div><div><b>NOTES</b></div><div>Cyanosis, clubbing and cor pulmonale are often signs of advanced disease.</div><div>Look for signs of systemic disease e.g. rheumatoid arthritis, systemic sclerosis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "lWI&E#Ymp)",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which CXR changes are seen in interstitial lung disease?",
+                "<div><b>1. Bilateral reticulonodular shadowing.</b><div><div><b>2. Honeycombing</b> (small cystic spaces).</div></div></div><div><br></div><div><b>NOTES</b></div><div><i>Honeycombing</i> correlates with a poor prognosis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "gGRSWfu9/J",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Inflammation,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of bronchiectasis? ",
+                "<b></b><b>History</b><br>Cough.<br>Daily foul-smelling sputum production.<br>Rhinosinusitis.<br>Dyspnoea.<br>Haemoptysis.<br><br><b>Exam</b><br><i>Obs:</i> tachypnoea.<div><div><i>Inspection: </i>productive cough, sputum pot, clubbing, cyanosis.</div><div><i>Auscultation: </i>crackles, wheeze, inspiratory clicks.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "g}ja/,3d9N",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of a transudative pleural effusion?",
+                "<div>Sort by mechanism</div><div><br></div><div><b>1. High hydrostatic pressure </b>e.g. left-sided heart failure, volume overload.<br><b>2. Low oncotic pressure </b>e.g. liver failure, nephrotic syndrome, protein-losing enteritis.</div><div><b><br></b></div><div><b>NOTES</b></div><div>Transudates may result from movement of fluid from adjacent compartments e.g. Meig syndrome (benign ovarian tumour, ascites, and unilateral pleural effusion).</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "n3I.6[xN^_",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of an exudative pleural effusion?",
+                "Sort by mechanism<div><br></div><div><div><b>Infection</b> e.g. pnuemonia, TB.<br><b>Neoplasia.</b><br><b>Vascular</b> e.g. PE.<div><b>Inflammatory</b> e.g. RA, SLE, vasculitis, sarcoidosis.</div><div><b>Trauma.</b></div><div><br></div><div><b>NOTES</b></div><div>Uncommon causes include Familial Mediterranean Fever and Yellow Nail Syndrome.</div></div></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "n,Nmq4)oZ%",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Oncology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How can we differentiate transudative and exudative pleural effusions?",
+                "<div>Sort into 3 groups:</div><div><i><br></i></div><div>1. Pleural fluid protein <b>&lt;25 g/l:</b> probable transudate.</div><div><div>2. Pleural fluid protein <b>25-35 g/l: </b>apply Light's criteria.</div><div>3. Pleural fluid protein <b>&gt;35 g/l:</b> probable exudate.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "jKmDrJ+MOh",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::Respiratory",
+                "respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in a pleural effusion?",
+                "<b>1. Bloods:</b> FBC, U&amp;Es, CRP, LFTs, TFTs, protein, LDH.<div><div><b>2. Pleural tap:</b> pH, biochem, cytology, MC&amp;S.</div><div><b>3. Imaging:</b> CXR, consider CT thorax.</div><div><b>4. Consider pleural biopsy.</b></div><div><br></div><div><b>NOTES</b></div><div>If bilateral pleural effusion, and clinical features suggest transudate, no need for pleural tap.</div><div>Pleural biopsy may be closed, CT-guided or thoracoscopic.</div></div><div><i>LDH</i> = lactate dehydrogenase.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "s[x[#a?RL{",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of a pleural effusion?",
+                "<b>History</b><br>Dyspnoea.<br>Cough (usually mild and nonproductive).<br>Pleuritic chest pain.<br><br><b>Exam</b><br><i>Inspection: </i>reduced expansion.<div><i>Palpation: </i>tracheal deviation.</div><div><i>Percussion: </i>'stony' dull.</div><div><i>Auscultation: </i>quiet breath sounds, bronchial breathing (above area of dullness), pleural rub, decreased vocal resonance.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "r@J9d/sLL7",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which scoring system is used to judge the severity of community acquired pneumonia (CAP)?",
+                "CURB65 Score<div><br></div><div><b>NOTES</b></div><div><i>Score 0-1:</i> treat as outpatient.</div><div><i>Score 2:</i> admit.</div><div><i>Score 3-5: </i>consider ICU.</div><div><br></div><div><i>CURB65 components:</i></div><div>Confusion AMTS &lt;8 (1pt)<br>Urea &gt;7mmol/l (1pt)<br>RR ≥30 (1 pt)<br>BP systolic &lt;90 or diastolic ≤60 (1 pt)<br>≥65yo (1 pt)<br></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "cNqrYy(bj`",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which micro-organisms cause CAP?",
+                "<div>Sort by prevalence</div><div><br></div><div><b>Most common:</b> Streptococcus pneumoniae.</div><div><br></div><div><b>All the rest</b></div><div>1. Viral e.g. influenza, RSV, parainfluenza.</div><div>2. Mycoplasma pneumoniae.</div><div>3. Legionella.</div><div>4. Chlamydophila pneumoniae.</div><div><br></div><div><div><div><b>NOTES</b></div><div><i>Common pathogens</i> in ICU patients include S. pneumoniae, enteric Gram negatives, Staphylococcus aureus, respiratory viruses, Legionella, and Haemophilus influenzae.</div><div><i>In bronchiectasis</i> S. aureus, Enterobacteriaceae, and Pseudomonas aeruginosa are more common.</div><div><i>CAP</i> = community acquired pneumonia.</div></div></div><div><i>RSV</i> = respiratory syncytial virus.</div><br><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "oM_uph9(p(",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of<span style=\"\"> pneumonia?</span>",
+                "<b></b><b>History</b><br>Cough, mucopurulent sputum.<br>Pleuritic chest pain.<br>Fever and chills.<br>Anorexia, nausea.<br>Acute confusion.<br><br><b>Exam</b><br><i>Obs: </i>fever, tachypnoea, tachycardia.<div><i>Inspection:</i> signs of delirium, reduced expansion.</div><div><i>Percussion: </i>dull.</div><div><i>Auscultation: </i>coarse crackles, increased vocal resonance, bronchial breathing, quiet breath sounds.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "nnpgHf69#w",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected pneumonia?",
+                "<b>1. Bloods</b><div><i>Arterial: </i>ABG (consider).</div><div><i>Venous: </i>FBC, CRP, U&amp;Es, blood cultures, lactate.</div><div><b>2. Sputum: </b>MC&amp;S.<br><div><div><div><div><div><b>3. ECG.</b></div><div><b>4. CXR.</b></div><div><br></div><div><b>NOTES</b></div><div><i>Consider atypical pathogen screen:</i> serology, viral throat swabs, and urine test for legionella.</div><div><i>Consider checking sputum</i> for acid fast bacilli.</div></div></div></div></div></div><div><i>ABG</i> = arterial blood gas.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "b1FO+M>3oG",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for pneumonia?",
+                "<b>1. Resus</b><br>A+B - consider airway support and O2.<div>C - consider IV access and fluids.<div><br><b>2. Meds</b><br><i>CAP:</i> triage by CURB65 score and follow local antibiotic guidelines.<br><div><i>HAP:</i> follow local antibiotic guidelines.</div><div><br></div><div><b>NOTES</b></div><div>Tailor antibiotics to cultures and sensitivites.</div></div></div><div><i>CAP</i> = community acquired pneumonia.</div><div><i>HAP</i> = hospital acquired pneumonia.</div><div><i>CURB65</i> = confusion, urea&gt;7, RR&gt;30, sBP&lt;90, age≥65.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "d-#ME1VI]^",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is bronchiectasis?",
+                "<div>A progressive respiratory disease, characterised by<b style=\"font-weight: bold; \"> dilated, thick-walled bronchi.</b></div><div><span style=\"font-weight: 800\"><br></span></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qAr}xkzL1g",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of interstitial lung disease?",
+                "Sort by mechanism<div><b><br></b></div><div><b>1. Idiopathic pulmonary fibrosis.</b><div><b>2. Occupational lung disease<br></b><i>Pneumoconioses</i> e.g. silicosis, asbestosis, coal-workers' lung.</div><div><i>Extrinsic allergic alveolitis </i>e.g. farmers' lung, pigeon-fanciers' lung.</div><div><b>3. Inflammatory </b>e.g. RA, SLE, SSc, ankylosing spondylitis, sarcoidosis.</div><div><div><b>4. Iatrogenic</b> e.g. radiation fibrosis, methotrexate, amiodarone, nitrofurantion, bleomycin.</div><div><br></div><div><b>NOTES</b></div><div><i>Extrinsic Allergic Alveolitis</i> is also called 'hypersensitivity pneumonitis'.</div></div><div><i>RA</i> = rheumatoid arthritis.</div><div><i>SLE</i> = systemic lupus erythematosus.</div></div><div><i>SSc</i> = systemic sclerosis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "gE5{%CPV2(",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Inflammation,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of obstructive sleep apnoea (OSA)? ",
+                "<b></b><b>History</b><br><div>Loud snoring.</div><div>Daytime tiredness.</div><div>Morning headache.</div><div>Nocturnal choking.<br><div><br></div><div><b>Exam</b><br><i>Obs:</i> hypertension.</div><div><i>Inspection: </i>obesity and large neck circumference, may be signs of pulmonary hypertension, cor pulmonale.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "m&GTp8TH&)",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for obstructive sleep apnoea (OSA)?",
+                "<b>1. Conservative </b>e.g. weight reduction; change sleep position (not supine) and avoid alcohol.<div><div><div><br></div><div><b>2. Intra-oral appliances.</b></div><div><b><br></b></div><div><b>3. CPAP.</b></div><div><div><b><br></b></div><div><b>4. Surgery </b>e.g. uvulopalato-pharyngoplasty.</div></div></div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "c6^|Cf!yhF",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the clinical definition of chronic bronchitis?",
+                "Productive cough on most days for ≥3 months in 2 consecutive years.<div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "bY^~)o8hF-",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is emphysema?",
+                "<div>Irreversible enlargement of alveolar air spaces</div><div><br></div><div><b>NOTES</b></div><div>Usually accompanied by destruction of walls but not fibrosis.</div><div>Emphysema is an anatomical definition (CT or biopsy are needed for diagnosis).</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "lO&>-RRt4}",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Anatomy",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of restrictive lung disease?",
+                "Sort by mechanism<div><br></div><div><b>1. Intrinsic lung disease</b> e.g. interstitial lung disease, acute pneumonitis.</div><div><b>2. Extrinsic disorders</b> e.g. chest wall, pleura.</div><div><b>3. Neuromuscular disorders </b>e.g. motor neuron disease, polio.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "mPsC!A)/wk",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List 3 types of asbestos-related pulmonary disease",
+                "<b>1. Asbestosis</b> (fibrosis).<div><b>2. Pleural disease</b> (plaques).</div><div><b>3. Malignancy</b> e.g. mesothelioma, NSCLC, SCLC.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "R+v9$+HI>",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the local complications of lung malignancy?",
+                "<div>Sort by anatomy</div><div><br></div><div><b>1. Tumour: </b>necrosis may result in abscess.</div><div><b>2. Bronchi:</b> obstruction (may cause bronchiectasis or collapse), ulceration (may cause haemoptysis).</div><div><b>3. Pleura:</b> effusion.</div><div><b>4. Compression </b>e.g. SVC, oesophagus, sympathetic chain, brachial plexus, recurrent laryngeal nerve.</div><div><br></div><div><div><div><b>NOTES</b></div><div><i>SVC (superior vena cava) compression:</i> venous congestion, raised JVP.</div><div><i>Oeophagus compression:</i> dysphagia.</div><div><i>Sympathetic chain compression:</i> Horner Syndrome.</div><div><i>T1 nerve root compression:</i> wasting of small muscles of the hand.</div><div><i>Recurrent laryngeal nerve compression:</i> hoarse voice.</div></div></div><div><i>JVP</i> = jugular venous pressure.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "gwiP@w-@pb",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Neurology,",
+                "Oncology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of asthma?",
+                "1. Respiratory failure and arrest.<br>2. Pneumothorax.<div>3. Pneumonia.<div><br></div><div><b>NOTES</b></div><div>Complications usually relate to acute exacerbations.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "b0s~_$XLLd",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is acute respiratory distress syndrome (ARDS)<span style=\"\">?</span>",
+                "<div>Acute, diffuse, inflammatory lung injury</div><div><br></div><div><b>NOTES</b></div><div><i>Clinically:</i> hypoxaemia and bilateral CXR opacities.</div><div><i>Pathologically:</i> diffuse alveolar damage involving oedema, inflammation and formation of hyaline membranes.</div><div>First identified in American military hospitals during the Vietnam War.</div><div>Main causes are sepsis, polytrauma, and aspiration.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "r^+A#|I$@i",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of ARDS?",
+                "<div>Sort by prevalence</div><div><br></div><div><b>1. Sepsis.</b></div><div><b></b><b>2. Hypovolaemic shock</b> (including massive trauma).</div><div><b>3. Pneumonia.</b></div><div><b>4. Gastric aspiration.</b><br></div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "p`!5WvIb;]",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of pulmonary hypertension?",
+                "<div>Sort by mechanism</div><div><br></div><div><b>1. Pulmonary <u>arterial</u> hypertension</b> (PAH) e.g. idiopathic (primary PAH), connective tissue disease (SSc, RA, SLE), portal hypertension, schistosomiasis.</div><div><b>2. Left-sided heart disease.</b></div><div><b>3. Lung disease</b> (chronic hypoxaemia) e.g. COPD, interstitial lung disease, hypoventilation disorders.</div><div><b>4. Thromboembolic disease</b> (recurrent PE).</div><div><br></div><div><b>NOTES</b></div><div><i>SSc</i> = systemic sclerosis.</div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "uR|H>j;V5X",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "vascular,"
             ]
         },
         {
@@ -2812,6 +3620,41 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Hoover's sign?",
+                "Paradoxical retraction of the lower interspaces during inspiration.<div><br></div><div><b>NOTES</b></div><div>Seen in advance obstructive lung disease e.g. COPD.</div><div><div><i>COPD</i> = chronic obstructive pulmonary disease.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "lm-oSABgm[",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Paediatrics,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List three respiratory causes of clubbing",
+                "<div>1. Lung malignancy.</div><div>2. Suppurative lung disease.</div>3. Interstitial lung disease.<br><br><div><b>NOTES</b></div><div><i>Suppurative lung disease </i>e.g. abscess, empyema, bronchiectasis, cystic fibrosis.</div><div><i>SCLC</i> tends not to cause clubbing because it is too rapidly progressive.</div><div><i>SCLC</i> = small cell lung cancer.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "n@;tZ}R;E~",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
             ]
         },
         {
@@ -3485,6 +4328,24 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is the treatment for a pulmonary embolism (PE)?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.<div><div><div>If a large embolus is suspected, consider thrombolysis or embolectomy.</div></div><div><div></div></div></div><div><br></div><div><b>2. Meds</b></div><div><div>Treatment dose LMWH, start if Well's score ≥5.</div><div>Start DOAC, only us warfarin if DOAC contradindicated.</div></div><div><div><div><br></div><div><b>NOTES</b></div><div>The duration of warfarin depends on the cause of PE and the risk of bleeding.</div><div>If anticoagulation is contraindicated, consider inferior vena cava (IVC) filter.</div></div></div><div><i>LMWH</i> = low molecular weight heparin.</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "mQf]c{?:%5",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Which investigations may be useful in suspected acute pancreatitis?",
                 "<b>1. Bloods</b><div><i>Arterial:</i> ABG (consider).</div><div><i>Capillary: </i>BMs.</div><div><i>Venous:</i> amylase, FBC, U&amp;Es, CRP, LFTs, Ca, glucose.<div><div><b>2. Urine:</b> amylase.<br><b>3. Imaging:</b><span style=\"\"> CXR, AXR, a</span>bdo USS, consider CT with contrast.</div></div></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -3566,6 +4427,41 @@
             "tags": [
                 "Pharmacology,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of infective exacerbation of COPD?",
+                "<div>Sort by mechanism</div><div><b><br></b></div><div><b>1. Respiratory failure</b>, typically with CO2 retention.</div><div><b>2. Pneumonia.</b></div><div><b>3. Pneumothorax.</b></div><div><b>4. Arrhythmia</b> e.g. atrial fibrillation.</div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "o>iL<:fP&C",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Emergency,",
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the indications for long term O2 therapy (LTOT) in COPD?",
+                "<div>Either of the following:</div><div><br></div><div>1. PaO2 &lt;7.3kPa.</div><div><div>2. PaO2 7.3-8kPa with specific complications (nocturnal hypoxaemia, polycythaemia, pulmonary hypertension, or peripheral oedema)</div><div><br></div><div><b>NOTES</b></div><div><i>LTOT</i> should only be prescribed for a clinically stable patient who has optimal medical management.</div><div><i>Oxygen</i> must be used for 15h/day to be of benefit.</div></div><div>If patient smokes, must warn them of risks of explosion.</div><div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "c3p^(=N+G,",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
             ]
         },
         {
@@ -3710,6 +4606,39 @@
             "tags": [
                 "Pharmacology,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical criteria for an 'acute severe' asthma exacerbation?",
+                "Any of the following:<div><b><br></b><div><div>1. RR ≥25.</div><div><div>2. HR ≥110.<br></div></div></div><div><div>3. Inability to complete sentences in 1 breath.</div><div><div>4. Peak flow 33-50% of predicted.</div></div><div></div></div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "nr^gcVj8v.",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical criteria for a 'life threatening' asthma exacerbation?",
+                "<div>Any of the following (in the context of acute asthma):</div><div><b><br></b></div><b>1. Obs</b> e.g. Sats &lt;92%.<div><b>2. Inspection </b>e.g. cyanosis, poor respiratory effort or exhaustion, altered consciousness.<div><b>3. Auscultation </b>e.g. silent chest.</div><div><b>4. Bedside tests </b>e.g. PEF &lt;33% predicted, arrhythmia.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "qB|p`^74QQ",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
             ]
         },
         {
@@ -3982,6 +4911,23 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is the treatment for acute exacerbation of COPD?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2 titrated to sats of 88-92%.<br><div><b><font color=\"#008000\">Salbutamol 5mg</font></b> and<font color=\"#008000\"> <b>ipratropium bromide </b></font><b><font color=\"#008000\">500µg nebs.</font></b></div><b><font color=\"#008000\">Prednisolone 30mg</font></b> OD for 7-14 days.</div><div><br></div><div><div><div><i>Discuss with seniors:</i></div></div><div>Consider aminophylline infusion, start with 5mg/kg over 20 mins.</div></div><div>Consider NIPPV.</div><div><br><b>2. Meds</b></div><div><div>Consider doxycyclin (7 days) if increase in purulent sputum, fever, or consolidation on CXR.</div><div><br></div><div><b>NOTES</b></div><div>In general, do not provide O2 greater than 28% Venturi mask or 2L via nasal prongs.</div></div><div><i>COPD</i> = chronic obstructive pulmonary disease.</div><div><div><div><i>NIPPV</i> = noninvasive positive pressure ventilation.</div></div><div></div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "qK!ttJz%yz",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the causes of anal pain?",
                 "Sort by seriousness<div><b><br></b></div><div>1. Anal cancer.</div><div>2. Perianal abscess.<br>3. Anal fissure.<br>4. Complicated haemorrhoid.<br>5. Perianal haematoma.</div><div><b><br></b></div><div>UPDATED 2020<br></div>"
             ],
@@ -4066,6 +5012,55 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for COPD?",
+                "<b>1. Patient education</b> e.g. smoking cessation, pulmonary rehabilitation programme.<div><div><div><div><br></div><div><b>2. Immunisations.</b><br><br><b>3. Meds</b> (no mortality benefit)<br><i>First line:</i> SABA or SAMA PRN.<br><i>Second line:</i> Add LABA or LAMA, consider ICS (if FEV1 &lt;50% predicted).</div><div><i>Third line</i> (triple therapy): LABA plus LAMA plus ICS.</div><div>Consider carbocysteine if chronic productive cough.</div><div><img src=\"paste-fae7aa39164d07170530e0e48c65fef9745511d4.jpg\"><br></div><div><br><b>4. Long term oxygen therapy</b> (LTOT).</div><div><b><br>5. Surgery </b>e.g. lung reduction surgery (rarely indicated).</div></div><div><br></div><div><b>NOTES</b></div><div><i>Lung reduction surgery</i> may be appropriate in bullous disease, or recurrent pneumothorax.</div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "lj+.o}=F6u",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected exacerbation of COPD?",
+                "<b>1. Bloods</b><div><i>Arterial:</i> ABG.</div><div><i>Venous: </i>FBC, U&amp;Es, CRP.</div><div><b>2. Sputum:</b> MC&amp;S.<br><div><b>3. ECG.<br>4. CXR.</b></div></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "n,o;er81zs",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In which medical emergencies are patients likely to require controlled O2 with target sats 88-92%?",
+                "<div>In patients with suspected chronic CO2 retention.</div><div><br></div><div><b>NOTES</b></div><div><i>Chronic CO2 retention</i> is seen in hypoventilation e.g. COPD, OSA, obesity hypoventilation syndrome, chronic neuromuscular disease.</div><div><i>COPD</i> = chronic obstructive airways disease.</div><div><i>OSA</i> = obstructive sleep apnoea.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "di.=~!u8m^",
+            "newlyAdded": false,
+            "note_model_uuid": "3999d9a4-b494-11ea-864d-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
             ]
         },
         {
@@ -4227,6 +5222,23 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the indications for inhaled corticosteroids in COPD?",
+                "<div>Both of the following:</div><div><br></div><div>1. Have asthmatic features/features suggesting steroid resposiveness AND&nbsp;</div><div>2. Remain breathless or have exacerbations despite:&nbsp;<br></div><div>&nbsp; &nbsp; - Having used or been offered treatment for tobacco dependence if they smoke AND&nbsp;</div><div>&nbsp; &nbsp; - Optimised non-pharmcological management and relevant vaccinations AND&nbsp;</div><div>&nbsp; &nbsp; - Using a short acting bronchodilator</div><div><b>NOTES</b></div><div><i>COPD</i> = chronic obstructive pulmonary disease.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "fn`+TolugV",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is Beck's triad?",
                 "<div><b>1. Raised JVP.</b></div><div><b>2. Muffled heart sounds.</b></div><div><b>3. Hypotension.</b></div><div><br></div><div><b>NOTES</b></div><div>Seen in cardiac tamponade.</div><div><br></div><div><i>UPDATED 2020</i></div>"
             ],
@@ -4255,6 +5267,94 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for idiopathic pulmonary fibrosis (IPF)?",
+                "<b>1. Conservative</b> e.g. smoking cessation; pulmonary rehabilitation; immunisations.<div><br></div><div><b>2. Meds</b></div><div><i>Immunosuppression </i>e.g. prednisolone, azathioprine (limited evidence).</div><div><i>Specialist medications </i>e.g. perfenidone, nintedanib</div><div><br></div><div><b>3. Surgical</b>: lung transplant.</div><div><br></div><div><b>NOTES</b></div><div>There is very little evidence-based treatment for IPF.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "Geu:O7JiJF",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Inflammation,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is <span style=\"\">allergic bronchopulmonary aspergillosis (ABPA)?</span>",
+                "A hypersensitivity reaction to colonisation with aspergillus<div><br></div><div><b>NOTES</b></div><div>Predominantly affects patients with asthma, cystic fibrosis (CF), and bronchiectasis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "sLD([W0>Pe",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of allergic bronchopulmonary aspergillosis (ABPA)?",
+                "<b></b><b>History</b><br><div>Typical patient has known asthma or cystic fibrosis.</div><div>Chronic cough productive of mucus plugs.</div><div>Fever.</div><div>Tiredness.</div><div>Severe headache.</div><div>Haemoptysis.</div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>tachypnoea, fever.</div><div><i>Inspection: </i>productive cough.</div><div><i>Auscultation: </i>coarse creps, wheeze.</div><div><br></div><div><b>NOTES</b></div><div>Advanced disease is characterised by bronchiectasis and fibrosis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "xjWckrR350",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected allergic bronchopulmonary aspergillosis (ABPA)?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important:</b> skin prick test (aspergillus antigens)</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods:</i>&nbsp;FBC (eosinophilia) and aspergillus serology.<div><i>2. Sputum MC&amp;S:&nbsp;</i>aspergillus.<br><div><div><i>3. Imaging:</i> CXR and HRCT, look for central bronchiectasis.</div></div><div><br></div><div>&nbsp;UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "o8q&z;CJ(+",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which CXR changes are seen in bronchiectasis?",
+                "<div><b>1. Linear atelectasis.</b></div><div><b>2. Dilated and thickened airways</b> (tram lines and ring shadows).</div><div><b>3. Mucopurulent plugs</b> (irregular peripheral opacities).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "C`HxW3-7G;",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
             ]
         },
         {
@@ -4327,6 +5427,134 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of haemoptysis?",
+                "<div>Sort by mechanism</div><div style=\"font-weight: bold; \"><b><br></b></div><b>Infection</b> e.g. pneumonia, bronchiectasis, TB.<div><b>Neoplasia.</b></div><div><b>Vascular </b>e.g. PE, pulmonary oedema.</div><div><b>Inflammatory</b> e.g. vasculitis.</div><div><b>Trauma</b> e.g. biopsy, intubation.</div><div><b><br></b></div><div><b>NOTES</b></div><div>Haemoptysis may be spurious e.g. epistaxis, oral bleeding.</div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "yv[(RCZG^u",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of instantaneous dyspnoea?",
+                "<b>1. Pneumothorax.</b><div><b>2. Pulmonary embolism.&nbsp;</b></div><div><b><br></b></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "Q>=Z<:w65+",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of acute dyspnoea? (onset mins-hours)",
+                "Sort by anatomy<div><br></div><div><b>Airways</b> e.g. anaphylaxis, asthma, IECOPD.<div><b>Parenchyma</b> e.g. pneumonia.</div><div><b>Pleura</b> e.g. pneumothorax.</div><div><b>Pulmonary vasculature </b>e.g. pulmonary embolism.</div><div><b>Heart</b> e.g. pulmonary oedema.</div><div><b>Metabolic acidosis.</b></div><div><b><br></b></div></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "G)~bjOD4Gm",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of subacute dyspnoea? (onset over days)",
+                "<div>Sort by anatomy</div><div><br></div><b>Airways</b> e.g. COPD exacerbation.<div><b>Parenchyma</b> e.g. LRTI.</div><div><b>Pleura </b>e.g. pleural effusion.</div><div><b>Pulmonary vasculature</b> e.g. PE.</div><div><b>Heart</b> e.g left-sided heart faiiure.</div><div><div><b>Neuromuscular disease</b> e.g. GBS, MG.</div></div><div><b>Metabolic acidosis.</b></div><div><b><br></b></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "Go:i)#{kPq",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Infection,",
+                "Metabolic,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of chronic dyspnoea? (onset over months-years)",
+                "<div>Sort by anatomy</div><div><br></div><b>Airways</b> e.g. asthma, COPD, bronchiectasis.<div><b>Parenchyma</b> e.g. interstitial lung disease, TB, carcinoma.</div><div><b>Pleura</b> e.g. mesothelioma.</div><div><b>Pulmonary vasculature</b> e.g. recurrent PE, pulmonary hypertension.</div><div><b>Heart</b> e.g. left-sided heart failure.</div><div><div><b>Neuromuscular</b> e.g. MND.</div></div><div><b>Anaemia.</b></div><div><b><br></b></div><div><b>NOTES</b></div><div><i>COPD</i> = chronic obstructive pulmonary disease.</div><div><i>TB</i> = tuberculosis.</div><div><i>PE</i> = pulmonary embolism.</div><div><i>MND</i> = motor neuron disease.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "v[*G|e?R%",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Infection,",
+                "Neurology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a mesothelioma?",
+                "A primary malignancy of mesothelial surfaces, most often of the pleural cavity.<div><br></div><div><div><b>NOTES</b><br><div>There is usually an occupational exposure to asbestos.</div></div></div><div><div>Other sites include the peritoneal cavity, tunica vaginalis, and pericardium.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "cP#c4j7k((",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is re-expansion pulmonary oedema?",
+                "Occurs following drainage of a moderate sized pneumothorax or pleural effusion.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "r=+1u&np$^",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
             ]
         },
         {
@@ -4499,6 +5727,23 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Which investigations may be useful in suspected lung cancer?",
+                "<div><b>1. Initial tests </b>(including assessment of fitness for surgery)</div><i>Bloods: </i>FBC, U&amp;E, LFT, bone profile.<br><i>ECG.</i><div><i>Radiology:</i> CXR, CT chest.</div><div><i>Spirometry.</i><br><br><b>2. Diagnostic biopsy </b>e.g. bronchoscopy, CT/USS-guided biopsy.</div><div><b>3. Staging </b>e.g. PET, bone scan, mediastinoscopy, bronchoscopic USS.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "MYkDTVUZK(",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the causes of right axis deviation on ECG?",
                 "<div>Sort by mechanism</div><div><br></div><div><b>1. Conduction block</b> e.g. RBBB with left posterior hemiblock (unusual).</div><div><div><b>2. Right ventricular hypertrophy.</b></div></div><div><b>3. Lateral wall MI.</b></div><div><b>4. Ventricular ectopic rhythms.</b></div><div><b>5. Pre-excitation syndromes.</b></div><br><div><b>NOTES</b></div><div><i>RBBB</i> in isolation does not cause right axis deviation.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -4627,6 +5872,129 @@
             "tags": [
                 "Cardiovascular,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected asthma?",
+                "<div>Sort by clinical relevance</div><div><span style=\"font-weight: bold\"><br></span></div><div><span style=\"font-weight: bold;\">Most important:</span> trial of bronchodilators (spirometry may show reversible obstruction)</div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. PEF diary</i>&nbsp;(may show diurnal variation)</div><div><i>2. Bloods</i> (may show high IgE and eosinophils)<div><i>3. Skin test</i>&nbsp;(useful if specific allergen can be avoided e.g. cat)</div></div><div><i><br></i></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "to47TVH#M8",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the common triggers of an asthma exacerbation?",
+                "<div>Sort by mechanism</div><div><b><br></b></div><div><b>1. Airborne allergens </b>e.g. dander, pollen, house dust mite, fungal spores.</div><div><b>2. Drugs </b>e.g. aspirin, NSAIDs.</div><div><b>3. Infection</b> (commonly viral).</div><div><b>4. Exercise.</b></div><div><b>5. Cold air</b></div><div><b>6. Emotion.</b></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "p<-h$>LGpm",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in a stable patient with suspected COPD?",
+                "<div>Sort by clinical relevance</div><div><br></div><div><b>Most important:</b> spirometry (obstructive picture).</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods</i> e.g. ABG, FBC.</div><div><i>2. Imaging </i>e.g. CXR (rule out other pathology).</div><div><br></div><div>uPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "js~Qxlop]A",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected bronchiectasis?",
+                "<b>1. Bloods </b>e.g. FBC, CRP, immunoglobulins, CF test, HIV test.<div><b>2. Sputum culture.</b></div><div><b>3. Imaging </b>e.g. CXR, HRCT.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "cnsg05u1-C",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for bronchiectasis?",
+                "Sort by members of the MDT<div><br></div><div><b>1. Respiratory physician</b></div><div><div><div>Immunisations.</div></div></div><div>Meds e.g. prophylactic antibiotics and mucolytics.</div><div>Home oxygen therapy (consider).</div><div><b>2. Nurse specialist</b> e.g. patient education.</div><div><b>3. PT</b> e.g. chest physiotherapy.</div><div><b>4. Dietician </b>e.g. adequate nutrition.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "L],fb7q)x%",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of cystic fibrosis?",
+                "<div>Sort symptoms by organ system</div><div><br></div><div><b></b><b>History</b></div><div><i>Resp:</i> chronic productive cough, chronic sinusitis.</div><div><i>Pancreas:</i> steatorrhoea, poor weight gain, symptoms of diabetes.</div><div><i>Intestinal:</i> meconium ileus (neonates).</div><div><i>Reproductive:</i> sterility (absence of vas deferens).</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>productive cough, sputum pot, clubbing.</div><div><i>Auscultation: </i>crackles, wheeze.</div><div><i>Growth chart: </i>short height for age.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "d?S$%|WV)1",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Gastroenterology,",
+                "Gynaecology,",
+                "Respiratory,",
+                "Urology,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for cystic fibrosis?",
+                "Sort by members of the MDT<div><br></div><div><b>1. Respiratory </b>e.g. immunisations; meds (CFTR modulators, prophylactic antibiotics, dornase alfa); home oxygen therapy (consider).</div><div><b>2. Nurse specialist</b> e.g. patient education.</div><div><b>3. Gastroenterologist </b>e.g. PPIs (GORD), pancreatic enzyme replacement.</div><div><b>4. Dietician </b>(high calorie diet with vitamin supplements).</div><div><b>5. PT </b>(chest physiotherapy).</div><div><b>6. Cardiothoracic surgeons</b> e.g. lung transplant.</div><div><br></div><div><b>NOTES</b></div><div><i>Dornase alfa</i> reduces sputum viscosity.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "ES]BB!#Cj3",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Genetics,",
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
             ]
         },
         {
@@ -4938,8 +6306,125 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Define Light's criteria",
+                "<div>Pleural fluid is an exudate if any of the following is true:</div><div><b><br></b></div>1. Pleural fluid/serum <b>protein ratio &gt;0.5.</b><div>2. Pleural fluid/serum <b>LDH ratio &gt;0.6.</b></div><div>3. Pleural fluid <b>LDH &gt;2/3 the upper limit</b> of the lab's reference range.</div><div><br></div><div><b>NOTES</b></div><div><i>LDH </i>= lactate dehydrogenase.</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "M/ZwS.|:Hd",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A patient has suffered a pulmonary embolism (PE). She has a reversible risk of VTE. What should be the duration of warfarin therapy?",
+                "<b>3 months</b>, then review.<div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "dQPaSs?A2L",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A patient has suffered a pulmonary embolism (PE). She has an irreversible risk of VTE. What should be the duration of warfarin therapy?",
+                "<b>3 months</b>, then consider long term anticoagulation.<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "zP^Yx_[X[=",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A patient has suffered an unprovoked PE. What should be the duration of warfarin therapy?",
+                "<b>3 months</b>, then consider long term anticoagulation.<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "Nccar}BsEa",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the typical spirometry findings in obstructive lung disease?",
+                "<b>1. FEV1 </b>is disproprtionately reduced (typically &lt;70% predicted).<div><b>2. FVC </b>may be reduced to a lesser extent.</div><div><br></div><div><b>NOTES</b></div><div><i>In obstructive lung disease</i> the small airways collapse on exhalation, thus less air can be exhaled and FEV1 is reduced.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "pl]^H.ZToU",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the typical spirometry findings in restrictive lung disease?",
+                "<div><b>1. FVC</b> is disproportionately low due to reduction in lung volume.</div><div><b>2. FEV1</b> is relatively spared.</div><div><br></div><div><div><b>NOTES</b></div><div><i>In restrictive lung disease</i> there is progressive loss of lung volume.</div><div><i><br></i></div><div><i>U</i>PDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "q$F`aD=8Rx",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which paraneoplastic syndromes are associated with lung malignancy?",
+                "<div>Sort by mechanism</div><div><b><br></b></div><div><b>1. Hormone secretion</b> e.g. ACTH, ADH, PTHrP.</div><div><b>2. Autoantibody syndromes</b> e.g. limbic encephalitis, Lambert-Eaton syndrome, dermatomyositis.</div><div><br></div><div><b>NOTES</b></div><div><i>ACTH</i> = adrenocorticotropic hormone, may cause Cushing syndrome.</div><div><i>ADH</i> = antidiuretic hormone, may cause SIADH and hyponatraemia.</div><div><i>PTHrP</i> = parathyroid hormone related peptide, may cause hypercalcaemia.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "sZRwmU%F{f",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "List the types of second degree heart block",
-                "<b>Wenckeback type</b> (Mobitz 1) = progressive lengthening of PR interval, followed by a dropped QRS complex.<div><div><div><b>Mobitz type 2</b> = intermittent dropped QRS complex not preceded by a lengthening PR interval.</div></div><div><b>2:1 or 3:1 conduction</b> = alternate conducted and nonconducted atrial beats.</div><div><br></div><div><div><b>NOTES</b></div><div>Patient may require temporary or permanent pacing.</div><div><br></div><div>UPDATED 2020<br></div></div></div>"
+                "<b>Wenckeback type</b> (Mobitz 1) = progressive lengthening of PR interval, followed by a dropped QRS complex.<div><div><div><b>Mobitz type 2</b> = intermittent dropped QRS complex not preceded by a lengthening PR interval.</div></div><div><b>2:1 or 3:1 conduction</b> = alternate conducted and nonconducted atrial beats.</div><div><br></div><div><img src=\"paste-acc790b6495f63ab720988681213d267e42fcc89.jpg\"><br></div><div><br></div><div><div><b>NOTES</b></div><div>Patient may require temporary or permanent pacing.</div><div><br></div><div>UPDATED 2020<br></div></div></div>"
             ],
             "flags": 0,
             "guid": "l?c&!tfUfO",
@@ -5018,6 +6503,54 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is meant by 'mild' COPD?",
+                "COPD with FEV1 <b>≥80%</b> predicted.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "K8P}a8cTzW",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'moderate' COPD?",
+                "COPD with FEV1 <b>50-80%</b> predicted.<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "r?FyFyUDcZ",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'very severe' COPD?",
+                "COPD with FEV1 <b>&lt;30% </b>predicted.<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "G@IJ[nk78j",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the causes of constipation?",
                 "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><i>1. Obstruction</i> of large or small bowel.</div><div><i>2. Dysmotility</i> e.g. SCC/CES, hypercalcaemia (bone mets).</div><div><br></div><div><b>All the rest</b> (sort by mechanism)</div><div><i>1. Dysmotility </i>e.g. neurological (PD, MS), hypothyroidism, drugs (opiates), IBS.</div><div><i>2. Hard faeces</i> e.g. lack of dietary fibre, dehydration.</div><div><i>3. Patient not pushing</i> e.g. haemorrhoids, fissure, pelvic floor dysfunction.</div><div><br></div><div><b>NOTES</b></div><div><i>Large bowel obstruction </i>e.g. cancer, volvulus, inflammatory or ischaemic stricture.</div><div><i>Small bowel obstruction </i>e.g. adhesions, hernia, cancer.</div><div>&nbsp;UPDATED 2020<br></div>"
             ],
@@ -5090,6 +6623,42 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the causes of crackles on lung auscultation?",
+                "Sort by mechanism<div><br></div><div><div><b>1. Infection</b> e.g. pneumonia, bronchiectasis.</div><div><b>2. Vascular</b> e.g. pulmonary oedema.</div><div><b>3. </b><b>Inflammatory</b> e.g. interstitial lung disease.</div></div><div><b>4. Atelectasis.</b></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "rZqdi{:mCL",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Inflammation,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected cystic fibrosis?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important</b></div><div><i>1. Sweat test.</i></div><div><i>2. Genetic testing</i> for CFTR gene.</div><div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods</i> e.g. FBC, U&amp;E, LFTs, fasting glucose, vitamin A, D, &amp; E levels.</div><div><i>2. Sputum</i> MC&amp;S.</div><div><i>3. Stool</i> e.g. faecal elastase.</div><div><i>4. Imaging</i> e.g. CXR, CT thorax and facial sinuses.</div></div><div><br></div><div><b>NOTES</b></div><div><i>CFTR</i> = cystic fibrosis transmembrane conductance regulator.</div><div><i><br></i></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "Fc6QEzmg,C",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Genetics,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "How long is troponin elevated after an MI?",
                 "Up to 10 days<div><br></div><div><b>UPDATED 2020</b></div>"
             ],
@@ -5121,7 +6690,7 @@
             "data": "",
             "fields": [
                 "What are the ECG features of first degree heart block?",
-                "<b>Prolonged PR interval &gt;200ms,</b> with 1:1 ratio of P to QRS.<div><br></div><div><b>NOTES</b></div><div>200ms = 5 small squares.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+                "<b>Prolonged PR interval &gt;200ms,</b> with 1:1 ratio of P to QRS.<div><br></div><div><br></div><div><img src=\"ECG-Rhythm-strip-PR-interval-prolonged-extreme-1st-degree-AV-block.jpg\"><br></div><div><b>NOTES</b></div><div>200ms = 5 small squares.</div><div><br></div><div><b>UPDATED 2020</b></div>"
             ],
             "flags": 0,
             "guid": "Q${Yc]UV{_",
@@ -5137,7 +6706,7 @@
             "data": "",
             "fields": [
                 "What are the ECG features of second degree heart block?",
-                "<b>Intermittent dropped QRS, </b>with each QRS still preceded by a P wave.<div><br></div><div><b>NOTES</b></div><div><i>Wenckebach</i> (Mobitz 1) = progressive prolongation of PR interval, followed by a dropped QRS complex.</div><div><i>Mobitz type 2</i> = intermittent dropped QRS complex not preceded by a lengthening PR interval.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+                "<b>Intermittent dropped QRS, </b>with each QRS still preceded by a P wave.<div><br></div><div><img src=\"paste-acc790b6495f63ab720988681213d267e42fcc89.jpg\"><br></div><div><br></div><div><b>NOTES</b></div><div><i>Wenckebach</i> (Mobitz 1) = progressive prolongation of PR interval, followed by a dropped QRS complex.</div><div><i>Mobitz type 2</i> = intermittent dropped QRS complex not preceded by a lengthening PR interval.</div><div><br></div><div><b>UPDATED 2020</b></div>"
             ],
             "flags": 0,
             "guid": "e,^()4*?Y@",
@@ -5153,7 +6722,7 @@
             "data": "",
             "fields": [
                 "What are the ECG features of third degree heart block?",
-                "No relation between P waves and QRS.<div><br></div><div><b>NOTES</b></div><div>Third degree heart block is also called complete heart block.</div><div><br></div><div><div><b>UPDATED 2020</b></div></div>"
+                "No relation between P waves and QRS.<div><br></div><div><img src=\"paste-27671a58abdbdfada726d595497143c78fbb7e53.jpg\"><br></div><div><br></div><div><b>NOTES</b></div><div>Third degree heart block is also called complete heart block.</div><div><br></div><div><div><b>UPDATED 2020</b></div></div>"
             ],
             "flags": 0,
             "guid": "DLRVT8f3@6",
@@ -5374,6 +6943,23 @@
             "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
             "tags": [
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the diagnostic criteria for ARDS?",
+                "All of the following:<div><b><br></b><div><b>1. Acute onset</b> (within 7 days of insult).</div><div><b>2. Bilateral CXR infiltrates.</b></div><div><b>3. Respiratory failure</b>&nbsp;not fully explained by heart failure or fluid overload</div><div><br></div><div><b>UPDATED 2020</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "AyNVEeR[Bl",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
             ]
         },
         {
@@ -5923,7 +7509,7 @@
             "data": "",
             "fields": [
                 "What are the ECG features of bifascicular block?",
-                "Both left axis deviation and right bundle branch block.<div><br></div><div><b>NOTES</b></div><div>ECG changes reflect failure of conduction in the right bundle branch the left anterior fascicle.</div><div>The patient is at risk of complete heart block.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+                "Both left axis deviation and right bundle branch block.<div><br></div><div><img src=\"ECG-Bifascicular-Block-RBBB-LAFB.jpg\"><br></div><div><br></div><div><b>NOTES</b></div><div>ECG changes reflect failure of conduction in the right bundle branch the left anterior fascicle.</div><div>The patient is at risk of complete heart block.</div><div><br></div><div><b>UPDATED 2020</b></div>"
             ],
             "flags": 0,
             "guid": "nS6>xS>qJ<",
@@ -5939,7 +7525,7 @@
             "data": "",
             "fields": [
                 "What are the ECG features of 'trifascicular block'?",
-                "All of the following:<div><br><div><b>1. RBBB.</b></div><div><b>2. Left axis deviation.</b></div><div><b>3. PR interval &gt;200ms.</b></div><div><br></div><div><b>NOTES</b></div><div><i>'Trifascicular block'</i> is a confusing name; if all three fascicles were blocked, the ECG would show complete heart block.</div><div>Rather this trace represents bifascicular block with delayed atrial conduction.</div><div><br></div></div><div><i>UPDATED 2020</i></div>"
+                "All of the following:<div><br><div><b>1. RBBB.</b></div><div><b>2. Left axis deviation.</b></div><div><b>3. PR interval &gt;200ms.</b></div><div><br></div><div><img src=\"trifascicular-2-2.jpg\"><br></div><div><br></div><div><b>NOTES</b></div><div><i>'Trifascicular block'</i> is a confusing name; if all three fascicles were blocked, the ECG would show complete heart block.</div><div>Rather this trace represents bifascicular block with delayed atrial conduction.</div><div><br></div></div><div><i>UPDATED 2020</i></div>"
             ],
             "flags": 0,
             "guid": "n,`?H9jD{T",
@@ -6124,6 +7710,309 @@
             "tags": [
                 "Cardiovascular,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List four 'atypical' CAP pathogens",
+                "1. Mycoplasma pneumoniae.<div>2. Legionella.</div><div>3. Chlamydophila pneumoniae.</div><div>4. Chlamydophila psittaci.</div><div><br></div><div><b>NOTES</b></div><div><i>Atypical pathogens </i>are often not identified in clinical practice, due to lack of reliable tests (with exception of Legionella).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "B%e}IsL&{.",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of generalised bronchiectasis?",
+                "Sort by mechanism<div><br></div><div><b>1. Recurrent childhood infections </b>e.g. pertussis, TB.</div><div><b>2. Mucociliary dysfunction</b> e.g. CF, primary ciliary dyskinesia.</div><div><b>3. Immune dysfunction</b></div><div><i>Underactivity</i> e.g. immunodeficiency.</div><div><i>Overactivity</i> e.g. ABPA.</div><div><i>Autoimmunity</i> e.g. RA, IBD.</div><div><b>4. Traction bronchiectasis.</b></div><div><br></div><div><i>ABPA</i> = allergic bronchopulmonary aspergillosis.<br></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "fK51{Y*P#W",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of focal bronchiectasis?",
+                "Sort by mechanism<div><br></div><div><b>1. Bronchial obstruction </b>e.g. malignancy, lymphadenopathy, inhaled foreign body.</div><div><b>2. Gastric aspiration.</b></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Ik|_aMBWhJ",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are rhonchi?",
+                "Wheezes<div><br></div><div><b>NOTES</b></div><div>Musical sounds heard on expiration in chest auscultation.</div><div>Caused by narrowing of the small airways.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "xL:-!~L]N&",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are rales?",
+                "<b>Crackles</b> heard on chest auscultation.<div><br></div><div><b>NOTES</b></div><div>Commonly caused by infection, pulmonary oedema, and fibrosis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "E3TJB|Mq-a",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for a tension pneumothorax?",
+                "<b>1. Resus</b><div>15L O2 via reservoir mask.</div><div><div><i>Needle thoracocentesis:</i> large bore cannula in 2nd intercostal space, midclavicular line.</div></div><div><i>Chest drain:</i> 5th intercostal space, midaxillary line.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "ve,nT71K_p",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for secondary spontaneous pneumothorax? (not tension)",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div><br></div><div><b>2. Pleural drainage</b> (chest drain)</div><div><br></div><div><b>3. Thoracoscopy</b> (VATS)</div><div>Consider bleb stapling or pleurodesis e.g. blood patch.</div><div><br></div><div><b>NOTES</b></div><div><i>VATS</i> = video assisted thoracoscopic surgery.</div><div><i>Air travel should be postponed</i> for ≥2 weeks following resolution of pneumothorax on CXR.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "e;1oA2+2u{",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is psittacosis?",
+                "An infection caused by <b>Chlamydophila psittaci</b>, transmitted to humans predominantly from birds.<div><br></div><div><b>NOTES</b></div><div>Also called 'ornithosis', affects many organ systems, usually presents with fever, headache and a dry cough.</div><div>Typical patient is a young adult with recent contact with birds of the parrot family.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "wvsGn~4gU$",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Q fever?",
+                "A zoonotic infection caused by <b>Coxiella burnetii.</b><div><br></div><div><b>NOTES</b></div><div>Most commonly transmitted to humans from farm animals or pets.</div><div><i>C. burnetii</i> has both acute and chronic manifestations.</div><div><i>Acute infection</i> is characterised by a flu-like illness, pneumonia, and hepatitis.</div><div><i>Chronic infection </i>usually manifests as endocarditis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "ENtXh=hSo>",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is atelectasis?",
+                "Loss of lung volume due to <b>collapse of lung tissue.</b><div><br></div><div><b>NOTES</b></div><div>Sorted into obstructive (due to obstruction of an airway) and nonobstructive atelectasis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "quMKV(d^(3",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Anatomy,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which types of interstitial lung disease predominantly involve the upper zones?",
+                "Sort by mechanism<div><br></div><div><b>1. Granulomatous disease</b> e.g. sarcoidosis, chronic hypersensitivity pneumonitis.</div><div><b>2. Pneumoconiosis </b>e.g. silicosis, coal miners' lung.</div><div><b>3. Ankylosing spondylitis.</b></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "dgVv?[x2w)",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which types of interstitial lung disease predominantly involve the lower zones?",
+                "Sort by mechanism<div><br></div><div>1. Idiopathic pulmonary fibrosis.</div><div>2. Rheumatoid arthritis.</div><div>3. Asbestosis.</div><div><br></div><div><b>UPDATED 2020</b><br></div>"
+            ],
+            "flags": 0,
+            "guid": "qJwOTvxK;H",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of type 2 respiratory failure? ",
+                "<div>PaCO2 &gt;6.5 kPa, with PaO2 &lt;8.0 kPa.</div><div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "msfW@G{8q.",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of a tension pneumothorax?",
+                "A pneumothorax where the opening from the lung into the pleural space <b>functions as a valve.</b><div><br></div><div><b>NOTES</b></div><div>Air may enter the pleural space during inspiration but not re-enter the lung on expiration.</div><div>The lung and mediastinum are compressed, and venous return to the heart is reduced.</div><div>This is a life-threatening emergency.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "DsB<r>dC3)",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of a primary spontaneous pneumothorax?",
+                "A spontaneous pneumothorax without evidence of other lung disease.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "l<@fp|kwPJ",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of a secondary spontaneous pneumothorax?",
+                "A spontaneous pneumothorax with evidence of underlying lung disease e.g. COPD, cystic fibrosis.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "A&mQlqFzDF",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of advanced pulmonary hypertension?",
+                "<b></b><b>History</b><br><div><i>Symptoms of heart failure</i> e.g. exertional dyspnoea, tiredness, angina, oedema.</div><div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>may be tachypnoea, tachycardia, hypotension.</div><div><i>Inspection: </i>raised JVP, large V wave (TR), peripheral oedema.</div><div><i>Palpation: </i>RV heave, pulsatile hepatomegaly (TR).</div><div><i>Auscultation: </i>loud P2 (early sign), TR murmur.</div><div><i>Bedside tests: </i>ECG may show signs of right ventricular hypertrophy.</div><div><br></div><div><b>NOTES</b></div><div><i>JVP = </i> jugular venous pressure.</div><div><i>RV</i> = right ventricle.</div><div><i>TR</i> = tricuspid regurgitation.</div><div><i>P2</i> = pulmonary component of second heart sound.</div><div><i>PR</i> = pulmonary regurgitation (Graham Steell murmur).</div><div><div><i>ECG signs</i> of RVH include: right axis deviation; P pulmonale; tall R wave in V1 and deep S wave in V6; TWI in V1-V4.</div></div><div><br></div></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "A[f/37HO`2",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for acute pulmonary oedema?",
+                "<b>1. Resus</b><div>A+B - Sit upright, O2 to target sats 94-98%.<br></div><div>C - IV access, cardiac monitor, input/output and daily weights.</div><div><b><font color=\"#008000\">Furosemide 40mg IV.</font></b></div><div><br></div><div>Consider CPAP and GTN infusion (escalate to level 2 care)</div><div><br></div><div><b>NOTES</b><br><i>Consider GTN infusion </i>if sBP &gt;90 and no critical aortic stenosis or other contraindication.</div><div><i>CPAP</i> = continuous positive airways pressure.</div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "bQJGQ?rv#b",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Emergency,",
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
             ]
         },
         {
@@ -6933,6 +8822,100 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is sarcoidosis?",
+                "<b>A multisystem granulomatous disorder</b>, characterised by the presence of noncaseating granulomas.<div><br></div><div><b>NOTES</b></div><div><i>Presentation</i> is typically with respiratory symptoms e.g. cough, dyspnoea, chest pain.</div><div><i>CXR features</i> include bilateral hilar lymphadenopathy and reticular opacities.</div><div><i>Aetiology</i> is unknown.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "BUXO/w--Y=",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of sarcoidosis?",
+                "Sort symptoms by organ system<div><br></div><div><b></b><b>History</b></div><div><i>Constitutional symptoms </i>e.g. tiredness, weight loss, fever.</div><div><i>Lungs</i> e.g. chronic cough, dyspnoea, chest pain.</div><div><i>Skin</i> e.g. new rash (particularly around tattoos or scars).</div><div><i>Eyes</i> e.g. painful red eye.</div><div><i>Heart </i>e.g. palpitations, syncope.</div><div><i>Joints </i>e.g. polyarthritis.</div><div><i>Exocrine </i>e.g. dry eyes or mouth.</div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>may be fever.</div><div><i>Inspection:</i> cutaneous sarcoidosis, erythema nodosum, uveitis.</div><div><i>Palpation: </i>lymphadenopathy, hepatosplenomegaly, enlarged parotid and salivary glands.</div><div><i>Auscultation: </i>wheeze, arrhythmia.</div><div><i>Bedside tests: </i>ECG may show conduction block.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "B1AmJZ,d`&",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Dermatology,",
+                "Endocrine,",
+                "Orthopaedics,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of sarcoidosis?",
+                "<div><div>Sort by seriousness</div><div><br></div><div><b>Most serious</b></div><div><i>1. Lungs</i> e.g. diffuse interstitial lung disease.</div><div><i>2. Heart</i> e.g. arrhythmia, heart failure.</div><div><i>3. Neuro </i>e.g. seizures.</div><div><i>4. Kidneys </i>e.g. renal stones (due to hyperCa), interstitial nephritis.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Skin</i> e.g. papular sarcoidosis.</div></div><div><div><i>2. Eyes</i> e.g. uveitis, keratoconjunctivitis sicca.</div></div><div><i>3. Lymph organs </i>e.g. lymphadenopathy, hepatosplenomegaly.</div><div><i>4. Exocrine glands</i> e.g. swelling of salivary and parotid glands.</div><div><i>5. Endocrine</i> e.g. hypopituitarism.</div><div><i>6. Joints </i>e.g. polyarthritis.</div><div><i>7. Neuro </i>e.g. mononeuritis multiplex.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "s3Roa_`z=R",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Dermatology,",
+                "Endocrine,",
+                "Nephrology,",
+                "Neurology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be helpful in suspected sarcoidosis?",
+                "<b>1. Bloods</b> e.g. FBC, U&amp;E, LFTs, CRP, Ca, serum ACE.<div><b>2. Urine </b>e.g. dip, Ca.</div><div><b>3. TB test</b> e.g. tuberculin skin test, IGRA.</div><div><b>4. Radiology </b>e.g. CXR, HRCT.</div><div><b>5. Biopsy </b>e.g. skin, lymph node, parotid, bronchoscopy.</div><div><br></div><div><b>NOTES</b></div><div><i>Hypercalcaemia</i> is due to macrophages in granulomas producing active vitamin D.</div><div><i>ACE</i> = angiotensin converting enzyme.</div><div><i>TB</i> = tuberculosis.</div><div><i>IGRA</i> = interferon gamma release assay.</div><div><i>HRCT</i> = high resolution CT.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "tf)Lv5+;19",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for sarcoidosis?",
+                "<b>1. Conservative</b> e.g. smoking cessation.<div><br></div><div><b>2. Meds</b>: consider oral corticosteroids.</div><div><br></div><div><b>NOTES</b></div><div><i>Corticosteroids</i> are only indicated for progressive or symptomatic disease.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "QY@z[J91[z",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is meant by 'syncope'?",
                 "Transient loss of consciousness and postural tone with spontaneous recovery, due to cerebral hypoperfusion.<div><u><br></u></div><div><b>UPDATED 2020</b></div>"
             ],
@@ -6943,6 +8926,22 @@
             "tags": [
                 "Cardiovascular,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the <u>signs</u> of very severe COPD?",
+                "Sort by examination<div><br></div><div><b>1. Obs:</b> tachypnoea, hypoxaemia, tachycardia.</div><div><b>2. Inspection</b></div><div><i>Work of breathing </i>e.g. posture, accessory muscles.</div><div><i>Hyperexpansion </i>e.g. increased anteroposterior diameter, reduced cricosternal distance.</div><div><i>Respiratory failure</i> e.g. cyanosis and plethora (hypoxia), asterixis and bounding pulse (hypercapnia).</div><div><i>Cor pulmonale</i> e.g. high JVP, oedema.</div><div><b>3. Percussion</b> e.g. hyperresonance.</div><div><b>4. Auscultation </b>e.g. wheeze, decreased breath sounds.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "h9qyB()JV)",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
             ]
         },
         {
@@ -6977,6 +8976,24 @@
                 "Cardiovascular,",
                 "Pharmacology,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the long term complications of COPD?",
+                "<div>Sort by mechanism</div><div><br></div><div><b>1. Respiratory failure </b>typically with CO2 retention.</div><div><b>2. Pulmonary hypertension</b>, may lead to cor pulmonale.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w:JhxvNzac",
+            "newlyAdded": false,
+            "note_model_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
             ]
         },
         {
@@ -8507,7 +10524,8 @@
             "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
             "tags": [
                 "Dermatology,",
-                "Y3::Med_A::Dermatology"
+                "Y3::Med_A::Dermatology",
+                "leech"
             ]
         },
         {
@@ -11872,6 +13890,42 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the adverse effects of salbutamol?",
+                "Sort by mechanism<div><br></div><div><b>1. Tremor.</b></div><div><b>2. Tachycardia.</b></div><div><b>3. Metabolic</b> e.g. hyperglycaemia, hypokalaemia.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dyzcP%do=<",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of corticosteroid inhalers?",
+                "Sort by mechanism<div><br></div><div>1. Dysphonia.</div><div>2. Oral candidiasis.</div><div>3. Allergic contact dermatitis.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y0mWU<!2/Z",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Which drugs cause long QT syndrome?",
                 "Sort by type<div><br></div><div><b>1. Antiarrhythmics </b>e.g. amiodarone.</div><div><b>2. Antipsychotics </b>e.g. quetiapine.</div><div><b>3. Antidepressants </b>e.g. TCAs.</div><div><b>4. Methadone.</b></div><div><b>5. Antimicrobials </b>e.g. erythromycin, fluoroquinolones, antimalarials, azole antifungals.</div><div><br></div><div><b>UPDATED 2020</b></div>",
                 ""
@@ -11884,6 +13938,74 @@
                 "Cardiovascular,",
                 "Pharmacology",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the instructions for correct use of an MDI",
+                "1. Before each puff, <b>shake</b> the canister for 5 seconds.<div>2. Breathe out a normal breath and close lips around the mouthpiece.</div><div>3. As you inhale the next breath, press down on the canister.</div><div>4. Inhale deeply and slowly through the mouth.</div><div>5. <b>Hold your breath</b> for 5-10 seconds, before breathing out.</div><div><br></div><div><div><b>NOTES</b></div><div><i>Between puffs</i> wait 15-30 seconds.</div><div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "g}9Eso+WA[",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the instructions for 'priming' an MDI",
+                "Shake the MDI for 5 seconds and release 4 puffs into the air before use.<div><br></div><div><b>NOTES</b></div><div><i>Priming</i> is needed before inital use, and if the MDI has not been used for 2 weeks or longer.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "C>Mn=:{D7A",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How often should an MDI be cleaned?",
+                "Once per week<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "erd}Q^NIJ%",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Kartagener syndrome?",
+                "Situs inversus, chronic sinusitis, and bronchiectasis, due to <b>primary ciliary dyskinesia</b>.<div><br></div><div><b>NOTES</b></div><div><i>Genetic basis:</i> autosomal recessive disease, may be due to one of a large number of mutations.</div><div><i>Situs inversus </i>occurs because the nodal cilia of the embryo are defective (there is equal chance of situs solitus and situs inversus).</div><div><i>Treatment: </i>similar to cystic fibrosis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "f-l;VU:Vwi",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Genetics,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
             ]
         },
         {
@@ -12064,6 +14186,39 @@
                 "Diseases",
                 "Infectious",
                 "Y3::Med_A::Dermatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected pulmonary embolism (PE)?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important:</b>&nbsp;V/Q scan (first line) or CT-PA (second line).</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods</i> e.g. ABG, FBC, U&amp;Es, CRP, troponin</div><div><i>2. ECG</i> (may show sinus tachycardia and right ventricular strain)</div><div><i>3. CXR</i></div><div><br></div><div><b>NOTES</b></div><div>If Wells score=0, consider D-dimer to rule out PE</div><div><i>VQ scan</i> = ventilation/perfusion scan (nuclear medicine)</div><div><i>CT-PA </i>= CT pulmonary angiogram</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "Ezq|g`TD=7",
+            "newlyAdded": false,
+            "note_model_uuid": "591c3b08-af10-11ea-a5d1-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'severe' COPD?",
+                "An FEV1 <b>30-50% </b>predicted&nbsp;<div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "v*$N]#GdzR",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Respiratory,",
+                "Y3::Med_A::Respiratory"
             ]
         },
         {
@@ -20424,7 +22579,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "When seeing a patient with gsatrointestinal symptoms what are important questions to ask?",
+                "When seeing a patient with gastrointestinal symptoms what are important questions to ask?",
                 "Bowel habit<div>- What are their normal bowel habits like? Any recent change to constipation or diarrhoea? If so how long has the change been present for?</div><div><br></div><div>PR bleeding&nbsp;</div><div>- How long for? Frequency? Type of blood i.e. bright/dark? Volume? Mucus?&nbsp;</div><div><br></div><div>Weight loss&nbsp;</div><div>- How much? Time frame? Intentional?&nbsp;</div><div><br></div><div>Vomiting</div><div>- How long for and how frequently (risk of dehydration)? Colour? i.e. dark green/brown could suggest bowel obstruction&nbsp;</div><div><br></div><div>Abdominal distension&nbsp;</div><div>- Gross distension i.e. can't do their trousers up anymore or just feel slightly bloated?&nbsp;</div><div><br></div><div>Fevers&nbsp;</div><div>- How long for?&nbsp;</div><div><br></div><div>Urinary symptoms</div><div>- Assess for differentials of lower abdo pain - could it be urinary? Recurrent UTIs/pneumaturia (air in urine) could be suggestive of a colonic fistula</div>"
             ],
             "flags": 0,
@@ -21483,6 +23638,126 @@
             "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
             "tags": [
                 "Y3::Med_A::CBL2::LO5"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the three classes of breathlessness?",
+                "1. Immediate or sudden (minutes)&nbsp;<div>2. Short (hours to days)&nbsp;</div><div>3. Long (weeks to years)&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "qz82d/`Y;Y",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL3::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are immediate or sudden causes of breathlessness?",
+                "- Pulmonary embolism&nbsp;<div>- Pneumothorax&nbsp;</div><div>- Pulmonary oedema&nbsp;</div><div>- Asthma&nbsp;</div><div>- Hyperventilation&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "f#_~*K*UjI",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL3::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are short term causes of breathlessness?&nbsp;",
+                "- Pulmonary oedema<div>- Pneumonia&nbsp;</div><div>- Asthma&nbsp;</div><div>- Pleural effusion&nbsp;</div><div>- Anaemia&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "y#*029CIfX",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL3::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Name some causes of breathlessness that inolve the control and movement of the chest wall and pleura",
+                "- Hypothalamic lesions&nbsp;<div>- Hyperventilation syndrome&nbsp;</div><div>- Neuromuscular disease&nbsp;</div><div>- Kyphoscoliosis&nbsp;</div><div>- Ankylosing spondylitis&nbsp;</div><div>- Pleural effusion and thickening&nbsp;</div><div>- Bilateral diaphragam paralysis&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "IOK@#qL&rD",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL3::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Name some causes of breathlessness that primarily affect the ariways&nbsp;",
+                "- Asthma&nbsp;<div>- COPD&nbsp;</div><div>- Bronchiectasis</div><div>- Cystic fibrosis&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "A)VRx1U)A-",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL3::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Name some parenchymal causes of breathlessness",
+                "- Pneumonia&nbsp;<div>- Cryptogenic fibrosing alveolitis&nbsp;</div><div>- Extrinsic allergic alveolitis&nbsp;</div><div>- Primary and secondary tumour&nbsp;</div><div>- Sarcoidosis&nbsp;</div><div>- Pneumothorax&nbsp;</div><div>- Pulmonary oedema&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "yV?$)nx&lM",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL3::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are some vascular causes of breathlessness?",
+                "- Pulmonary embolism (PE)&nbsp;<div>- Anaemia&nbsp;</div><div>- Pulmonary artery hypertension&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "tG2c9@%0XH",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL3::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What investigations would you carry out in a patient presenting with breathlessness?&nbsp;",
+                "Bedside&nbsp;<div>- Peak flow&nbsp;</div><div>- ECG</div><div><br></div><div>Bloods&nbsp;</div><div>- FBC, BNP, U+Es, LFTs, TFTs, D-dimer&nbsp;</div><div><br></div><div>Imaging</div><div>- CXR&nbsp;</div><div>- Echo&nbsp;</div><div>- CT</div>"
+            ],
+            "flags": 0,
+            "guid": "o`)P+-w/hC",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::CBL3::LO4"
             ]
         }
     ]
