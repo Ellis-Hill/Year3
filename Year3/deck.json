@@ -77,6 +77,7 @@
         "AF_with_RVR-Ashmans_phenomenon-RBBB_aberrancy.png",
         "Annotation 2020-05-18 154250.png",
         "BiPCHE8IAAAqwaS.jpg",
+        "C6z5qRSWoAEUvrV.jpg",
         "ECG-1st-degree-AV-block-2.jpg",
         "ECG-Bifascicular-Block-RBBB-LAFB.jpg",
         "ECG-Complete-heart-block-CHB.jpg",
@@ -170,6 +171,7 @@
         "lm3-s.jpg",
         "mHkWrMOdPCXlqyrQneYKzl5Po_8YP1jSttTfMtvipQjCcZB692T92YuXdkdzhRDnQ2VstY5-fJ93jKtJMwD_X37IN5V1g9pf5qcw1dtP13WWTtPvsEwSLDCCTU3MTYl7ZUGA.png",
         "mammary_duct_ectasia.jpg",
+        "murtagh7e_c114_f04-2.png",
         "nail-psoriasis-pitting-oil-spots__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDU0XQ.jpg",
         "nail-psoriasis1-s.jpg",
         "napkin-dermatitis19-s__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
@@ -295,6 +297,7 @@
         "paste-9ce7572a95d039c3a76e1ecf905d0437d13d9fbe.jpg",
         "paste-9d3d0efba9e44d45339549fd962d39fe34fa4033.jpg",
         "paste-9df8312f446f22060d39209b8ad2ad4c6f39a7a1.jpg",
+        "paste-9e91acf27700183b07a9104012021bb53d97001c.jpg",
         "paste-9ebb3a4d6062eddeb3c9ad8e9b639540191be424.jpg",
         "paste-a2d57012fe304cdce0907d38f7b5915b74367e31.jpg",
         "paste-a328735c43a057762d8f5b60f54f8a2fad806965.jpg",
@@ -327,6 +330,7 @@
         "paste-d0c5b05a67cc08bf1d715c9d83b80e3d82414f1e.jpg",
         "paste-d0e56b4daa009fa7f7c17f7e0ab89b16b3cd20a6.jpg",
         "paste-d347a6f32b71803eb88386cd92c0328174b38d79.jpg",
+        "paste-d3df9b1af8d44977a01b2c6fd010fb1838d40668.jpg",
         "paste-d46b2c8319cc803e9bfd819337ac7ef620f1125c.jpg",
         "paste-d52a242ed577cddc5d81c533d55e7a4e52fafcea.jpg",
         "paste-d6ec03b7ef6defcc225512a33cffec7bf34eb8b9.jpg",
@@ -359,6 +363,7 @@
         "pod5__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
         "pod6-s.jpg",
         "pom-fing-s.jpg",
+        "pretibial-myxoedema-01.jpg",
         "ps-pust1__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
         "ps-pust2__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg1XQ.jpg",
         "ps-pust3-s.jpg",
@@ -971,7 +976,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "Y3::Med_A::CBL3::LO4"
+                "Y3::Surg_B::CBL2::LO1"
             ],
             "tmpls": [
                 {
@@ -1888,6 +1893,113 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the clinical features of hyperthyroidism?",
+                "<div><b></b><b>History</b></div>Weight loss despite increased appetite.<br>Heat intolerance.<div>Anxiety, emotional lability.</div><div>Tremor.</div><div>Palpitations.</div><div>Oligomenorrhoea.</div><div><div><br><b>Exam</b><br><i>Obs: </i>tachycardia.</div><div><i>Inspection:</i> tremor, lid lad.</div></div><div><div><i>Palpation:</i> full (irregular) pulse, warm peripheries.</div></div><div><i>Auscultation: </i>thyroid bruit.</div><div><i>Bedside tests: </i>ECG may show AF.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "j!3QbD]:BX",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected hyperthyroidism?",
+                "<b><div></div></b><b>1. Bloods </b>e.g. TFTs, consider thyroid autoantibodies.<div><b style=\"font-weight: bold; \">2. ECG </b>may show tachycardia, AF.<br><div><div><b>3. Imaging </b>e.g. USS, consider thyroid scintogram.</div><div><b>4. Tissue sampling </b>e.g. consider FNA, core biopsy.</div></div></div><div><br></div><div><b>NOTES</b></div><div><i>Thyroid autoantibodies</i> include anti-TSH, -thyroid peroxidase, and -thyroglobulin.</div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "cDDkx68Rfr",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for Graves disease?",
+                "<b>1. Patient education</b> e.g. smoking cessation.<div><br></div><div><div><b>2. Medication</b><div><i>Symptomatic treatment</i> e.g. beta-blockers.</div><div><div><i>Antithyroid treatment</i> e.g. carbimazole (first line), propylthiouracil (second line), radioiodine (third line).</div><div><br></div><div><div><div><div><div><b>3. Surgical </b>(total thyroidectomy).</div></div></div></div></div></div></div></div><div><br></div><div><b>NOTES</b></div><div><i>Carbimazole</i> blocks incorporation of iodine into thyroxine precursors.</div><div><i>Radioiodine</i> is especially useful in recurrent hyperthyroidism after thyroidectomy.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "p&9W!wv)]5",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of carbimazole?",
+                "<div>Sort by seriousness</div><div><b><br></b></div><div><b>Most serious</b></div><div>1. Agranulocytosis.</div><div>2. Hepatotoxicity.</div><div>3. Vasculitis.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Skin</i> e.g. rash, pruritus.</div><div><i>2. Joints</i> e.g. arthralgia.</div><div><i>3. GIT</i> e.g. N&amp;V.</div><div><br></div><div><b>NOTES</b></div><div>Patients are advised to see doctor if they develop a sore throat or unexplained fever.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "rRML=HG*#3",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of a hyperthyroid crisis?",
+                "<div><div><b>History</b> (sudden onset symptoms)</div><div><div>Typical patient is a woman.</div></div><div>Fever.</div><div>Palpitations.</div><div>Anorexia, N&amp;V, diarrhoea.</div><div>Acute confusion, seizures, coma.</div><div><br></div><div><b>Exam</b><br></div><div><i>Obs:</i> fever, tachycardia, hypotension.</div><div><i>Inspection: </i>signs of delirium, decreased consciousness or coma, goitre, peripheral oedema.</div><div><i>Palpation: </i>irregular pulse.</div><div><i>Auscultation: </i>AF, thyroid bruit.</div><div><i><u><br></u></i></div></div><div><b>NOTES</b></div><div>Also called 'thyroid storm'.</div><div><div>May be triggered by  thyroid surgery in an unprepared patient.</div></div><div><b><br></b></div><div><b>UPDATED 2020</b><br></div>"
+            ],
+            "flags": 0,
+            "guid": "nBjG0bs$:H",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Hashimoto disease?",
+                "A type of chronic, autoimmune thyroiditis<div><br></div><div><b>NOTES</b></div><div>Typical patient is a middle-aged woman.</div><div><div>Usually presents with hypothyroidism and a uniformly enlarged, firm thyroid gland.</div><div><div>Hashimoto's is the most common cause of hypothyroidism in iodine-sufficient areas of the world.</div><div></div></div><div><br></div></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "eC]7eiH@s;",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for Hashimoto disease?",
+                "<b>1. Meds: </b>levothyroxine.<div><br></div><div><b>NOTES</b></div><div><i>Thyroxine</i> shrinks the goitre and reverses hypothyroidism.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "i<P+gt!&8v",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the causes of gynaecomastia?",
                 "<div>Sort by mechanism</div><div><br></div><div><b>1. High oestrogen</b> e.g. liver failure, exogenous oestrogen.</div><div><b>2. High prolactin</b> e.g. prolactinoma, dopamine antagonists.</div><div><b>3. Low androgen</b> e.g. spironolactone, zoladex, hypogonadism, old age.</div><div><div><div></div><div><b><u><br></u></b></div><div><b>NOTES</b></div><div>Must exclude breast cancer, especially if unilateral swelling.</div></div></div><div><br></div><div><b>UPDATED 2020</b></div>"
             ],
@@ -1921,6 +2033,128 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the causes of hyperthyroidism?",
+                "<i><b><div></div></b></i>Sort by prevalence<div><br></div><div><b>Most common:</b> Graves disease.</div><div><u><br></u></div><div><b>All the rest</b></div><div><i>1. Toxic nodule</i> e.g. multinodular goitre, adenoma.<br><i>2. Thyroiditis</i> e.g. viral, autoimmune, post-irradiation.</div><div><i>3. Drugs</i> e.g. levothyroxine, amiodarone.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "i~y:?l4^j%",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the WHO diagnostic criteria for diabetes mellitus?",
+                "Any of the following:<div><br><div>1. Symptoms of hyperglycaemia AND raised venous glucose x1.<div>2. Raised venous glucose x2.</div><div>3. HbA1c ≥48mmol/mol.<br><div><br></div><div><b>NOTES</b></div><div><i>Raised venous glucose: </i>fasting glucose ≥7mmol/l; random glucose ≥11.1mmol/l; OGTT ≥11.1mmol/l.</div></div></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "kxV;}d%>zg",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Describe the protocol for a 2h OGTT",
+                "1. Fast overnight.<br>2. Measure venous glucose then give 75g glucose drink.<div>3. Repeat venous glucose 2h later.<div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "quoQ_,-,Qa",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the WHO definition for 'impaired glucose tolerance' (IGT)?",
+                "<div>Both of the following:</div><div><br></div><div><b>1. Fasting glucose</b> &lt;7mmol/l.</div><div><b>2. OGTT</b> 7.8-11.1mmol/l.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "sN3NOr+`vc",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the WHO definition for 'impaired fasting glucose' (IFG)?",
+                "Fasting glucose<b>&nbsp;6.1-6.9 mmol/l.</b><div><b><br></b></div><div>UPDATED 2020 Diabetes.co.uk<br></div>"
+            ],
+            "flags": 0,
+            "guid": "dQ:1q,|<N%",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the biochemical definition of hypoglycaemia?",
+                "Venous glucose ≤3mmol/l.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "mfQ|v@:Jw.",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which tumours are associated with MEN1 (multiple endocrine neoplasia)?",
+                "Mnemonic = PPP<br><div><i><br></i><div><div><div><b>1. Parathyroid.</b><br><b>2. Pituitary</b> e.g. PRL, GH.<br><b>3. Enteropancreatic tumours (Pancreatic)</b>&nbsp;e.g. gastrinoma, insulinoma.</div></div><div><br></div><div><b>NOTES</b></div><div>Also called Werner syndrome</div><div><br></div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "rf$bp:BH,F",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Oncology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which tumours are associated with MEN2A (multiple endocrine neoplasia)?",
+                "<div>Mnemonic TAP</div><div><br></div><div><b>1. Thyroid</b> (medullary carcinoma).<br><b>2. Adrenal</b> (phaeochromocytoma).<br><b>3. Parathyroid.</b></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "c%Hl;8,j!<",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Oncology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Which investigations may be useful in suspected breast cancer?",
                 "<b>1. Initial tests </b>(including assessment of fitness for surgery)<div><i>Bloods</i> e.g. FBC, U&amp;E, CRP, LFT, bone profile.</div><div><i>ECG.</i></div><div><i>Radiology</i> e.g. mammogram/ USS, CXR.</div><div><b><br></b></div><div><b>2. Biopsy </b>e.g. FNA or core biopsy (breast lump and lymph nodes).</div><div><div><b>3. Staging </b>e.g. CT scan, bone scintigraphy, PET scan.</div></div><div><br></div><div><b>UPDATED 2020</b></div>"
             ],
@@ -1932,6 +2166,202 @@
                 "Breast",
                 "Y3::Surg_A::Breast",
                 "surgery"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of hypothyroidism?",
+                "<div>Sort symptoms by mechanism</div><div><b><br></b></div><div><b>History </b></div><div><i>Slow metabolism </i>e.g. tiredness, cold intolerance, weight gain, constipation, low mood, oligomenorrhoea.</div><div><div style=\"display: inline !important; \"><i>Accumulation of matrix substances </i></div>e.g. coarse hair and skin, 'puffy' face, enlargement of tongue, hoarseness.</div><div><b><br></b></div><div><b>Exam</b></div><div><i>Obs: </i>bradycardia, hypothermia.</div><div><i>Inspection: </i>many layers of clothing, bradykinesia, characteristic 'puffy' face, dry skin, loss of lateral eyebrows.</div><div><i>Neuro:</i> proximal myopathy, or slow relaxing reflexes.</div><div><br></div><div>UPDATED 2020<br></div><div><i><div><b></b></div></i></div>"
+            ],
+            "flags": 0,
+            "guid": "bJ.|Q0PL.O",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of Cushing syndrome?",
+                "<div>Sort by mechanism</div><div><br></div><div><b>1. ACTH-independant </b>e.g. exogenous corticosteroids; adrenal tumour.</div><div><b>2. ACTH-dependant </b>e.g. pituitary (Cushing disease); ectopic (SCLC, carcinoid tumour).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "g?4BUJ$$1K",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of Cushing syndrome?",
+                "<div>Sort symptoms by organ system</div><div><b><br></b></div><div><b></b><b>History</b></div><i>Immune system:</i> infections.<br><div><div><i>Skin:</i> acne, hirsutism, alopecia, striae, fat redistribution.</div><div><i>Bones:</i> fragility fractures.</div><div><i>Neuro:</i> proximal muscle weakness, low mood, paranoia.</div><div><i>Endo:</i> symptoms of diabetes, oligomenorrhoea.</div><div><i>Eyes:</i> cataracts.</div><div><i>GIT:</i> peptic ulcer symptoms.</div><div><i><br></i></div><div><div><b>Exam</b><br><i>Obs: </i>hypertension.</div><div><i>Inspection: </i>acne, hirsutism &amp; allopecia, purple/red striae, plethora, bruising, truncal obesity, thin limbs, supraclavicular fat pad, full 'moon' face.</div><div><i>Neuro: </i>proximal myopathy.</div></div></div><div><br></div><div><b>NOTES</b></div><div>Mnemonic for Cushing syndrome: \"<b>I'm</b> <b>skin</b> and <b>bones</b> with <b>neuroendocrine</b> problems, <b>I'm</b> <b>gutted</b>\" (i.e. immune system, skin, bones, neuro, endo, eyes, GIT).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qumGqKk_mp",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected Cushing syndrome?",
+                "<div>Sort by clinical setting</div><div><br></div><div><b>Outpatient</b></div><div><i>1. 24h urinary cortisol.</i></div><div><i>2. Low dose dexamethasone suppression test </i>(1mg 'overnight' test).</div><div><br></div><div><b>Inpatient</b></div><div><i>1. Late night salivary cortisol.</i></div><div><i>2. Late night serum cortisol.</i></div><div><i>3. Low dose dexamethasone suppression test </i>(2mg 48h test).</div><div><br></div><div><b>NOTES</b></div><div>At least 2 first line tests must be abnormal for a diagnosis of Cushing syndrome.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "l!pA@;KyzB",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of Addison disease?",
+                "<div>Sort by prevalence</div><div><br></div><div><b>Most common:</b> autoimmune.</div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. Infection</i> e.g. tuberculosis, fungal, syphilis.</div><i>2. Neoplasia</i> e.g. mets, lymphoma.<div><i>3. Vascular </i>e.g. Waterhouse-Friederichsen syndrome.</div><div><i>4. Drugs</i> e.g. ketoconazole, fluconazole.<br><div><b><br></b></div><div><b>NOTES</b></div><div>Autoimmune disease accounts for large majority of cases in the UK.</div><div>Tuberculosis is the most common cause worldwide.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "pv0?0~>9=Z",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of Addison disease?",
+                "Clinical presentation is variable, depends on rate of onset.<div><br><div></div><div><b>History</b><br><div><div>Tiredness, generalised muscular weakness.</div><div>Weight loss.</div><div>Postural hypotension.</div><div>Impotence/amenorrhoea.</div></div><div>Hyperpigmentation.<div><div><br><div><b>Exam</b></div><div><i>Obs: </i>postural hypotension.</div><div><i>Inspection:</i> cachexia; hyperpigmentation; loss of body hair.</div></div></div><div><i><br></i></div><div><b>NOTES</b></div></div><div>Symptoms are often vague and nonspecific.</div><div><i>Hyperpigmentation</i> is most notable in new scars, palmar creases, and buccal mucosa.</div></div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "vF9;+a;r<j",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected Addison disease?",
+                "Sort by clinical relevance<div><b><br></b></div><div><b>Most important</b></div><div><i>1. Short synACTHen test.</i></div><div><i>2. Serum ACTH.</i></div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. Bloods </i>e.g. 21-hydroxylase autoantibodies, U+E, FBC.<div><div><i>2. Imaging</i> e.g. AXR, CT thorax abdomen (may show TB or calcified adrenals).</div></div></div><div><br></div><div><b>NOTES</b></div><div><i>SynACTHen</i> = synthetic adrenocorticotropic hormone.</div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "s+#pjSXzUO",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for Addison disease?",
+                "<div><b>1. Patient education</b> e.g. medicalert bracelet, sick day rules.</div><div><br></div><b>2. Medication</b><div>Hydrocortisone (2 or 3 divided doses).<br>Fludrocortisone.</div><div>Consider DHEA.</div><div><br></div><div><b>NOTES</b></div><div><i>Hydrocortisone</i> = glucocorticoid replacement.</div><div><i>Fludrocortisone</i> = mineralocorticoid replacement (only needed in primary adrenal insufficiency).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "m4IG[:2>!;",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of hypopituitarism?",
+                "<div>Sort symptoms by mechanism</div><div><br></div><div><b></b><b>History</b></div><div><i>Hypoadrenalism</i> e.g. tiredness, hypotension, crises.</div><div><i>Hypothyroidism</i> e.g. weight gain, tiredness, cold intolerance.</div><div><i>Gonadal deficiency</i> e.g. loss of pubic hair, oligomenorrhoea, erectile dysfunction.</div><div><i>GH deficiency</i> e.g. stunted growth.</div><div><br></div><div><b>Exam</b></div><div><i>Obs:</i> hypotension.</div><div><i>Inspection: </i>obesity, hairlessness, may have short stature for age.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "bliv!.<=LA",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of hypopituitarism?",
+                "<div>Sort by anatomy</div><div><br></div><div><b>1. Pituitary</b> e.g. adenoma, surgery, radiation, Sheehan syndrome, apoplexy.</div><div><b>2. Hypothalamus </b>e.g. meningitis, tumour, trauma.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "o<NC-x2lM8",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the function of parathyroid hormone (PTH)?",
+                "<div>To increase serum Ca levels</div><div><br></div><div><b>NOTES</b></div><div>Acts at the bone (osteoclast stimulation) and kidneys (Ca absorption and PO4 excretion, calcitriol synthesis).</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "n_o=nOs2*8",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for acute severe hypercalcaemia?",
+                "Must find and address the underlying cause, in the meantime:<div><b><br></b></div><div><b>1. Resus</b><br>A+B - consider airway support and O2.<div>C - IV access, monitor input/output, daily weight.</div><div><div><br><b>2. Meds</b></div><div><b><font color=\"#008000\">IV fluids</font></b> (consider 4L normal saline over 24h)</div><div>Consider <b><font color=\"#008000\">furosemide</font></b> and <b><font color=\"#008000\">bisphosphonate</font></b> infusion.</div><div><br></div></div><div><b>NOTES</b></div><div><i>Pamidronate</i> (bisphosphonate) is dosed according to serum calcium.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "tya#X~8[jU",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of hypocalcaemia?",
+                "<div>Sort by PTH level</div><div><br></div><div><b>1. Low PTH </b>(parathyroid dysfuction) e.g. parathyroidectomy, hypomagnesemia.</div><div><br></div><div><b>2. High PTH </b>(parathyroid normal)</div><div><i>Vitamin D deficiency</i> e.g. CKD, malabsorption, low sunlight exposure.</div><div><i>Ca sequestration </i>e.g. high phosphate in AKI, acute pancreatitis.</div><div><br></div><div><b>NOTES</b></div><div><i>Pseudohypocalcaemia</i> may result from low plasma albumin e.g. malnutrition, chronic liver disease.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "tRE??#CBO3",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
             ]
         },
         {
@@ -5239,6 +5669,274 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is the mechanism of action of metformin?",
+                "<div>1. Decreases hepatic glucose production.</div><div>2. Decreases intestinal glucose absorption.</div><div>3. Increases insulin sensitivity.</div><div><u><br></u></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "u(689T@#S[",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of gliclazide?",
+                "1. Increases insulin release.<div>2. Increases insulin sensitivity.<br><div><u><br></u></div><div><div>UPDATED 2020</div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "di+t=Y6uaL",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of exenatide?",
+                "<div><div>1. Increases insulin secretion.</div><div>2. Suppresses glucagon secretion.</div><div>3. Slows gastric emptying (decreases appetite).</div><div style=\"font-weight: bold; \"><br></div><div><b>NOTES</b></div><i>Exenatide</i> is a GLP-1 analogue.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "mav%izYC})",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of ezetimibe?",
+                "Inhibits absorption of cholesterol in the small bowel.<br><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "i,vcMtr$le",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of metformin?",
+                "<div>Sort by seriousness</div><div><b><br></b></div><div><b>Most serious</b></div><div><i>1. Lactic acidosis<b>.</b></i></div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. GIT</i> e.g. diarrhoea, N&amp;V.</div><div><i>2. MSK </i>e.g. muscular weakness.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "b?mwRY0I$k",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List 3 common insulin regimens",
+                "<div>1. BD biphasic regime (premixed insulin).</div><div>2. QDS regime (basal bolus regime).</div><div>3. Once daily long acting insulin.</div><div><br></div><div><b>NOTES</b></div><div><div><i>QDS regime:</i> fast-acting insulin before meals and long-acting insulin at bedtime.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "lzg(&/co1r",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List 2 examples of rapid-acting insulin",
+                "1. Humalog<div>2. Novorapid</div><div><u><br></u></div><div><b>NOTES</b><br>Usually taken just before a meal.</div><div>Usually prescribed in type 1 diabetes.</div><div>Increased risk of hypoglycaemic episodes.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "kr;=dApn*D",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of insulin is Humalog?",
+                "Rapid acting.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "kZLB=VY+vj",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of insulin is Novorapid?",
+                "Rapid acting.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qq-6--X7V(",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List 2 examples of short-acting insulin",
+                "1. Actrapid<div>2. Humulin S</div><div><br><b>NOTES</b></div><div>Usually taken just before a meal.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "hVufyM8Py2",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of insulin is Actrapid?",
+                "Short acting.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "q~5]Wq>V?n",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of insulin is Humulin S?",
+                "Short acting.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "fo!{c.g>1<",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List 2 examples of intermediate-acting insulin",
+                "1. Hypurin isophane<div>2. Humulin I<br><div><u><br></u></div><div><b>NOTES</b><br>Often taken in conjunction with short acting insulins.</div><div>Also called 'isophane' insulins.</div></div><div><br></div><div><b>&nbsp;UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "oGW>s<A7r_",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of insulin is Humulin I?",
+                "Intermediate acting.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "rpdF6`zkgi",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List 2 examples of long-acting insulin",
+                "1. Lantus (glargine).<div>2. Levemir (determir).</div><div>3. Hypurin bovine lente.<br><u><br></u></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "iWA)7pAeo7",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of insulin is Lantus?",
+                "Long acting.<div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "oy2mp_;sp=",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of insulin is Levemir?",
+                "Long acting.<div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "uq#{/zonll",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the indications for inhaled corticosteroids in COPD?",
                 "<div>Both of the following:</div><div><br></div><div>1. Have asthmatic features/features suggesting steroid resposiveness AND&nbsp;</div><div>2. Remain breathless or have exacerbations despite:&nbsp;<br></div><div>&nbsp; &nbsp; - Having used or been offered treatment for tobacco dependence if they smoke AND&nbsp;</div><div>&nbsp; &nbsp; - Optimised non-pharmcological management and relevant vaccinations AND&nbsp;</div><div>&nbsp; &nbsp; - Using a short acting bronchodilator</div><div><b>NOTES</b></div><div><i>COPD</i> = chronic obstructive pulmonary disease.</div><div><br></div><div>UPDATED 2020</div>"
             ],
@@ -5284,6 +5982,665 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of benign prostatic hyperplasia (BPH)? ",
+                "<b></b><b>History</b><br><div>Male LUTS.</div><div>Haematuria.</div><div><i>May be acute retention</i> e.g. anuria, suprapubic pain.</div><div><i>May be chronic retention </i>e.g. overflow incontinence.</div><div><br></div><div><b>Exam</b></div><div><i>Palpation: </i>may be palpable bladder (chronic retention).</div><div><i>PR: </i>prostate enlarged, homogenous, not tethered to mucosa.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "pGKnu8Wu}8",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for benign prostatic hyperplasia (BPH)?",
+                "<b>1. Conservative</b> e.g. smoking cessation, avoid caffeine and alcohol, bladder training (double micturition).<div><br></div><div><b>2. Meds</b></div><div><i>Alpha-blockers</i> e.g. tamsulosin.</div><div><i>5-alpha reductase inhibitors</i> e.g. finasteride.</div><div><br></div><div><b>3. Surgery</b></div><div><i>First line:</i> TURP, HoLEP.</div><div><i>Less invasive:</i> TUIP, TUNA.</div><div><i>More invasive:</i> TUVP, open prostatectomy.</div><div><br></div><div><b>NOTES</b></div><div><i>TURP</i> = transurethral resection of prostate.</div><div><i>HoLEP</i> = Holmium laser enucleation of the prostate.</div><div><i>TUIP</i> = transurethral incision of the prostate.</div><div><i>TUNA</i> = transurethral needle ablation.</div><div><i>TUVP</i> = transurethral vaporisation of the prostate.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "i?_Dy{ekl`",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of TURP?",
+                "<div>Sort by general vs specific</div><div><b style=\"font-weight: bold; \"><br></b></div><div><b style=\"font-weight: bold; \">General</b></div><div><div><i>1. GA-related</i> e.g. intubation trauma, adverse drug reactions.<div><i>2. Haemorrhage.</i></div><div><i>3. Damage</i> e.g. sphincter.</div><div><div><i>4. Infection</i> e.g. epidydimo-orchitis.</div><div><i>5. Venous thromboembolism.</i></div></div></div></div><div><br></div><div><div><b>Specific</b></div><div><i>1. Early </i>e.g. post-TURP syndrome, incontinence, clot retention, epididymo-orchitis.</div><div><i>2. Intermediate</i> e.g. retrograde ejaculation, erectile dysfunction.</div><div><i>3. Late</i> e.g. urethral stricture, recurrence of symptoms.</div><div><br></div><div><b>NOTES</b></div></div><div><i>Post-TURP syndrome </i>is hypoNa following prolonged irrigation with hypotonic fluid.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "FSru5:^5PY",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of prostate cancer?",
+                "<b></b><b>History</b><br><div><i>Symptoms due to primary</i> e.g. male LUTS, haematuria, haematospermia, acute or chronic retention.</div><div><i>Symptoms due to mets</i> e.g. bone pain, loin pain (ureteric obstruction).</div><div><div><i>Constitutional symptoms</i> e.g. tiredness, weight loss.</div></div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>cachexia.</div><div><i>Palpation: </i>may be bone tenderness.</div><div><i>PR: </i>may be palpable prostate (nodular, loss of median sulcus, mucosal tethering).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "!OhDGOkmV",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for prostate cancer?",
+                "<div><div>Sort by history</div></div><div><br></div><div><b>Demographics </b>e.g. age, afro-caribbean.</div><div><div><b>SHx </b>e.g. smoking, diet high in animal fat.</div></div><div><b>FHx </b>e.g. BRCA2 mutations.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "mx{;:g,g|`",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected prostate cancer?",
+                "<div><div><div><b>1. Initial tests </b>(including assessment of fitness for surgery)</div><i>Bloods: </i>PSA, FBC, bone brofile, U&amp;E, LFTs.</div><div><i>Urine: </i>dip, cytology, PCA3.</div><div><i>ECG.</i></div><div><div><i>Radiology </i>e.g. transrectal USS, MRI abdo pelvis, CXR.</div><div><br></div></div><div><b>2. Diagnostic biopsy</b> e.g. transrectal, USS guided.</div><div><b>3. Staging</b> e.g. MRI, bone scan, abdo USS.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "f~gV]g%5#Q",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the treatment options for prostate cancer?",
+                "<div>Sort by members of the MDT</div><div><br></div><div><b>1. Urologist</b> e.g. active surveillance, surgery (e.g. radical prostatectomy), hormone therapy.</div><div><div><b>2. Nurse specialist</b> e.g. patient education.</div></div><div><b>3. Oncologist</b> e.g. radiotherapy (may be radical), chemotherapy (only for castrate resistant disease).</div><div><div><b>4. Palliative care.</b></div></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "c|4<gC)8!y",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for renal cell cancer?",
+                "<div><div>Sort by history</div></div><div><br></div><b>Demographics</b> e.g. age, male.<div><div><b>PMHx </b>e.g. haemodialysis, hypertension.</div><div><b>SHx </b>e.g. obesity, smoking, asbestos and cadmium exposure.</div><div><b>FHx </b>e.g. VHL syndrome.</div></div><div><br></div><div><b>NOTES</b></div><div><i>VHL</i> = von Hippel Lindau syndrome.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "O[5w-e=6X%",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of renal cell cancer?",
+                "Sort symptoms by mechanism<div><br></div><div><b>History</b></div><div>Typical patient is a middle aged man.</div><div><i>Symptoms due to primary </i>e.g. frank haematuria, loin pain, mass.</div><div><i>Symptoms due to mets </i>e.g. bone pain, dyspnoea, neurological dysfunction.</div><div><div><i>Constitutional symptoms</i> e.g. tiredness, weight loss.</div></div><div><i>Symptoms of ectopic hormones</i> e.g. PTHrP (hypercalcaemia), EPO (plethora), ACTH (Cushing syndrome), insulin (hypoglycaemic episodes).</div><div><br></div><div><b>Exam</b></div><div><i>Obs:</i> may be fever, hypertension (renin).</div><div><i>Inspection: </i>cachexia, pallor (anaemia) or plethora (polycythaemia).</div><div><i>Palpation: </i>palpable abdominal mass.</div><div><i>Bedside tests: </i>urine dip may show blood or protein.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "kxc/9,9R4X",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected renal cell cancer?",
+                "<div><div><div><b>1. Initial tests </b>(including assessment of fitness for surgery)</div><i>Bloods: </i>FBC, U&amp;E, bone profile, glucose.</div><div><i>Urine: </i>dip, cytology.</div><div><i>ECG.</i></div><div><div><i>Radiology</i> e.g. CT abdomen, CXR.</div><div><br></div></div><div><b>2. Diagnostic biopsy</b> (usually done post nephrectomy)</div><div><b>3. Staging</b> e.g. CT or MRI thorax/abdo/pelvis, bone scan.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "n/aSw2B9Ni",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the treatment options for renal cell cancer?",
+                "<div><div>Sort by members of the MDT</div><div><br></div><div><b>1. Urologist </b>e.g. active surveillance, conventional or minimally-invasive surgery.</div><div><b>2. Nurse specialist</b> e.g. patient education.</div><div><b>3. Oncologist </b>e.g. immunotherapy, molecularly targeted therapy, radiotherapy (for mets).</div><div><b>4. Interventional radiologist </b>e.g. arterial embolisation (palliative).</div><div><b>5. Palliative care.</b></div><div><br></div><div><b>NOTES</b></div><div><div><i>Conventional surgery</i> e.g. nephron-sparing nephrectomy, radical nephrectomy.</div><div><i>Minimally invasive surgery</i> e.g. radiofrequency-, cryo-, microwave-, laser-, or high intensity focused ultrasound-ablation.</div></div><div><i>Conventional cytotoxic chemotherapy</i> has no role.</div></div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "jG<>?MT517",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for bladder cancer?",
+                "<div><div><div>Sort by history</div></div><div><br></div><div><b>Demographics </b>e.g. age, male.</div></div><div><b>PMHx </b><span style=\"\">e.g. chronic cystitis (stones, schistosomiasis, long term catheter), </span>radiotherapy.</div><div><b>SHx </b>e.g. smoking, occupational exposure (metal work, paint, rubber, dyes).</div><div><br></div><div><b>NOTES</b></div><div><i>TCC risk factors </i>include smoking and occupational exposures.</div><div><i>SCC risk factors </i>include causes of chronic cystitis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "c+P$Ny:kan",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of bladder cancer?",
+                "<div><b></b><b>History</b></div><div><i>Symptoms due to primary</i> e.g. painless frank haematuria, LUTS, recurrent UTI, loin pain (ureteric obstruction).</div><div><div><i>Symptoms due to mets</i> e.g. dyspnoea, bone pain, neurological dysfunction.</div><div><i>Constitutional symptoms</i> e.g. tiredness, weight loss.</div><div><br></div><div><b>Exam</b></div><div><i>Palpation: </i>may be palpable bladder mass, hepatomegaly.</div><div><i>PR: </i>may be palpable mass.</div><div><i>Bedside tests: </i>urine dip may show blood.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "O:nZp1(6VN",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected bladder cancer?",
+                "<div><div><div><span style=\"font-weight: bold\">1. Initial tests<span style=\"font-weight: normal; \"> </span></span>(including assessment of fitness for surgery)</div><i>Bloods:</i> FBC, U&amp;E, CRP, LFT.</div><div><i>Urine: </i>dip, cytology.</div><div><i>ECG.</i></div><div><div><i>Cystoscopy.</i></div><div><i>Radiology </i>e.g. CT urogram, CXR, bone scan.&nbsp;</div><div><br></div></div><div><b>2. Diagnostic biopsy</b> (done at cystoscopy).</div><div><b>3. Staging</b> e.g. CT, examination under anaesthetic.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Q5nU,7_Q#&",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the treatment options for bladder cancer?",
+                "<div>Sort by members of the MDT</div><div><br></div><div><b>1. Urologist</b></div><div><i>Cystoscopic</i> e.g. intravesicular BCG, TURBT, cystodiathermy.</div><div><i>Surgical </i>e.g. cystectomy &amp; ileal conduit formation.</div><div><b>2. Nurse specialist </b>e.g. patient education.</div><div><b>3. Oncologist</b> e.g. radiotherapy (may be radical), chemotherapy.</div><div><b>4. Palliative care.</b></div><div><br></div><div><b>NOTES</b></div><div><i>MDT</i> = multidisciplinary team.</div><div><i>BCG </i>= Bacillus Calmette-Guérin.</div><div><i>TURBT</i> = transurethral resection of bladder tumour.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "D#iI(mlqs:",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of testicular cancer",
+                "<div>Sort by histology</div><div><b><br></b></div><div><b>1. Germ cell</b> (large majority) e.g. seminomas, teratomas.</div><div><b>2. Sex-cord or stromal </b>e.g. Leydig (interstitial cell) tumours, Sertoli cell tumours.</div><div><b>3. Other </b>e.g. lymphoma, leukaemia.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "mX|Lo;=hF+",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for testicular cancer?",
+                "<div><div>Sort by history</div></div><div><br></div><div><b>Demographics:</b> peak in young adults.</div><div><b>PMHx</b> e.g. cryptoorchidism, androgen insensitivity syndrome, Klinefelter syndrome.</div><div><b>FHx</b> of testicular cancer.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "C0P+-I7+ng",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of testicular cancer?",
+                "Sort by mechanims<div><br></div><div><b>History</b><br><div><i>Symptoms of primary</i> e.g. scrotal mass (usually painless), reactive hydrocoele.</div><div><i>Symptoms of mets </i>e.g. cough, dyspnoea (lung); N&amp;V/GI bleed (retroduodenal); lumbar back pain (retroperitoneal); bone pain (skeletal); neurological dysfunction (CNS).</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>scrotal swelling.</div><div><i>Palpation: </i>scrotal mass, not distinct from testicle, irregular, non tender, non transilluminable.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "c?%:YGz5:9",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected testicular cancer?",
+                "<div><div><div><b>1. Initial tests </b>(including assessment of fitness for surgery)</div><i>Bloods</i> e.g. FBC, U&amp;E, bone profile, AFP, beta-hCG, LDH.</div><div><i>ECG.</i></div><div><div><i>Radiology</i> e.g. USS scrotum &amp; abdomen, CXR.</div><div><br></div></div><div><b>2. Diagnostic biopsy:</b> done after orchidectomy.</div><div><b>3. Staging</b> e.g. CT or MRI thorax, abdo, pelvis.</div></div><div><br></div><div><b>NOTES</b></div><div><i>AFP</i> = alpha fetoprotein.</div><div><i>Beta-hCG </i>= beta human choriogonadotrophin.</div><div><i>LDH</i> = lactate dehydrogenase.</div><div><i>AFP and beta-hCG</i> may be elevated in non-seminoma germ cell tumours.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "EWGeq-EDju",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the treatment options for testicular cancer?",
+                "<div><div><div>Sort by members of the MDT</div><div><br></div><div><b>1. Urologist</b> e.g. radical orchidectomy, para-aortic lymph node dissection.</div><div><b>2. Nurse specialist </b>e.g. patient education.</div><div><b>3. Oncologist </b>e.g. chemotherapy, radiotherapy.</div><div><br></div></div></div><div><b>NOTES</b></div><div><i>Seminomas</i> are exquisitely radiosensitive.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "mQ|1Rh$a#K",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of a scrotal mass?",
+                "Sort by anatomy<div><br></div><div><div><b>Separate from testicle</b></div></div><div><i>1. Inguinal hernia.</i></div><div><i>2. Epididymal cyst.</i></div><div><i>3. Varicocoele.</i></div><div><br></div><div><b>Not separate from testicle</b></div><div><i>1. Infection:</i> epididymo-orchitis, syphilitic gumma.</div><div><i>2. Neoplasia:</i> testicular cancer.</div><div><i>3. Vascular:</i> testicular torsion.</div><div><i>4. Trauma</i> e.g. hydrocoele, haematocoele.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "K2UwSIg$^X",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a scrotal hydrocoele?",
+                "<b>A collection of fluid</b> within the tunica vaginalis.<div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "y+3aw1Op:A",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is an epididymal cyst?",
+                "<b>A fluid-filled swelling</b> arising from the epididymis.<div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "nRu4cD=Z6s",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of an epididymal cyst?",
+                "<div><b></b><b>History</b></div><div>Typical patient is an elderly man.</div><div>Painless scrotal mass.</div><div><br></div><div><b>Exam</b></div><div><i>Palpation: </i>scrotal mass(es) distinct from the testis, usually nontender, fluctuant, transilluminable.</div><div><br></div><div><b>NOTES</b></div><div><i>A spermatocoele </i>is a subtype of epididymal cyst that contains milky (rather than clear) fluid.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "t.Q}2l_LUa",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for an epididymal cyst?",
+                "<b>1. Conservative </b>e.g. patient education.<div><br></div><div><b>2. Surgery</b>: excision (rarely indicated)</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "H5!N.tPIp|",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a scrotal varicocoele?",
+                "A scrotal mass due to dilated veins (pampiniform plexus) in the spermatic cord.<div><br></div><div><b>NOTES</b><br><div>Large majority are left-sided, due to the angle of the left testicular vein as it enters the left renal vein.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "J|1[$RL8w7",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for a scrotal varicocoele?",
+                "<div><b>1. Conservative</b></div><div>Patient education.</div><div>Consider scrotal support e.g. jockstrap.</div><div>Consider investigation for underlying malignancy.</div><div><br></div><div><b>2. Surgical </b>(rarely indicated)</div><div>Endovenous sclerotherapy.</div><div>Surgical vein ligation.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "G5jQvrJ|,.",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of testicular torsion?",
+                "<b></b><b>History</b><br><div>Scrotal pain (SOCRATES)</div><div>S - may initially be poorly localised in abdomen or loin, later in scrotum.</div><div>O - sudden, often follows physical activity.</div><div>A - swollen scrotum, anorexia, N&amp;V.</div><div style=\"font-weight: bold; \"><br></div><div style=\"font-weight: bold; \"><b>Exam</b></div><div><i>Inspection: </i>swollen, red scrotum.</div><div><i>Palpation: </i>extremely tender scrotum; one testis is retracted upwards and swollen; cremasteric reflex may be absent.</div><div><br></div><div><b>NOTES</b></div><div><div>Usually both testes are in the 'bell clapper' position with transverse lie.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "Apa}2}3`?j",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Urology,",
+                "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of epididymo-orchitis?",
+                "<b></b><b>History</b><br><div>Scrotum swollen, red, and tender.</div><div><i>May be symptoms of UTI </i>e.g. frequency, urgency, dysuria.</div><div><i>May be symptoms of STI </i>e.g. urethral discharge.</div><div><br></div><div><b>Exam</b></div><div><div><i>Obs:</i> may be fever.</div><div><i>Inspection: </i>scrotum swollen, red.</div><div><i>Palpation: </i>scrotum tender, elevated temperature, may be reactive hydrocoele.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "ofjX*)`Zw3",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Inflammation,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of epididymo-orchitis?",
+                "Sort by prevalence<div><br></div><div><b>1. Infection </b>e.g. UTI (E. coli); STI (chlamydia, gonorrhoea); other (mumps, tuberculosis).</div><div><b>2. Inflammatory</b> e.g. Behçet disease.</div><div><b><br></b></div><div><b>NOTES</b></div><div>UTI (urinary tract infection) is most common cause in elderly, STI (sexually transmitted infection) is most common cause in young men.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "o#n$[gdd4E",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Inflammation,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for epididymo-orchitis?",
+                "<b>1. Meds </b>e.g. analgesia; antibiotics (see local guidelines); consider ice packs, scrotal elevation.<div><br></div><div><b>NOTES</b></div><div>For men who have sex with men, add antibiotic cover for enteric organisms.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "JHd)LH!2y)",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Inflammation,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which micro-organisms most commonly cause UTI?",
+                "<div>Sort by prevalence</div><div><br></div>1. E. coli (large majority of cases)<div><div><div>2. Proteus mirabilis.</div></div><div>3. Klebsiella species.</div><div>4. Staphylococcus saprophyticus.</div><div><br></div></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "N!C7b(?j7*",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for UTI?",
+                "<div><div><div>Sort by history</div></div><div><br></div><div><b>Demographics</b> e.g. age, female, pregnancy.</div><div><b>PMHx</b> e.g. immunosuppression, abnormal anatomy, urine retention.</div><div><b>SHx </b>e.g. recent sexual intercourse, recent spermicide use.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "IAM.Dr~FL<",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for a UTI?",
+                "<b>1. Meds</b><div><i>Analgesia.</i></div><div><i>Antibiotics </i>(see local guidelines) e.g. oral antibiotics for 3 days.<div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "C4$]2l.q_l",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Nephrology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of a UTI?",
+                "<b>History</b><div><div>Urinary frequency, urgency, dysuria.</div><div>Suprapubic pain.</div><div>Urine may be cloudy, blood-stained, or offensive smelling.</div><div>May be acute confusion or fever.</div><div><br></div><div><b>Exam</b></div><div><i>Obs:</i> fever.</div><div><i>Inspection: </i>may be signs of delirium.</div><div><i>Palpation: </i>suprapubic tenderness.</div><div><i>Bedside tests: </i>urine dip may show leucocytes, nitrites, protein, and blood.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "h!`#>ZY]A{",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of haematuria?",
+                "<div>Sort by prevalence</div><div><br></div><div><b>Infection</b> e.g. bladder, prostate, kidney.</div><div><b>Neoplasia</b> e.g. bladder, prostate, kidney, also BPH.</div><div><b>Inflammatory</b><i> </i>e.g. glomerulonephritis, autoimmune cystitis.</div><div><b>Trauma</b> e.g. renal stones, catheterisation.</div><div><b>Drugs</b> e.g. interstitial nephritis.</div><div><br></div><div><b>NOTES</b></div><div><i>BPH</i> = benign prostatic hyperplasia.</div><div><i>Haematuria may be spurious</i> e.g. menstruating women, nitrofuratoin.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "LR)c!1C%yk",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Inflammation,",
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in a patient who presents with persistent haematuria?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important</b></div><div><i>1. Cystoscopy.</i></div><div><i>2. Imaging</i> e.g. CT KUB, USS.</div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. Bloods</i><b> </b>e.g. FBC, U&amp;E, clotting, CRP, consider PSA.<div><i>2. Urine </i>e.g. dipstick, MC&amp;S.</div><div><b><br></b></div><div><b>NOTES</b></div><div><i>Dysmorphic red cells and red cell casts</i> indicate glomerular bleeding.</div><div><i>Blood clots</i> indicate extraglomerular bleeding.</div><div>If there is a suspicion of cancer, request CT and cystoscopy.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "FWeLI#Qi@i",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of acute urinary retention?",
+                "<div>Sort by mechanism</div><div><div><br></div><div><b>Outflow obstruction</b></div><div><i>1. Luminal</i> e.g. blocked catheter, clot, stone.</div><div><i>2. Mural</i> e.g. TCC, stricture, UTI.</div><div><i>3. External</i> e.g. prostate (BPH, cancer), GIT (faecal impaction), gynae (malignancy, prolapse).</div><div><br></div><div><b>Detrusor failure</b></div><div><i>1. Neurological</i> e.g. SCC/CES, MS, autonomic neuropathy.</div><div><i>2. Drugs</i><b> </b>(antimuscarinics) e.g. anticholinergics, TCAs.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "cm04%E&[|;",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gynaecology,",
+                "Infection,",
+                "Inflammation,",
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of acute urinary retention?",
+                "<div><b></b><b>History</b></div><div>Abdo pain (SOCRATES)</div><div>S - suprapubic.</div><div>A - anuria, urge to urinate.</div><div>E - exacerbated by applying pressure.</div><div>S - gradually increasing to high severity.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>suprapubic swelling.</div><div><i>Palpation: </i>palpable, tender bladder, pressure stimulates urge to urinate.</div><div><i>PR: </i>may reveal enlarged prostate or faecal loading.</div><div><br></div><div><b>NOTES</b></div><div>A very large bladder suggests previous chronic retention.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "x#<ceeG)C9",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected acute urinary retention?",
+                "<div><div>Sort by clinical relevance</div><div><br></div><div><b>Most important:</b> bladder USS and renal USS.&nbsp;</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods</i> e.g. U&amp;Es, FBC, clotting.</div><div><i>2. Urine</i> e.g. dip, MC&amp;S.</div><div><i>3. Imaging:</i> consider CT abdomen (outlet obstruction), MRI spine (SCC/CES).</div><div><br></div><div><b>NOTES</b></div><div><i>SCC</i> = spinal cord compression.</div><div><i>CES</i> = cauda equina syndrome.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "Qdmmk>Z=sI",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of chronic urinary retention?",
+                "<b></b><b>History</b><br><div>Often asymptomatic.</div><div>May be LUTS (gradually progressive).</div><div>May be enuresis (overflow incontinence).</div><div><br></div><div><b>Exam</b></div><div><i>Palpation: </i>palpable, nontender bladder.</div><div><i>PR: </i>may be enlarged prostate or faecal impaction.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "N?vkW%lqn^",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Urology,"
             ]
         },
         {
@@ -5378,6 +6735,231 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the clinical features of hydronephrosis?",
+                "<div><b></b><b>History</b></div><div>Usually asymptomatic.</div><div>May be abdo pain if acute (SOCRATES)</div><div>S - loin.</div><div>C - dull.</div><div>E - exacerbated by drinking.</div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>may be hypertension.</div><div><i>Palpation: </i>may be palpable kidney.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "pjTa1lCH@{",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of pyelonephritis?",
+                "<b></b><b>History</b><br><div>Abdo pain (SOCRATES)</div><div>S - loin, back, suprapubic.</div><div>O - sudden.</div><div>A - fever, rigors, anorexia, N&amp;V, haematuria, dysuria, frequency, urgency.</div><div>S - often severe.</div><div style=\"font-weight: bold; \"><b><br></b></div><div style=\"font-weight: bold; \"><b>Exam</b></div><div><i>Obs:</i> fever, tachycardia.</div><div><i>Palpation: </i>tenderness in loins, renal angle, and suprapubic area.</div><div><i>Bedside tests: </i>urine may be cloudy and offensive smelling, dip may show leucocytes, nitrites, and blood.</div><div><br></div><div><b>NOTES</b></div><div>Presentation in children can be much less specific.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "jTzEJ>+7*g",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Inflammation,",
+                "Nephrology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of renal stones?",
+                "<div><div><b></b><b>History</b></div></div><div>Abdo pain (SOCRATES)</div><div>S - loin to groin.</div><div>O - sudden.</div><div>C - colicky, sharp, patient compelled to move around.</div><div>R - to groin.</div><div>A - haematuria, anorexia, nausea.</div><div>S - very severe.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>patient moving around during colic pain.</div><div><i>Palpation: </i>generalised tenderness.</div><div><i>Bedside tests: </i>urine dip may show blood, protein.</div><div><br></div><div><b>NOTES</b></div><div>For patients presenting with loin to groin pain, it is important to exclude AAA.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "j^8jIf+Vm{",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for renal stones?",
+                "Sort by history<div><br></div><div><b>Demographics</b> e.g. male.</div><div><b>PMHx</b> e.g. urostasis (dehydration, chronic retention, abnormal anatomy); recurrent UTI; metabolic problem (hypercalcaemia, high oxalate, cystinuria).</div><div><b>FHx</b> of renal stones.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "O6}xhXY29!",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected renal stones? ",
+                "<div>Sort by clinical relevance</div><div><br></div><div><b>Most important:</b>&nbsp;CT KUB.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods</i> e.g. U&amp;Es, FBC, Ca.</div><div><i>2. Urine </i>e.g. dip, MC&amp;S, pregnancy test.</div><div><br></div><div><b>NOTES</b></div><div><i>CT KUB</i> = CT kidney, ureters, bladder.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "m*TF;m9)~t",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for renal stones?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - IV fluids.</div><div><br></div><div><b>2. Meds</b></div><div>Analgesia.</div><div>Consider tamsulosin (alpha blocker) or nifedipine (CCB).</div><div><br></div><div><b>3. Surgical options</b></div><div>Extracorporeal shockwave lithotripsy (ESWL).</div><div>Ureteroscopic removal ± stenting.</div><div>Percutaneous lithotomy.</div><div>Nephrostomy.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "x7<9,8)}JO",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is hypospadias?",
+                "Urethral opening on the <b>ventral</b> surface of the penis.<div><br></div><div><img src=\"C6z5qRSWoAEUvrV.jpg\"><br></div><div><br></div><div><b>NOTES</b></div><div>This is an uncommon congenital abnormality.</div><div><br></div>UPDATED 2020"
+            ],
+            "flags": 0,
+            "guid": "cTG1T7J~(_",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Genetics,",
+                "Paediatrics,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is epispadias?",
+                "Urethral opening on the <b>dorsal</b> surface of the penis.<div><br></div><div><img src=\"C6z5qRSWoAEUvrV.jpg\"><br></div><div><br></div><div><b>NOTES</b></div><div>This is a rare congenital abnormality.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "tb*?{h><j8",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Genetics,",
+                "Paediatrics,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is balanitis?",
+                "Inflammation of the penis glans<div><br></div><div><b>NOTES</b></div><div>If foreskin is involved, this is called balanoposthitis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "lNND5>IG5~",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Inflammation,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of balanitis?",
+                "<b></b><b>History</b><br><div>Penis glans pruritus, pain.</div><div>May be purulent discharge.<div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>swollen, red glans, may be ulceration, plaques, or purulent discharge.</div><div><i>Palpation: </i>elevated temperature, may be regional lymphadenopathy.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Cs#]4pec:.",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is priapism?",
+                "<b>A persistent painful erection</b>, lasting ≥4h with no sexual stimulation.<div><br></div><div><b>NOTES</b><br><div><div>Erection is confined to the corpora cavernosa.</div><div><i>'Low flow' priapism</i> results from venous obstruction.</div></div></div><div><i>'High flow' priapism</i> results from arterial rupture (trauma).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "B5L*sfr3Q6",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a scrotal haematocoele?",
+                "<b><span style=\"\">A </span>collection of blood</b> within the tunica vaginalis.<div><br></div><div><b>NOTES</b><br><div><div>Usually results from trauma or underlying malignancy.</div></div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "nrvH;%}ho1",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which grading system is used for prostate cancer?",
+                "<div>The Gleason score</div><div><br></div><div><b>NOTES</b></div><div><img src=\"murtagh7e_c114_f04-2.png\"><b><br></b></div><div>Score is based on glandular architecture, 1 = most differentiated, 5 = least differentiated.</div><div>The pathologist uses the 2 most common cell types to determine the score e.g. 4+3=7.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "h[zf-*)DDg",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of renal stone",
+                "<div>Sort by composition</div><div><br></div><div>1. Calcium (oxalate or phosphate).</div><div>2. Uric acid. </div><div>3. Struvite.</div><div>4. Cystine.</div><div><br></div><div><b>NOTES</b></div><div><i>Struvite</i> = magnesium ammonium phosphate, due to chronic infection e.g. Proteus, Klebsiella.</div><div><i>Cystine stones</i> only form in cysteinuria (autosomal recessive disorder).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "G]?uDM&;VA",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is a PEG tube?",
                 "<div>A gastrostomy tube</div><div><br></div><div><b>NOTES</b></div><div><i>PEG</i> = percutaneous endoscopic gastrostomy.</div><div>Used for long term feeding when oral feeding is impossible or contraindicated.</div><div><br></div><div>UPDATED 2020</div>"
             ],
@@ -5444,6 +7026,115 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is post-obstructive diuresis?",
+                "Diuresis that persists<b> after decompression of the bladder.</b><div><b><br></b></div><div><b>NOTES</b></div><div>Seen after catheterisation in chronic urinary retention.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "CN}6llZS9K",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is paraphimosis?",
+                "<b>Irreducible trapping of the forsekin </b>behind the glans penis.<div><br></div><div><b>NOTES</b><br><div><div><i>Paraphimosis</i> is a urological emergency, may result in gangrene of the glans.</div><div><br></div><div>UPDATED 2020</div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "sZ=@msPH1k",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for paraphimosis?&nbsp;",
+                "<b>1. Conservative </b>e.g. local anaesthetic jelly and forcible reduction.<div><br></div><div><b>2. Surgery</b> (rarely indicated) e.g. Dundee (puncture) technique, glans aspiration, dorsal slit or circumcision.<div><br></div></div><div><b>NOTES</b></div><div><i>Dundee technique </i>= multiple punctures in the oedematous foreskin, then reduce.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "Mud/[PVFg*",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Fournier's gangrene?",
+                "<div><b>Necrotising fasciitis</b> of the perineal, perianal, and genital areas.</div><div><b><br></b></div><div><b>NOTES</b></div><div><i>Necrotising fasciitis </i>is a polymicrobial infection.</div><div>Also called <i>'idiopathic gangrene of the scrotum'</i>.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "eC(BtAi]L%",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Graves disease?",
+                "A type of autoimmune thyroiditis<div><br></div><div><b>NOTES</b></div><div>Autoantibodies act on the TSH receptor in the thyroid.</div><div>Accounts for the majority of cases of hyperthyroidism.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "mt`6f;$mI+",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Kallman syndrome?",
+                "Hypogonadotropic hypogonadism with anosmia<div><br></div><div><b>NOTES</b></div><div>A genetic disorder, due to failure of migration of hypothalamic GnRH-secreting neurons.</div><div>Represents a type of tertiary hypogonadism.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "GYsvnM<#!p",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Sheehan's syndrome?",
+                "Panhypopituitarism due to postpartum pituitary haemorrhage.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "fr#xeqypCf",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Obstetrics,"
             ]
         },
         {
@@ -5578,6 +7269,85 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is the treatment for asymptomatic <span style=\"\">SIADH?</span>",
+                "<div><div><div><div><div>Must consider and address the underlying cause, in the meantime:</div></div></div></div><div><br></div><div><b>1. Conservative</b></div></div><div>Patient education.</div><div>Fluid restriction e.g. 1500ml/day.</div><div><br></div><div><b>2. Meds </b>e.g. IV saline in severe hyponatraemia (consider).</div><div><u><br></u></div><div><b>NOTES</b></div><div><div><div><i>SIADH</i> = syndrome of inappropriate antidiuretic hormone.</div><div>Slow correction of hyponatraemia minimises the risk of osmotic demyelination syndrome.</div><div><br></div><div>UPDATED 2020</div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "zN$IK^K|t>",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of male LUTS?",
+                "<div>Sort by anatomy</div><div><br></div><div><b>1. Outflow obstruction</b></div><div><i>Bladder</i> e.g. cancer.</div><div><i>Prostate</i> e.g. BPH, cancer, prostatitis.</div><div><i>Urethra</i> e.g. stenosis.</div><div><b>2. Detrusor overactivity</b> e.g. UTI, neurogenic, bladder stones.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "yGtP%xMUc#",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of tamsulosin?",
+                "<div>Sort by organ system</div><div><br></div><div><b>1. CVS</b> e.g. postural hypotension.</div><div><b>2. CNS</b> e.g. headaches.</div><div><b>3. Sexual</b> e.g. ejaculatory dysfunction.</div><div><b>4. Resp</b> e.g. rhinitis.</div><div><br></div><div><b>NOTES</b></div><div><i>Tamsulosin</i> is an alpha-blocker.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "xc(~Z@l29z",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of 5-alpha reductase inhibitors?",
+                "<div>Sort by organ system</div><div><br></div><div><b>1. Sexual dysfunction</b> e.g. erectile, ejaculatory, libido.</div><div><b>2. CVS</b> e.g. postural hypotension.</div><div><b>3. Breast </b>e.g. gynaecomastia (small risk)</div><div><br></div><div><b>NOTES</b></div><div><i>Finasteride</i> causes reduction of PSA levels, careful in evaluation of cancer risk.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "w7ny/VHBt%",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of an elevated PSA?",
+                "<div>Sort by mechanism</div><div><br></div><div><b>Infection </b>e.g. prostatitis, UTI.</div><div><b>Neoplasia </b>e.g. prostate cancer, BPH.</div><div><b>Trauma</b> e.g. catheterisation, perineal trauma, acute retention, ejaculation.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "dE%!0`Jylg",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is the recommended screening for breast cancer?",
                 "Mammogram every 3y for women aged 50-71y.<div><br></div><div>UPDATED 2020</div>"
             ],
@@ -5677,6 +7447,21 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is the recommended screening for complications in T2DM?",
+                "<div><b>1. Annual retina photo.</b></div><div><b>2. Annual diabetes nurse review: </b>examination (weight, BP, feet, urine dip) and bloods (HbA1c, lipids, U&amp;Es)</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "tAr7~u@b[/",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is the treatment for smoking cessation?",
                 "<b>1. Conservative</b> e.g. education re: withdrawal symptoms; consider smoking cessation clinic.<div><div><br></div><div><b>2. Meds</b></div><div>Nicotine replacement e.g. gum, patch, inhaler.</div><div>Consider bupropion (Zyban) or varenicline (Champix).</div><div><br></div><div><b>NOTES</b></div><div><i>Bupropion</i> reduces withdrawal symptoms and reduces pleasurable effects of cigarettes.</div><div><i>Varenicline</i> reduces withdrawal symptoms.</div><div><i><br></i></div><div><b>UPDATED 2020</b></div></div>"
             ],
@@ -5761,6 +7546,203 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is thyroid acropachy?",
+                "A sign of Graves disease.<div><br></div><div><b>NOTES</b></div><div>Resembles finger nail clubbing, occurs due to periosteal bone formation.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "b?@[s|:*4j",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is pretibial myxoedema?",
+                "<div><b>A sign of Graves disease</b></div><div><br></div><div><b>NOTES</b></div><div>Also called 'thyroid dermopathy'.</div><div>Results from accumulation of glycosaminoglycans in the dermis.</div><div><i>Sites:</i> lower leg, elbows, knees, upper back, neck.</div><div><i>Lesion: </i>bilateral, asymmetric, nonpitting scaly thickening of the skin.</div><div><br></div><div><b><img src=\"pretibial-myxoedema-01.jpg\"></b></div><div><br></div><div><div><b>Source: </b>UpToDate, Inc. 95 Sawyer Rd, Waltham, MA 02453, Wolters Kluwer, www.uptodate.com, accessed on 3/6/2014.</div><div>Image reproduced with kind permission from the New Zealand Dermatological Society Incorporated, www.dermnetnz.org. UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "LFe1KBMX<H",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for hypocalcaemia?",
+                "<div>Must consider and address underlying cause, in the meantime:</div><div><b><br></b></div><div><b>1. Resus</b></div><div>A+B - consider airway support and O2.</div><div>C - IV access.</div><div><br></div><div><b>2. Meds</b></div><div>20ml of <font color=\"#008000\"><b>10% calcium gluconate</b></font> IV.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "f5(S*0Arrq",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Nelson syndrome?",
+                "Syndrome resulting from unchecked growth of an ACTH-secreting pituitary adenoma.<div><div><br></div><div><b>NOTES</b></div><div>Seen in patients who have had bilateral adrenalectomy as treatment for Cushing disease.</div><div>Presents with mass effect symptoms and panhypopituitarism.</div><div>Increased production of pro-opiomelanocortin results in hyperpigmentation (as in Addison disease).</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Qjr*dPJT>h",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of hyperaldosteronism?",
+                "<div>Sort by mechanism</div><div></div><i><br></i><div><b>1. Bilateral adrenal hyperplasia.</b></div><div><b>2. Adrenal adenoma</b> (Conn syndrome).</div><div><b><br></b></div><div><b>NOTES</b></div><div>Less common causes include familial hyperaldosteronism, aldosterone-producing adrenal carcinoma, and ectopic aldosterone-producing tumour.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "JD<X)63A=*",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of phaeochromocytoma?",
+                "<div><b>History</b><b> </b>(paroxysmal symptoms)</div><div>Classic triad of headache, sweating, and tachycardia.</div><div>Tremor.</div><div>Nausea.</div><div>Epigastric/flank pain.</div><div><br></div><div><b>Exam</b></div><div><div><i>Obs:</i> paroxysmal hypertension, postural hypotension.</div><div><i>Inspection: </i>tremor.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "BAH*IJ%IuM",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of acromegaly?",
+                "<div>Sort symptoms by mechanism</div><div><b><br></b></div><div><b></b><b>History</b></div><div><div><i>Excess GH </i>e.g. change in appearance, sleep apnoea, carpal tunnel syndrome.</div><div><i style=\"font-style: italic; \">Pituitary mass </i>e.g. nausea, headache, visual field deficit, may be reduced pituitary function e.g. gonadotropins.</div></div><div><i><br></i></div><div><b>Exam</b></div><div><i>Obs:</i> hypertension.</div><div><i>Inspection: </i>gigantism, large hands and feet, prominent supraorbital ridge, prognathism, macroglossia, increased interdental spacing.</div><div><i>Cranial nerves: </i>bitemporal hemianopia.</div><div><br></div><div><b>NOTES</b></div><div>Acromegaly may be complicated by diabetes and hypopituitarism.</div><div><div>There may also be increased risk of colorectal cancer.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "u8P{89|bs>",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected acromegaly?",
+                "<div>Sort by clinical relevance</div><div><br></div><div><b>Most important</b></div><div><i>1. Serum IGF-1.</i></div><div><i>2. OGTT with GH levels.</i></div><div><i>3. Random serum growth hormone (GH)</i></div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods</i> e.g. HbA1c.</div><div><i>2. ECG</i> may show LVH (cardiomyopathy).</div><div><i>3. Imaging </i>e.g. MRI pituitary, CT abdo thorax.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "KBEty1_cg*",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for acromegaly?",
+                "<b>1. Surgery </b>(first line)<div>Trans-sphenoid resection of pituitary adenoma.</div><div><br></div><div><b>2. Medication </b>(second line)</div><div>Octreotide (somatostatin analogue).</div><div>Cabergoline (dopamine agonist).</div><div><br></div><div><b>NOTES</b></div><div><i>Colonoscopy</i> is needed every 3-5 years.</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "x#USr/W5K/",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected hyperparathyroidism?",
+                "<b>1. Bloods </b>e.g. bone profile, PTH, U&amp;Es.<div><br></div><div><b>2. Imaging</b></div><div>Consider DEXA scan, skeletal survey, and sestamibi scan (may help to identify active parathyroid tissue).</div><div><div><br></div><div><b>NOTES</b></div><div>Detectable PTH plus hyperCa suggests hyperparathyroidism (usually in hyperCa PTH is suppressed)</div></div><div><i>PTH</i> = parathyroid hormone.</div><div><div><i>DEXA</i> = dual energy x-ray absorptiometry.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "FYd=!FUgmc",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of hypercalcaemia?",
+                "<div>Sort symptoms by organ system</div><div><b><br></b></div><div><b></b><b>History</b></div><div><i>Neuro:</i> tiredness, acute confusion.</div><div><i>Urinary:</i> polyuria, polydipsia, may be renal stones.</div><div><i>GIT:</i> constipation, nausea.</div><div><i>Skeletal:</i> pathological fractures (demineralisation).</div><div><i><br></i></div><div><b>Exam</b></div><div><i>Inspection: </i>signs of delirium, dehydration.</div><div><i>Palpation: </i>may be abdo tenderness.</div><div><br></div><div><b>NOTES</b></div><div><i>Mnemonic</i> for features of hypercalcaemia: <i>\"stones, bones, and groans\"</i>.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Du:CK|UCD&",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What is Chvostek's sign?</div>",
+                "<div>Contraction of ipsilateral facial muscles on tapping the facial nerve anterior to the ear.</div><div><br></div><div><b>NOTES</b></div><div>Seen in hypocalcaemia.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "Mg&]-fomyH",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Trousseau's sign?",
+                "<div><div>Carpopedal spasm after application of a tourniqet to occlude the pulse for 3 min.</div></div><div><br></div><div><b>NOTES</b></div><div>A sign of hypocalcaemia.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "knO6YxTMdZ",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the causes of right axis deviation on ECG?",
                 "<div>Sort by mechanism</div><div><br></div><div><b>1. Conduction block</b> e.g. RBBB with left posterior hemiblock (unusual).</div><div><div><b>2. Right ventricular hypertrophy.</b></div></div><div><b>3. Lateral wall MI.</b></div><div><b>4. Ventricular ectopic rhythms.</b></div><div><b>5. Pre-excitation syndromes.</b></div><br><div><b>NOTES</b></div><div><i>RBBB</i> in isolation does not cause right axis deviation.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -5821,6 +7803,22 @@
             "tags": [
                 "Cardiovascular,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected phaeochromocytoma?",
+                "<b>1. Bloods:</b> free catecholamines and metanephrines.<div></div><div><br></div><div><b>2. 24h urine collection:</b> catecholamines, metanepehrines, normetanephrines and creatinine.</div><div><br></div><div><b>3. Imaging: </b>consider CT, MRI, and MIBG scan.</div><div><br></div><div><b>4. Genetic testing</b><br><div><div><div><br></div><div><b>NOTES</b></div><div><i>MIBG =</i> meta-iodobenzylguanidine (chromaffin-seeking isotope).</div></div></div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "zT5,iW@>zO",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Oncology,"
             ]
         },
         {
@@ -5889,6 +7887,21 @@
             "tags": [
                 "Cardiovascular,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for Graves eye disease?",
+                "<b>1. Conservative</b> e.g. smoking cessation; dark glasses; artificial tears.<div><br></div><div><b>2. Meds </b>e.g. prednisolone, consider rituximab.</div><div><br></div><div><b>3. Radiotherapy</b> (uncertain benefit).</div><div><br></div><div><b>4. Surgery </b>(orbital decompression).</div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "zxTWwb_<vY",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
             ]
         },
         {
@@ -5980,6 +7993,126 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the causes of SIADH?",
+                "<div>Sort by mechanism</div><div><i><br></i></div><div><b>Iatrogenic</b></div><div><div><i>1. Drugs</i> e.g. SSRIs, omeprazole, carbamazepine.</div></div><div><i>2. Post-surgery</i> (probably mediated by pain afferents).</div><div><div><i><br></i></div></div><div><b>All the rest</b></div><div><i>1. CNS</i> e.g. stroke, haemorrhage, infection, trauma.</div><div><i>2. Lungs</i> e.g. pneumonia, SCLC (ectopic ADH production).</div><div><i>3. HIV infection</i> (PCP, encephalitis, or malignancy).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "j0i$eYmrW6",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a prolactinoma?",
+                "<div>A benign prolactin-secreting pituitary tumour, arising from lactotrophs.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "rs{UQll4u]",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of hyperprolactinaemia?",
+                "<div>Sort by mechanism</div><div><br></div><b>1. Physiological</b> e.g. pregnancy, lactation.<div><b>2. Prolactinoma.</b></div><div><b>3. Decreased dopamine</b> e.g. compression of pituitary stalk, dopamine antagonists.</div><div><b><br></b></div><div><b>NOTES</b></div><div><i>Dopamine antagonists</i> include risperidone, haloperidol, and metoclopramide.</div><div><b><br></b></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "kMqRhDnK+z",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for hypopituitarism?",
+                "<div><b>1. Resus </b>(may need treatment for Addisonian crisis)</div><div>A+B - consider airway support and O2.</div><div>C - consider IV fluids.</div><div><br></div><div><b>2. Medication</b> i.e. hydrocortisone; levothyroxine; sex hormones; GH replacement.</div><div><br></div><div><b>NOTES</b></div><div><div><i>Corticosteroid</i> replacement is the top priority.</div></div><div><i>Thyroxine</i> replacement must wait for adequate cortisol replacement.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "xB:^@/_MD@",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the criteria for diagnosis of polycystic ovary syndrome (PCOS)?",
+                "<div><div>≥2 of the following:</div></div><div><i><br></i></div><div><b>1. Oligomenorrhoea.</b></div><div><b>2. Hyperandrogenism</b> (clinical or biochemical).</div><div><b>3. Polycystic ovaries on USS.</b></div><div><br></div><div><b>NOTES</b></div><div>The Rotterdam Criteria are widely accepted.</div><div>Must first exclude other pathology e.g. hyperprolactinaemia.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "nX.zY{27[a",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is <span style=\"\">polycystic ovary syndrome (PCOS)?</span>",
+                "<div><b>An endocrine disorder</b> characterised by oligomenorrhoea, hyperandrogenism, and polycystic ovaries.</div><div><br></div><div><b>NOTES</b></div><div>Other common features are obesity and insulin resistance.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "p.&!m]3M=l",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for polycystic ovary syndrome (PCOS)?",
+                "<b>1. Conservative </b>e.g. weight loss (diet and excercise).<div><br></div><div><b>2. Meds</b></div><div><i>Menstrual dysfunction </i>e.g. combined oral contraceptive, metformin.</div><div><i>Androgen excess</i> e.g. combined oral contraceptive, spironolactone.</div><div><br></div><div><b>NOTES</b></div><div><div><i>Spironolactone</i> may be used for its antiandrogen properties as a second line med.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "BSOq)/.10)",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a phaeochromocytoma?",
+                "A catecholamine-secreting tumour of the adrenal medulla.<div><br></div><div><b>NOTES</b></div><div>Malignancy of chromaffin cells.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "CLm6>mdIro",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the clinical features of cystic fibrosis?",
                 "<div>Sort symptoms by organ system</div><div><br></div><div><b></b><b>History</b></div><div><i>Resp:</i> chronic productive cough, chronic sinusitis.</div><div><i>Pancreas:</i> steatorrhoea, poor weight gain, symptoms of diabetes.</div><div><i>Intestinal:</i> meconium ileus (neonates).</div><div><i>Reproductive:</i> sterility (absence of vas deferens).</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>productive cough, sputum pot, clubbing.</div><div><i>Auscultation: </i>crackles, wheeze.</div><div><i>Growth chart: </i>short height for age.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -6052,6 +8185,22 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the causes of urethral stricture?",
+                "<div>Sort by mechanism</div><div><br></div><div><b>1. Iatrogenic </b>e.g. instrumentation (catheter, TURP), radiotherapy.</div><div><b>2. Non-iatrogenic</b></div><div><i>Infection</i> e.g. STI, UTI.</div><div><i>Inflammatory</i> e.g. lichen sclerosus.</div><div><br></div><div><b>NOTES</b></div><div><i>TURP</i> = transurethral resection of the prostate.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "f~@*C!:jNN",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the indications for splenectomy?",
                 "Sort by mechanism<div><b><br></b></div><div><b>1. Trauma.</b><div><b>2. Cytopenia</b> due to hypersplenism.</div></div><div><b>3. Painfully enlarged spleen</b> e.g. myelofibrosis.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -6098,6 +8247,21 @@
             "tags": [
                 "Cardiovascular,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for a hyperthyroid crisis?",
+                "<b>1. Resus</b><div><b></b>A+B - consider airway support and O2.<div>C - IV fluids.</div><div>Consider ice packs.</div><div>Discuss with ICU.</div><div><br></div></div><div><div><b>2. Meds</b></div><div><i>Reduce fever:</i> paracetamol.</div><div><i>Reduce sympathetic effects:</i> beta-blockers.</div><div><i>Reduce thyroxine release: </i>carbimazole, corticosteroids, iodine solution.<div><br></div><div><b>NOTES</b></div><div><i>Corticosteroids</i> reduce T4-T3 conversion.</div><div><i>Carbimazole</i> blocks hormone synthesis.</div><div><i>Iodine</i> blocks hormone release.</div><div><br></div><div>UPDATED 2020</div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "G9rFSvTaxY",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
             ]
         },
         {
@@ -6290,6 +8454,53 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Which tumours are associated with MEN2B (multiple endocrine neoplasia)?",
+                "Mnemonic TAM<div><br></div><div><b>1. Thyroid</b> (medullary carcinoma).</div><div><b>2. Adrenal</b> (phaeochromocytoma).</div><div><b>3. Mucosal neuromas</b> (and Marfanoid habitus).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "y:I{4+nH[:",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Oncology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of polycystic ovary syndrome (PCOS)?",
+                "<div><div>Sort symptoms by mechanism</div><div><br></div><div><b></b><b>History</b></div><div><i>Anovulation</i> e.g. oligomenorrhoea, infertility.</div><div><i>Androgen excess</i> e.g. acne, hirsutism, alopecia.</div><div><i>Other</i> e.g. weight gain, sleep apnoea, low mood.</div></div><div><b><br></b></div><div><b>Exam</b></div><div><i>Obs:</i> hypertension.</div><div><i>Inspection: </i>hirsutism, alopecia, acne, obesity, may be acanthosis nigricans.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Oh7GBQpr$O",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which drugs are used to treat hypercortisolaemia in Cushing syndrome?",
+                "1. Ketoconazole.<div>2. Metyrapone.</div><div>3. Mifepristone.</div><div>4. Pasireotide.&nbsp;</div><div>5. Metyrapone.&nbsp;</div><div>6. Mitotane.&nbsp;</div><div>7. Etomidate.&nbsp;<br><div><br></div><div><b>NOTES</b></div><div>These are adrenal enzyme inhibitors.</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "yFGr8KTyIg",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "List the hormone therapy options for breast cancer",
                 "<div>Sort by mechanism</div><div><br></div><div><b>Oestrogen blockade</b></div><div>1. Tamoxifen.<br>2. Aromatase inhibitors e.g. anastrozole.</div><div>3. GnRH analogues e.g. goserelin (zoladex).</div><div><br></div><div><b>HER2 blockade</b><br>1. Trastuzumab (herceptin).<br></div><br><div><b>UPDATED 2020</b></div>"
             ],
@@ -6317,6 +8528,97 @@
             "tags": [
                 "Breast",
                 "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of prolactinoma?",
+                "<div>Sort symptoms by mechanism</div><div><b><br></b></div><div><b></b><b>History</b></div><div><i>Pituitary mass </i>e.g. headache, bitemporal hemianopia, cranial nerve palsies.</div><div><i>High PRL </i>e.g. low libido, low fertility, oligomenorrhoea and galactorrhoea (females), gynaecomastia (males).</div><div><br></div><div><b>Exam</b></div><div><i>Inspection:</i> gynaecomastia.</div><div><i>Cranial nerves: </i>bitemporal hemianopia, cranial nerve palsies.</div><div><br></div><div><b>NOTES</b></div><div><i>PRL</i> = prolactin.</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "sCug.RI60Z",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for prolactinoma?",
+                "<div><b>1. Conservative </b>e.g. patient education, watch and wait.</div><div><br></div><div><b>2. Meds </b>e.g. cabergoline (dopamine agonist).</div><div><b><br></b></div><div><b>3. Surgery </b>e.g. trans-sphenoid excision.</div><div><b><br></b></div><div><b>4. Radiotherapy </b>(rarely indicated).</div><div><br></div><div><b>NOTES</b></div><div><i>Cabergoline</i> may cause cardiac, retroperitoneal, or pulmonary fibrosis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "be?r7K-Vd@",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which familial cancer syndromes may cause phaeochromocytoma?",
+                "<div>1. Von Hippel-Lindau syndrome</div><div>2. MEN type 2</div><div>3. Neurofibromatosis type 1</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "yyqOt[Tuny",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Oncology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for phaeochromocytoma?",
+                "<div>Sort by members of the MDT</div><div><br></div><div><b>1. Surgeon</b> e.g. adrenalectomy.</div><div><b>2. Endocrinologist</b> e.g. pre-surgery alpha- and beta-blockade.</div><div><b>3. Nurse specialist</b> e.g. patient education.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "zA$Cn6D_!&",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of hormone replacement therapy (HRT)?",
+                "<div>Increased risk of:</div><div><b><br></b></div><div><b>1. Stroke.</b></div><div><b>2. VTE </b>e.g. DVT, PE.</div><div><b>3. Breast cancer </b>(only in combined HRT)</div><div><b>4. Cholecystitis.</b></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "^o3f|B%6L",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of hyperparathyroidism?",
+                "Sort by mechanism<div><i><br></i></div><div><b><div></div><div style=\"display: inline !important; \">1. Primary </div></b>e.g. hyperplasia, adenoma.</div><div><b>2. Secondary </b>(physiological response to hypocalcaemia).</div><div><b>3. Tertiary</b> (autonomous hypertrophy in established secondary hyperPTH).</div><div><b>4. Malignant</b> (PTHrP secretion in lung, breast, or renal ca).</div><div><br></div><div><b>NOTES</b></div><div>Secondary hyperPTH is seen in renal failure and vitamin D deficiency.</div><div><i>HyperPTH</i> = hyperparathyroidism.</div><div><i>PTHrP</i> = parathyroid hormone related peptide.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "G^2g^nxzv>",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
             ]
         },
         {
@@ -6434,6 +8736,142 @@
                 "Oncology,",
                 "Respiratory,",
                 "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for uncomplicated T2DM?",
+                "<b>1. Conservative</b><div>Patient education e.g. smoking cessation, diet advice.</div><div>Monitoring for complications.</div><div><br></div><div><b>2. Meds</b> (consider)</div><div><i>Antihypertensives</i> e.g. ACE-i, ARB, CCB.</div><div><i>Lipid control </i>e.g. statins.</div><div><i>Glycaemic control</i> e.g. metformin, gliclazide, pioglitazone, insulin.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "zEw2wv>B$I",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What diet advice is given to patients with T2DM?",
+                "<b>1. Eat more</b><div>Complex carbohydrates (pasta, potatoes), oily fish, fruit and veg.</div><div>Keep regular meal times.</div><div><br></div><div><div><b>2. Eat less</b></div><div>High glycaemic foods (sugary drinks, sweets).</div><div>Foods that cause hypertension (salt, alcohol).</div><div>Foods that cause high cholesterol (fatty foods).</div><div><br></div><div><b>NOTES</b></div><div>Avoid foods marketed specifically for diabetics, these are often expensive and not particularly healthy.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "n=vOUx@b>T",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which glycaemic control drugs are used in T2DM?",
+                "Sort by type<div><b><br></b></div><div><b>1. Metformin.</b><div><b>2. Sulfonylureas</b> e.g. gliclazide.</div><div><b>3. Pioglitazone. </b>e.g. Rosiglitazone</div><div><b>4. Gliptins</b> e.g. sitagliptin.</div><div><b>5. Exenatide</b> (GLP-1 analogue).</div><div><b>6. Insulin.</b></div></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "q7[NX<k9Q6",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where does parathyroid hormone (PTH) act?",
+                "<div><b>1. Bone</b></div><div>- stimulates osteoclasts (rapid).</div><div><b>2. Kidneys</b></div><div>- increases Ca reabsorption, and PO4 excretion (rapid).</div><div>- increases calcitriol (active vitamin D) production (slow).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "dOoD{Ep0*z",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which signs of Graves disease are not due to hyperthyroidism?",
+                "<div><b>1. Graves orbitopathy</b> e.g. exophthalmos, ophthalmoplegia.</div><div><div><b>2. Thyroid acropachy.</b></div><div><b>3. Pretibial myxoedema.</b></div></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "pKub+6Uf9f",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In confirmed Cushing syndrome, which investigation may help identify the site of pathology?",
+                "Serum ACTH<div><br></div><div><b>NOTES</b></div><div><i>Low ACTH</i> suggests primary adrenal disease.</div><div><i>High ACTH</i> suggests pathology upstream of the adrenal (pituitary or ectopic source).</div><div><i>ACTH</i> = adrenocorticotropic hormone.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "p*8X9$f=S[",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In confirmed Cushing syndrome with high serum ACTH, which investigations may help to identify the site of the pathology?",
+                "High dose dexamethasone suppression test or CRH test.<div><br></div><div><b>NOTES</b></div><div><i>Adequate suppression</i> in the suppression test, and adequate stimulation in the CRH test, suggest Cushing disease (pituitary adenoma).</div><div><i>ACTH</i> = adrenocorticotropic hormone.</div><div><i>CRH</i> = cortisol release hormone.</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "IwkC@a9}:`",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Why is lid lag seen in Graves disease?",
+                "Levator palpebrae superioris receives sympathetic supply and is thus stimulated in all hyperthyroidism.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "hzkR2gk)rb",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of hypothyroidism?",
+                "Sort by prevalence<div><b><br></b></div><div><b>Most common</b><div><i>1. Hashimoto thyroiditis.</i></div><div><i>2. Iatrogenic</i> e.g. thyroidectomy, lithium, amiodarone, radioiodine, radiotherapy.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Primary </i>(thyroid) e.g. iodine deficiency, infiltrative pathology, other thyroiditis.</div><div><i>2. Secondary</i> (pituitary) e.g. non-functioning pituitary adenoma.</div><div><i>3. Tertiary </i>(hypothalamus).</div><div><br></div><div><b>NOTES</b></div><div><i>Iodine deficiency</i> is the most common cause of hypothyroidism worldwide.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "|(LzcMBS2",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
             ]
         },
         {
@@ -6934,6 +9372,21 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the clinical features of Graves disease?",
+                "Sort symptoms by mechanism<div><br></div><div><b></b><b>History</b></div><div>Typical patient is a young woman.</div><div><i>Symptoms of hyperthyroidism</i> e.g. weight loss despite good appetite, heat intolerance, palpitations, diarrhoea, menstrual irregularity.</div><div><i>Symptoms due to autoantibodies</i> e.g. exophthalmos, ophthalmoplegia.</div><div><br></div><div><b>Exam</b></div><div><i>Obs:</i> tachycardia.</div><div><i>Inspection: </i>goitre, tremor, thyroid eye disease, acropachy, pretibial myxoedema.</div><div><i>Palpation: </i>full (irregular) pulse, warm peripheries, goitre.</div><div><i>Percussion: </i>retrosternal goitre.</div><div><i>Auscultation: </i>thyroid bruit.</div><div><i>Bedside tests: </i>ECG may show AF.</div><div><br></div><div><b>NOTES</b></div><div><i>Thyroid eye disease</i> includes exophthalmos, ophthalmoplegia, and lid lag.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "gH*?wXVvt9",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "List the major diagnostic criteria for infective endocarditis",
                 "<b>1. Positive blood cultures</b> from typical organisms.<div><b>2. Evidence of endocardial involvement </b>e.g. diagnostic echo, new valvular regurgitation.</div><div><br></div><div><b>UPDATED 2020</b></div>"
             ],
@@ -7277,6 +9730,196 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are male lower urinary tract symptoms (LUTS)?",
+                "An umbrella term for:<div><br><div><b>1. Storage symptoms</b> e.g. frequency, urgency, nocturia, suprapubic pain.</div><div><b>2. Voiding symptoms </b>e.g. hesitancy, poor flow, incomplete voiding, terminal dribbling.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "De>qzbC^.V",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of scrotal varicocoele?",
+                "<b></b><b>History</b><br><div>Scrotal mass (may appear on standing).</div><div>May be dull aching pain.</div><div>May be testicular atrophy, poor fertility.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>scrotal swelling, may appear on standing.</div><div><i>Palpation: </i>scrotal mass, separate from testes like a 'bag of worms', non tender, non transillumable.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "uX2[d}vcwc",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of hormone therapy used in prostate cancer",
+                "Sort by mechanism<div><br></div><div><b>1. GnRH analogues</b> e.g. goserelin (zoladex).</div><div><b>2. Antiandrogens</b></div><div><i>Steroidal</i> e.g. cyproterone acetate.</div><div><i>Non-steroidal</i> e.g. bicalutamide.</div><div><b>3. Orchidectomy.</b></div><div><b><br></b></div><div><b>NOTES</b></div><div><i>GnRH</i> = gonadotropin releasing hormone.</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "JUZ:-w<x{j",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Pharmacology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of scrotal haematocoele?",
+                "Sort by mechanism<div><br></div><div>1. Trauma</div><div>2. Testicular cancer</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "kohw9|2/OM",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of scrotal hydrocoele?",
+                "Sort by mechanism<div><br></div><div><b>1. Primary</b> (idiopathic).</div><div><b>2. Secondary</b></div><div><i>Infection</i> e.g. epididymo-orchitis, TB.</div><div><i>Neoplasia</i> e.g. testicular cancer.</div><div><i>Vascular</i> e.g. torsion.</div><div><i>Trauma</i>.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "s)Iv]5Qn,{",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of balanitis?",
+                "Sort by mechanism<div><br></div><div><b>Infection</b> e.g. Candida, Staphylococci, Streptococci.</div><div><b>Neoplasia</b> e.g. penile cancer.</div><div><b>Inflammatory </b>e.g. circinate balanitis in reactive arthritis, lichen sclerosis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "uoQW_5Qy5)",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Inflammation,",
+                "Oncology,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of priapism?",
+                "Sort by mechanism<div><br></div><div><b>1. Primary</b> (idiopathic).</div><div><b>2. Secondary</b></div><div><i>Prothrombotic state</i> e.g. sickle cell disease.</div><div><i>Venous obstruction</i> e.g. pelvic malignancy.</div><div><i>Trauma </i>e.g. intracavernous injections.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "uLf1n%*J.c",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of a scrotal hydrocoele?",
+                "<div><b></b><b>History</b></div><div>Painless scrotal mass.</div><div><br></div><div><b>Exam</b></div><div><i>Palpation: </i>scrotal mass not distinct from testis, usually nontender, fluctuant, transilluminable.</div><div><br></div><div><b>NOTES</b></div><div>A long-standing hydrocoele may become calcified, making it hard and opaque.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "F.b?^W?};t",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a spermatocoele?",
+                "<b>A subtype of epididymal cyst</b> that contains milky (rather than clear) fluid.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "i1`pUO$Jf]",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is benign prostatic hyperplasia (BPH)?",
+                "<b>Non-malignant tissue overproliferation</b> in the prostate.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qyqm8xY`!8",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is testicular torsion? ",
+                "<div><div><div><b>Twisting of the spermatic cord</b>, resulting in occlusion of the testicular blood supply.</div><div><br></div><div><b>NOTES</b></div><div>Results from inadequate fixation of the testis to the tunica vaginalis.</div></div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "Fp0k[<jH.b",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Paediatrics,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for testicular torsion? ",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - IV fluids.</div><div>Make NBM, call surgeon.</div><div><br></div><div><b>2. Surgery</b></div><div>Urgent surgical exploration.</div><div>If testis viable, detorsion and orchidopexy.</div><div>If testis not viable, orchidectomy and fixation of other testicle.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "OsoH`}Rko$",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Paediatrics,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is meant by NYHA class I?",
                 "Heart failure, asymptomatic on ordinary physical activity.<div><br></div><div><b>UPDATED 2020</b></div>"
             ],
@@ -7519,6 +10162,68 @@
             "tags": [
                 "Cardiovascular,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of insulin is Humulin N, Novolin N isophane?",
+                "Intermediate acting.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "C/*9znX&r!",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of insulin is Hypurin bovine lente?",
+                "Long acting.<div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "M`pY5!+KqL",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Pharmacology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for diabetic ketoacidosis (DKA)?",
+                "<div><div><div>Must find and address the underlying cause, in the meantime:</div></div></div><div><br></div><b>1. Resus</b><br>A+B - consider airway support and O2.<div><div><div>C - IV fluids starting with 1L normal saline stat, catheter, monitor input/output.</div><div>Consider discussion with ICU.</div><div><i><br></i><b>2. Meds</b><br><b><font color=\"#008000\">IV fluids </font></b>(normal saline).<br>Fixed rate <b><font color=\"#008000\">insulin</font></b> infusion starting 0.1 unit/kg/h.</div><div>Consider K replacement (if K&lt;5.5).</div><div><div>Prophylactic<b><font color=\"#008000\"> LMWH.</font></b></div></div><div><br></div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "G*uJ;M:oaG",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for hyperosmolar hyperglycaemic state (HHS)?",
+                "Must find and address the underlying cause, in the meantime:<div><br></div><b>1. Resus</b><br>A+B - consider airway support and O2.<div>C - IV fluids starting with 1L normal saline stat, catheter, monitor input/output.<div><br><b>2. Meds</b><br><b><font color=\"#008000\">IV fluids</font></b> (normal saline).<br>Fixed rate <font color=\"#008000\"><b>insulin</b></font> infusion 0.05 units/kg/h (only if significant ketonaemia).</div><div>Consider K replacement in IVI (if K&lt;5.5).<br>Prophylactic dose<font color=\"#008000\"> <b>LMWH</b></font>.</div></div><div><br></div><div><b>NOTES</b></div><div>Aim to replace half of fluid deficit over 12h.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "g~}84^?2C~",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
             ]
         },
         {
@@ -8361,6 +11066,21 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the clinical features of hyperosmolar hyperglycaemic state (HHS)?",
+                "<b></b><b>History</b><br>Typical patient is elderly with about a week of progressive symptoms.<div>Polyuria, polydipsia, and weight loss.</div><div><div>Acute confusion, decreased consciousness, may be focal neurology.<br>May present with a thrombotic event e.g. MI, stroke.<br><br><b>Exam</b><br><span style=\"font-style: italic\">Obs:</span> tachycardia, (postural) hypotension.<br><i>Inspection: </i>dehydration (mucus membranes, CRT, skin turgor), decreased consciousness, may be focal neurology.</div><div><div><br></div><div><b>NOTES</b></div><div><i>Blood glucose</i> levels in HHS are much higher than in DKA.<br><i>Serum osmolality</i> is therefore very high, predisposing to thrombo-occlusive events.<br><i>Kussmaul breathing</i> is absent due to lack of ketones.</div></div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "y4;~m7h0}}",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Where is the origin of a direct inguinal hernia?",
                 "The superficial inguinal ring.<div><br></div><div><b>NOTES</b></div><div><i>The superficial ring</i> lies above and lateral to the pubic tubercle, in 'Hesselbach's triangle' (inguinal ligament, inferior epigastric artery, and rectus abdominus).</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -8590,6 +11310,114 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of primary renal cancer",
+                "Sort by prevalence<br><div><br></div><div><b>Most common</b></div><div>1. Renal cell carcinoma (large majority).</div><div>2. Transitional cell carcinoma.</div><div><br></div><div><b>All the rest</b></div><div>1. Oncocytoma.</div><div>2. Collecting duct tumour.</div><div>3. Renal sarcoma.</div><div>4. Wilm's tumour (paeds).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "L[$~L*<PDE",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Oncology,",
+                "Paediatrics,",
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of urinary incontinence?",
+                "Sort by mechanism<div><br></div><div><b>1. Detrusor overactitivity</b> e.g. involuntary contractions.</div><div><b>2. Detrusor underactivity</b> (overflow).</div><div><b>3. Outlet incompetence</b> e.g. postmenopausal changes, obstetric trauma.</div><div><b>4. Outlet obstruction</b> (overflow).</div><div><b>5. Increased urine production</b> e.g. CCF (nocturia), diabetes.</div><div><b>6. Cognitive impairment.</b></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "pUxStMix_3",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Conn syndrome?",
+                "<b>Primary hyperaldosteronism</b>, due to an aldosterone-producing adenoma.<div><br></div><div><b>NOTES</b></div><div>Characteristic clinical features are hypertension and hypokalaemia.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "vR1ul|OT6V",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Riedel thyroiditis?",
+                "A type of infiltrative thyroid disease<div><br><div><b>NOTES</b></div><div>Characterised by fibrosis and induration of the thyroid gland.</div><div>Believed to represent involvement of the thyroid in a systemic disease called 'multifocal fibrosclerosis'.</div><div>Presentation is similar to thyroid malignancy (slowly growing, painless goitre).</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "E9Q_+fKT7+",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is MODY (maturity onset diabetes of the young)?",
+                "<b>A monogenic diabetes syndrome</b>, characterised by non-insulin dependant diabetes diagnosed at &lt;25y.<div><br></div><div><b>NOTES</b></div><div>The most common form of monogenic diabetes, with autosomal dominant inheritance.</div><div>Clinical presentation is variable.</div><div>Underlying mutations involve genes for pancreatic beta cell development and function.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "p_3|~DRA,;",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the physiological consequences of hypomagnesaemia?",
+                "Sort by organ system<div><br></div><div><b>1. Neuro </b>e.g. neuromuscular excitability (tetany, seizures, involuntary movements), generalised weakness, decreased consciousness.</div><div><b>2. CVS</b> e.g. (ventricular) arrhythmias, digoxin toxicity.</div><div><b>3. Metabolic </b>e.g. hypoPTH, hypoCa, hypoK.</div><div><br></div><div><b>NOTES</b></div><div><i>HypoK</i> is believed to be due to the effects of low Mg at the kidney (renal K wasting).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "g,@m-!c.ph",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the zones of the adrenal cortex",
+                "Mnemonic GFR<div><br></div><div>Zona <b>Glomerulosa</b> (outer): mineralocorticoids.</div><div>Zona <b>Fasciculata</b> (middle): glucocorticoids and androgens.</div><div>Zona <b>Reticulata</b> (inner): oestrogens.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "vWN/xxNQs>",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
             ]
         },
         {
@@ -8999,6 +11827,21 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is latent autoimmune diabetes in adults (LADA)?",
+                "<b>A subtype of adult-onset diabetes</b>, with evidence of autoantibodies againt pancreatic beta cell antigens.<div><br></div><div><b>NOTES</b></div><div>LADA represents a spectrum of disease.</div><div><i>Natural history: </i>insulin is not required at diagnosis but patients progress to insulin dependence in months to years.</div><div><i>Autoantibodies</i> include ICA and anti-GAD65.</div><div><i>ICA</i> = islet cell antibodies.</div><div><i>GAD65</i> = glutamic acid decarboxylase.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "u1dCQWW~oM",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the long term complications of COPD?",
                 "<div>Sort by mechanism</div><div><br></div><div><b>1. Respiratory failure </b>typically with CO2 retention.</div><div><b>2. Pulmonary hypertension</b>, may lead to cor pulmonale.</div><div><br></div><div>UPDATED 2020<br></div>",
                 ""
@@ -9028,6 +11871,86 @@
             "tags": [
                 "Cardiovascular,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the threshold for raised fasting glucose?",
+                "7mmol/l<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AD@m3$R>*1",
+            "newlyAdded": false,
+            "note_model_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the threshold for a raised random glucose?",
+                "11.1 mmol/l<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F?nX4@J]wX",
+            "newlyAdded": false,
+            "note_model_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the threshold for a raised OGTT?",
+                "11.1 mmol/l<div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AB11;C2u%p",
+            "newlyAdded": false,
+            "note_model_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of hypercalcaemia? ",
+                "Sort by prevalence<div><br></div><div><b>Most common</b></div><div><i>1. Primary hyperPTH.</i></div><div><i>2. Malignancy</i> e.g. osteolytic lesions, PTHrP and vitamin D secretion.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Excess PTH </i>e.g. tertiary hyperPTH.</div><div><i>2. Excess vitamin D</i> e.g. granulomatous disease (sarcoidosis, tuberculosis).</div><div><i>3. Excess Ca intake.</i></div><div><i>4. Drugs </i>e.g. thiazides, lithium.</div><div><br></div><div><b>NOTES</b></div><div><i>Primary hyperPTH</i> and malignancies together account for large majority of cases.</div><div><i>PTH</i> = parathyroid hormone.</div><div><i>PTHrP</i> = parathyroid hormone related peptide.</div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Iklkc52$gk",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected hypercalcaemia?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important</b></div><div><i>1. Bone profile.</i></div><div><i>2. PTH.</i></div><div><br></div><div><b>All the rest</b> (consider)</div><div><i>1. PTHrP.</i></div><div><i>2. Vitamin D metabolites.</i></div><div><i>3. Other </i>e.g. myeloma screen, TFTs, vitamin A levels.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i2r:D*i=h",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Endocrine,"
             ]
         },
         {
@@ -15623,7 +18546,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "In treatment of acute lymphoblastic leukaemia (ALL), for how long is maintenance chometherapy continued in girls?",
+                "In treatment of acute lymphoblastic leukaemia (ALL), for how long is maintenance chemotherapy continued in girls?",
                 "2 years<div><br></div><div>UPDATED 2020<br></div>"
             ],
             "flags": 0,
@@ -19312,7 +22235,7 @@
             "data": "",
             "fields": [
                 "What are the clinical features of fragile X syndrome?",
-                "<b>History</b><div><div>Learning difficulties.</div><div>May have ADHD symptoms.</div><div><br></div><div><b>Examination</b></div><div><i>Inspection: </i>macrocephaly, distinctive appearance (narrow face, prominent forehead and chin, large everted ears).</div><div><i>Genitals: </i>macro-orchidism post puberty.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+                "<b>History</b><div><div>Learning difficulties.</div><div>May have ADHD symptoms.</div><div><br></div><div><b>Examination</b></div><div><i>Inspection: </i>macrocephaly, distinctive appearance (narrow face, prominent forehead and chin, large everted ears).</div><div><i>Genitals: </i>macro-orchidism post puberty.</div></div><div><img src=\"paste-d3df9b1af8d44977a01b2c6fd010fb1838d40668.jpg\"><br></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
             "flags": 0,
             "guid": "C0%5dM*)^",
@@ -19395,7 +22318,7 @@
             "data": "",
             "fields": [
                 "What are the clinical features of Williams-Beuren syndrome (WBS)?",
-                "<b>History</b><div>Learning difficulties.</div><div>Short stature.</div><div><br></div><div><b>Examination</b></div><div><i>Inspection:</i> distinctive 'elfin' facial features e.g. broad forehead, medial eyebrow flare, flat nasal bridge, a short nose with a long philtrum, full lips, and a wide mouth; friendly and sociable 'cocktail party' personality.</div><div><i>Growth chart: </i>short stature.</div><div><br></div><div>UPDATED 2020<br></div>"
+                "<b>History</b><div>Learning difficulties.</div><div>Short stature.</div><div><br></div><div><b>Examination</b></div><div><i>Inspection:</i> distinctive 'elfin' facial features e.g. broad forehead, medial eyebrow flare, flat nasal bridge, a short nose with a long philtrum, full lips, and a wide mouth; friendly and sociable 'cocktail party' personality.</div><div><i>Growth chart: </i>short stature.</div><div><br></div><div><img src=\"paste-9e91acf27700183b07a9104012021bb53d97001c.jpg\"><br></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
             "flags": 0,
             "guid": "ezaQ[i7CR]",
@@ -21620,6 +24543,22 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is de Quervain thyroiditis?",
+                "A subacute, autoimmune thyroiditis<div><br></div><div><b>NOTES</b></div><div>Also called 'subacute granulomatous thyroiditis'.</div><div><i>Aetiology:</i> believed to be a post-viral inflammatory disease.</div><div><i>Clinically:</i> presents in a young woman with recent URTI, neck pain, tender goitre, may be transient hyperthyroidism.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "LGqEI1=H7|",
+            "newlyAdded": false,
+            "note_model_uuid": "591c3b08-af10-11ea-a5d1-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is the treatment for scabies?",
                 "<b>1. Meds</b><div>First line: permethrin 5% cream, oral ivermectin</div><div>Second line: topical benzyl benzoate, malathion</div><div><br></div><div><b>NOTES</b></div><div>All family members must be treated simultaneously</div><div>Fomites must be placed in a plastic bag for 3 days or washed in hot water</div><div>Patients can return to work or school the day after treatment</div><div><br></div><div><b>UPDATED 2020</b></div>"
             ],
@@ -22911,6 +25850,23 @@
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
                 "Y3::GP::CCT2::LO8"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How long should a patient wait to have their PSA level checked after successful treatment of proctatitis?&nbsp;",
+                "One month&nbsp;<div><br></div><div>UPDATED 2020&nbsp;</div><div><a href=\"https://www.passmedicine.com/question/questions.php?q=0\">https://www.passmedicine.com/question/questions.php?q=0</a><br></div>"
+            ],
+            "flags": 0,
+            "guid": "oRE*:f9B7i",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Inflammation,",
+                "Urology,"
             ]
         },
         {
@@ -27433,7 +30389,7 @@
             "data": "",
             "fields": [
                 "What are causes of ovarian follicle dysfunction?",
-                "Signalling defects<br>- FSH and LH receptor mutations <br>Enzyme deficiency <br>- 17a hydroxylase deficiency <br>- Aromatase deficiency <br>Autoimmunity <br>- Autoimmune polyglandular syndrome (type 1 and 2) <br>- Autoimmune polyendocrinopathy-candiasis-ectodernal dystrophy <br>- Associated with Myasthenia gravis, Rheumatoid arthritis, DM, SLE, Addison's and thyroid disease"
+                "Signalling defects<br>- FSH and LH receptor mutations <br>Enzyme deficiency <br>- 17a hydroxylase deficiency <br>- Aromatase deficiency <br><br><div>Autoimmunity <br>- Autoimmune polyglandular syndrome (type 1 and 2) <br>- Autoimmune polyendocrinopathy-candiasis-ectodernal dystrophy <br>- Associated with Myasthenia gravis, Rheumatoid arthritis, DM, SLE, Addison's and thyroid disease</div>"
             ],
             "flags": 0,
             "guid": "dJ{6a#5:xr",
@@ -31254,6 +34210,51 @@
             "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
             "tags": [
                 "Y3::Med_A::CBL3::LO4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are non-traumatic causes of spinal cord injury?",
+                "- Bacterial infections e.g. Tuberculosis&nbsp;<div>- Viral infections e.g. Transverse myelitis&nbsp;</div><div>- Thrombosis or haemorrhage&nbsp;</div><div>- Non-malignant growths&nbsp;</div><div>- Birth defects e.g. Spina Bifida&nbsp;</div><div>- Cauda equina syndrome&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "[Q.mttAU`",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::CBL2::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the different types of truamatic spinal injuries?",
+                "- Incomplete&nbsp;<div>- Complete&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "vp-5ZH3z=p",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::CBL2::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are signs and symptoms of a spinal emergency?",
+                "- Extreme back pain or pressure in the patients neck, head or back<div>- Weakness, incoordination or paralysis in any part of the patients body&nbsp;</div><div>- Numbness, tingling or loss of sensation in a patients hands, fingers, feet or toes</div><div>- Loss of bladder or bowel control&nbsp;</div><div>- Difficulty with balance and walking&nbsp;</div><div>- Impaired breathing after injury&nbsp;</div><div>- Oddly positioned or twisted neck or back&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "CV})n1MXcn",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::CBL2::LO1"
             ]
         }
     ]
