@@ -89,6 +89,7 @@
         "TrafficLightSickKids.jpg",
         "a-conglobata2__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg0XQ.jpg",
         "a09b44e02b25f117743f3d11a299cf_jumbo.jpg",
+        "aa3af0a2e5bcb2a268b27811d096c826.jpg",
         "acd-plaster__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
         "acdnic-s.jpg",
         "acdss__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
@@ -140,6 +141,7 @@
         "erythroderma2__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDgwXQ.jpg",
         "erythroderma3__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.JPG",
         "fc4644640b03a32bfb13e0c5d54725_jumbo.jpg",
+        "fetch.php",
         "follicul1__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDEzXQ.jpg",
         "folliculitis5-s.jpg",
         "galactocele.jpg",
@@ -171,6 +173,7 @@
         "lm3-s.jpg",
         "mHkWrMOdPCXlqyrQneYKzl5Po_8YP1jSttTfMtvipQjCcZB692T92YuXdkdzhRDnQ2VstY5-fJ93jKtJMwD_X37IN5V1g9pf5qcw1dtP13WWTtPvsEwSLDCCTU3MTYl7ZUGA.png",
         "mammary_duct_ectasia.jpg",
+        "marjolin-ulcer-07__WatermarkedWyJXYXRlcm1hcmtlZCJd.JPG",
         "murtagh7e_c114_f04-2.png",
         "nail-psoriasis-pitting-oil-spots__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDU0XQ.jpg",
         "nail-psoriasis1-s.jpg",
@@ -198,6 +201,7 @@
         "paste-1053404e979bbcb4bd0565bf410d29f2c67b5fbd.jpg",
         "paste-119688fa857334f7191b2075611bffccc8847810.jpg",
         "paste-1455993913575.jpg",
+        "paste-14b940a747c6c5d127ce91d824b2745f0a35d5a9.jpg",
         "paste-1705102016743.jpg",
         "paste-18098992185664.jpg",
         "paste-181e62178291753b0a7b8da28ad5340f2daa48ea.jpg",
@@ -220,6 +224,7 @@
         "paste-21a7128c2e071b15c10e6e9a4f833290f3364997.jpg",
         "paste-21c1d781a62826c80d27bbb180531d81f7c46fcf.jpg",
         "paste-2311da894383d4d35c5233235deb836a033bac52.jpg",
+        "paste-2594c204e5da480044c5f6400b3d0e5078b4121d.jpg",
         "paste-27671a58abdbdfada726d595497143c78fbb7e53.jpg",
         "paste-299e6616366ab5e700c58f78cf2fbddaae7dc00c.jpg",
         "paste-2f9726c4cbe72e01765f730db0035ae99d0b3fed.jpg",
@@ -288,10 +293,12 @@
         "paste-896a89f87c220a582c2d6273827cd52393a6883e.jpg",
         "paste-8cabc7fe22bffca28eec6926ad3852fa20ae70bb.jpg",
         "paste-8cb56255552b5ad18a4a422f3475e8b15ae514d8.jpg",
+        "paste-912794f5826bb215a59162597e8555b484d591b2.jpg",
         "paste-95d225cd30f44cb4313c026b43c6cdc7a0fb4fe3.jpg",
         "paste-961b61b484b09a01e19b709a70e7ad7ae92c8ea4.jpg",
         "paste-974cfccf784ed02937e3d2962f36cb3ca0cb8a3b.jpg",
         "paste-98be70276d2de0f62a133ef9547120561547f8a1.jpg",
+        "paste-9965b9dd5d1ff854bc6055394fcb6306e44edddf.jpg",
         "paste-9a1b70e0cf80d188e1c27d4f3549c87e5f136444.jpg",
         "paste-9a3ec697e57c65e74f95f81b08272718b7f0e0f8.jpg",
         "paste-9ce7572a95d039c3a76e1ecf905d0437d13d9fbe.jpg",
@@ -390,6 +397,7 @@
         "scabies3-s.jpg",
         "scabies3__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDld.jpg",
         "scabies8-s.jpg",
+        "scc-007__WatermarkedWyJXYXRlcm1hcmtlZCJd.JPG",
         "sebderm2-s.jpg",
         "sebderm5-s.jpg",
         "sk1-s.jpg",
@@ -403,6 +411,7 @@
         "tincap3-s.jpg",
         "tinped4-s.jpg",
         "trifascicular-2-2.jpg",
+        "tumblr_nps16rEBbR1rhzu54o1_500.png",
         "ulcer-diab-s.jpg",
         "ulcer-ven5-s.jpg",
         "urticaria-leg-02__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.JPG",
@@ -2203,7 +2212,7 @@
             "data": "",
             "fields": [
                 "What are the clinical features of Cushing syndrome?",
-                "<div>Sort symptoms by organ system</div><div><b><br></b></div><div><b></b><b>History</b></div><i>Immune system:</i> infections.<br><div><div><i>Skin:</i> acne, hirsutism, alopecia, striae, fat redistribution.</div><div><i>Bones:</i> fragility fractures.</div><div><i>Neuro:</i> proximal muscle weakness, low mood, paranoia.</div><div><i>Endo:</i> symptoms of diabetes, oligomenorrhoea.</div><div><i>Eyes:</i> cataracts.</div><div><i>GIT:</i> peptic ulcer symptoms.</div><div><i><br></i></div><div><div><b>Exam</b><br><i>Obs: </i>hypertension.</div><div><i>Inspection: </i>acne, hirsutism &amp; allopecia, purple/red striae, plethora, bruising, truncal obesity, thin limbs, supraclavicular fat pad, full 'moon' face.</div><div><i>Neuro: </i>proximal myopathy.</div></div></div><div><br></div><div><b>NOTES</b></div><div>Mnemonic for Cushing syndrome: \"<b>I'm</b> <b>skin</b> and <b>bones</b> with <b>neuroendocrine</b> problems, <b>I'm</b> <b>gutted</b>\" (i.e. immune system, skin, bones, neuro, endo, eyes, GIT).</div><div><br></div><div>UPDATED 2020<br></div>"
+                "<div>Sort symptoms by organ system</div><div><b><br></b></div><div><b></b><b>History</b></div><i>Immune system:</i> infections.<br><div><div><i>Skin:</i> acne, hirsutism, alopecia, striae, fat redistribution.</div><div><i>Bones:</i> fragility fractures.</div><div><i>Neuro:</i> proximal muscle weakness, low mood, paranoia.</div><div><i>Endo:</i> symptoms of diabetes, oligomenorrhoea.</div><div><i>Eyes:</i> cataracts.</div><div><i>GIT:</i> peptic ulcer symptoms.</div><div><i><br></i></div><div><div><b>Exam</b><br><i>Obs: </i>hypertension.</div><div><i>Inspection: </i>acne, hirsutism &amp; allopecia, purple/red striae, plethora, bruising, truncal obesity, thin limbs, supraclavicular fat pad, full 'moon' face.</div><div><i>Neuro: </i>proximal myopathy.</div></div></div><div><br></div><div><b>NOTES</b></div><div>Mnemonic for Cushing syndrome: \"<b>I'm</b> <b>skin</b> and <b>bones</b> with <b>neuroendocrine</b> problems, <b>I'm</b> <b>gutted</b>\" (i.e. immune system, skin, bones, neuro, endo, eyes, GIT).</div><div><br></div><div><img src=\"fetch.php\"><br></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
             "flags": 0,
             "guid": "qumGqKk_mp",
@@ -2233,7 +2242,7 @@
             "data": "",
             "fields": [
                 "What are the causes of Addison disease?",
-                "<div>Sort by prevalence</div><div><br></div><div><b>Most common:</b> autoimmune.</div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. Infection</i> e.g. tuberculosis, fungal, syphilis.</div><i>2. Neoplasia</i> e.g. mets, lymphoma.<div><i>3. Vascular </i>e.g. Waterhouse-Friederichsen syndrome.</div><div><i>4. Drugs</i> e.g. ketoconazole, fluconazole.<br><div><b><br></b></div><div><b>NOTES</b></div><div>Autoimmune disease accounts for large majority of cases in the UK.</div><div>Tuberculosis is the most common cause worldwide.</div></div><div><br></div><div>UPDATED 2020</div>"
+                "<div>Sort by prevalence</div><div><br></div><div><b>Most common:</b> autoimmune.</div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. Infection</i> e.g. tuberculosis, fungal, syphilis.</div><i>2. Neoplasia</i> e.g. mets, lymphoma.<div><i>3. Vascular </i>e.g. Waterhouse-Friederichsen syndrome.</div><div><i>4. Drugs</i> e.g. ketoconazole, fluconazole.<br><div><b><br></b></div><div><img src=\"aa3af0a2e5bcb2a268b27811d096c826.jpg\"><b><br></b></div><div><b><br></b></div><div><b>NOTES</b></div><div>Autoimmune disease accounts for large majority of cases in the UK.</div><div>Tuberculosis is the most common cause worldwide.</div></div><div><br></div><div>UPDATED 2020</div>"
             ],
             "flags": 0,
             "guid": "pv0?0~>9=Z",
@@ -2248,7 +2257,7 @@
             "data": "",
             "fields": [
                 "What are the clinical features of Addison disease?",
-                "Clinical presentation is variable, depends on rate of onset.<div><br><div></div><div><b>History</b><br><div><div>Tiredness, generalised muscular weakness.</div><div>Weight loss.</div><div>Postural hypotension.</div><div>Impotence/amenorrhoea.</div></div><div>Hyperpigmentation.<div><div><br><div><b>Exam</b></div><div><i>Obs: </i>postural hypotension.</div><div><i>Inspection:</i> cachexia; hyperpigmentation; loss of body hair.</div></div></div><div><i><br></i></div><div><b>NOTES</b></div></div><div>Symptoms are often vague and nonspecific.</div><div><i>Hyperpigmentation</i> is most notable in new scars, palmar creases, and buccal mucosa.</div></div><div><br></div><div>UPDATED 2020</div></div>"
+                "Clinical presentation is variable, depends on rate of onset.<div><br><div></div><div><b>History</b><br><div><div>Tiredness, generalised muscular weakness.</div><div>Weight loss.</div><div>Postural hypotension.</div><div>Impotence/amenorrhoea.</div></div><div>Hyperpigmentation.<div><div><br><div><b>Exam</b></div><div><i>Obs: </i>postural hypotension.</div><div><i>Inspection:</i> cachexia; hyperpigmentation; loss of body hair.</div></div></div><div><i><br></i></div><div><img src=\"aa3af0a2e5bcb2a268b27811d096c826.jpg\"><i><br></i></div><div><i><br></i></div><div><b>NOTES</b></div></div><div>Symptoms are often vague and nonspecific.</div><div><i>Hyperpigmentation</i> is most notable in new scars, palmar creases, and buccal mucosa.</div></div><div><br></div><div>UPDATED 2020</div></div>"
             ],
             "flags": 0,
             "guid": "vF9;+a;r<j",
@@ -2362,6 +2371,176 @@
             "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
             "tags": [
                 "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of intermittent claudication?",
+                "<b></b><b>History</b><br>Distal limb pain (SOCRATES)<div>S - usually calf muscle, sometimes thigh or buttock.</div><div>O - onset at predictable level of exercise.</div><div>C - crampy.</div><div>A - may be numbness or parasthesia.</div><div>E - relieved quickly by rest.</div><div><div><div><div><br><b>Exam</b><br><i>Inspection: </i>pallor, long CRT, Buerger's test positive.<div><i>Palpation:</i> reduced temperature, weak pulses.<br><i>Auscultation: </i>bruits.<br><i>Bedside tests: </i>ABPI may be low.</div></div></div></div><div><br></div><div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "tlXIYYI<j[",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for intermittent claudication?",
+                "<div><div>Sort by history</div></div><div><br></div><b>Demographics </b>e.g. age, male.<div><b>PMHx </b>e.g. hypertension, hyperlipidaemia, diabetes, obesity.</div><div><b>SHx </b>e.g. smoking.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "spe#[8RXP,",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of acute limb ischaemia?",
+                "Mnemonic 6Ps<br><div><i><br></i></div><b></b><b>History</b><br><i>Pain</i> in distal muscles, usually severe and sudden onset.<br><i>Parasthesiae</i> and numbness, progressing over a few hours.<br><i>Paralysis</i>.<br><br><b>Exam</b><br><i>Inspection: </i>pallor, followed by non-fixed mottling, fixed mottling, then blistering.<div><div><i>Palpation: </i>pulselessness, perishingly cold (i.e. ambient room temperature).</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "rb`pvQ6COy",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of acute limb ischaemia?",
+                "<div>Sort by mechanism</div><div><br></div><b>1. Thrombosis </b>e.g. atheroma, aneurysm.<br><b>2. Arterial embolism</b> e.g. AF, heart valve, atheroma.<br><b>3. Arterial dissection.</b><div><b>4. Trauma.</b><br></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "m1(mAK:}/8",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of a AAA?",
+                "<b></b><b>History</b><br>Abdominal pain (SOCRATES)<div>S - central abdomen, back, or loin.</div><div>C - dull, aching.</div><div>R - to groin.</div><div>A - emboli to lower limb.</div><div><div><br><b>Exam</b><br><i>Inspection: </i>may be signs of distal emboli.</div><div><i>Palpation: </i>firm, pulsatile (tender) mass.</div><div><i>Auscultation: </i>may be bruit.</div><div><br></div></div><div><b>NOTES</b></div><div>AAA may compress organs or fistulate into bowel or major veins.</div><div>Tenderness may imply inflammatory change or imminent rupture.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "fC?|BV`K>6",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the indications for surgery in AAA?",
+                "1. Ruptured AAA.<br>2. Symptomatic AAA.<br>3. Asymptomatic aneurysm ≥5.5cm or expansion &gt;5mm in 6 months.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "i+B}M%|)6-",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for intermittent claudication?",
+                "<b>1. Conservative</b> e.g. smoking cessation; diet advice; graded exercise programme; weight loss.<div><br><b>2. Meds </b>i.e. aspirin, statin, consider antihypertensives.</div><div><br><b>3. Interventional radiology </b>e.g. balloon angioplasty, stenting.</div><div><br></div><div><b>4. Surgery</b> e.g. arterial reconstruction (endarterectomy, bypass grafting); amputation.</div><div><br></div><div><b>NOTES</b></div><div><i>Diet</i> should be low in alcohol, caffeine, salt (hypertension) and fatty food (lipids).<br></div><div><i>Surgery</i> is reserved for patients who comply with best medical treatment.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "uS*wIRj7|z",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for an asymptomatic AAA?",
+                "<div><b>1. Conservative</b> e.g. smoking cessation, diet advice, USS monitoring.<div><br><b>2. Meds</b></div><div>Aspirin (vs thrombosis).</div><div>Statin (vs atherosclerosis).</div><div>Consider antihypertensives.</div><div><br></div><b>3. Surgical</b></div><div>Consider open repair and EVAR.</div><div><br></div><div><b>NOTES</b></div><div><i>Diet</i> should be low in alcohol, caffeine, salt (hypertension) and fatty food (lipids).</div><div>Atherosclerosis and aneurysmal disease share risk factors, but are believed to have distinct pathogenesis.</div><div><i>AAA</i> = abdominal aortic aneurysm.</div><div><i>EVAR</i> = endovascular aneurysm repair.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "ler0|8@0@N",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the recommended screening for AAAs?",
+                "One time USS for men aged &gt;65y<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "g.z->cp4*j",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of carotid endarterectomy (CEA)?",
+                "Sort by general vs specific<div><br></div><div><b>General</b></div><div><div><div><i>1. GA-related</i> e.g. intubation trauma, adverse drug reactions.<div><i>2. Haemorrhage</i> e.g. haematoma.</div><div><i>3. Damage</i> e.g. vagus, laryngeal, hypoglossal, or facial nerve.</div><div><div><i>4. Infection</i> e.g. wound.</div></div></div><div><i>5. Venous thromboembolism.</i></div></div></div><div><br></div><b>Specific</b><br><i>1. Myocardial infarction.</i><div></div><i>2. Stroke.</i><div><div><div><i>3. Carotid restenosis.</i><br></div></div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "f__l(<wku4",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
             ]
         },
         {
@@ -2684,6 +2863,23 @@
             "tags": [
                 "Cardiovascular,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of unilateral leg swelling?",
+                "<div><div>Sort by seriousness</div><div><br></div><div><b>Most serious</b></div><div><i>1. DVT.</i></div><div><i>2. Cellulitis.</i></div><div><i>3. Malignancy</i> (venous/lymph obstruction).</div><div><br></div><div><b>All the rest</b></div><div><i>1. Trauma.</i></div><div><i>2. Chronic venous insufficiency</i> e.g. post-thrombotic syndrome.<br></div><div><i>3. Lymph obstruction</i> e.g. lymphatic filariasis.</div><div><i>4. Popliteal (Baker's) cyst.</i></div><div><b><br></b></div><div><b>NOTES</b></div><div>In cellulitis, must also consider necrotising fasciitis and osteomyelitis.</div></div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "bQ@z6WRx}J",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
             ]
         },
         {
@@ -3664,6 +3860,23 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the causes of aortic aneurysm?",
+                "Sort by prevalence<div><br></div><div><b>Most common:</b> degenerative (risk factors include age, male, hypertension).<br><br><b>All the rest<br></b><i>1. Infection</i> e.g. staphylococci, salmonella.<div><i>2. Inflammatory</i> e.g. large vessel vasculitis, RA, Behçet disease.</div></div><div><i>3. Heritable connective tissue disease</i> e.g. Marfan or Ehlers-Danlos syndrome.</div><div><br></div><div><b>NOTES</b></div><div>Atherosclerosis and aneurysmal disease share risk factors, but are believed to have distinct pathogenesis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "bUtXH|ftL0",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the causes of dilated cardiomyopathy?",
                 "Sort by mechanism<div><br></div><div><div><b>Idiopathic.<br>Infection </b>e.g. Chagas disease, HIV.<br><b>Vascular</b> e.g. ischaemic heart disease.</div><div><b>Inflammatory</b> e.g. autoimmune cardiomyopathy, sarcoidosis.</div><div><b>Endocrine</b> e.g. hyperthyroidism.</div><div><b>Drugs</b> e.g. alcohol, cocaine, heavy metals.<br></div></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -3690,6 +3903,23 @@
             "tags": [
                 "Cardiovascular,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which anatomical classification system is used for aortic dissections?",
+                "The Stanford classification<div><br></div><div><b>NOTES</b><br><i>Stanford type A</i> = dissection involving the ascending aorta.<br><i>Stanford type B</i> = all other dissections.<br></div><div>Another classification is the DeBakey system.</div><div><br></div><div><img src=\"paste-2594c204e5da480044c5f6400b3d0e5078b4121d.jpg\"><br></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "do,?,ZIYCp",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
             ]
         },
         {
@@ -3904,6 +4134,193 @@
                 "Cardiovascular,",
                 "Emergency",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of critical limb ischaemia?",
+                "<b></b><b>History</b><br>Distal limb pain (SOCRATES)<div>S - usually forefoot.</div><div>O - at rest.</div><div>A - tissue loss (arterial ulcers and gangrene).</div><div>E - initially relieved by dangling foot out of bed, then by sleeping in a chair.</div><div><div><br><b>Exam</b><br><i>Inspection:</i> arterial ulcers, gangrene, long CRT.</div><div><i>Palpation: </i>reduced temperature, weak pulses.<br><i>Auscultation: </i>bruits.</div><div><i>Bedside tests: </i>ABPI usually low.<div><br></div><div><b>NOTES</b></div><div>Chronic peripheral vascular disease becomes 'critical ischaemia' once pain is present at rest or there is tissue loss.</div><div><br></div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "h_8o`U-y~X",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for carotid artery disease?",
+                "<b>1. Conservative</b> e.g. smoking cessation; diet low in alcohol, caffeine, salt (hypertension) and fatty food (lipids).<div><div><br></div><b>2. Meds </b>i.e. aspirin, statin, consider antihypertensives.</div><div><br><b>3. Surgery</b><br><i>First line:</i> carotid endarterectomy.<br><div><i>Second line:</i> carotid stenting.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "ca?>VD_6fY",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<span style=\"\">What are the indications for carotid endarterectomy (CEA)</span> in a patient with recently symptomatic carotid stenosis?",
+                "All of the following:<div><br><div>1. Stenosis 70-99%.</div><div>2. Life expectancy minimum 5y.</div><div>3. No prior ipsilateral CEA.</div><div>4. Perioperative risk of death for surgeon or centre &lt;6%.</div><div><br></div><div><b>NOTES</b></div><div>Patient must have a resectable lesion and no medical contraindication to anaesthesia or surgery.</div><div><i><br></i></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "m++EF&=WEp",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In acute limb ischaemia, which clinical features suggest an embolic cause?",
+                "<b></b><b>History</b><br><div>Typical patient has known AF or prosthetic heart valve.</div><div>Rapid onset.</div><div>Multiple sites.</div><div><br></div><div><div><b>Exam</b><br></div><div><i>Palpation: </i>artery soft and tender, strong pulses in contralateral leg.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "vrbyskmzJ<",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for acute limb ischaemia?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - IV fluids.</div><div>Make NBM, call vascular surgeon.</div><div><br></div><div><div><b>2. Meds</b></div><div>Aspirin 75-325mg OD&nbsp;</div><div>Clopidogrel 75mg OD&nbsp;<br><font color=\"#008000\" style=\"font-weight: bold;\">Heparin IV bolus then infusion </font>(titrated to APTT ratio).</div><div>Analgesia.</div><div><br></div><div><b>NOTES</b></div><div>Definitive treatment options include embolectomy, thrombolysis, bypass surgery, amputation.</div><div>If ischaemia is incomplete, there may be time for imaging to establish cause.</div></div><div><div><span style=\"font-style: italic\">NBM</span> = nil by mouth.</div></div><div><i>APTT</i> = activated partial thromboplastin time.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "jAK9#l&/W)",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in a suspected AAA?",
+                "<div>Sort by clinical relevance</div><div><b><br></b></div><div><b>Most important</b></div><div><i>1. USS abdomen.</i></div><div><i>2. Consider MR or CT angiogram.</i></div><div><b><br></b></div><div><b>All the rest</b> (baseline surgical tests)</div><div><i>1. Bloods</i> e.g. FBC, U&amp;E, CRP, clotting, G&amp;S.</div><div><i>2. ECG.</i></div><div><i>3. CXR.</i></div><div><br></div><div><b>NOTES</b></div><div><div style=\"font-style: normal; font-weight: normal; \">It is important to determine the relationship to the renal arteries.</div></div><div style=\"font-style: normal; font-weight: normal; \"><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "b*S??nUl|Q",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for AAA rupture?",
+                "<div><b>1. Resus</b></div><div>A+B - consider airway support and O2.</div><div>C - IV access, catheter, monitor fluid input/output.</div><div>Make NBM, call vascular surgeon.</div><div><br></div><div><b>2. Meds</b></div><div>Analgesia.</div><div><br></div><div><b>3. Surgery.</b></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "n#z$Ai|1MD",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for varicose veins?",
+                "<b>1. Conservative</b> e.g. weight loss; leg elevation at rest; regular exercise; avoid prolonged standing.<div><div><br><b>2. Endovenous </b>e.g. RFA, EVLA, UGFS.</div><div><br></div><div><b>3. Surgery </b>e.g. stripping, ambulatory phlebectomy.</div></div><div><br></div><div><b>NOTES</b></div><div><i>Compression stockings</i> are indicated only if interventional treatment is contraindicated.</div><div><i>RFA</i> = radiofrequency ablation.</div><div><i>EVLA</i> = endovenous laser ablation.</div><div><div><i>UGFS</i> = ultrasound guided foam sclerotherapy.</div></div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "tv$o,ZXJU?",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of chronic venous insufficiency?",
+                "Sort by mechanism<div><b><br></b></div><div><b>1. Venous obstruction</b> e.g. DVT, malignancy.</div><b>2. Valve incompetence </b>e.g. primary valvular insufficiency, DVT.<br><div><b>3. Poor muscle pump function.</b></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "gSlpCkJ5_$",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a pseudoaneurysm?",
+                "<b>A hematoma</b> secondary to arterial bleeding.<div><br></div><div><b>NOTES</b><br>Usually follows trauma e.g. stent insertion or arterial injection.<div>Often in the groin, common in IV drug users.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "l_iw3-r+5r",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of Raynaud phenomenon?",
+                "Sort by mechanism<div><br><div><b>1. Primary</b> (idiopathic).<br><b>2. Secondary</b><br><div><i>Inflammatory</i> e.g. SSc, SLE, Sjögren syndrome, polymyositis.</div><i>Neoplastic</i> e.g. paraneoplastic, cryoglobulinaemia.</div><div><i>Vascular</i> e.g. vasculitis, thromboangiitis obliterans.</div><div><i>Trauma</i> e.g. vibration injury, frost bite.</div><div><i>Endocrine</i> e.g. hypothyroidism.</div><div><i>Drugs</i> e.g. sympathomimetics, chemotherapy, IFN.</div><div><br></div><div><b>NOTES</b></div><div><i>SSc</i> = systemic sclerosis.</div><div><i>SLE</i> = systemic lupus erythematosus.</div><div><i>IFN</i> = interferon.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "vpy?h1Y?^}",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
             ]
         },
         {
@@ -4846,6 +5263,23 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the clinical features of AAA rupture?",
+                "Clinical presentation is variable.<div><b><br></b></div><div><b></b><b>History</b><br>Abdo pain (SOCRATES)<br><div><div>S - back, flank, or abdomen.</div><div>O - acute.</div><div>R - to groin.</div><div>A - postural hypotension, syncope, vomiting.</div><div><br><b>Exam</b><br><i>Obs:</i> tachycardia, hypotension.<br><i>Inspection: </i>pale, sweaty.</div><div><i>Palpation: </i>tender abdomen, pulsatile mass.</div><div><div><br></div><div>UPDATED 2020<br></div></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "je`q&Tig;p",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is Rovsing's sign?",
                 "<div>Pain in the RIF on palpation of the LIF</div><div><br></div><div><b>NOTES</b></div><div>Seen in acute appendicitis.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -5646,6 +6080,23 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of an absent radial pulse?",
+                "<div>Sort by seriousness</div><div><br></div><div><b>Most serious</b></div><i>1. Acute limb ischaemia </i>e.g. thrombus, embolus, dissection, trauma.<div><br></div><div><b>All the rest</b></div><div><i>1. Iatrogenic</i> e.g. fistula for haemodialysis, surgical removal for CABG.</div><div><i>2. Chronic peripheral vascular disease</i> e.g. atheroma, vasculitis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "p?E{Y;hKQ]",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
             ]
         },
         {
@@ -6647,6 +7098,21 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Describe how to perform the tourniquet test (for venous incompetence)",
+                "<div>1. Lie patient supine, elevate leg to empty veins and apply tournique to upper thigh.</div><div>2. Ask the patient to stand and observe.</div><div>3. After 20s, release the tournique and observe.</div><div><br></div><div><b>NOTES</b></div><div><i>If veins refill on standing,</i> this suggests incompetence of the <b>communicating veins</b> below the tourniquet.</div><div><i>If veins veins refill on tourniquet release,</i> this suggests incompetence of the <b>superficial veins</b> above the tourniquet.</div><div>The tourniquet test is now obsolete, superceded by doppler studies.</div><div><br></div><div><b>UPDATED 2020 (NOT A VITAL CARD TO LEARN)&nbsp;</b></div>"
+            ],
+            "flags": 0,
+            "guid": "C<[h}TCK]g",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is the treatment for idiopathic pulmonary fibrosis (IPF)?",
                 "<b>1. Conservative</b> e.g. smoking cessation; pulmonary rehabilitation; immunisations.<div><br></div><div><b>2. Meds</b></div><div><i>Immunosuppression </i>e.g. prednisolone, azathioprine (limited evidence).</div><div><i>Specialist medications </i>e.g. perfenidone, nintedanib</div><div><br></div><div><b>3. Surgical</b>: lung transplant.</div><div><br></div><div><b>NOTES</b></div><div>There is very little evidence-based treatment for IPF.</div><div><br></div><div>UPDATED 2020</div>"
             ],
@@ -7110,6 +7576,40 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the complications of open AAA repair?",
+                "<div>Sort by general vs specific</div><div><b><br></b></div><div><b>General</b></div><div><div><div><i>1. GA-related</i> e.g. intubation trauma, adverse drug reactions.<div><i>2. Haemorrhage<b>.</b></i></div><div><i>3. Damage</i> e.g. ureters.</div><div><div><i>4. Infection</i> e.g. graft, wound, pneumonia.</div></div></div><div><i>5. Venous thromboembolism.</i></div></div></div><div><br></div><div><b>Specific complications</b></div><div><i>1. Myocardial infarction.</i></div><div><i>2. Ischaemia </i>e.g. kidney, bowel, leg (trash foot).</div><div><i>3. Graft </i>e.g. thrombosis, infection.</div><div><i>4. Anastomosis: </i>aneurysm, fistulation.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "unj41$[D_c",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of EVAR?",
+                "<div><div>Sort by general vs specific</div><div><br></div><div><b>General</b></div><div><div><div><i>1. Haemorrhage</i> e.g. pseudoaneurysm.<div><i>2. Damage.</i></div><div><div><i>3. Infection </i>e.g. graft, wound, pneumonia.</div></div></div><div><i>4. Venous thromboembolism.</i></div></div></div></div><div><b><br></b></div><div><b>Specific</b></div><div><i>1. Cardiopulmonary </i>e.g. myocardial infarction.</div><div><i>2. Endograft </i>e.g. thrombosis, leak, migration, component separation, infection.</div><div><i>3. Ischaemia </i>e.g. bowel, leg (trash foot), kidney.</div><div><i>4. Contrast medium</i> e.g. hypersensitivity, nephropathy.</div><div><br></div><div><b>NOTES</b></div><div><i>EVAR</i> = endovascular aneurysm repair.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "rX)^hM)NR5",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is Kallman syndrome?",
                 "Hypogonadotropic hypogonadism with anosmia<div><br></div><div><b>NOTES</b></div><div>A genetic disorder, due to failure of migration of hypothalamic GnRH-secreting neurons.</div><div>Represents a type of tertiary hypogonadism.</div><div><br></div><div>UPDATED 2020</div>"
             ],
@@ -7135,6 +7635,40 @@
             "tags": [
                 "Endocrine,",
                 "Obstetrics,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of varicose veins?",
+                "<b></b><b>History</b><br><div>Visible veins.<br><div>May be itching, discomfort, or aching (worse at night).</div><div>May be oedema, ulceration, or bleeding.</div></div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>visible tortous veins.</div><div><i>Palpation: </i>may be abdo or pelvic tumour (causing venous obstruction).</div><div><i>Bedside tests: </i>venous doppler or tournique test may identify level of incompetence.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "PrhI2`]^p2",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is lipodermatosclerosis?",
+                "<div><b>Inflammation of the subcutaneous fat</b> in chronic venous insufficiency.</div><div><br></div><div><b>NOTES</b></div><div>Lower legs typically have an 'inverted cola bottle' appearance.</div><div>Often seen together with other signs of venous insufficiency.</div><div><br></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "xCSC@AF0#K",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
             ]
         },
         {
@@ -7447,6 +7981,21 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Describe how to measure the ankle-brachial pressure index (ABPI)",
+                "<div><div><div>1. Lie patient supine.</div><div>2. Measure sBP in both dorsalis pedis and posterior tibial (record the higher value).</div><div>3. Measure sBP in the brachial artery of each arm (record the higher value).</div><div><br></div><div><b>NOTES</b></div><div><i>ABPI</i> = sBP in leg/sBP in arm.</div></div></div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "K:fqwVj6t%",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is the recommended screening for complications in T2DM?",
                 "<div><b>1. Annual retina photo.</b></div><div><b>2. Annual diabetes nurse review: </b>examination (weight, BP, feet, urine dip) and bloods (HbA1c, lipids, U&amp;Es)</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -7547,7 +8096,7 @@
             "data": "",
             "fields": [
                 "What is thyroid acropachy?",
-                "A sign of Graves disease.<div><br></div><div><b>NOTES</b></div><div>Resembles finger nail clubbing, occurs due to periosteal bone formation.</div><div><br></div><div>UPDATED 2020</div>"
+                "A sign of Graves disease.<div><br></div><div><b>NOTES</b></div><div>Resembles finger nail clubbing, occurs due to periosteal bone formation.</div><div><br></div><div><img src=\"paste-9965b9dd5d1ff854bc6055394fcb6306e44edddf.jpg\"><br></div><div><br></div><div>UPDATED 2020</div>"
             ],
             "flags": 0,
             "guid": "b?@[s|:*4j",
@@ -7699,7 +8248,7 @@
             "data": "",
             "fields": [
                 "What are the clinical features of hypercalcaemia?",
-                "<div>Sort symptoms by organ system</div><div><b><br></b></div><div><b></b><b>History</b></div><div><i>Neuro:</i> tiredness, acute confusion.</div><div><i>Urinary:</i> polyuria, polydipsia, may be renal stones.</div><div><i>GIT:</i> constipation, nausea.</div><div><i>Skeletal:</i> pathological fractures (demineralisation).</div><div><i><br></i></div><div><b>Exam</b></div><div><i>Inspection: </i>signs of delirium, dehydration.</div><div><i>Palpation: </i>may be abdo tenderness.</div><div><br></div><div><b>NOTES</b></div><div><i>Mnemonic</i> for features of hypercalcaemia: <i>\"stones, bones, and groans\"</i>.</div><div><br></div><div>UPDATED 2020<br></div>"
+                "<div>Sort symptoms by organ system</div><div><b><br></b></div><div><b></b><b>History</b></div><div><i>Neuro:</i> tiredness, acute confusion.</div><div><i>Urinary:</i> polyuria, polydipsia, may be renal stones.</div><div><i>GIT:</i> constipation, nausea.</div><div><i>Skeletal:</i> pathological fractures (demineralisation).</div><div><i><br></i></div><div><b>Exam</b></div><div><i>Inspection: </i>signs of delirium, dehydration.</div><div><i>Palpation: </i>may be abdo tenderness.</div><div><br></div><div><b>NOTES</b></div><div><i>Mnemonic</i> for features of hypercalcaemia: <i>\"stones, bones, and psychic groans\"</i>.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
             "flags": 0,
             "guid": "Du:CK|UCD&",
@@ -7787,6 +8336,74 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected carotid artery disease?",
+                "Sort by clinical relevance<div><b><br></b></div><div><b>Most important:</b> carotid doppler.</div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. Bloods</i> (including lipids and HbA1c).</div><div><i>2. ECG.</i><br><div><i>3. Imaging: </i>consider CT or MR angiography, angiography.</div><div><div><div><br></div><div><b>NOTES</b></div><div><i>MRI angiography</i> tends to overestimate the degree of stenosis.</div></div></div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "FrtiOl~ufZ",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for an aortic aneurysm?",
+                "<div>Sort by history</div><div style=\"font-weight: bold; \"><b><br></b></div><b>Demographics </b>e.g. age, male, Caucasian.<div><div><b>PMHx </b>e.g. hypertension, atherosclerosis, other large vessel aneurysm.</div><div><span style=\"\"><b>SHx </b></span>e.g. smoking.</div><div><b>FHx</b> e.g. AAA in first degree relative.</div></div><div><br></div><div><b>NOTES</b></div><div>Some aortic aneurysms have a particular identifiable cause e.g. infective or autoimmune aortitis, Marfan's, Ehlers-Danlos.</div><div>Atherosclerosis and aneurysmal disease share risk factors, but are believed to have distinct pathogenesis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "D$5@ZWm?v.",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the contraindications to EVAR?",
+                "Sort by rationale<div><b><br></b></div><div><b>1. Aneurysm properties</b> e.g. short neck length, neck angulation, morphology.<div><div><b>2. Iliac artery properties</b> e.g. tortuosity, stenotic disease.</div><div><b>3. Renal dysfunction</b> (contrast agents).</div></div><div><br></div><div><div><b>NOTES</b></div><div><i>EVAR</i> = endovascular aneurysm repair.</div></div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "DLt^#@dnG}",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a visceral aneurysm?",
+                "<div>An aneurysm in the artery supplying an abdominal organ.</div><div><br></div><b>NOTES</b><div>Hepatic and splenic artery aneurysms are the most common.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "xc%D&fZ~yY",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
             ]
         },
         {
@@ -9000,6 +9617,108 @@
             "tags": [
                 "Respiratory,",
                 "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the normal range for ABPI?",
+                "1.0-1.2<div><br></div><div><div><b>NOTES</b></div><div><b><br></b></div><div><img src=\"paste-912794f5826bb215a59162597e8555b484d591b2.jpg\"><b><br></b></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "A.sIeu6iNO",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of a low ABPI?",
+                "<div>Arterial disease<div><br></div><div><div><b>NOTES</b></div><div><i>ABPI</i> = ankle-brachial pressure index.</div><div><br></div><div><img src=\"paste-14b940a747c6c5d127ce91d824b2745f0a35d5a9.jpg\"><br></div><div><i><br></i></div><div>UPDATED 2020</div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "E]0]x~9)6u",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of a high ABPI?",
+                "<div><b>Calcified arteries</b> (may not compress normally).</div><div><b><br></b></div><div><b>NOTES</b></div><div><i>ABPI</i> = ankle-brachial pressure index.</div><div><i><br></i></div><div><img src=\"paste-14b940a747c6c5d127ce91d824b2745f0a35d5a9.jpg\"><i><br></i></div><div><i><br></i></div><div>UPDATED 2020&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "KlsbiV>byX",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What monitoring is required for an asymptomatic AAA measuring 3-4.4cm?",
+                "Annual USS<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "g|k?LroOc.",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What monitoring is required for an asymptomatic AAA measuring 4.5-5.4cm?",
+                "USS every 3 months.<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "B.#&L*~Jj)",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What monitoring is required for an asymptomatic AAA measuring ≥5.5cm?",
+                "Intervention is needed.<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "Iy!do[>BG@",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
             ]
         },
         {
@@ -10438,6 +11157,108 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the indications for carotid endarterectomy (CEA) in a patient with asymptomatic carotid stenosis?",
+                "All of the following:<div><br><div>1. Stenosis 60-99%.</div><div>2. Life expectancy minimum 5y.</div><div>3. Perioperative risk of death for surgeon or centre &lt;3%.</div><div><br></div><div><div><b>NOTES</b></div><div>Patient must have a resectable lesion and no medical contraindication to anaesthesia or surgery.</div><div><i><br></i></div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "lFXd5}K*K=",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Buerger disease?",
+                "<b>A peripheral vascular disease</b>, characterised by segmental inflammation and occlusion of small and medium arteries and veins.<div><br></div><div><b>NOTES</b></div><div>Also called 'thromboangiitis obliterans'.</div><div>Typical patient is a young male, heavy smoker.</div><div>Pathology does not involve atheroma and is distinct from other vasculitis with relative sparing of the vessel wall.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "FREJK3]#$a",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of Buerger disease?",
+                "<b></b><b>History</b><br><div><div>Typical patient is a young male, heavy smoker.</div></div><div>Claudication with rapid progression to rest pain and tissue loss, usually in two or more limbs.</div><div>May be numbness and tingling in limbs.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>tissue loss (arterial ulcers and gangrene), long CRT, pale peripheries, enlarged cord-like veins (advanced disease).</div><div><i>Palpation: </i>weak or absent pulses, cool peripheries, tender superficial veins.</div><div><br></div><div><b>NOTES</b></div><div><i>CRT</i> = capillary refill time.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "D4T=2BGf=D",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected Buerger disease?",
+                "Sort by clinical relevance<div><b><br></b></div><div><b>Most important:</b> angiography&nbsp;(may show 'corkscrew' appearance of peripheral arteries)</div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. Bloods</i> e.g. FBC, LFTs, U&amp;Es, ESR, CRP, autoantibodies (vasculitis screen).<div><i>2. Urine:</i> dip</div><div><i>3. Imaging </i>e.g. doppler.</div><div><i>4. Echocardiogram</i> (rule out source of emboli)</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "JAURo,CfDO",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for Buerger disease?",
+                "<b>1. Conservative </b>e.g. smoking cessation; avoid triggers (such as cold); avoid injury to extremities (risk of ulceration).<div><br></div><div><b>2. Meds</b> e.g. iloprost (consider), nifedipine, pentoxifylline, cilostazol</div><div><br></div><div><b>3. Interventional radiology</b> e.g. extended angioplasty (consider).</div><div><br></div><div><b>4. Surgery</b> e.g. amputation (bypass usually has poor outcome).</div><div><br></div><div><b>NOTES</b></div><div>Ulceration, infection, and gangrene require aggressive treatment.</div><div><br></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "rtzjO?)ld#",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the subclavian steal phenomenon?",
+                "Clinical syndrome due to <b>stenosis of the subclavian artery</b> (proximal to the vertebral artery origin). <div><br></div><div><div><b>NOTES</b></div><div>When the the arm is exercised there is reverse flow in the vertebral artery and blood is 'stolen' from the vertebrobasilar system, causing neurological dysfunction.</div><div></div><div><i><br></i></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "w/|ID~d<:C",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "List four 'atypical' CAP pathogens",
                 "1. Mycoplasma pneumoniae.<div>2. Legionella.</div><div>3. Chlamydophila pneumoniae.</div><div>4. Chlamydophila psittaci.</div><div><br></div><div><b>NOTES</b></div><div><i>Atypical pathogens </i>are often not identified in clinical practice, due to lack of reliable tests (with exception of Legionella).</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -10649,7 +11470,8 @@
             "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
             "tags": [
                 "Respiratory,",
-                "Y3::Med_A::Respiratory"
+                "Y3::Med_A::Respiratory",
+                "leech"
             ]
         },
         {
@@ -11350,7 +12172,7 @@
             "data": "",
             "fields": [
                 "What is Conn syndrome?",
-                "<b>Primary hyperaldosteronism</b>, due to an aldosterone-producing adenoma.<div><br></div><div><b>NOTES</b></div><div>Characteristic clinical features are hypertension and hypokalaemia.</div><div><br></div><div>UPDATED 2020</div>"
+                "<b>Primary hyperaldosteronism</b>, due to an aldosterone-producing adenoma.<div><br></div><div><b>NOTES</b></div><div>Characteristic clinical features are hypertension and hypokalaemia.</div><div><br></div><div><img src=\"tumblr_nps16rEBbR1rhzu54o1_500.png\"><br></div><div><br></div><div>UPDATED 2020</div>"
             ],
             "flags": 0,
             "guid": "vR1ul|OT6V",
@@ -11410,7 +12232,7 @@
             "data": "",
             "fields": [
                 "List the zones of the adrenal cortex",
-                "Mnemonic GFR<div><br></div><div>Zona <b>Glomerulosa</b> (outer): mineralocorticoids.</div><div>Zona <b>Fasciculata</b> (middle): glucocorticoids and androgens.</div><div>Zona <b>Reticulata</b> (inner): oestrogens.</div><div><br></div><div>UPDATED 2020<br></div>"
+                "Mnemonic GFR<div><br></div><div>Zona <b>Glomerulosa</b> (outer): mineralocorticoids.</div><div>Zona <b>Fasciculata</b> (middle): glucocorticoids.</div><div>Zona <b>Reticulata</b> (inner): androgens&nbsp;</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
             "flags": 0,
             "guid": "vWN/xxNQs>",
@@ -11836,6 +12658,23 @@
             "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
             "tags": [
                 "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for thoracic aortic dissection? ",
+                "<b>1. Resus</b><div>A+B - consider airway support and oxygen.</div><div>C - IV access.</div><div>Make NBM.</div><div>Call vascular surgeon, cardiothoracic surgeon, and ICU consultant.</div><div><br></div><div><b>2. Meds</b></div><div><i>Analgesia</i> e.g. morphine.</div><div><i>BP control </i>e.g. beta blocker, diltiazem.</div><div><br></div><div><b>3. Surgery</b></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "n]uhf*u/57",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
             ]
         },
         {
@@ -24795,6 +25634,92 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the features of critical limb ischaemia?&nbsp;",
+                "- Rest pain in foor for more than <b>2 weeks</b>&nbsp;<div>- Ulceration&nbsp;</div><div>- Gangrene&nbsp;</div><div><br></div><div>NOTES&nbsp;</div><div>UPDATED 2020&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "qbfc8XB4Li",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a Marjolin's ulcer?&nbsp;",
+                "It a squamous cell carcinoma&nbsp;<div>- Occurs at sites of chronic inflammation e.g. burns, osteomyelitis after 10-20 years&nbsp;</div><div>- Mainly occur on the lower limb</div><div><br></div><div><img src=\"scc-007__WatermarkedWyJXYXRlcm1hcmtlZCJd.JPG\" style=\"width: 213px; height: 150px;\"><img src=\"marjolin-ulcer-07__WatermarkedWyJXYXRlcm1hcmtlZCJd.JPG\" style=\"width: 213px; height: 150px;\"><br></div><div>Dermnet&nbsp;</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "lv>G]a7mM$",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the three criteria for aneursym surgery?&nbsp;",
+                "- An asymptomatic aneurysm larger than 5.5cm in diameter&nbsp;<div>- An asymptomatic aneurysm which is enlarging by more than 1cm per year&nbsp;</div><div>- A symptomatic aneurysm&nbsp;</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "wthu0pe7:6",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the classic triad of a ruptured aorta?&nbsp;",
+                "- Flank or back pain<div>- Hypotension&nbsp;</div><div>- Pulsatile abdominal mass&nbsp;</div><div><br></div><div><b>NOTES</b>&nbsp;</div><div>UPDATED 2020 from university notes&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "K?c/1;Agl0",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of an emergency AAA repair?&nbsp;",
+                "<b>Complications&nbsp;</b>&nbsp;<div>- Bleeding</div><div>- Infection&nbsp;</div><div>- Cardiac/respiratory/renal compromise&nbsp;</div><div>- Bowel/limb ischaemia&nbsp;</div><div>- Stoma&nbsp;</div><div>- Amputation&nbsp;</div><div>- Stroke&nbsp;</div><div>- DVT/PE&nbsp;</div><div>- Death&nbsp;</div><div><br></div><div><b>Notes&nbsp;</b>&nbsp;</div><div>Updated 2020 from University notes&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "s)&2=^12P+",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Surg_B::Vascular",
+                "surgery,",
+                "vascular,"
             ]
         },
         {
