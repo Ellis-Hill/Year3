@@ -85,6 +85,7 @@
         "ECG-Wenckebach-AV-block-1.jpg",
         "ECG-showing-sinus-bradycardia.png",
         "FakJQSI5oFPKsKHgpMxVvab4o-Yf9QAXvitVdedB_e3ZK6ukxYJITsAzI5bghKi7XVHUH_j5vUWl90baDAGKC8vMpOm_9h0.jpg",
+        "GEN0418_0001_table_b.jpg",
         "Prehospital+limb+leads.jpg",
         "TrafficLightSickKids.jpg",
         "a-conglobata2__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg0XQ.jpg",
@@ -194,6 +195,7 @@
         "paste-00a6a99e43f00ec688c911f519dcfccbadc31cd7.jpg",
         "paste-027e7a0b1d3311d39a763205e7fe78c908ecc323.jpg",
         "paste-060db37aaca56a47684b0fe2d48c848ce6d6a52e.jpg",
+        "paste-06da19f8a53952fb9112723cc3bcd12a40c0013e.jpg",
         "paste-07ce9b17653786d155b041a3980f77f012e4813d.jpg",
         "paste-086c62e28e82f2085d2f21331102472505a7a545.jpg",
         "paste-08b7a4524527bc79e5537bc72fbceda21248ac37.jpg",
@@ -608,6 +610,58 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "name": "Basic-2ca8e",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Forward",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "710c1dd6-bac5-11ea-a517-48ba4e4e145b",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #ffffff;text-align: left }",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-e8865",
             "req": [
                 [
                     0,
@@ -1153,6 +1207,25 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the extra-intestinal complications of Crohn disease?",
+                "Sort by organ system<div><br></div><div><b>1. Joints: </b>IBD-associated arthritis.</div><div><b>2. Skin:</b> clubbing, erythema nodosum, pyoderma gangrenosum.</div><div><b>3. Eyes: </b>uveitis, episcleritis.</div><div><b>4. HPB:</b> primary sclerosing cholangitis (MORE LIKELY UC)&nbsp;</div><div><b>5. Blood:</b> thromboembolism, anaemia (B12).</div><div><b>6. Pulmonary:</b> bronchiectasis, interstitial lung disease.</div><div><b>7. Bones:</b> osteoporosis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "lL^Bj!*)9|",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Gastroenterology,",
+                "Orthopaedics,",
+                "Respiratory,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Which system is used to describe severity in internal haemorrhoids?",
                 "<div>1st to 4th degree</div><div><br></div><div><b>NOTES</b></div><i>1st degree</i> are confined to the anal canal.<br><i>2nd degree</i> prolapse on defacation, then reduce spontaneously.<br><i>3rd degree</i> prolapse on defacation, may be manually reduced.<br><i>4th degree</i> remain prolapsed at all times.<div><br></div><div>UPDATED 2020</div>"
             ],
@@ -1267,6 +1340,106 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is colonic angiodysplasia?",
+                "<div><b>A vascular disorder of the colonic mucosa</b>, characterised by dilated veins, venules, or capillaries.</div><div><b><br></b></div><div><b>NOTES</b></div><div>Most common in the elderly.</div><div>Often asymptomatic, may cause recurrent PR bleeding.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "fsini/*DNb",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of colonic angiodysplasia?",
+                "<b></b><b>History</b><br><div>Recurrent PR bleeding, may be large volume.<div><div>May be anaemia symptoms e.g. tiredness, dyspnoea, palpitations.</div><div><div><br></div></div><div><b>Exam</b></div><div><i>Obs:</i> may be tachycardia, hypotension (if massive bleed).</div></div></div><div><i>PR: </i>fresh blood.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "s6(y[$E*|f",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of colitis?",
+                "<div>Sort by mechanism</div><div><br></div><div><b>Infection</b> e.g. C. Diff, shigella, campylobacter, amoebic colitis.</div><div><b>Vascular</b> e.g. ischaemic colitis.</div><div><b>Inflammatory</b> e.g. UC, Crohn disease, microscopic colitis.</div><div><b>Iatrogenic</b> e.g. enemas, laxatives, radiation.</div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "<Nnu_1ogQ",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Inflammation,",
+                "Y3::Med_B::Gastrointestinal",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of ulcerative colitis (UC)?",
+                "<div>Sort symptoms by pathological process.</div><div><b><br></b></div><div><b></b><b>History</b></div><div><i>Mucosal inflammation</i> e.g. diarrhoea (± blood, mucus, or pus), abdo pain, cramping.</div><div><i>Constitutional symptoms </i>e.g. fever, tiredness, weight loss.</div><div><i>Extraintestinal symptoms </i>e.g. arthritis, eyes, skin, PSC, osteoporosis.</div><div><div><br><b>Exam</b><br><i>Obs:</i> may be fever, tachycardia.<br><i>Inspection:</i> abdo swelling (fulminant colitis), clubbing, arthritis, erythema nodosum, pyoderma gangrenosum.</div><div><i>Palpation: </i>LIF tenderness.</div><div><i>PR: </i>fresh blood, rectal mucosa may feel oedematous.</div></div><div><br></div><div><b>NOTES</b></div><div>The majority of cases present with an attack of mild severity.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "r;zhl!~1y*",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected ulcerative colitis (UC)?",
+                "Sort by clinical relevance<div><b><br></b></div><div><b>Most Important:</b> colonoscopy and rectal biopsy.</div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. Bloods</i> e.g. FBC, ferritin, LFTs, ESR, CRP.&nbsp;<br><i>2. Stool </i>e.g. faecal blood, calprotectin.<br><i>3. Imaging </i>e.g. AXR, barium enema, white cell scans.<div><b><br></b></div><div><b>NOTES</b></div><div><i>Barium enema</i> is contraindicated in acute colitis, it may precipitate toxic megacolon.</div><div><i>White cell scans</i> (nuclear medicine) may be useful.</div><div><i><br></i></div></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "uc:mo.XL8J",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the acute complications of ulcerative colitis (UC)?",
+                "<div><i>1. Toxic megacolon</i> (risk of perforation).</div><div><i>2. Haemorrhage </i>(anaemia).</div><div><i>3. Sepsis.</i></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "f(,bxF,zH8",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the risk factors for colorectal cancer?",
                 "Sort by history<div><br></div><b>Demographics </b>e.g. age, male, Afrocaribbean.<div><b>PMHx </b>e.g. familial colorectal cancer syndrome, inflammatory bowel disease, previous radiotherapy.</div><div><b>FHx </b>e.g. HNPCC, FAP, Peutz-Jeghers, Juvenile polyposis.</div><div><br></div><div><b>NOTES</b></div><div><i>HNPCC</i> = hereditary non-polyposis colon cancer (Lynch Syndrome).</div><div><i>FAP</i> = familial adenomatous polyposis.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -1279,6 +1452,42 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is familial adenomatous polyposis (FAP)?",
+                "<div>A hereditary colorectal cancer syndrome</div><div><br></div><div><b>NOTES</b></div><div>FAP has autosomal dominant inheritance.</div><div><div>Polyps appear in early teens, symptoms by early 30s, cancer by 40.</div></div><div><div>Treated by total colectomy.</div></div><div>Due to mutation in the APC (adenomatous polyposis coli) gene.</div><div>Eye lesions caused by CHRPE (congenital hypertrophy of the retinal pigment epithelium) are often present.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "emvr-5V*As",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Genetics,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is hereditary non-polyposis colon cancer (HNPCC)?",
+                "<div><div><div>A familial colorectal cancer syndrome - Mutation in MLH1, MSH2, MSH6, PMS2 or EPCAM genes.&nbsp;</div><div><br></div></div></div><div><b>NOTES</b></div><div>Also called Lynch syndrome.</div><div>HNPCC has autosomal dominant inheritance.</div><div>Biennial colonoscopy and endometrial cancer screening is recommended for those at risk.</div><div>Caused by mutations in DNA mismatch repair genes.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "c,GM+UFrlo",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Genetics,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -2132,7 +2341,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Which tumours are associated with MEN1 (multiple endocrine neoplasia)?",
+                "Which tumours are associated with MEN1 (multiple endocrine neoplasia)? - Think PPP&nbsp;",
                 "Mnemonic = PPP<br><div><i><br></i><div><div><div><b>1. Parathyroid.</b><br><b>2. Pituitary</b> e.g. PRL, GH.<br><b>3. Enteropancreatic tumours (Pancreatic)</b>&nbsp;e.g. gastrinoma, insulinoma.</div></div><div><br></div><div><b>NOTES</b></div><div>Also called Werner syndrome</div><div><br></div><div>UPDATED 2020<br></div></div></div>"
             ],
             "flags": 0,
@@ -2148,7 +2357,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Which tumours are associated with MEN2A (multiple endocrine neoplasia)?",
+                "Which tumours are associated with MEN2A (multiple endocrine neoplasia)? - Think TAP",
                 "<div>Mnemonic TAP</div><div><br></div><div><b>1. Thyroid</b> (medullary carcinoma).<br><b>2. Adrenal</b> (phaeochromocytoma).<br><b>3. Parathyroid.</b></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
             "flags": 0,
@@ -2541,6 +2750,198 @@
                 "Y3::Surg_B::Vascular",
                 "surgery,",
                 "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the life-threatening complications of acute kidney injury?",
+                "Sort by ABC<div><br></div><div><div><b>A+B:</b> pulmonary oedema (unresponsive to meds).</div><div><b>C:</b> uraemic pericarditis or cardiac tamponade.</div><div><b>D:</b> uraemic encephalopathy.</div><div><b>Metabolic: </b>hyperkalaemia K≥6.5mmol/l (unresponsive to meds); acidosis pH≤7.1</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qp>/meR?ql",
+            "newlyAdded": false,
+            "note_model_uuid": "710c1dd6-bac5-11ea-a517-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of pre-renal acute kidney injury?",
+                "<div>Sort by mechanism</div><div><br></div><div><b>1. Hypovolaemia</b> e.g. dehydration, haemorrhage.</div><div><b>2. Systemic hypotension</b> e.g. sepsis, anaphylaxis, acute heart failure, acute liver failure.</div><div><b>3. Local hypoperfusion</b> e.g. NSAIDs, ACE-i, AAA, arterial dissection.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qn$[4^t%8.",
+            "newlyAdded": false,
+            "note_model_uuid": "710c1dd6-bac5-11ea-a517-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of post-renal acute kidney injury?",
+                "Sort by anatomy<div><b><br></b></div><div><b>1. Renal tubules</b> (cast nephropathy) e.g. urate, haem pigment.</div><div><b>2. Ureter</b> e.g. calculi, malignancy, retroperitoneal fibrosis.</div><div><b>3. Urethra</b> e.g. malignancy, BPH, stricture.</div><div><b><br></b></div><div><b>NOTES</b></div><div><i>Urate casts</i> may result from tumour lysis syndrome.</div><div><i>Haem pigment casts</i> may result from rhabdomyolysis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "oeEzRw|5^w",
+            "newlyAdded": false,
+            "note_model_uuid": "710c1dd6-bac5-11ea-a517-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the indications for dialysis in acute kidney injury?",
+                "Sort by ABC<div><br></div><div><b>A+B:</b> pulmonary oedema (unresponisve to meds).</div><div><b>C:</b> uraemic pericarditis or cardiac tamponade.</div><div><b>D:</b> uraemic encephalopathy.</div><div><b>Metabolic: </b>hyperkalaemia K≥6.5mmol/l (unresponsive to meds); acidosis pH≤7.1</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "cy7UE<kI.=",
+            "newlyAdded": false,
+            "note_model_uuid": "710c1dd6-bac5-11ea-a517-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the diagnostic criteria for nephrotic syndrome?",
+                "All of the following:<div><br><b>1. Peripheral oedema.</b><div><b>2. Proteinuria</b> (&gt;3g/24h or PCR &gt;300mg/mmol).<br><b>3. Hypoalbuminaemia</b> (&lt;25g/l).</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "pDh,qu!&P}",
+            "newlyAdded": false,
+            "note_model_uuid": "710c1dd6-bac5-11ea-a517-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of nephritic syndrome?",
+                "<b>1. History</b><div>Haematuria.</div><div>Oliguria.</div><div>Oedema.</div><div>Uraemic symptoms e.g. pruritus, tiredness, anorexia, nausea.</div><div><br></div><div><b>2. Exam</b></div><div><i>Obs:</i> hypertension.</div><div><i>Inspection: </i>peripheral oedema.</div><div><i>Bedside tests: </i>urine dip may show blood, protein.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "fb2ryle{Ci",
+            "newlyAdded": false,
+            "note_model_uuid": "710c1dd6-bac5-11ea-a517-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of chronic kidney disease?",
+                "<div>Sort symptoms by mechanism</div><div><b><br></b></div><div><b></b><b>History</b></div><div><i>Fluid balance:</i> polyuria or oliguria, oedema.</div><div><i>Uraemia:</i> pruritus, anorexia, nausea, infections (immunosuppression), sexual dysfunction.</div><div><div><i>Anaemia:</i> tiredness, dyspnoea, palpitations.</div></div><div><i>Electrolyte derangement:</i> muscle cramps, palpitations.</div><div><i>Bone disease:</i> pathological fractures.</div><div><i><br></i></div><div><b>Exam</b></div><div><i>Obs:</i> hypertension.</div><div><i>Inspection: </i>oedema, pallor, increased skin pigmentation.</div><div><i>Bedside tests: </i>urine dip may show protein, blood.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "rdPsx7zYbs",
+            "newlyAdded": false,
+            "note_model_uuid": "710c1dd6-bac5-11ea-a517-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for chronic kidney disease?",
+                "<div>Must find and address the underlying cause.</div><div><br></div><div><b>1. Conservative</b></div><div>Patient education.</div><div>Dietician referral (low protein, salt, and potassium).</div><div>Avoid nephrotoxic meds.</div><div><br></div><div><b>2. Treat complications</b> (consider)</div><div><i>Hypertension:</i> ACE-i or ATRA.&nbsp;</div><div><i>Anaemia:</i> iron, EPO.</div><div><i>Bone disease:</i> vitamin D, phosphate binders (calcichew), calcimimetics (cinecalcet), parathyroidectomy.</div><div><i>Gout:</i> allopurinol.</div><div><i>Cholesterol</i>: Statin&nbsp;</div><div><br></div><div><b>3. Renal replacement </b>e.g. peritoneal dialysis, haemodialysis, kidney transplant.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "h.-Ow`(A,/",
+            "newlyAdded": false,
+            "note_model_uuid": "710c1dd6-bac5-11ea-a517-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of renal replacement therapy",
+                "Sort by mechanism<div><br></div><div>1. Peritoneal dialysis.<br>2. Haemodialysis.<br><div>3. Kidney transplant.</div></div><div><br></div><div><b>NOTES</b></div><div><i>Peritoneal dialysis</i> is usually 4x per day.</div><div><i>Haemodialysis </i>is usually 3x per week.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "sC}&><i?cQ",
+            "newlyAdded": false,
+            "note_model_uuid": "710c1dd6-bac5-11ea-a517-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of peritoneal dialysis?",
+                "<div>Sort by mechanism</div><div><br></div><b>1. Infection</b> e.g. port infection, peritonitis.<div><div><div><b>2. Adhesions</b>.</div></div><div><b>3. Weight gain</b> (due to glucose in dialysate)</div><div><b>4. Constipation</b> (due to osmotic drying of faeces).</div><div><b>5. Mechanical problems</b> e.g. hernias, leaks, back pain.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "k(WilZu1jl",
+            "newlyAdded": false,
+            "note_model_uuid": "710c1dd6-bac5-11ea-a517-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of oliguria?",
+                "<div>Urine output <b>&lt;0.5 ml/kg/h.</b></div><div><b><br></b></div><div><b>NOTES</b></div><div>This is equivalent to &lt;35 ml/h for the standard 70kg man.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "gtRg6lZn-%",
+            "newlyAdded": false,
+            "note_model_uuid": "710c1dd6-bac5-11ea-a517-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of chronic kidney disease?",
+                "<div>Sort by prevalence</div><div><br></div><div><b>Most common</b></div><div><i>1. Diabetes.</i></div><div><i>2. Hypertension.</i></div><div><br></div><div><b>All the rest</b></div><div><i>1. Pre-renal</i> e.g. heart failure, liver failure, renal artery stenosis.</div><div><i>2. Intrinsic</i> e.g. PKD, glomerulonephritis.</div><div><i>3. Post-renal</i> e.g. cast nephropathy (myeloma), obstructive nephropathy (malignancy, BPH)</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "sy;KF0#.(.",
+            "newlyAdded": false,
+            "note_model_uuid": "710c1dd6-bac5-11ea-a517-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
             ]
         },
         {
@@ -4327,6 +4728,60 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the causes of oesophagitis?",
+                "Sort by prevalence<div><br></div><div><b>Most common:</b> GORD.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Infection</i> e.g. CMV, herpes, candida.</div><div><i>2. Inflammatory</i> e.g. Crohn disease, SLE, SSc.</div><div><i>3. Drugs </i>e.g. alcohol, cytotoxics, radiation.</div><div><i>4. Metabolic</i> e.g. uraemia.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "fa~TFU8bnC",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Inflammation,",
+                "Metabolic,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of acute gastritis?",
+                "<div>Sort by prevalence</div><div style=\"font-weight: bold; \"><b><br></b></div><div><b style=\"font-weight: bold; \">Most common:</b> drugs e.g. alcohol, NSAIDs.</div><div><br><div><b>All the rest</b></div><div><i>1. Infection</i> e.g. Staphylococcus aureus toxins (food poisoning), Helicobacter pylori.<br><i>2. Vascular</i> e.g. stress ulceration.</div><div><i>3. Iatrogenic </i>e.g. radiotherapy.</div></div><div><br></div><div><b>NOTES</b></div><div><i>Stress ulceration</i> is caused by impaired gastric mucosal blood flow, seen in intensive care patients with multiorgan failure.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "tDku8a<];`",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for peptic ulcers?",
+                "<div><div>Sort by history</div></div><div><br></div><div><b>PMHx</b> e.g. Helicobacter pylori infection, gastric hyperacidity.</div><div><b>DHx</b> e.g. NSAIDs, aspirin, corticosteroids, alcohol.</div><div><b>SHx</b> e.g. smoking.</div><div><b>FHx</b> of peptic ulcers.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "ohlvoj2+BF",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the risk factors for gallstones?",
                 "<div><div>Sort by history</div></div><div><br></div><div>5F's&nbsp;</div><div><br></div><div>Female&nbsp;</div><div>Fat&nbsp;</div><div>Forty&nbsp;</div><div>Fertile&nbsp;</div><div>Fair&nbsp;</div><div><br></div><b>Demographics </b>e.g. age, female.<div><b>PMHx</b></div><div><i>High oestrogen</i> e.g. pregnancy.</div><div><i>High lipids</i> e.g. obesity, rapid weight loss, hyperlipidaemia.</div><div><i>Haemolysis.</i></div><div><i>Gallbladder stasis </i>e.g. diabetes, total parenteral nutrition.</div><div><b>DHx </b>e.g. oestrogen, fibrates.</div><div><b><br></b></div><div>UPDATED 2020<br></div>"
             ],
@@ -4484,6 +4939,210 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of malabsorption?",
+                "Sort by mechanism<br><br><div><div><b>1. Digestive juices </b>e.g. cholestasis, problem with pancreatic or hepatic synthetic function.<div><b>2. Small intestine surface area </b>e.g. coeliac disease, short gut syndrome.</div><div><b>3. Mucosa </b>eg. Crohn disease, acute enteritis, giardia infection.</div><div><b>4. Lymphatics </b>eg. lymphoma.</div></div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "t-G:3T%[.w",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Metabolic,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of diarrhoea?",
+                "Sort by mechanism<br><br><b>1. Secretory </b>e.g. rotavirus, cholera, microscopic colitis.<br><b>2. Exudative</b> e.g. IBD, campylobacter, shigella, salmonella.<br><b>3. Malabsorptive</b> e.g. cholestasis, pancreatic insufficiency, coeliac disease.<div><b>4. High motility </b>e.g. IBS, hyperthyroidism, short gut syndrome.<br><b>5. Overflow </b>e.g. colorectal cancer.</div><div><br></div><div><b>NOTES</b></div><div>Exudative diarrhoea is due to mucosal inflammation.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "g$?4k+;v^w",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of coeliac disease?",
+                "<div>Sort by seriousness</div><div style=\"font-weight: bold; \"><b><br></b></div><b>1. Malignancy </b>(lymphoma and GI cancers).<div><b>2. Stunting and weight loss </b>(malabsorption of fat).<b><br>3. Anaemia</b> (iron, folate, or B12 deficiency).</div><div><b>4. Osteopenia</b> (vitamin D deficiency).</div><div><b>5. Neurological dysfunction</b> (B12 deficiency).</div><div><b>6. Hyposplenism </b>(mechanism unknown).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "eb.Yam8-_.",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Metabolic,",
+                "Neurology,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of chronic dyspepsia?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><i>1. Cancer of oesophagus or stomach.</i></div><div><i>2. Peptic ulcer.</i></div><div><br></div><div><b>All the rest </b>(sort by anatomy)</div><div><i>1. Oesophagus </i>e.g. GORD, oesophagitis, oesophageal spasm.</div><div><i>2. Stomach </i>e.g. gastritis, hiatus hernia.</div><div><i>3. Gallbladder</i> (biliary colic).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "h#HN(A)rnV",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the red flags for urgent OGD in dyspepsia? - Two week referral&nbsp;",
+                "<div><div>Sort by clinical features</div><div><b><br></b></div><div><b>History</b> e.g. age ≥55y with new dyspepsia, symptoms of upper GI bleeding (haematemesis, melaena) or malignancy (progressive weight loss, progressive dysphagia, persistent vomiting).</div><div><b>Exam</b> e.g. signs of malignancy (cachexia, epigastric mass, Virchow's node).</div><div><b>Investigations</b> e.g. microcytic anaemia.</div><div><b><br></b></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "b@A+pVHu$(",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for uninvestigated dyspepsia? (no indication for urgent OGD)",
+                "<b>1. Conservative</b> e.g. smoking cessation; diet low in alcohol, caffeine, chocolate, fatty food; eat long before bed; raise head of bed.<div><br></div><div><div><div><b>2. Meds</b></div><div><i>First line:</i> regular gavison.</div><div><i>Second line:</i> test and treat for Helicobacter pylori.</div><div><i>Third line:</i> trial omeprazole 20mg BD for 1 month.</div></div></div><div><br></div><div><b>NOTES</b></div><div><i>Low threshold </i>for endoscopy referral.</div><div>Review meds that <b>relax the LOS</b> (CCBs, nitrates), and <b>irritate the mucosa</b> (NSAIDs, bisphophonates, SSRIs).</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "rn*1-^XeEJ",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment of reflux oesophagitis?",
+                "<b>1. Conservative</b> e.g. smoking cessation; diet low in alcohol, caffeine, chocolate, fatty food; eat long before bed; raise head of bed.<div><div><br><b>2. Meds</b><br>Omeprazole 20mg BD for 1-2 months.</div><div><i>If symptoms persist: </i>consider omeprazole 40mg BD 1 month.</div><div><br></div><div><b>3. Surgery </b>(consider Nissen fundoplication)</div></div><div><br></div><div><b>NOTES</b></div><div>Review meds that <b>relax the LOS</b> (CCBs, nitrates), and <b>irritate the mucosa</b> (NSAIDs, bisphophonates, SSRIs).</div><div><div><div><br></div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "lDK9WQ%`9]",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for an uncomplicated peptic ulcer?",
+                "<b>1. Patient education</b> e.g. smoking cessation; consider stopping NSAIDs, bisphosphonates, SSRIs, corticosteroids.<div><br><b>2. Meds</b><br><i>Helicobacter pylori positive:</i> eradication therapy.</div><div><i>H. pylori negative:</i> 2 months of omeprazole 20mg OD.</div><div><br></div><div><b>NOTES</b></div><div><i>H. pylori eradication therapy</i> = 1 week of omeprazole 20mg BD, clarithromicin 500mg BD, amoxycillin 1g BD (or metronidazole 500mg BD).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "nE6[0+pLrW",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is dyspepsia?",
+                "<div>An umbrella term for the following symptoms:</div><div><br></div><b>1. Ulcer-like</b> e.g. episodic epigastric pain, relieved by antacids and food, worse after delayed or large meals.<div><b>2. Dysmotility-like</b> e.g. epigastric bloating, premature satiety, nausea.</div><div><b>3. Reflux-like </b>e.g. retrosternal pain, acid regurge, waterbrash, worse on leaning forwards and after large meals.</div><div><i><br></i></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "sRJ_3:4BB=",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected Helicobacter pylori infection?",
+                "<div>Sort by mechanism</div><div><br></div><div><b>Endoscopic</b></div><div>1. Biopsy urease test (CLOtest).</div><div>2. Histology.</div><div>3. Bacterial culture.</div><div><br></div><div><b>All the rest</b></div><div>1. Carbon13 Urea breath test.</div><div>2. Serology.</div><div>3. Stool antigen assay.</div><div><br></div><div><b>NOTES</b></div><div><i>CLOtest</i> = Campylobacter-like organism test.</div><div><i>CLOtest</i> is an assay for bacterial urease, substrate turns red in the presence of the enzyme.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "un/P-(88D^",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for Helicobacter pylori infection?",
+                "<b>1. Meds</b> (7 day regimen, 3 drugs): omeprazole 20mg BD, amoxicillin 1g BD, and metronidazole 400mg BD (or clarithromicin 500mg BD).<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "t;qXhPweCv",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of acute upper GI bleeding?",
+                "<div>Sort by mechanism</div><div><b><br></b></div><div>1. Peptic ulcer.</div><div>2. Oesophageal varices.</div><div>3. Oesophagitis and gastritis.</div><div>4. Mallory-Weiss tears.</div><div>5. Malignancy.</div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "g(F,jjR3dq",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -4672,6 +5331,23 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the risk factors for gastric cancer?",
+                "<div><div>Sort by history</div></div><div><br></div><b>Demographics </b>e.g. age, male, Japanese, Chinese.<div><b>PMHx </b>e.g. Helicobacter pylori, peptic ulcer, autoimmune gastritis, gastric surgery.</div><div><div><span style=\"font-weight: bold\">SHx </span>e.g. smoking, diet high in salt and nitrates, low in fresh fruit.</div><div style=\"font-weight: bold; \">FHx <span style=\"font-weight: normal;\">e.g. hereditary diffuse gastric cancer.</span></div></div><div style=\"font-weight: bold; \"><span style=\"font-weight: normal;\"><br></span></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "fL~-wu*pRa",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the clinical features of gastric cancer?",
                 "<div>Sort symptoms by anatomy</div><div><br></div><b>History</b><br><i>Symptoms due to primary </i>e.g. epigastric pain, dysphagia, haematemesis and melaena (minority of cases).<br><i>Symptoms due to mets </i>e.g. jaundice.<div><i>Constitutional symptoms</i> e.g. tiredness, weight loss.<br><div><br><b>Exam</b><br><i>Inspection: </i>cachexia, pallor.<br><i>Palpation: </i>epigastric mass, lymphadenopathy e.g. Virchow's node, hepatomegaly.<br></div><div><br></div><div><b>NOTES</b></div><div><i>Lymphadenopathy</i> e.g. Virchow's node (left supraclavicular), Sister Mary Joseph's node (periumbilical), Irish node (left axilla).</div><div><br></div><div>UPDATED 2020</div></div>"
             ],
@@ -4745,6 +5421,38 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the clinical features of gastro-oesophageal reflux disease (GORD)?",
+                "<b></b><b>History</b><br>Chest pain (SOCRATES)<div>S - retrosternal.</div><div>O - after large meals.</div><div>C - squeezing or burning.</div><div>R - to back, neck, or jaw.</div><div>A - acid regurgitation, dysphagia, hypersalivation (waterbrash).<br><div>E - worse on stooping or lying flat.</div><div><div><div><br><b>Exam</b></div><div>Usually no signs.</div></div></div></div><div><br></div><div><b>NOTES</b></div><div>Dysphagia may result from oesophagitis or stricture.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "vx2F?P2zVB",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of gastro-oesophageal reflux disease (GORD)?",
+                "Sort by mechanism<div><br></div><div><b>1. Inflammation:</b> oesophagitis, peptic ulcer, Barrett's oesophagus (metaplasia), adenocarcinoma.<br><b>2. Scarring:</b> oesophageal stricture.</div><div><b>3. Aspiration:</b> recurrent pneumonia.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "t*G5&TTt*T",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is Cullen's sign?",
                 "Periumbilical bruising<br><br><div><b>NOTES</b></div><div>Seen in acute pancreatitis, blunt abdominal trauma, ruptured AAA, ruptured ectopic pregnancy.</div><div><i>AAA</i> = abdominal aortic aneurysm.</div><div><br></div><div>UPDATED 2020</div>"
             ],
@@ -4792,6 +5500,25 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of a peptic ulcer?",
+                "<div>Sort by mechanism</div><div><br></div>1. Haemorrhage.<br>2. Perforation.<br>3. Malignancy.<br><div>4. Fistula formation (inflammation).<br>5. Pyloric stenosis (scarring).<br></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "nVmsrHd652",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Gastroenterology,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal",
+                "vascular,"
             ]
         },
         {
@@ -4869,6 +5596,22 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Which scoring system is used to assess severity in acute colitis?",
+                "Truelove and Witt criteria<div><br></div><div><img src=\"paste-06da19f8a53952fb9112723cc3bcd12a40c0013e.jpg\"><br><div><br></div><div><b>NOTES</b></div><div>Sorts into mild, moderate, and severe acute colitis.</div><div><i>Truelove and Witt criteria:</i> number of bloody stools per day; temperature; HR; Hb; ESR.</div><div><div><i>Severe colitis</i> = &gt;6 stools per day plus any one of the other four criteria.</div></div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": ".||sSZo*a",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the treatment options for oesophageal cancer?",
                 "<div>Sort by members of the MDT</div><div><br></div><div><b>1. Surgeon</b> (radical or palliative surgery) e.g. oesophagectomy, stenting.</div><div><b>2. Nurse specialist </b>e.g. patient education.</div><div><b>3. Oncologist</b> e.g. chemotherapy, radiotherapy.</div><div><div><b style=\"font-weight: bold; \">4. Endoscopist </b>e.g. endoscopic therapy (early cancer).</div></div><div><b>5. Palliative care.</b></div><div><div><b><br></b></div><div>UPDATED 2020<br></div></div>"
             ],
@@ -4923,6 +5666,58 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Which investigations may be useful in suspected achalasia?",
+                "Sort by modality<div><b><br></b></div><div><b>1. Imaging</b> e.g. barium studies.<div><b>2. Manometry</b> may show elevated LOS pressure and absence of propulsive contractions.</div><div><b>3. OGD and biopsy</b> (must rule out malignancy).</div><div><br></div><div><b>NOTES</b></div><div><i>Barium studies</i> may show a dilated oesophagus with 'bird's beak' tapering at the LOS.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "iM*<++/gik",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for achalasia?",
+                "<b>1. </b><b>Meds</b> e.g. nifedipine or verapamil or isosorbide dinitrate.<div><div><br></div><div><b>2. Endoscopy </b>e.g. botulinum toxin injection, pneumatic dilatation.</div><div><br></div><div><b>3. Surgery </b>(laparoscopic Heller myotomy).</div><div><br></div><div><b>NOTES</b></div><div>Medication is the least effective treatment option.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "j?sJ=.y2]@",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of acute hepatocellular jaundice?",
+                "Sort by mechanism<br><br><b>Infection</b> e.g. Hepatatis virus (A, B, C, or E).<div><div><b>Inflammatory </b>e.g. autoimmune hepatitis, NASH.<br><div><b>Drugs</b> e.g. alcohol, paracetamol, NSAIDs, mushroom toxins.</div></div></div><div><br></div><div><b>NOTES</b></div><div><i>NASH</i> = non-alcoholic steatohepatitis.</div><div><div><div><br></div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "ey%U+`amy5",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Inflammation,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the causes of cholestatic jaundice?",
                 "Sort by mechanism<br><br><b>1. Gallstones.</b><br><b>2. Benign strictures </b>e.g. PBC, PSC, choledochal cyst.<br><b>3. Malignant strictures</b> e.g. pancreas cancer, extrinsic compression by metastatic tumour.<br><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -4953,6 +5748,120 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for severe acute colitis?",
+                "<b>1. Resus</b><br>A+B - consider airway support and O2.<div>C - IV fluids ± transfusion, catheter, monitor input/output.</div><div>Make NBM.</div><div><div><div><div><br><b>2. Meds</b><i><br></i></div><div>Analgesia.</div><div><b><font color=\"#008000\">IV Hydrocortisone 100mg</font></b> QDS and <b><font color=\"#008000\">predsol enemas</font></b> one BD.<div>LMWH prophylactic dose.</div><div>Consider antibiotics (see local guidelines).</div><div><br></div><div><i>Discuss with seniors:</i></div><div>Consider ciclosporin, infliximab.</div></div><div>Consider colectomy if unremitting acute colitis, toxic megacolon, or perforation.</div></div></div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "tP<+kjVzRn",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of irritable bowel syndrome (IBS)?",
+                "Clinical presentation is variable.<div><b><br></b></div><div><b></b><b>History</b><br>Episodic abdo pain (SOCRATES)<div>S - diffuse.</div><div>O - may be exacerbated by emotional stress and eating.</div><div>C - crampy.</div><div>A - altered bowel habit (diarrhoea, constipation, or mucus), dyspepsia.</div><div>E - relieved by opening bowels.</div><div><br><b>Exam</b><br>No signs.</div></div><div><br></div><div><b>NOTES</b></div><div>Symptoms <u>not</u> compatible with IBS include anorexia, weight loss, nocturnal abdo pain, rectal bleeding.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "sLV25i6sWF",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the diagnostic criteria for irritable bowel syndrome (IBS)?",
+                "<b>Recurrent abdo discomfort </b>≥3 days per month in the last 3 months, associated with ≥2 of...<br>1. Improvement with defecation.<br>2. Onset associated with a change in frequency of stool.<br>3. Onset associated with a change in form of stool.<div><br></div><div><img src=\"GEN0418_0001_table_b.jpg\"><br></div><div><br></div><div><b>NOTES</b></div><div><i>Rome 4</i>&nbsp;diagnostic criteria are widely accepted.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "mc1]])C9>9",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for irritable bowel syndrome (IBS)?",
+                "<b>1. Conservative </b>e.g. diet low in gas-producing foods, trial lactose and gluten free diet; physical activity.<br><br><b>2. Meds</b> (consider)<br>Laxative, loperamide, or antispasmodic e.g. hyoscine butylbromide (buscopan).<div>Low dose TCA.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qG>m/,$oun",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of coeliac disease?",
+                "<div><div>Sort symptoms by mechanism</div><div><br></div><b></b><b>History</b></div><div><i>Active small bowel inflammation:</i> chronic steatorrhoea, anorexia, abdominal pain and distension, irritability.</div><div><i>Chronic malabsorption:</i> fat (e.g. stunting, weight loss), iron (anaemia), B12 (anaemia, neurological dysfunction), vitamin D (osteopenia).</div><div><div><br></div><div><b>Exam</b><br><i>Inspection: </i>cachexia (buttock wasting), distended abdomen, pallor.</div><div><i>Growth chart: </i>stunting, weight loss.</div><div><br></div><div><b>NOTES</b></div></div><div>May present in childhood or adult life.</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "ms+k=k,v)W",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected coeliac disease?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important</b></div><div><i>1. IgA anti-tissue transglutaminase antibodies.</i></div><div><i>2. </i><i>Duodenal biopsy:</i> look for villous atrophy and mucosal inflammation.</div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. Bloods:</i> FBC, B12, folate, ferritin, clotting, IgA levels.<div><div><i>2. DEXA scan:</i> look for osteopenia.</div></div></div><div><br></div><div><b>NOTES</b></div><div><div><div><i style=\"font-style: italic; \">DEXA</i> = dual energy x-ray absorptiometry.</div></div><div style=\"font-style: italic; \"><br></div></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "tiLKa06<p~",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for coeliac disease?",
+                "<b>1. Conservative</b>: gluten free diet; immunisations (hyposplenism is common).<div><br></div><div><b>2. Meds</b> (consider)<br>Correction of deficiencies e.g. folate, B12, iron.<br>Aggressive management of bone disease.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "c|V)Tc{RlG",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -5174,6 +6083,61 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the complications of chronic liver disease?",
+                "<div>Sort by mechanism</div><div><br></div><b>1. Metabolic dysfunction </b>e.g. jaundice (bilirubin), encephalopathy (ammonia), and gynaecomastia (oestrogen).<br><b>2. Synthetic dysfunction</b> e.g. bleeding (clotting factors), oedema (albumin).<br><b>3. Portal hypertension</b> e.g. ascites, varices, hypersplenism.<br><b>4. Hepatorenal syndrome.<br>5. Hepatopulmonary syndrome.</b><br><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "k@5,ohX@1@",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Nephrology,",
+                "Respiratory,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of hepatomegaly?",
+                "Sort by prevalence<div><br></div><div><b>Most common</b> (mnemonic CCC)</div><div><div><div><i>1. Cardiac failure.</i></div><div><i>2. Cirrhosis</i> (alcohol, etc.)</div><div><i>3. Cancer</i> (mets or primary).</div><div><br></div><div><b>All the rest</b></div><div><i>1. Infection </i>e.g. viral hepatitis, malaria.</div><div><i>2. Neoplasia</i> e.g. lympho- or myeloproliferative disease.</div><div><i>3. Vascular</i> e.g. hepatic vein thrombosis.<div><i>4. Inflammatory</i> e.g. autoimmune hepatitis.</div><div><i>5. Drugs</i> e.g. alcoholic hepatitis.</div><div><i>6. Metabolic </i>e.g. non-alcoholic fatty liver disease, haemochromatosis.</div></div></div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "cJ:|9>VXM^",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of splenomegaly?",
+                "Sort by mechanism<div><br></div><div><div><b>1. Haemolytic anaemia</b> e.g. sickle cell disease, thalassaemia.</div><div><b>2. Infection </b>e.g. EBV, infective endocarditis, typhoid, malaria.</div><div><b>3. Neoplasia</b> e.g. lympho- or myeloproliferative disorders.</div><div><b>4. Vascular </b>e.g. portal hypertension.</div><div><b>5. Inflammatory </b>e.g. RA, SLE, sarcoidosis.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "je{,~~vEU,",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Inflammation,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the causes of groin lumps?",
                 "Sort by anatomy<br><br><b>1. Hernias </b>e.g. inguinal, femoral.<br><b>2. Superficial </b>e.g. lipoma, abscess, sebaceous cyst.<div><div><div><b style=\"font-weight: bold; \">3. B</b><b style=\"font-weight: bold; \">lood vessels</b><b> </b>e.g. femoral aneurysm, pseudoaneurysm, saphena varix.</div><div><div><b style=\"font-weight: bold; \">4. Lymph nodes.</b></div></div></div><div><b>5. Nerves</b> e.g. femoral neuroma.</div><div><div><div><b>6. Psoas</b> e.g. abscess, bursa.<br><b>7. Testicular apparatus </b>e.g. ectopic, undescended, hydrocoele of the cord.</div></div></div></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -5204,6 +6168,22 @@
                 "Respiratory,",
                 "Y3::Med_A::Respiratory",
                 "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of constipation?",
+                "Stool passed infrequently e.g. &lt;3 per week<div><br></div><div><b>NOTES</b></div><div>The word 'constipation' is used by patients to mean different things.</div><div>Therefore it's important to clarify what they mean.</div><div>&nbsp;</div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "kP@Io6mK<r",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -5244,6 +6224,22 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the clinical features primary biliary cirrhosis (PBC)?",
+                "<b></b><b>History</b><br><div>Typical patient is a middle aged Caucasian woman.</div><div>Tiredness.</div><div>Intense pruritus, worse at night.</div><div>Hyperpigmentation (melanin, not bilirubin).</div><div>Rheumatic symptoms e.g. arthritis, keratoconjunctivitis.</div><div>May be RUQ discomfort.</div><div><br><b>Exam</b><br><i>Inspection: </i>hyperpigmentation, excoriations, may be visible jaundice, xanthelasma.</div><div><i>Palpation: </i>hepatomegaly, may be splenomegaly.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "pmq2ao)cUm",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is Courvoisier's sign?",
                 "<div>A nontender, palpably distended gallbladder.</div><div><br></div><div><b>NOTES</b><br><i>Courvoisier's law</i> = Curvoisier's sign is unlikely due to gallstones (more likely malignancy).</div><div>Gallstones usually cause a shrunken, fibrotic gall bladder.<br></div><div><br></div><div>UPDATED 2020</div>"
             ],
@@ -5257,6 +6253,22 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected primary biliary cirrhosis (PBC)?",
+                "Sort by clinical relevance<div><b><br></b></div><div><b>Most important:</b> antimitochondrial antibodies.</div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. Bloods:</i> LFTs, lipids, consider antinuclear antibodies.<div><div><i>2. Imaging:</i> consider CT.<br><i>3. Liver biopsy.</i></div></div></div><div><i><br></i></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "h%6w7,$[+y",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -5292,6 +6304,22 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of Crohn disease?",
+                "<div>Sort symptoms by pathological process.<br><div><br><b></b><b>History</b><br><i>Mucosal inflammation</i> e.g. abdo pain (frequently RIF), chronic diarrhoea, steatorrhoea.</div><div><i>Stricturing</i> e.g. subacute small bowel obstruction.</div><div><i>Fistulation</i> e.g. entero-vesical, -cutaneous, -enteric, -vaginal.</div><div><i>Perianal disease</i> e.g. skin tags, fistulas.</div><div><i>Constitutional</i> e.g. tiredness, weight loss.</div><div><i>Extraintestinal</i> e.g. arthritis, eyes, skin, osteoporosis.</div><div><div><br><b>Exam</b><br><i>Obs:</i> may be fever and tachycardia.<br><i>Inspection: </i>cachexia, oral ulcers, enterocutaneous fistulae, clubbing, arthritis, erythem nodosum, pyoderma gangrenosum.</div><div><i>Palpation: </i>abdo tenderness, RIF mass.</div></div><div><i>PR: </i>perinanal disease.</div><div><br></div><div><b>NOTES</b></div><div><i>Clinical presentation</i> is more variable than in ulcerative colitis, symptoms depend on the distribution of the disease.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qjcNCmK5xu",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -5561,6 +6589,38 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the risk factors for Crohn disease?",
+                "<div><div>Sort by history</div></div><div><br></div><b>Demographics </b>e.g. peak in early adulthood, Caucasian.<div><b>SHx</b> e.g. smoking.<br><b>FHx</b> of inflammatory bowel disease.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "j1+]xG.ICr",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of alcoholic hepatitis?",
+                "Clinical presentation is variable.<div><br><b></b><b>History</b><br>Typical patient is middle aged with chronic alcohol excess.</div><div>Jaundice, RUQ pain, anorexia, fever, ascites.</div><div><br><b>Exam</b><br><i>Obs:</i> fever.<br><i>Inspection: </i>jaundice, may be asterixis (encephalopathy), ascites, signs of advanced liver disease.</div><div><i>Palpation: </i>tender hepatomegaly.</div><div><i>Auscultation: </i>may be liver bruit.</div><div><br><b>NOTES</b></div><div><i>Signs of advanced liver disease</i> include palmar erythema, spider naevi, gynaecomastia.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "f)b!q]7elp",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "List 3 worrying features of nipple discharge",
                 "<div>1. Spontaneous (no manipulation).</div><div>2. Bloody.</div><div>3. Unilateral.</div><div>4. Uniductal.</div><u><br></u><div><b>NOTES</b><br><div>If bilateral or from multiple ducts, discharge is rarely pathological.</div></div><div><div><i>Bloody: </i>may be papilloma, carcinoma, duct ectasia, Paget disease.</div><div><i>Clear: </i>may be papilloma.</div></div><div><br></div><div>UPDATED 2020</div>"
             ],
@@ -5607,6 +6667,22 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of Plummer Vinson syndrome?",
+                "<b></b><b>History</b><br>Dysphagia (post-cricoid oesophageal web).<br>Anaemia symptoms e.g. tiredness, palpitations.<br><br><b>Exam</b><br><i>Inspection: </i>conjunctival pallor, signs of iron deficiency.<div><br></div><div><b>NOTES</b></div><div><i>Plummer Vinson syndrome</i> is a risk factor for oesophageal squamous cell carcinoma.</div><div><i>Signs of iron deficiency</i> include koilonychia, atrophic glossitis, angular stomatitis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "j>9!aWiLHS",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -5786,6 +6862,40 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for C. difficile colitis?",
+                "<div><b>1. Resus</b></div>A+B - consider airway support and O2.<br>C - IV fluids, catheter, monitor input/output.<div>Make NBM, transfer to cubicle.</div><div><br><b>2. Meds</b><br>Vancomycin 125mg PO QDS or metronidazole 400mg IV TDS (10 days).<br><br><b>3. Surgery</b><br>Consider colectomy if evidence of toxic megacolon.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "n<<eV]U>(q",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for ulcerative colitis (UC)?",
+                "<b>1. Patient education</b> e.g. smoking cessation.<div><div><div><br><b>2. Meds<br></b>5-ASA (oral and/or topical) e.g. sulfasalazine, mesalazine.</div><div>Consider azathioprine or 6-mercaptopurine.</div><div><br></div><div><b>3. Surgery </b>e.g. colectomy ± reconstruction.</div></div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "t.Z:-$F<m^",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -5996,6 +7106,39 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is coeliac disease?",
+                "<div><b>An inflammatory </b><b>small bowel disorder</b><b>, </b>triggered by exposure to dietary gluten.</div><div><br></div><div><b>NOTES</b></div><div>Pathology resolves on a gluten free diet.</div><div>Histology is characterised by mucosal inflammation, villous atrophy, and crypt hyperplasia.</div><div>Gluten is a protein found in wheat, rye, and barley.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "q<>gh+Ol?U",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is primary biliary cirrhosis (PBC)?",
+                "<b>A biliary disease, </b>characterised by autoimmune destruction of intrahepatic bile ducts.<div><br></div><div><b>NOTES</b></div><div>Typical patient is a middle aged woman.</div><div>Presents with tiredness and intense pruritus, progresses to cirrhosis and liver failure.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "h&6bT^vKN}",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the causes of a rectal bleed?",
                 "Sort by anatomy<br><br><b>1. Anorectal </b>e.g. varices, cancer, haemorrhoids, fissure in ano.<div><div><b>2. Colonic </b>e.g. diverticular disease, colitis (inflammatory, ischaemic, infective), angiodysplasia, cancer.</div><div><b>3. Upper GI </b>e.g. varices, peptic ulcer, aorto-enteric fistula, cancer.</div></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -6080,6 +7223,143 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for Crohn disease?",
+                "<b>1. Conservative</b><div>Patient education e.g. smoking cessation.<div>Dietician referral (avoid trigger foods, consider nutritional support).</div><div><div><br><b>2. Meds</b> (consider)<br></div><div><i>5-ASA drugs</i> e.g. mesalazine.</div><div><i>Immunosuppression</i> e.g. azathioprine, 6-mercaptopurine, methotrexate.</div><div><i>TNFalpha blockers</i> e.g. infliximab.</div><div><br><b>3. Surgery </b>e.g. bowel resection.</div></div><div><br></div><div><b>NOTES</b></div><div>Long term corticosteroid therapy should be avoided.</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "jxJ@SvSwqD",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of portal hypertension?",
+                "HVPG ≥6 mmHg<i><br></i><div><br></div><div><b>NOTES</b></div><div>Normal HVPG is 1-5 mmHg.</div><div>Portal hypertension becomes clinically significant when HVPG &gt;10.</div><div><i>HVPG</i> = hepatic venous pressure gradient (difference between portal vein and inferior vena cava).</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "dzKVYf-1;`",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigation may differentiate between transudative and exudative ascites?",
+                "Serum-to-ascites albumin gradient (SAAG).<div><br></div><div><b>NOTES</b><br>A high gradient (&gt;11 mmHg) suggests a transudate due to portal hypertension.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "uMp?FA=J|K",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which micro-organisms most commonly cause spontaneous bacterial peritonitis (SBP)?",
+                "<div>Sort by prevalence</div><div><br></div><div><b>1. Gram negatives</b> e.g. E. coli, Klebsiella (majority of cases)</div><div><b>2. Aerobic Gram positives</b> e.g. Streptococci.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "k`;r&^Ald_",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the diagnostic criteria for spontaneous bacterial peritonitis (SBP)?",
+                "Ascitic tap reveals neutrophils <b>&gt;250/mm3.</b><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "hyV/U!v6Y~",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for hepatic encephalopathy?",
+                "<div>Must identify and correct any precipitating causes.</div><div><b><br></b></div><div><b>1. Resus</b></div><div>A+B - consider airway support and O2.</div><div>C - IV access.</div><div><div><br></div><div><div><b>2. Consider complications of alcohol </b>e.g. clotting derangement, varices, withdrawal, thiamine deficiency.</div></div><div><br></div><div><div><b>3. Meds vs encephalopathy</b></div></div><div><div><b><font color=\"#008000\">Lactulose </font></b>(titrate to 2-3 soft stools per day).</div><div>Consider adding rifaximin (antibiotic).</div></div></div><div><br></div><div><div><b>NOTES</b></div><div>Medical treatment aims to reduce serum ammonia levels.</div></div><div>Protein restriction is not indicated.</div><div><i>Precipitating causes</i> include alcohol, bleeding, constipation, dehydration, and infection.</div><div><font color=\"#008000\"><b><br></b></font></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "Vp+1Krg_&",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of ascites?",
+                "<i><div></div></i>Sort by mechanism<div><br></div><b>1. Transudative<br></b><i>High hydrostatic pressure</i> e.g. portal hypertension.<div><i>Low oncotic pressure</i> e.g. liver failure, nephrotic syndrome.<div><div><div><br><b>2. Exudative<br></b><i>Infection</i> e.g. tuberculosis.<br><i>Neoplasia</i> e.g. ovarian, colon, stomach, or pancreas cancer.</div><div><i>Inflammatory </i>e.g. pancreatitis.</div></div></div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "t~hkWQS>~:",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Inflammation,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for acute upper GI bleeding?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - IV access x2, consider fluids, check clotting and correct derangement.</div><div>Make NBM.</div><div><br></div><div><b>2. Urgent endoscopy</b> (guided by Blatchford score)</div><div>Consider adrenaline injection, variceal banding.</div><div><br></div><div><b>3. Meds</b></div><div><i>If peptic ulcer bleed: </i><b><font color=\"#008000\">omeprazole 80mg IV</font></b> then 8mg/h infusion post-endoscopy.</div><div><i>If variceal bleed:</i> <font color=\"#008000\"><b>terlipressin 2mg IV</b></font> pre-endoscopy, consider <b><font color=\"#008000\">ceftriaxone 1g BD</font></b> for 48h.</div><div><br></div><div><b>4. Interventional radiology</b> (if continued bleeding or rebleeding)</div><div><br></div><div><b>NOTES</b></div><div>If variceal bleeding on admission, consider placement of a Sengstaken tube.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "m}b0Qsrtd!",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -6421,6 +7701,56 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is Budd Chiari syndrome?",
+                "Hepatic vein obstruction<div><br></div><div><b>NOTES</b></div><div>More common in women.</div><div>Most common symptoms are ascites and hepatomegaly.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "kbr^Tz]ra)",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of portal hypertension?",
+                "Sort anatomically<div><br></div><div><b>1. Pre hepatic</b> e.g. portal vein thrombosis, external compression.</div><div><b>2. Hepatic</b> e.g. cirrhosis.</div><div><b>3. Post hepatic </b>e.g. Budd-Chiari syndrome, right heart failure.</div><div><br></div><div><b>NOTES</b></div><div><i>Budd-Chiari syndrome</i> = hepatic vein obstruction.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "xaZsAQ0>H%",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for portal hypertension?",
+                "<div>Must identify and treat underlying pathology.</div><div><br></div><div><b>1. Conservative </b>e.g. patient education.</div><div><br></div><div><b>2. Meds</b></div><div>Beta-blocker e.g. carvedilol.</div><div>Consider adding nitrates.</div><div><br></div><div><b>3. TIPS </b>(transjugular intrahepatic portosystemic shunt).</div><div><br></div><div><b>NOTES</b></div><div><i>Indications for TIPS</i> include chronic ascites, bleeding oesophageal varices refractory to meds, bleeding gastric varices.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "d,Qt*h;[I2",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the complications of oesophagectomy?",
                 "<div><div>Sort by general vs specific</div><div><span style=\"font-weight: bold\"><br></span></div><div><span style=\"font-weight: bold\">General</span></div></div><div><div><div><div><i>1. GA-related</i> e.g. intubation trauma, adverse drug reactions.<div><i>2. Haemorrhage.</i></div><div><i>3. Damage </i>e.g. vagus or laryngeal nerve.</div><div><div><i>4. Infection</i> e.g. wound, pneumonia.</div><div><i>5. Venous thromboembolism.</i></div></div></div><br><b style=\"font-weight: bold; \">Specific</b></div><div><i>1.</i><div style=\"display: inline !important; \"><i> Anastomosis related</i> e.g. leak, stricture, conduit ischaemia.</div></div><div><i>2. Functional conduit disorders</i> e.g. early or late dumping syndrome, delayed gastric emptying, reflux.</div><div><i><br></i></div></div></div><div><b>NOTES</b></div><div><i>Early dumping syndrome</i> = hypotension due to rapid transit of hyperosmolar gastric contents into small bowel.</div><div><i>Late dumping syndrome</i> = postprandial hypoglycaemia due to excess insulin secretion.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -6433,6 +7763,150 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the 'intrinsic' causes of acute kidney injury?",
+                "Sort by histology<div><br></div><div><b>1. Vessels </b>e.g. small vessel vasculitis, TTP/HUS, hypertensive crises.</div><div><b>2. Glomerulus </b>e.g. glomerulonephritis.</div><div><b>3. Tubules </b>e.g. acute tubular necrosis (prolonged ischaemia), nephrotoxins.</div><div><b>4. Interstitium </b>e.g. interstitial nephritis due to drugs (NSAIDs), infection, autoimmune disease.</div><div><i><br></i></div><div><b>NOTES</b></div><div><i>HUS </i>= haemolytic uraemic syndrome.<br></div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "Kn40?s2^Z%",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of nephritic syndrome?",
+                "<div>Sort by primary vs secondary</div><div><br></div><div><b>Primary</b></div><div><i>1. Primary glomerulonephritis</i> e.g. IgA nephropathy.</div><div><br></div><div><b>Secondary</b></div><div><i>1. Infectious</i> e.g. typhoid, syphilis, MRSA, infective endocarditis, HBV, malaria.</div><div><i>2. Inflammatory</i> e.g. post-Strep, SLE, small vessel vasculitis, Goodpasture syndrome.</div><div><i>3. Drugs</i> e.g. diphtheria-pertussis-tetanus vaccine.</div><div><br></div><div><b>NOTES</b></div><div><i>Nephritic syndrome</i> results from glomerulonephritis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qI1LM[p!F+",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in nephritic syndrome?",
+                "<b>1. Bloods </b>e.g. U&amp;Es, FBC, CRP, albumin, cultures, HIV/HBV/HCV, autoimmune screen, complement.<div><b>2. Urine </b>e.g. dipstick, MC&amp;S.</div><div><b>3. Imaging </b>e.g. abdo USS.</div><div><b>4. Kidney biopsy.</b></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "uLeL6HkYWp",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of nephrotic syndrome?",
+                "<div>Sort by primary vs secondary</div><div><br></div><div><b>Primary</b> (idiopathic, sort by histology)</div><div><i>1. Minimal change disease.</i></div><div><i>2. Focal segmental glomerulosclerosis.</i></div><div><i>3. Membranous nephropathy.</i></div><div><i>4. Membranoproliferative glomerulonephritis<b>.</b></i></div><div><br></div><div><b>Secondary</b> (sort by mechanism)</div><div><i>1. Infection </i>e.g. HIV, HBV, HCV, syphilis.</div><div><i>2. Neoplasia</i> e.g. myeloma, leukaemia, lymphoma.</div><div><i>3. Inflammatory </i>e.g. SLE, RA, vasculitis.</div><div><i>4. Endocrine</i> e.g. diabetes.</div><div><i>5. Drugs</i> e.g. NSAIDs, captopril, lithium.</div><div><i>6. Depositional </i>e.g. amyloidosis.</div><div><br></div><div><b>NOTES</b></div><div><i>The histological patterns</i> underlying primary nephrotic syndrome are also seen in secondary nephrotic syndrome.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "h4EZ4;Na)g",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in nephrotic syndrome?",
+                "<div><b>1. Bloods</b> e.g. U&amp;Es, FBC, albumin, clotting, lipids, HIV/HBV/HCV, autoimmune screen, complement.<div><b>2. Urine</b> e.g. dipstick, PCR, MC&amp;S.</div><div><b>3. Imaging </b>e.g. CXR, abdo USS.</div></div><div><b>4. Kidney biopsy.</b></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "y/eA/7%|R~",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for uncomplicated nephrotic syndrome?",
+                "Must find and address the underlying cause.<div><br></div><b>1. Conservative </b>e.g. diet low in salt.<div><br></div><div><b>2. Treat complications</b> (consider)</div><div><i>Oedema:</i> furosemide, consider adding spironolactone.</div><div><i>Hypertension:</i> ACE-i.</div><div><i>Infection:</i> prophylactic antibiotics, immunisations.</div><div><i>Hyperlipidaemia:</i> statin.</div><div><i>VTE:</i> anticoagulation.</div><div><br></div><div><b>NOTES</b></div><div>If corticosteroids are started, consider bone protection and proton pump inhibitors.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "s[}?PdWFJV",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected chronic kidney disease?",
+                "<b>1. Bloods </b>e.g. U&amp;E, FBC, bone profile, PTH.<div><b>2. Urine </b>e.g. dip, PCR, microalbumin.&nbsp;</div><div><b>3. Imaging </b>e.g. USS renal tract, CT KUB.</div><div><b>4. Kidney biopsy.</b></div><div><b><br></b></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "OiRo#%)Ni;",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of polycystic kidney disease (PKD)?",
+                "<div><b></b><b>History</b></div><div><i>Renal symptoms</i> e.g. loin pain (haemorrhage, stones), frank haematuria (after trauma), polyuria.</div><div><i>Berry aneurysm symptoms</i> e.g. cranial nerve palsies, seizures.</div><div><br></div><div><b>Exam</b></div><div><i>Obs:</i> hypertension.</div><div><i>Inspection: </i>may be cranial nerve palsies.</div><div><i>Palpation: </i>bilateral large kidneys, may be hepatomegaly.</div><div><i>Auscultation: </i>may be mitral regurgitation.</div><div><i>Bedside tests: </i>urine dip may show blood.</div><div><br></div><div><b>NOTES</b></div><div>Liver cysts are usually asymptomatic.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "E3]=nB]uS9",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected polycystic kidney disease (PKD)?",
+                "Sort by clinical relevance<div><b><br></b></div><div><b>Most important:</b>&nbsp;USS abdomen.</div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. Bloods</i><b> </b>e.g. U&amp;E, FBC, genetic testing, fasting lipids.<div><i>2. Urine</i><b> </b>e.g. dip, MC&amp;S.</div><div><i>3. Imaging </i>e.g. CT abdomen, CT brain.&nbsp;</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "m!3G1!&I!a",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
             ]
         },
         {
@@ -7201,6 +8675,86 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the clinical features of nephrotic syndrome?",
+                "<b>History</b><br><div>Generalised oedema, often periorbital at first.</div><div>Frothy urine.</div><div>Tiredness.</div><div>May be recurrent infections, venous or arterial thrombotic events.</div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>hypertension.</div><div><i>Inspection: </i>generalised pitting oedema, may be leuconychia (low albumin), xanthelasma, xanthomata (high lipids).</div><div><i>Bedside tests:</i> urine dip shows albumin, may show blood.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "EUH9g)!=#q",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of nephrotic syndrome?",
+                "Sort by mechanism<div><br></div><div><div><b>1. Chronic renal impairment.</b></div><div><b>2. Infection </b>(pneumococcal infection is common).<div><b>3. Thromboembolism </b>(venous and arterial, mechanism unclear).</div></div></div><div><br></div><div><b>NOTES</b></div><div>Infection may result from iatrogenic immunosuppression and loss of IgG via the urine.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "C$:-TsqINi",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Alport's syndrome?",
+                "<div>A familial disorder, characterised by progressive renal failure</div><div><br></div><div><b>NOTES</b></div><div>Also called <i>hereditary nephritis</i>.</div><div>Majority of cases are X-linked, due to mutation in type IV collagen gene.</div><div><i>Clinically:</i> haematuria, proteinuria, sensorineural deafness, and ocular abnormalities.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "sgPza*LaD|",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Goodpasture syndrome?",
+                "<div><b>An autoimmune disease</b> involving the kidneys and lungs, characterised by anti-GBM antibodies.</div><div><br></div><div><b>NOTES</b></div><div><i>Clinically:</i> nephritic syndrome and haemoptysis.</div><div>Also called anti-GBM disease.</div><div><i>GBM</i> = glomerular basement membrane.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "H.9Cjcc@r>",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is lactose intolerance?",
+                "<div><b>A benign </b><b>disorder of the </b><b>small bowel, </b>caused by low levels of intestinal lactase.</div><div><i><br></i></div><div><b>NOTES</b></div><div>Symptoms include abdo pain, diarrhoea, and flatulence following ingestion of milk-containing products.</div><div>Lactase deficiency may result from genetically-determined low enzyme expression, or from mucosal injury.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "x/zEQ/rn).",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the clinical features of hydronephrosis?",
                 "<div><b></b><b>History</b></div><div>Usually asymptomatic.</div><div>May be abdo pain if acute (SOCRATES)</div><div>S - loin.</div><div>C - dull.</div><div>E - exacerbated by drinking.</div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>may be hypertension.</div><div><i>Palpation: </i>may be palpable kidney.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -7410,6 +8964,23 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is von Hippel Lindau (VHL) disease?",
+                "<div><b>A familial cancer syndrome</b>, characterised by renal cell cancer, phaeochromocytoma, and cerebellar haemangioblastoma.&nbsp;</div><div><br></div><div>Toumors can be found in:-&nbsp;</div><div>- Brain/Spinal cord&nbsp;</div><div>- Retina</div><div>- Endolymphatic Sac Tumour&nbsp;</div><div>- Pancreas</div><div>- Adrenal glands</div><div>&nbsp;- Kidney&nbsp;</div><div>- Ovaries/Testicles</div><div><br></div><div><b>NOTES</b></div><div>Autosomal dominant inheritance.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "y2EtN9i}@(",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Oncology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "List the types of renal stone",
                 "<div>Sort by composition</div><div><br></div><div>1. Calcium (oxalate or phosphate).</div><div>2. Uric acid. </div><div>3. Struvite.</div><div>4. Cystine.</div><div><br></div><div><b>NOTES</b></div><div><i>Struvite</i> = magnesium ammonium phosphate, due to chronic infection e.g. Proteus, Klebsiella.</div><div><i>Cystine stones</i> only form in cysteinuria (autosomal recessive disorder).</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -7420,6 +8991,23 @@
             "tags": [
                 "Nephrology,",
                 "Urology,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the genetic basis for adult polycystic kidney disease (APKD)?",
+                "<div>Mutation in gene for <b>polycystin 1 or 2.</b></div><div><br></div><div><b>NOTES</b></div><div>Autosomal dominant inheritance.</div><div><i>PKD1</i> = mutation in polycystin 1 (large majority of cases).</div><div><i>PKD2</i> = mutation in polycstin 2.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "k$nw#03jpL",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Genetics,",
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
             ]
         },
         {
@@ -7438,6 +9026,24 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for spontaneous bacterial peritonitis (SBP)?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - IV fluids, catheter, monitor input/output.<br><div><b><br></b></div><div><b>2. Meds</b></div><div>Broad spectrum antibiotics (see local guidelines) e.g. ceftriaxone 5 days.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "K9C.1<$0T@",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Gastroenterology,",
+                "Infection,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -7818,6 +9424,124 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Which investigations may be useful in suspected HCV infection?",
+                "<div><b style=\"font-weight: bold; \">1. Bloods </b>e.g. FBC, U&amp;Es, LFTs, clotting, serology, PCR (RNA burden, genotyping), AFP.<div><div><div><b style=\"font-weight: bold; \">2. Imaging</b> e.g. abdo USS.</div><div style=\"font-weight: bold; \"><b>3. Liver biopsy.</b></div></div></div></div><div style=\"font-weight: bold; \"><b><br></b></div><div><b>NOTES</b></div><div><i>AFP</i> = alpha fetoprotein.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "gC+AoZIZQ0",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for HCV infection?",
+                "<b>1. Patient education</b> e.g. risks of unprotected sex and sharing needles, avoid alcohol.<div><div><div><div><br></div></div></div></div><div><div><b>2. Meds</b></div><div>Peginterferon alfa-2a and ribavirin.</div><div>If genotype 1, consider boceprevir and telaprevir.</div></div><div><br></div><div><b>3. Surgery</b> e.g. liver transplant.</div><div><b><br></b></div><div><b>NOTES</b></div><div><i>HCV</i> = Hepatitis C Virus.</div><div><i>Genotype 1 </i>is associated with a worse prognosis.</div><div><div><i>Treatment</i> is contraindicated in pregnancy and lactation.</div><div><i>Adverse effects</i> to antivirals are common.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "i9XN+#{6jd",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected HBV infection?",
+                "<b>1. Bloods</b> e.g. FBC, U&amp;Es, LFTs, clotting, viral screen, AFP, consider PCR.<div><div><div><div><b>2. Imaging</b> e.g. abdo USS.</div><div><b>3. Liver biopsy.</b></div></div></div><div><b><br></b></div><div><b>NOTES</b></div><div><i>AFP</i> = alpha fetoprotein.</div><div><i>Viral screen</i> = antigen testing (HBsAg, HBeAg), and serology (anti-HBs, anti-HBe, anti-HBc).</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "y;xJiyy]3g",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for HBV infection?",
+                "<b>1. Patient education</b> e.g. risks of unprotected sex and sharing needles, avoid alcohol.<div><br></div><div><b>2. Meds </b>consider peginterferon alfa-2a and antivirals e.g. lamivudine.</div><div><br></div><div><b>3. Surgery</b> e.g. liver transplant.</div><div><br></div><div><b>NOTES</b></div><div><i>HBV</i> = Hepatitis B Virus.</div><div>Different antiviral treatment regimens are recommended for different patient groups.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "mRWwrz4omI",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is primary sclerosing cholangitis (PSC)?",
+                "<b>An autoimmune biliary disease</b>, characterised by chronic inflammation of the intra- and extrahepatic biliary tree.<div><br></div><div><b>NOTES</b></div><div>Peak incidence at around 40y, more common in men.</div><div>Majority of cases of PSC are associated with underlying ulcerative colitis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "Be.r:cGe>L",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected primary sclerosing cholangitis (PSC)?",
+                "Sort by clinical relevance<div><b><br></b></div><div><b>Most important</b></div><div><i>1. Abdo USS.</i></div><div><i>2. MRCP.</i></div><div><b><br></b></div><div><b>All the rest</b></div><div><i>1. Bloods:</i> LFTs, clotting, immunoglobulins, pANCA.<div><i>2. Imaging </i>e.g. consider transient elastography.</div><div><i>3. Liver biopsy </i>(rarely indicated).</div><div><b><br></b></div><div><b>NOTES</b></div><div><i>MRCP</i> = magnetic resonance cholangiopancreatography.</div><div><i>Transient elastography </i>= an ultrasound test for cirrhosis.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "oXgR1:Ml(W",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for primary sclerosing cholangitis (PSC)?",
+                "<b>1. Conservative</b> e.g. alcohol abstinence.<div><br></div><div><b>2. Meds</b> (consider)</div><div>SSRIs e.g. sertraline (may help with pruritus).</div><div>Ursodeoxycholic acid (improves LFTs).</div><div><br></div><div><b>3. Endoscopy</b> i.e. ERCP with balloon dilatation or stents.</div><div><br></div><div><b>4. Surgery</b> e.g. liver transplant.</div><div><br></div><div><b>NOTES</b></div><div><i>Ursodeoxycolic acid</i> has not been proven to be of clinical benefit.</div><div><i>SSRIs</i> = selective serotonin reuptake inhibitors.</div><div><i>ERCP</i> = endoscopic retrograde cholangiopancreatography.</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "A/CWLnDcoZ",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the causes of male LUTS?",
                 "<div>Sort by anatomy</div><div><br></div><div><b>1. Outflow obstruction</b></div><div><i>Bladder</i> e.g. cancer.</div><div><i>Prostate</i> e.g. BPH, cancer, prostatitis.</div><div><i>Urethra</i> e.g. stenosis.</div><div><b>2. Detrusor overactivity</b> e.g. UTI, neurogenic, bladder stones.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -7962,6 +9686,24 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the complications of primary sclerosing cholangitis (PSC)?",
+                "Sort by mechanism<div><br></div><div><b>1. </b><b>Cholestasis</b> e.g. malabsorption, ascending cholangitis.</div><div><b>2. Liver failure </b>(cirrhosis).</div><div><b>3. Cancer </b>i.e. HCC, cholangiocarcinoma.</div><div><b>4. Metabolic bone disease.</b></div><div><br></div><div><b>NOTES</b></div><div><i>HCC</i> = hepatocellular carcinoma.</div><div><i>Metabolic bone disease</i> mechanism is unknown, not related to vitamin D deficiency.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "GeU5cTq{]M",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Metabolic,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Which types of surgery particularly predispose to pulmonary embolism?",
                 "<div>Sort by anatomy</div><div><br></div><div>1. Major abdominal or pelvic surgery.</div><div>2. Hip or knee replacement.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -8089,6 +9831,70 @@
                 "Oncology,",
                 "Respiratory,",
                 "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is focal segmental glomerulosclerosis (FSGS)?",
+                "<div><b><div></div></b><b>A pattern of glomerular injury</b> identified on light microscopy.</div><div><b><br></b></div><div><span style=\"\"><b>NOTES</b></span></div><div>Often found to underlie nephrotic syndrome in adults and children.</div><div>Often idiopathic, may be associated with infection (HIV) or toxins.</div><div><div><div><i>Focal</i> = only some glomeruli.</div><div><i>Segmental</i> = only part of the glomerulus.</div></div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "pQ1*AT]s<I",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is minimal change disease?",
+                "<div><div><b><div></div></b><b>A pattern of glomerular injury</b> identified on light ± electron microscopy.</div><div><b><br></b></div></div><div><b>NOTES</b></div><div>Found to underlie the majority of cases of nephrotic syndrome in children.</div><div>Most often idiopathic, may be associated with other pathology.</div><div>Biopsy is normal on light microscopy, electron microscopy shows fusion of podocytes.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "MO2=Q&Bn[>",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is membranous nephropathy?",
+                "<b>A pattern of glomerular injury </b>identified on light microscopy.<div><u><br></u></div><div><b>NOTES</b></div><div>Often found to underlie nephrotic syndrome in adults.</div><div>Characterised by GBM thickening with little cellular proliferation or infiltration.</div><div>May result from systemic lupus erythematosus (SLE).<div><i>GBM</i> = glomerular basement membrane.</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "r#B`kT0p~%",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is membranoproliferative glomerulonephritis (MPGN)?",
+                "<div><b>A pattern of glomerular injury</b> identified on light microscopy.</div><div><br></div><div><b>NOTES</b></div><div>May underlie nephritic syndrome in adults.</div><div>May be associated with systemic disease e.g. HBV, HCV, SLE.</div><div>Two key features are thickened GBM (immune complexes or complement) and increased cellularity (mesangial cells and monocytes).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "pRK3Yy#Cm;",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
             ]
         },
         {
@@ -8768,6 +10574,42 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the risk factors for C. difficile infection?",
+                "<div><div>Sort by history</div></div><div><br></div><div><b>Demographics</b> e.g. age.</div><div><b>Drugs </b>e.g. antibiotics (such as ciprofloxacin and other quinolones, penicillins, clindamycin); PPIs such as omeprazole; chemotherapy agents.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "j#TR.^9?M@",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of C. difficile infection?",
+                "<div>Sort by seriousness</div><div><br></div><div><b>1. Toxic megacolon</b> (risk of perforation).</div><div><b>2. AKI </b>(dehydration).</div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "BJrW7f&=uQ",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Nephrology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Which system is used to describe peritoneal contamination in complicated diverticular disease?",
                 "Hinchey classification<div><br></div><div><b>NOTES</b></div><div><i>Stage 1:</i> pericolic or mesenteric abscess.<div><i>Stage 2:</i> walled off pelvic abscess.</div><div><i>Stage 3:</i> generalised purulent peritonitis.</div><div><i>Stage 4:</i> generalised faecal peritonitis.</div></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -8786,6 +10628,22 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is Peutz-Jeghers syndrome?",
+                "<div>A hereditary polyposis syndrome</div><div><br></div><div><b>NOTES</b></div><div>Autosomal dominant inheritance.</div><div>Characterised by hyperpigmented macules (lips, buccal mucosa, skin) and benign hamartomas (stomach to rectum).</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "u5:4T6hI8I",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the causes of acquired AV nodal block?",
                 "Sort by prevalence<div><br></div><div><b>Most common</b></div><div><i>1. Fibrosis</i> (degenerative change).<div><i>2. Ischaemic heart disease.</i></div><div><i>3. Drugs</i> e.g. beta-blockers, verapamil.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Infection </i>e.g. Lyme disease, syphilis.</div><div><i>2. Inflammatory</i> e.g. sarcoidosis.</div><div><i>3. Depositional</i> e.g. amyloidosis.</div><div><i><br></i></div></div><div>UPDATED 2020<br></div>"
             ],
@@ -8796,6 +10654,22 @@
             "tags": [
                 "Cardiovascular,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of kidney transplant?",
+                "<div>Sort by general vs specific</div><div><b style=\"font-weight: bold; \"><br></b></div><div><b style=\"font-weight: bold; \">General</b><div><i>1. GA-related</i> e.g. intubation trauma, adverse drug reactions.<div><i>2. Haemorrhage.</i></div><div><i>3. Damage.</i></div><div><div><i>4. Infection</i> e.g. wound, pneumonia.</div><div><i>5. Venous thromboembolism.</i></div></div></div></div><div><i><br></i></div><div><b>Specific</b></div><div><i>1. Immunosuppression</i> e.g. opportunistic infections, cancer, drug toxicity.</div><div><i>2. Graft rejection.</i></div><div><i>3. Recurrence of original disease.</i></div><div><br></div><div><b>NOTES</b></div><div><i>Most common cancers</i> in transplant patients are lymphomas and skin cancer.</div><div><br></div><div>UPDATED 2020<br></div><div><!--anki--></div>"
+            ],
+            "flags": 0,
+            "guid": "y`0r*Uc#f@",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
             ]
         },
         {
@@ -9071,7 +10945,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Which tumours are associated with MEN2B (multiple endocrine neoplasia)?",
+                "Which tumours are associated with MEN2B (multiple endocrine neoplasia)? - Think TAM&nbsp;",
                 "Mnemonic TAM<div><br></div><div><b>1. Thyroid</b> (medullary carcinoma).</div><div><b>2. Adrenal</b> (phaeochromocytoma).</div><div><b>3. Mucosal neuromas</b> (and Marfanoid habitus).</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
             "flags": 0,
@@ -9236,6 +11110,74 @@
             "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
             "tags": [
                 "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is hepatitis A virus transmitted?",
+                "<div>Mainly via<b> faecal-oral route.</b></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "r;q74$vsv+",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is hepatitis B Virus (HPV) transmitted?",
+                "<div>Sort by prevalence</div><div><b><br></b></div><div><b>Most common</b></div><div>1. Unprotected sex.</div><div>2. Sharing needles (IVDU).</div><div><b><br></b></div><div><b>All the rest</b></div><div>1. Blood transfusion.</div><div>2. Perinatal transmission.</div><div><br></div><div><b>NOTES</b></div><div><i>Perinatal transmission</i> is the predominant mode in high prevalence areas.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "QR.YV.v9[i",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>How is hepatitis C virus transmitted?</div>",
+                "<div>Sort by prevalence</div><div><br></div><div><b>Most common:</b> sharing needles (IVDU)</div><div><br></div><div><b>All the rest</b></div><div>Blood transfusion.</div><div>Unprotected sex.</div><div>Organ transplant.</div><div>Perinatal transmission.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "AMW-!UPo`E",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is hepatitis E virus transmitted?",
+                "<div>Mainly via<b> faecal-oral route.</b></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "HM@&?@6453",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -9797,6 +11739,107 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the causes of chronic gastritis?",
+                "Sort by prevalence<div><br></div><div><b>Most common: </b>Helicobacter pylori infection.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Infection </i>e.g. tuberculosis, syphilis.</div><div><i>2. Inflammatory </i>e.g. autoimmune gastritis, Crohn disease, sarcoidosis.</div><div><br></div><div><b>NOTES</b></div><div><i>Autoimmune chronic gastritis</i> is often associated with other autoimmune conditions e.g. vitiligo, thyroid disorders, type one diabetes.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "o~~f|P3w1A",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Inflammation,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Zollinger Ellison syndrome?",
+                "<b>A gastric disorder</b>, characterised by gross gastric hyperacidity.<div><br></div><div><b>NOTES</b></div><div>Hyperacidity is stimulated by a gastrin-secreting neuroendocrine tumour.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "/<IMhUt%d",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for acute small intestinal Crohn disease?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - consider IV access.</div><div><br></div><div><b>2. Meds</b></div><div>5-ASA (e.g. mesalazine) and oral prednisolone (several months).</div><div><br></div><div><b>3. Surgery</b></div><div>Consider resection.</div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "kjBs-z9]/f",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the threshold for safe alcohol consumption in men?",
+                "14 units per week.<div><br></div><div>UPDATED 2020 NHS.uk<br></div>"
+            ],
+            "flags": 0,
+            "guid": "joqsi2FQ*f",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the threshold for safe alcohol consumption in women?",
+                "14 units per week.<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "mJp&}?*A+V",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Gardner syndrome?",
+                "A subtype of familial adenomatous polyposis (FAP) - Gardner sysdrome = FAP + Extra intestinal features.&nbsp;<div><br></div><div><b>NOTES</b></div><div>Characterised by desmoid tumours, soft tissue tumours (lipomas, sebaceous cysts), osteomas (mandibular), supernumary teeth, and CHRPE.</div><div><i>CHRPE</i> = congenital hypertrophy of the retinal pigment epithelium.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "g):!HmAIKh",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the causes of crackles on lung auscultation?",
                 "Sort by mechanism<div><br></div><div><div><b>1. Infection</b> e.g. pneumonia, bronchiectasis.</div><div><b>2. Vascular</b> e.g. pulmonary oedema.</div><div><b>3. </b><b>Inflammatory</b> e.g. interstitial lung disease.</div></div><div><b>4. Atelectasis.</b></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -9827,6 +11870,107 @@
                 "Genetics,",
                 "Respiratory,",
                 "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is achalasia?",
+                "<div><b>A disorder of the oesophagus,</b> characterised by absent oesophageal peristalsis and failure of relaxation of the LOS.</div><div><br></div><div><b>NOTES</b></div><div><i>LOS</i> = lower oesophageal sphincter.</div><div>Pathology is characterised by ganglion loss from the myenteric neural plexus.</div><div>&nbsp;</div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "hBOpe6Z$AU",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of achalasia?",
+                "<b>History</b><div>Progressive dysphagia (for both solids and liquids from the outset).</div><div>Postprandial regurgitation.</div><div>May be weight loss.</div><div>May be recurrent aspiration.</div><div><br></div><div><b>Exam</b></div><div>Usually no signs.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "f<SLKw?6:^",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of achalasia?",
+                "Sort by prevalence<div><br></div><div><b>Most common:</b> idiopathic.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Infection </i>e.g. Chagas disease.</div><div><i>2. Neoplasia</i> e.g. oesophageal cancer.</div><div><i>3. Inflammatory</i> e.g. sarcoidosis.</div><div><i>4. Endocrine</i> e.g. diabetic neuropathy.</div><div><i>5. Depositional</i> e.g. amyloid.<div><b><br></b></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "B{J&=_;4D7",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Gastroenterology,",
+                "Infection,",
+                "Inflammation,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which endoscopic features of IBD are specific for Crohn disease?",
+                "<div>1. Aphthous ulcers.</div><div>2. Cobblestoning.</div><div>3. Discontinuous lesions.</div><div><br></div><div><b>NOTES</b></div><div><i>Cobblestoning</i> is due to linear or serpiginous ulcers which form 'cracks' between islands of normal or inflamed mucosa.</div><div><i>Discontinuous lesions</i> (skip lesions) are typical of Crohn disease.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "s$WZnbv`&{",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which autoimmune diseases are particularly associated with coeliac disease?",
+                "1. Dermatitis herpetiformis.<div>2. Type 1 diabetes.</div><div>3. Autoimmune thyroid disease.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "D#.Q;%w!1*",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is microscopic colitis?",
+                "A chronic inflammatory disorder of the colon<div><br></div><div><b>NOTES</b></div><div>Characterised by chronic secretory diarrhoea.</div><div>Colonic mucosa appears normal at endoscopy, but microscopy reveals chronic inflammatory changes.</div><div>Variants include lymphocytic and collagenous colitis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "6cJ]s1OhE",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -10067,6 +12211,23 @@
             "tags": [
                 "Cardiovascular,",
                 "Y3::Med_A::Cardiology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for alcoholic hepatitis?",
+                "<b>1. Resus</b><div>A+B - consider airway support (particularly if encephalopathy) and O2.</div><div>C - IV fluids, catheter, monitor input/output.</div><div><br></div><div><b>2. Consider complications of alcohol </b>e.g. clotting derangement, varices, withdrawal, hepatic encephalopathy, thiamine deficiency.</div><div><br></div><div><b>3. Meds vs hepatitis</b></div><div>Nutrition (consider NG tube and ensures).</div><div>Consider prednisolone or pentoxifylline, guided by Maddrey score.</div><div>Consider omeprazole if starting corticosteroids.</div><div><br></div><div><b>NOTES</b></div><div><i>Thiamine deficiency</i> may result in Wernicke or Korsakov syndrome.</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "x]g_F7Os;F",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -10449,6 +12610,70 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is the definition of CKD stage 3?",
+                "<b>eGFR 30-59 </b>ml/min/1.73sqm, present for ≥3 months.<div><br></div><div><b>NOTES</b></div><div><i>CKD stage 3</i> is also referred to as 'moderate renal impairment'.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "zhUL/<wx(f",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of CKD stage 4?",
+                "<b>eGFR 15-29 </b>ml/min/1.73sqm, present for ≥3 months.<div><br></div><div><b>NOTES</b></div><div><i>CKD stage 4 </i>is also referred to as 'severe renal impairment'.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "p`/hpapm-9",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of chronic renal failure?",
+                "<b>eGFR &lt;15 </b>ml/min/1.73sqm, present for ≥3 months.<div><br></div><div><b>NOTES</b></div><div>Chronic renal failure is also referred to as CKD stage 5.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "i6dEx=8INe",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of polycystic kidney disease (PKD)?",
+                "Sort by organ system<div><br></div><div><b>1. Renal:</b> renal failure, pyelonephritis, renal stones.</div><div><b>2. CNS:</b> berry aneurysms, arachnoid membrane cysts.</div><div><b>3. HPB:</b> cysts in liver and pancreas.</div><div><b>4. CVS:</b> mitral prolapse, aortic regurgitation, arterial aneurysms.</div><div><b>5. Reproductive:</b> seminal vesicle cysts, infertility.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "g(AXpUv<gY",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are male lower urinary tract symptoms (LUTS)?",
                 "An umbrella term for:<div><br><div><b>1. Storage symptoms</b> e.g. frequency, urgency, nocturia, suprapubic pain.</div><div><b>2. Voiding symptoms </b>e.g. hesitancy, poor flow, incomplete voiding, terminal dribbling.</div></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -10799,6 +13024,22 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Which investigations may be useful in suspected Crohn disease?",
+                "<b>1. Bloods:</b> FBC, CRP, ESR, LFTs, B12, folate, ferritin.<div><b>2. Stool:</b> faecal calprotectin.</div><div><b>3. Endoscopy</b> e.g. OGD, colonoscopy, wireless capsule endoscopy.</div><div><b>4. Imaging </b>e.g. barium studies, MR enterocylsis, CT, white cell scan.</div><div><br></div><div><b>NOTES</b></div><div><i>White cell scanning</i> may be useful for identifying areas of inflammation.</div><div><i><div></div></i></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "lm$vfbjX]-",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is meant by 'first degree' internal haemorrhoids?",
                 "Haemorrhoids confined to the anal canal.<div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -10865,6 +13106,22 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of CKD stage 5?",
+                "<b>eGFR &lt;15 </b>ml/min/1.73sqm, present for ≥3 months.<div><br></div><div><b>NOTES</b></div><div><i>eGFR</i> = estimated glomerular filtration rate.</div><div><i>CKD stage 5</i> is also referred to as chronic renal failure.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "rwG*Od3Y{z",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
             ]
         },
         {
@@ -10943,6 +13200,23 @@
             "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
             "tags": [
                 "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for hyperkalaemia?",
+                "<b><div></div></b><b><div></div></b><div><div><div>Must find and address the underlying cause, in the meantime:</div></div></div><div><br></div><b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - IV access.</div><div><div><b><br></b></div><div><b>2. Meds</b></div><b><font color=\"#008000\">10ml 10% calcium gluconate</font></b> over 5 mins, repeat until ECG normalises.</div><div><b><font color=\"#008000\">125ml 20% dextrose with 10 units of actrapid </font></b>over 30 mins.</div><div><b><font color=\"#008000\">Calcium resonium</font></b> 15mg QDS PO.</div><div><br></div><div>Consider <b><font color=\"#008000\">salbutamol nebs 10mg</font></b> if severe hyperkalaemia.<br></div><div>Consider haemodialysis, call Renal SpR.</div><div><br></div><div><b>NOTES</b></div><div><div>Generally, treatment is unnecessary if K&lt;6.5 and there are no ECG changes.</div></div><div>Must review meds and hold any that may contribute to hyperkalaemia.</div><div><b><br></b></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "q}{:5,8da4",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
             ]
         },
         {
@@ -11580,6 +13854,329 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the causes of jaundice?",
+                "Sort by mechanism<div><br></div><div><b>1. Prehepatic</b> e.g. haemolysis.</div><div><b>2. Hepatocellular</b> e.g. hepatitis.</div><div><b>3. Cholestatic</b> e.g. gallstones, benign or malignant biliary stricture.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "zjsMH:<yt}",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for decompensation of cirrhosis?",
+                "Sort by mechanism (mnemonic ABCDI)<div><br></div><div><b>Alcohol.</b></div><div><b>Bleeding.</b></div><div><b>Constipation.</b></div><div><b>Drugs</b> e.g. sedatives.</div><div><b>Infection</b> e.g. UTI.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "poZ/-D>x<)",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Infection,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is hepatorenal syndrome?",
+                "A complication of advanced liver disease&nbsp;<div><br></div><div>The only treatment is liver transplant.&nbsp;<br><div><br></div><div><b>NOTES</b></div><div>Represents the end stage of progressive reduction in renal perfusion.</div><div><i>Proposed mechanism:</i> cirrhosis, portal hypertension, splanchnic arterial vasodilation, reduction in renal perfusion.</div><div>This is a diagnosis of exclusion, must first consider other causes of renal dysfunction.</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "CKi#7,5VM,",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is hepatopulmonary syndrome?",
+                "<b>A complication of advanced liver disease. </b>Vascular dilatations within the lung lead to shunting and poor oxygenation.<div><br></div><div><div><div><b>NOTES</b></div><div><i>Diagnosis </i>requires all 3 of: liver disease; impaired oxygenation; intrapulmonary vascular abnormalities.</div><div><i>The mechanism</i> is unclear, may be due to decreased metabolism (or increased production) of vasodilators in the liver.</div><div><br></div><div>UPDATED 2020</div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "s})#ca~&/>",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of dysentery?",
+                "Diarrhoea containing blood<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "igw~m9A3SJ",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is NAFLD?",
+                "Non alcoholic fatty liver disease<div><br></div><div><b>NOTES</b></div><div>Subdivided into NAFL and NASH.</div><div><i>NAFL</i> = non alcoholic fatty liver (hepatic steatosis without inflammation).</div><div><i>NASH</i> = non alcoholic steatohepatitis (hepatic steatosis with inflammation).</div><div><i>Risk factors</i> include obesity, systemic hypertension, dyslipidaemia, and insulin resistance.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "y^L2RDEG|Z",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for NAFLD?",
+                "<div>Sort by history</div><div><br></div><div><b>Demographics </b>e.g. age, male.</div><div><b>PMHx</b> e.g. obesity, hypertension, dyslipidaemia, insulin resistance.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "A+GcpUqwhK",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a carcinoid tumour?",
+                "<b>A neuroendocrine tumour</b> of the gastrintestinal tract or lungs.<div><br></div><div><b>NOTES</b></div><div><i>Carcinoid tumours </i>typically produce serotonin, histamine, tachykinins, kallikrein, and prostaglandins.</div><div>Release of these hormones may result in the carcinoid syndrome.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "P[P[UV-`([",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Gastroenterology,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of carcinoid syndrome?",
+                "<div><b>History</b></div><div>Episodic skin flushing.</div><div>Watery diarrhoea.</div><div>Wheezing.</div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>may be tachycardia and hypotension during flush.</div><div><i>Inspection: </i>flushed skin, may be venous telangiectasia.</div><div><i>Auscultation: </i>may be wheeze, TR or PR murmurs.</div><div><br></div><div><b>NOTES</b></div><div><i>Carcinoid syndrome </i>rarely occurs in the absence of liver metastases.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "JO;qk^/9K9",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Gastroenterology,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which scoring system is used to determine disease severity in alcoholic hepatitis?",
+                "<div><b>Child Pugh Score&nbsp;</b></div><div><b><br></b></div><div><b>NOTES</b></div><div><i>Related scoring systems</i> include Child Pugh score, MELD score, Glasgow alcoholic hepatitis score.</div><div><i>MELD</i> = Model for End-stage Liver Disease. Maddrey discriminant function (DF)</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "Og02}sT5Nx",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is hereditary haemochromatosis (HH)?",
+                "A hereditary disorder of iron metabolism<div><br></div><div><b>NOTES</b></div><div>HH has autosomal recessive inheritance, due to mutation in the HFE gene.</div><div>Characterised by high intestinal iron absorption and deposition in liver, heart, pancreas, and pituitary.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "w3;h)*cFs%",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Metabolic,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of hereditary haemochromotosis (HH)?",
+                "<div>Sort symptoms by organ system</div><div><br></div><b>History</b><div><i>Constitutional</i> e.g. extreme tiredness (mechanism unknown).</div><div><i>Liver: </i>symptoms of cirrhosis.</div><div><i>Pancreas: </i>symptoms of diabetes.</div><div><i>Joints:</i> arthralgia.</div><div><i>Heart: </i>symptoms of heart failure.</div><div><i>Pituitary:</i> symptoms of hypogonadism, hyothyroidism.</div><div><i>Skin:</i> hyperpigmentation.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>hyperpigmentation, may be signs of advanced liver disease or heart failure.</div><div><i>Palpation: </i>may be hepatomegaly.</div><div><i>Auscultation: </i>may be bibasal crackles.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "z7TAZI+*Pb",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Dermatology,",
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for hereditary haemochromatosis (HH)?",
+                "<b>1. Conservative </b>e.g. diet low in iron, avoid alcohol.<div><br></div><div><b>2. Therapeutic phlebotomy.</b></div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "cyY3H$OPV3",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Wilson disease?",
+                "A hereditary disorder of copper metabolism<div><br></div><div><b>NOTES</b></div><div>Wilson disease has autosomal recessive inheritance.</div><div>Characterised by low biliary excretion of copper and deposition in the liver, brain, and eye.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "fPn4:{48r*",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Genetics,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of Wilson disease?",
+                "Sort symptoms by organ system<div><br></div><div><b>History</b></div><div><i>Liver</i> e.g. symptoms of cirrhosis or acute hepatitis.</div><div><i>Brain</i> e.g. dysarthria, ataxia, dystonia, tremor, parkinsonism, depression, personality change (variable neurological symptoms).</div><div><br></div><div><b>Exam</b></div><div><i>Inspection:</i> Kayser-Fleischer rings, may be signs of advanced liver disease or neurological dysfunction.</div><div><i>Palpation: </i>may be hepatomegaly.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "I5j>;0c}sq",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Metabolic,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for Wilson disease?",
+                "<b>1. Patient education</b> e.g. diet low in copper, avoid alcohol.<div><br></div><div><b>2. Meds</b></div><div>D-penicillamine (copper chelation)</div><div><br></div><div><b>3. Surgery</b></div><div>Consider liver transplant.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Nz,hV2B1p_",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is alpha-1 antitrypsin (AAT) deficiency?",
+                "A <b>hereditary enzyme deficiency </b>affecting the lungs, liver, and occasionally skin.<div><br></div><div><b>NOTES</b></div><div>Clinical presentation is variable.</div><div><i>Lung pathology </i>(COPD with panacinar emphysema) is due to unopposed action of elastase.</div><div><i>Liver pathology</i> (cirrhosis or hepatatis) is due to polymerisation of variant AAT within hepatocytes.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "ceVaAQeZZk",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Gastroenterology,",
+                "Respiratory,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the extra-intestinal complications of ulcerative colitis?",
+                "Sort by organ system<div><br></div><div><b>1. Joints:</b> IBD-associated arthritis.</div><div><b>2. Skin:</b> clubbing, erythema nodosum, pyoderma gangrenosum.</div><div><b>3. Eyes:</b> uveitis, episcleritis.</div><div><b>4. HPB:</b> primary sclerosing cholangitis.</div><div><b>5. Blood:</b> thromboembolism, anaemia (B12).</div><div><b>6. Pulmonary:</b> bronchiectasis, interstitial lung disease.</div><div><b>7. Bones:</b> osteoporosis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "yt5ody{hma",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Gastroenterology,",
+                "Orthopaedics,",
+                "Respiratory,",
+                "Y3::Med_B::Gastrointestinal",
+                "autoimmune,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for primary biliary cirrhosis (PBC)?",
+                "<b>1. Conservative </b>e.g. avoid alcohol.<div><br></div><div><b>2. Meds</b></div><div>Ursodeoxycholic acid.</div><div>Consider fat-soluble vitamin supplements.</div><div><br></div><div><b>3. Surgery</b></div><div>Consider liver transplant.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "b)e}ZFBZUe",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "A patient with T2DM (on insulin) is booked for a short operation (&lt;2h). Outline the management for pre-op glycaemic control.",
                 "On the morning of surgery:<div><br></div><div>1. Nil by mouth.</div><div>2. Start 5% dextrose IVI from midnight (monitor BMs).</div><div>3. Omit oral hypoglycaemics and morning short-acting insulin (give long-acting insulin as normal).</div><div><br></div><div><b>NOTES</b></div><div>Patient shold be first on the list.</div><div><div><i>T2DM</i> = type 2 diabetes mellitus.</div></div><div><br></div><div><div>UPDATED 2020</div></div>"
             ],
@@ -12132,6 +14729,70 @@
                 "Y3::Surg_A::General_Surgery",
                 "general",
                 "surgery,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'nephritic urine sediment'?",
+                "Presence in the urine of:<div><br><div><b>Red cells</b> (often dysmorphic).</div><div><b>± white cells.</b></div><div><b>± casts</b> (red cells or mixed)</div><div><b>± proteinuria</b> (variable degree).</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "1gK;GGdYv",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is IgA nephropathy?",
+                "An autoimmune disorder of the glomerulus<div><br></div><div><b>NOTES</b></div><div>The most common cause for primary glomerulonephritis in the developed world.</div><div><i>Risk factors: </i>male, peak in young adults.</div><div><i>Aetiology:</i> usually idiopathic, may be associated with other pathology e.g. severe liver disease, coeliac disease.</div><div><i>Diagnosis:</i> immunofluorescence microscopy.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "f)jR(>Xj]=",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is poststreptococcal glomerulonephritis (PSGN)?",
+                "<b>An autoimmune disorder of the glomerulus</b>, most common in children.<div><br></div><div><b>NOTES</b></div><div>May follow pharyngitis due to Group A Beta-haemolytic Streptococcus.</div><div>Clinical features are variable, may present with acute glomerulonephritis.</div><div>Diagnosis usually involves serological testing with ASO (antistreptolysin) test.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "cQX;y%/,2e",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of hyponatraemia? ",
+                "<div>Sort by volume status</div><div><br></div><div><b>1. Hypovolaemia</b> (Na loss) e.g. renal (thiazide diuretics, Addison disease); gastrointestinal; skin; third space.</div><div><b>2. Euvolaemia </b>(usually Na dilution) e.g. SIADH, primary polydipsia, low Na intake.</div><div><b>3. Hypervolaemia</b> (Na dilution) e.g. heart, liver, or renal failure, nephrotic syndrome.</div><div><br></div><div><b>NOTES</b></div><div><i>Artefactual hyponatraemia</i> e.g. sample from arm running IV fliuds.</div><div><i>Pseudohypernatraemia </i>e.g. hyperglycaemia, lipaemia, or proteinaemia.</div><div><i>SIADH</i> = syndrome of inappropriate antidiuretic hormone.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "l@w=#q)Ayd",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
             ]
         },
         {
@@ -12716,6 +15377,74 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What is meant by grade 1 hepatic encephalopathy? (West Haven criteria)&nbsp;",
+                "Mild confusion<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wGkC-+LpNf",
+            "newlyAdded": false,
+            "note_model_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by grade 2 hepatic encephalopathy? (West Haven criteria)&nbsp;",
+                "Drowsy, gross mental ability defects.<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CiEjJ|fm4q",
+            "newlyAdded": false,
+            "note_model_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by grade 3 hepatic encephalopathy? (West Haven criteria)&nbsp;",
+                "Somnolent, rousable, speech incomprehensible.<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FhqZ;vpbs:",
+            "newlyAdded": false,
+            "note_model_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by grade 4 hepatic encephalopathy?",
+                "Coma<div><br></div><div><div>UPDATED 2020<br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LIFFwHH5q-",
+            "newlyAdded": false,
+            "note_model_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is the threshold for raised fasting glucose?",
                 "7mmol/l<div><br></div><div>UPDATED 2020<br></div>",
                 ""
@@ -12790,6 +15519,24 @@
             "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
             "tags": [
                 "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which antiemetics may be best for N&amp;V in the context of gastroenteritis?",
+                "<div><b>Cyclizine or Ondansetron</b></div><div><b><br></b></div><div><b>NOTES</b></div><div><i>Second line</i> is Dopamine Antagonists e.g. Metoclopramide.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nsM7UO?H{N",
+            "newlyAdded": false,
+            "note_model_uuid": "591ab5ad-af10-11ea-b1f4-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -17774,6 +20521,102 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "How many units of alcohol are in one pint of ordinary strength (3-4%) beer?",
+                "2 units<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "q|gnGeQ2JP",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How many units of alcohol are in one pint of ordinary strength (3-4%) cider?",
+                "2 units<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Ab#!fDuv6A",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How many units of alcohol are in one small glass (125ml) of ordinary strength (12%) wine?",
+                "1.5 units<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "N}&Yg^AF|b",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How many units of alcohol are in one standard measure (35ml) of ordinary strength (40%) spirits?",
+                "1.5 units<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "pfpT8Pc?9K",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How many units of alcohol are in one pint of strong beer (6%)",
+                "3 units<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "ctXU):s%z]",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How many units of alcohol are in one large glass (250ml) of ordinary strength (12%) wine?",
+                "3 units<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "l/lL?J8E6N",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is Kartagener syndrome?",
                 "Situs inversus, chronic sinusitis, and bronchiectasis, due to <b>primary ciliary dyskinesia</b>.<div><br></div><div><b>NOTES</b></div><div><i>Genetic basis:</i> autosomal recessive disease, may be due to one of a large number of mutations.</div><div><i>Situs inversus </i>occurs because the nodal cilia of the embryo are defective (there is equal chance of situs solitus and situs inversus).</div><div><i>Treatment: </i>similar to cystic fibrosis.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -17785,6 +20628,58 @@
                 "Genetics,",
                 "Respiratory,",
                 "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of hypokalaemia?",
+                "Sort by mechanism<div><br></div><div><b>1. Muscle </b>e.g. severe weakness, cramps, rhabdomyolysis.</div><div><b>2. Heart </b>e.g. ST depression, small T waves, big U waves, QT prolongation.</div><div><b>3. Kidneys</b> e.g. renal dysfunction, increased ammonia.</div><div><b>4. Pancreas</b> e.g. glucose intolerance (reduced insulin secretion).</div><div><br></div><div><b>NOTES</b></div><div><i>Symptoms</i> only usually occur at &lt;3mmol/L (unless predisposition to arrhythmia e.g. digoxin).</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "l^JL=<w@T|",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Nephrology,",
+                "Y3::Med_A::Nephrology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In treatment of mild hypokalaemia (K 3-3.5 mmol/L) due to GIT losses, what is a typical dose for oral potassium replacement? ",
+                "KCl 20mmol 2-4 times per day<div><br></div><div><b>NOTES</b></div><div>Serum potassium must be reviewed to prevent hyperkalaemia.</div><div>One Sando-K tablet contains 12mmol of potassium.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "GB8VkKff[b",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the recommended maximum rate of potassium infusion?",
+                "10-20 mmol/hour<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "NY^|xfD<?O",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Metabolic,",
+                "Pharmacology,",
+                "Y3::Med_B::Gastrointestinal"
             ]
         },
         {
@@ -25433,6 +28328,23 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the chronic gastrointestinal complications of ulcerative colitis (UC)?",
+                "<div>1. Colorectal cancer.</div><div>2. Primary sclerosing cholangitis</div><div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "A*Xs@gPWow",
+            "newlyAdded": false,
+            "note_model_uuid": "591c3b08-af10-11ea-a5d1-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Oncology,",
+                "Y3::Med_B::Gastrointestinal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is meant by 'severe' COPD?",
                 "An FEV1 <b>30-50% </b>predicted&nbsp;<div><br></div><div>UPDATED 2020</div>"
             ],
@@ -32237,7 +35149,7 @@
             "data": "",
             "fields": [
                 "What appointments should a prospective mother make to a healthcare professional?",
-                "1. 18-12 weeks appointment<br>2.  16 weeks appointment <br>3. 25 weeks appointment (if first baby) <br>4. 28 weeks appointment <br>5. 31 weeks appointment (if first baby) <br>6. 34 weeks appointment<br>7. 36 weeks appointment  <br>8. 38 weeks appointment <br>9. 40 weeks appointment (if first baby) <br>10. 41 weeks appointment<br>11. 42 weeks (offer of inducement)"
+                "1. 12 weeks appointment<br>2.  16 weeks appointment <br>3. 25 weeks appointment (if first baby) <br>4. 28 weeks appointment <br>5. 31 weeks appointment (if first baby) <br>6. 34 weeks appointment<br>7. 36 weeks appointment  <br>8. 38 weeks appointment <br>9. 40 weeks appointment (if first baby) <br>10. 41 weeks appointment<br>11. 42 weeks (offer of inducement)"
             ],
             "flags": 0,
             "guid": "HD#gk-%j@y",
