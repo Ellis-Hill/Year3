@@ -86,7 +86,7 @@
         "ECG-showing-sinus-bradycardia.png",
         "FakJQSI5oFPKsKHgpMxVvab4o-Yf9QAXvitVdedB_e3ZK6ukxYJITsAzI5bghKi7XVHUH_j5vUWl90baDAGKC8vMpOm_9h0.jpg",
         "GEN0418_0001_table_b.jpg",
-        "Prehospital+limb+leads.jpg",
+        "Screenshot-2020-04-27-12.57.38.png",
         "TrafficLightSickKids.jpg",
         "a-conglobata2__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg0XQ.jpg",
         "a09b44e02b25f117743f3d11a299cf_jumbo.jpg",
@@ -425,6 +425,58 @@
     "mid": "1536863682529",
     "name": "Year3",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.card1 { background-color: #ffffff;text-align: left }",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-dd7a2",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Forward",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "591ab5a7-af10-11ea-b639-48ba4e4e145b",
@@ -1039,7 +1091,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "Y3::Surg_B::CBL2::LO1"
+                "Y3::Med_A::Nephrology"
             ],
             "tmpls": [
                 {
@@ -1171,6 +1223,159 @@
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of antiphospholipid syndrome?",
+                "Sort symptoms by mechanism<div><br></div><div><b></b><b>History</b></div><div><i>Thrombotic events</i> e.g. DVT, PE, TIA, stroke.</div><div><i>Pregnancy morbidity</i> e.g. miscarriage (early or late), premature birth due to pre-eclampsia or placental insufficiency.</div><div><i>Skin </i>e.g. rash, ulcers.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>livedo reticularis, thrombophlebitis, ulcers.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "lqM;mbSVVN",
+            "newlyAdded": false,
+            "note_model_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which connective tissue disease is associated with anti-dsDNA antibodies?",
+                "Classic SLE<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "q|,]uKXyVC",
+            "newlyAdded": false,
+            "note_model_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which connective tissue disease is associated with anti-Smith antibodies?",
+                "Classic SLE<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "jv_k#rKvO_",
+            "newlyAdded": false,
+            "note_model_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<span style=\"\">Which connective tissue disease is associated with <span style=\" font-style: normal; font-weight: normal;\">anti-Ro/La antibodies</span>?</span>",
+                "Sjögren syndrome<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "fdKHb(w1]C",
+            "newlyAdded": false,
+            "note_model_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which connective tissue disease is associated with <span style=\"\">anti-U1 RNP antibodies?</span>",
+                "Mixed connective tissue disease (MCTD)<div><br></div><div><div><b>NOTES</b></div><div><div><i>RNP</i> = ribonucleoprotein.</div><div><br></div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "h;jb>hCLoH",
+            "newlyAdded": false,
+            "note_model_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which autoantibody is associated with diffuse cutaneous systemic sclerosis (SSc) (Scleroderma)?",
+                "<b>Anti-Scl70 </b>and anti-RNA polymerase III.<div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "hS|n(x,f&]",
+            "newlyAdded": false,
+            "note_model_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which autoantibody is associated with limited cutaneous scleroderma?",
+                "Anticentromere antibody<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "h[jnYm=|j0",
+            "newlyAdded": false,
+            "note_model_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which connective tissue disease is associated with anti-Scl 70 antibody?",
+                "Diffuse cutaneous systemic sclerosis (SSc) (Scleroderma)<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "i#prY+z:h^",
+            "newlyAdded": false,
+            "note_model_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which connective tissue disease is associated with anti-centromere antibody?",
+                "Limited cutaneous systemic sclerosis (SSc) (Scleroderma).&nbsp;<div><br></div><div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "cmsqx`lzG`",
+            "newlyAdded": false,
+            "note_model_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
         {
             "__type__": "Note",
             "data": "",
@@ -2235,6 +2440,42 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the clinical features of <span style=\"\">knee osteoarthritis (OA)?</span>",
+                "<b></b><b>History</b><br><div>Pain and stiffness in knee.</div><div>Limited ROM.<div><br><b>Exam</b><div><i>Inspection: </i>antalgic gait, fixed flexion, genu varus.</div><div><i>Palpation:</i> joint line tenderness, osteophytes, effusion, limited ROM, crepitus.</div><div><br></div><div><b>NOTES</b></div><div><i>Pain</i> is typically worse with activity, relieved by rest.</div><div><i>Stiffness</i> typically resolves &lt;30mins after starting to move.</div><div>UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "sk#DxD},PL",
+            "newlyAdded": false,
+            "note_model_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of hip osteoarthritis (OA)?",
+                "<b></b><b>History</b><br><div>Pain in hip ± knee.</div><div>Stiffness in hip.</div><div>Limited ROM.<div><br><b>Exam</b><div><i>Inspection: </i>antalgic gait, gluteal wasting, fixed external rotation, adduction, and flexion.</div><div><i>Palpation:</i> limited ROM, crepitus.</div><div><br></div><div><b>NOTES</b></div><div><i>Pain</i> is typically worse with activity, relieved by rest.</div><div><i>Stiffness</i> typically resolves &lt;30mins after starting to move.</div></div></div><div><i>ROM</i> = range of movement.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "l>OcLjmM9q",
+            "newlyAdded": false,
+            "note_model_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the clinical features of a galactocoele?",
                 "<b>History</b><div>Patient is lactating.<br><div><div>Subareolar lump.<br>Moderately painful.<div><br><b>Exam</b><br><i>Inspection: </i>smooth, spherical swelling.</div><div><i>Palpation: </i>may be very hard, rarely fluctuant.<br></div><div><br></div><div><b>NOTES</b></div><div>A galactocoele is a milk-containing cyst.</div><div>Resolution must await the cessation of breast feeding.</div></div></div></div><div>Aspiration of milky fluid is diagnostic.</div><div><br></div><div><img src=\"galactocele.jpg\"><br></div><div><br></div><div>UPDATED 2020</div>"
             ],
@@ -2458,7 +2699,8 @@
             "newlyAdded": false,
             "note_model_uuid": "c9cee88c-afd3-11ea-8000-48ba4e4e145b",
             "tags": [
-                "Endocrine,"
+                "Endocrine,",
+                "leech"
             ]
         },
         {
@@ -5544,7 +5786,7 @@
             "data": "",
             "fields": [
                 "What is Murphy's sign?",
-                "<div><b>RUQ tenderness to palpation on deep breathing</b> (seen in cholecystitis).</div><div><br></div><div><b>NOTES</b></div><div><i>Technique: </i>Lie patient supine, ask her to breathe out. Place a hand below the right costal margin in the mid clavicular line, then ask her to breathe in. If the patient winces with a 'catch' in breath, the test is considered positive.</div><div><i>RUQ</i> = right upper quadrant.</div><div><br></div><div>UPDATED 2020</div>"
+                "<div><b>RUQ tenderness to palpation on deep breathing</b> (seen in cholecystitis).</div><div><br></div><div><b>NOTES</b></div><div><i>Technique: </i>Lie patient supine, ask them to breathe out. Place a hand below the right costal margin in the mid clavicular line, then ask them to breathe in. If the patient winces with a 'catch' in breath, the test is considered positive.</div><div><i>RUQ</i> = right upper quadrant.</div><div><br></div><div>UPDATED 2020</div>"
             ],
             "flags": 0,
             "guid": "sUvsznP6+l",
@@ -6589,6 +6831,24 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the causes of Raynaud phenomenon?",
+                "Sort by mechanism<div><br><div><b>1. Primary</b> (idiopathic).<br><b>2. Secondary</b><br><div><i>Inflammatory</i> e.g. SSc, SLE, Sjögren syndrome, polymyositis.</div><i>Neoplastic</i> e.g. paraneoplastic, cryoglobulinaemia.</div><div><i>Vascular</i> e.g. vasculitis, thromboangiitis obliterans.</div><div><i>Trauma</i> e.g. vibration injury, frost bite.</div><div><i>Endocrine</i> e.g. hypothyroidism.</div><div><i>Drugs</i> e.g. sympathomimetics, chemotherapy, IFN.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "s8>{td452;",
+            "newlyAdded": false,
+            "note_model_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What are the risk factors for Crohn disease?",
                 "<div><div>Sort by history</div></div><div><br></div><b>Demographics </b>e.g. peak in early adulthood, Caucasian.<div><b>SHx</b> e.g. smoking.<br><b>FHx</b> of inflammatory bowel disease.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
@@ -6631,6 +6891,42 @@
             "tags": [
                 "Breast",
                 "Y3::Surg_A::Breast"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are Heberden nodes?",
+                "<div><div>Osteoarthritic enlargement of the <b>DIPJs</b></div><div><br></div><div><b>NOTES</b></div><div><i>DIPJ </i>= distal interphalageal joint.</div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "s1!}jEG5^h",
+            "newlyAdded": false,
+            "note_model_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are Bouchard nodes?",
+                "<div>Osteoarthritic enlargement of the <b>PIPJs</b></div><div><br></div><div><b>NOTES</b></div><div><i>PIPJ </i>= proximal interphalageal joint.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "oOr3r{K0W.",
+            "newlyAdded": false,
+            "note_model_uuid": "f6c3b8d1-c060-11ea-8fad-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
             ]
         },
         {
@@ -12586,7 +12882,8 @@
             "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
             "tags": [
                 "Cardiovascular",
-                "Y3::Med_A::Cardiology"
+                "Y3::Med_A::Cardiology",
+                "leech"
             ]
         },
         {
@@ -12610,8 +12907,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What is the definition of CKD stage 3?",
-                "<b>eGFR 30-59 </b>ml/min/1.73sqm, present for ≥3 months.<div><br></div><div><b>NOTES</b></div><div><i>CKD stage 3</i> is also referred to as 'moderate renal impairment'.</div><div><br></div><div>UPDATED 2020<br></div>"
+                "What is the definition of CKD stage 3a?",
+                "<b>eGFR 45-59 </b>ml/min/1.73sqm, present for ≥3 months.<div><br></div><div><b>NOTES</b></div><div><i>CKD stage 3</i> is also referred to as 'moderate renal impairment'.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
             "flags": 0,
             "guid": "zhUL/<wx(f",
@@ -15044,6 +15341,7 @@
                 "Anatomy,",
                 "Y3::Surg_A::General_Surgery",
                 "general",
+                "leech",
                 "surgery,"
             ]
         },
@@ -15150,6 +15448,1587 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "What are the risk factors for rheumatoid arthritis (RA)?",
+                "Sort by history<div><br></div><div><b>Demographics</b> e.g. female, peak onset in middle age.</div><div><b>PMHx </b>e.g. autoimmune disease</div><div><b>SHx</b> e.g. smoking.</div><div><b>FHx</b> of RA.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "s~]rW6wzq9",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of rheumatoid arthritis (RA)?",
+                "<b>History</b><br><div>Typical patient is a middle aged woman.</div><div><i>Articular symptoms</i> e.g. usually symmetrical polyarthritis, may progress to characteristic deformities.</div><div><i>Constitutional symptoms</i> e.g. aches, weakness, tiredness, fever.</div><div><i>Extra-articular symptoms</i> e.g. skin, eyes, neuro, heart, lungs, bones, blood.</div><div><br></div><div><b>Exam</b></div><div><i>Obs:</i> may be fever.</div><div><i>Inspection:</i> may be deformities, rheumatoid nodules, scars.</div><div><i>Palpation:</i> may be active polyarthritis.</div><div><i>Auscultation:</i> may be fine crackles (fibrosis) or pleural effusion.</div><div><br></div><div><b>NOTES</b></div><div><i>Inflammatory arthritis </i>involves pain, swelling, and stiffness of the joints, worse in the mornings and after rest, better after physical activity.</div><div><i>Characteristic deformities</i> include radial deviation of the wrist, ulnar deviation of the MCPJs, boutonniere and swan neck defority of the PIPJs, and Z thumb.</div><div><i>Extra-articular features</i> are covered on a separate card.</div><div><div><i>MCPJs</i> = metacarpophalangeal joints.</div></div><div><div><i>PIPJs </i>= proximal interphalageal joints.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "w61D+~&<Zx",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the extra-articular features of rheumatoid arthritis (RA)?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><div><i>1. Heart </i>e.g. coronary artery disease, pericarditis.</div><div><i>2. Lungs </i>e.g. pleural effusions, fibrosis.</div><div><div><i>3. Neuro </i>e.g. atlanto axial subluxation (risk of cervical cord compression), carpal tunnel syndrome.</div></div><div><br></div><div><b>All the rest</b></div><div><i>1. Skin</i> e.g. rheumatoid nodules, vasculitic rash.</div><div><i>2. Eyes</i> e.g. scleritis, episcleritis.</div><div><i>3. Bones </i>e.g. osteopenia and fragility fractures.</div><div><i>4. Blood</i> e.g. anaemia.</div><div><i>5. Lymphoid organs </i>e.g. lymphadenopathy, splenomegaly.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "Kb7R/v;iCD",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected rheumatoid arthritis (RA)?",
+                "<div><b>1. Bloods</b> e.g. FBC, CRP, ESR, RF, anti-CCP.</div><div><b>2. Joint aspirate</b> (consider).</div><div><b>3. Radiology</b> e.g. USS, MRI, x-rays.</div><div><b><br></b></div><div><b>NOTES</b></div><div><i>RF</i> = rheumatoid factor (autoantibodies vs the Fc portion of IgG), is present in about 80% of patients with RA.</div><div><i>High titre IgM RF</i> is relatively specific for RA in the context of chronic polyarthritis.</div><div><i>Anti CCP </i>= anti-citrullinated peptide antibodies, higher specificity for RA than RF.</div><div><i>X-ray features</i> of RA include periarticular osteopenia, joint space narrowing, and bony erosions.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "#]e9>6,o>",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the diagnostic criteria for rheumatoid arthritis (RA)?",
+                "2010 ACR/EULAR criteria<div><br></div><div><b>NOTES</b></div><div><div><i>Total of 10 points </i>awarded in 4 domains (pattern of joint involvement, duration of symptoms, inflammatory markers, and serology).</div><div><i>Diagnosis</i> requires ≥6 points.</div></div><div><div><i>ACR</i> = American College of Rheumatology.</div><div><i>EULAR</i> = European League against Rheumatism.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "n6>L[TREc,",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for rheumatoid arthritis (RA)?",
+                "<b>1. Conservative</b><div>Patient education e.g. smoking cessation.</div><div>Immunisations.</div><div>Consider referral to PT and OT.</div><div><br></div><div><b>2. Meds</b></div><div><i>Symptomatic</i> e.g. NSAIDs, corticosteroid injections.</div><div><i>DMARDs</i> e.g. hydroxychloroquine, sulfasalazine, methotrexate.</div><div><i>Biologics</i> e.g. TNF alpha antagonists, anakinra, tocilizumab, rituximab.</div><div><br></div><div><b>3. Surgery</b> (T&amp;O)</div><div>Consider joint replacement, orthodesis.</div><div><br></div><div><b>NOTES</b></div><div>All patients with RA should be started on a DMARD as soon as possible.</div><div><i>DMARDs</i> = disease-modifying antirheumatic drugs.</div><div><i>Biologics</i> = monoclonal antibodies, directed against specific target molecules.</div><div><i>TNF alpha antagonists</i> include etanercept, infliximab, and adalimumab.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "O?:Km}&^RT",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of polyarthritis?",
+                "Sort by prevalence<div><br></div><div><b>Most common:</b> rheumatoid arthritis.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Infection </i>e.g. parvovirus, Lyme disease.</div><div><i>2. Inflammatory</i> e.g. SLE, seronegative spondyloarthropathies, vasculitis.</div><div><i>3. Metabolic</i> e.g. crystal arthropathy.</div><div><i>4. Degenerative</i> e.g. OA.</div><div><br></div><div><b>NOTES</b></div><div><i>Seronegative spondyloarthropathies</i> include psoriatic arthritis, IBD-associated arthritis, ankylosing spondylitis, postinfective (reactive) arthritis.</div><div><i>Crystal arthropathy</i> = gout and pseudogout.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "LY2i]EI?rX",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of monoarthritis?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><i>1. Septic arthritis.</i></div><div><br></div><div><b>All the rest</b></div><div><i>1. Infection </i>e.g. Lyme disease.</div><div><i>2. Inflammatory</i> e.g. seronegative spondyloarthropathy, RA, SLE.</div><div><i>3. Trauma.</i></div><div><i>4. Metabolic</i> e.g. crystal arthropathy.</div><div><i>5. Degenerative</i> e.g. OA.</div><div><br></div><div><b>NOTES</b></div><div><i>Seronegative spondyloarthropathies</i> include ankylosing spondylitis, postinfective (reactive) arthritis, psoriatic arthritis, IBD-associated arthritis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qo?R~DFsl0",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Metabolic,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for septic arthritis?",
+                "Sort by history<div><br></div><div><b>Demographics</b> e.g. age.</div><div><b>PMHx</b> e.g. RA, joint surgery, immunosuppression, skin infection.</div><div><b>SHx</b> e.g. IVDU.</div><div><br></div><div><b>NOTES</b></div><div><i>Immunosuppression</i> e.g. diabetes, HIV.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "OC+g~8L:bi",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Orthopaedics,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of septic arthritis?",
+                "<b></b><b>History</b><br><div>Acutely painful, swollen joint.</div><div>Limited range of movement.</div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>may be fever.</div><div><i>Inspection:</i> inflamed joint.</div><div><i>Palpation:</i> may be effusion, tender on movement.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "IMjBc5X9}=",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected septic arthritis?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important:</b> joint aspiration.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods</i> e.g. FBC, U&amp;Es, culture, lactate.</div><div><i>2. Urine</i> e.g. dip, MC&amp;S.</div><div><i>3. Radiology </i>e.g. x-ray, USS, MRI.</div><div><br></div><div><b>NOTES</b></div><div><i>Joint aspiration </i>send for Gram stain, cell count, crystals, culture.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "iP>pqM]4*0",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for septic arthritis?",
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.</div><div>C - consider IV fluids, catheter, monitor input/output.</div><div><br></div><div><b>2. Meds</b></div><div>IV antibiotics (see local guidelines).</div><div>Analgesia.</div><div><br></div><div><b>3. Surgery</b> (T&amp;O)</div><div>Urgent joint drainage and irrigation.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "uT%*eu}(da",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Infection,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which micro-organisms most commonly cause septic arthritis?",
+                "Sort by prevalence<div><br></div><div><b>Most common:</b> Staphylococcus aureus.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Gram positives</i> e.g. Streptococci.</div><div><i>2. Gram negative bacilli </i>(in trauma, IVDU, immunosuppression).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "lWalG4RduS",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Orthopaedics,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for gout?",
+                "Sort by history<div><br></div><div><b>Demographics</b> e.g. male.</div><div><b>PMHx</b> e.g. obesity, hypertension, diabetes, CKD.</div><div><b>DHx</b> e.g. thiazides.</div><div><b>SHx</b> e.g. diet (meat, seafood, alcohol).</div><div><br></div><div><b>NOTES</b></div><div><i>Gout</i> results from high serum urate levels.</div><div><i>Urate</i> is a product of purine metabolism.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "yg{bu]o]+_",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of gout?",
+                "<b></b><b>History</b><br><div>Acutely painful, swollen joint(s).</div><div>Pain reaches peak within 24h.</div><div><br></div><div><b>Exam</b></div><div><i>Obs: </i>may be fever.</div><div><i>Inspection: </i>inflamed joint(s), may be tophi.</div><div><br></div><div><b>NOTES</b></div><div><i>First MTPJ</i> is often affected by gout.</div><div><i>MTPJ</i> = metatarsophalageal joint.</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "P@P8%L77(F",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Metabolic,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected gout?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important:</b> joint aspirate.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods</i> e.g. U&amp;Es, CRP, ESR, urate.</div><div><i>2. Urine</i> e.g. uric acid.</div><div><i>3. Radiology</i> e.g. x-ray.</div><div><br></div><div><b>NOTES</b></div><div><i>Joint aspirate</i> may show negatively birefringent crystals.</div><div><i>Serum urate levels</i> are of limited value, may be high, normal, or low in acute flare.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "FEfuzi>}H6",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for acute gout?",
+                "<b>1. Conservative </b>e.g. patient education, foot elevation, ice packs.<div><br></div><div><b>2. Meds</b></div><div><i>First line: </i>NSAIDs.</div><div><i>Second line:</i> colchicine, corticosteroids.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "M#dQ~fs@ed",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for gout?",
+                "<b>1. Conservative </b>e.g. patient education, diet low in alcohol, seafood, red meat.<div><br></div><div><b>2. Meds </b>e.g. allopurinol.</div><div><br></div><div><b>NOTES</b></div><div><i>Allopurinol</i> is a xanthine oxidase inhibitor, takes 2-3 months to work, only start 1-2 weeks after acute flare has resolved.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "rX,#?_Hytd",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of oligoarthritis?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><i>1. Septic arthritis.</i></div><div><br></div><div><b>All the rest</b></div><div><i>1. Infection </i>e.g. Lyme disease.</div><div><i>2. Inflammatory</i> e.g. seronegative spondyloarthropathies, RA, SLE.</div><div><i>3. Metabolic</i> e.g. crystal arthropathy.</div><div><i>4. Degenerative</i> e.g. OA.</div><div><br></div><div><b>NOTES</b></div><div><i>Seronegative spondyloarthropathies</i> include ankylosing spondylitis, postinfective (reactive) arthritis, psoriatic arthritis, IBD-associated arthritis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "I(rnL>01dc",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Metabolic,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'polyarthritis'?",
+                "Inflammation of &gt;4 joints<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "LMlS^-3z7N",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'oligoarthritis'?",
+                "Inflammation of ≤4 joints<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Cc@C+~I$N!",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'monoarthritis'?",
+                "Inflammation of one joint<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "O9|T}q*Z>Q",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the 'seronegative spondyloarthropathies'?",
+                "A group of connective tissue disorders which involve the intervertebral and sacroiliac joints.<div><br></div><div><b>NOTES</b></div><div><i>Seronegative</i> = no elevation of rheumatoid factor.</div><div><i>Examples</i> include ankylosing spondylitis, postinfective (reactive) arthritis, psoriatic arthritis, IBD-associated arthritis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "x=KZC&gt(L",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of ankylosing spondylitis?",
+                "<b></b><b>History</b><br><div>Typical patient is a young man.</div><div><i>Constitutional symptoms</i> e.g. tiredness, weight loss.</div><div><i>Articular symptoms</i> e.g. arthritis (lumbar spine, sacroiliac joints, peripheral joints), enthesitis, dactylitis.</div><div><i>Extra-articular symptoms </i>e.g. eyes, skin, lungs, heart, bones, neuro.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>characteristic deformities (question mark spine).</div><div><i>Auscultation: </i>fibrosis crackles, aortic regurgitation murmur.</div><div><i>Bedside tests: </i>measure chest expansion, spinal flexion, Schober test.</div><div><br></div><div><b>NOTES</b></div><div><i>Lumbar spine involvement </i>causes low back pain, worse in the morning and after rest, better with physical activity.</div><div><i>Sacroiliac joint involvement</i> typically causes alternating buttock pain.</div><div><i>Extra-articular features</i> are presented on a separate card.</div><div><i>Schober test </i>= standardised measurement of lumbar spine flexion.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "Bxd89enV^k",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the extra-articular features of ankylosing spondylitis?",
+                "<div>Sort by seriousness</div><div><br></div><div><b>Most serious</b></div><div><i>1. Heart</i> e.g. aortic regurgitation, angina (coronary artery disease).</div><div><i>2. Lungs</i><b> </b>e.g. apical fibrosis.</div><div><i>3. Neuro </i>e.g. atlanto axial subluxation (cervical cord compression), cauda equina syndrome.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Eyes</i> e.g. acute anterior uveitis.</div><div><i>2. Skin</i> e.g. psoriasis.</div><div><i>3. Bones </i>e.g. osteopenia, fractures.</div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "w@$k&(ceP8",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is ankylosing spondylitis?",
+                "A seronegative spondyloarthropathy<div><br></div><div><b>NOTES</b></div><div>Typical patient is a young man.</div><div><i>'Ankylosis' </i>= fibrous or bony bridging of joints.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "DDoB0=00<e",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected ankylosing spondylitis?",
+                "<div><b>1. Bloods</b> e.g. FBC, CRP, ESR, HLA-B27.</div><div><b>2. Joint aspirate</b> (consider).</div><div><b>3. Radiology</b> e.g. MRI, x-rays.</div><div><br></div><div><b>NOTES</b></div><div><div><i>HLA-B27</i> is useful for diagnosis in the absence of radiological changes, has high sensitivity but low specificity.</div></div><div><i>MRI</i> may show inflammation in sacroiliitis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "iXQf2~aU@.",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the long term treatment for ankylosing spondylitis?",
+                "Sort by members of the MDT<div><br></div><div><b>1. Rheumatologist: </b>meds (vs articular symptoms) e.g. NSAIDs, biologics (TNF alpha antagonists), DMARDs (sulfasalazine).</div><div><b>2. Nurse specialist:</b> patient education e.g. smoking cessation.</div><div><b>3. Physiotherapist.</b></div><div><b>4. Occupational therapist.</b></div><div><b>5. Surgeon</b> e.g. joint replacement.</div><div><div><br></div><div><b>NOTES</b></div><div><i>TNF alpha antagonists</i> include infliximab, etanercept, and adalimumab.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "IT9!>Yo$C",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of postinfective (reactive) arthritis?",
+                "<b></b><b>History</b><br><div>Typically symptoms start a few weeks after diarrhoea or STI.</div><div><i>Articular symptoms</i> e.g. arthritis (usually asymmetrical oligoarthritis), enthesitis, dactylitis.</div><div><i>Constitutional symptoms</i> e.g. tiredness, weight loss.</div><div><i>Extra-articular symptoms </i>e.g. eyes, oral ulcers, skin lesions.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>inflamed joints, may be conjunctivits, anterior uveitis, keratoderma blennorrhagica, erythema nodosum, circinate balanitis.</div><div><i>Palpation: </i>may be active arthritis.</div><div><br></div><div><b>NOTES</b></div><div><i>Inflammatory arthritis </i>involves pain, swelling, and stiffness of the joints, worse in the mornings and after rest, better after physical activity.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "K28ixL@#IM",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected postinfective (reactive) arthritis?",
+                "<div><b>1. Bloods</b> e.g. FBC, CRP, ESR, HLA-B27.</div><div><b>2. Joint aspirate.</b></div><div><b>3. Urethral swab.</b></div><div><b>4. Stool sample.</b></div><div><b>5. Radiology</b> e.g. MRI, x-rays.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "o&_se97U0,",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for postinfective (reactive) arthritis?",
+                "<b>1. Conservative </b>e.g. consider referral to PT and OT.<div><br></div><div><b>2. Meds </b>(vs articular symptoms)</div><div><i>First line: </i>NSAIDs, intra articular corticosteroid injection.</div><div><i>Second line: </i>DMARDs e.g. sulfasalazine, methotrexate.</div><div><br></div><div><b>3. Surgery</b> (T&amp;O)</div><div>Consider joint replacement.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "M:2/>u2ZN3",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of psoriatic arthritis?",
+                "<b>History</b><br><div><i>Articular symptoms</i> e.g. inflammatory arthritis (most often polyarthritis), enthesitis, dactylitis.</div><div><i>Extra-articular symptoms</i> e.g. skin, eyes.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>psoriasis, inflamed joints.</div><div><i>Palpation: </i>may be active arthritis.</div><div><br></div><div><b>NOTES</b></div><div><div><i>Inflammatory arthritis </i>involves pain, swelling, and stiffness of the joints, worse in the mornings and after rest, better after physical activity.</div><div><i>Patterns of joint involvement </i>include distal (DIPJs), polyarthritis, oligoarthritis, and spondylitis.</div><div><div><i>Extra-articular features</i> are presented on a separate card.</div></div></div><div><i>DIPJs</i> = distal interphalangeal joints.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "LiZJH+O#<<",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the extra-articular features of psoriatic arthritis?",
+                "Sort by organ system<div><br></div><div><b>1. Skin</b> e.g. psoriasis, nail pitting, onycholysis.</div><div><b>2. Eyes </b>e.g. conjunctivitis, uveitis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "ivu4q6t0&4",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected psoriatic arthritis?",
+                "<div><b>1. Bloods</b> e.g. FBC, CRP, ESR, HLA-B27.</div><div><b>2. Joint aspirate</b> (consider).</div><div><b>3. Radiology</b> e.g. x-rays, MRI.</div><div><br></div><div><b>NOTES</b></div><div><i>Characteristic x-ray features</i> include coexistence of erosion and new bone formation, lysis of terminal phalanges, 'fluffy periosteitis' at sites of tendon insertion, and 'pencil in cup' appearance.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "o0JkOV!S&.",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Dermatology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for psoriatic arthritis?",
+                "<b>1. Conservative </b>e.g. consider referral to PT and OT.<div><br></div><div><b>2. Meds </b>(vs articular symptoms)</div><div><i>First line: </i>NSAIDs, intra articular steroid injection.</div><div><i>Second line: </i>DMARDs (e.g. methotrexate), TNF alpha blockers (e.g. etanercept, infliximab).</div><div><br></div><div><b>3. Surgery</b> (T&amp;O)</div><div>Consider joint replacement.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "q#;&~m1TS.",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of IBD-associated arthritis?",
+                "<b></b><b>History</b><br><div><i>Constitutional symptoms </i>e.g. tiredness, weight loss.</div><div><i>Articular symptoms</i> e.g. peripheral arthritis (type 1 or type 2), spondylitis and sacroiliitis.</div><div><i>Extra-articular symptoms</i> e.g. eyes, skin, blood, bones, lungs.</div><div><br></div><div><b>Exam</b></div><div><div><i>Inspection: </i>inflamed joints, may be erythema nodosum, pyoderma gangrenosum</div><div><i>Palpation: </i>may be active arthritis.</div></div><div><br></div><div><b>NOTES</b></div><div><div><i>Inflammatory arthritis </i>involves pain, swelling, and stiffness of the joints, worse in the mornings and after rest, better after physical activity.</div><div><i>Type 1 arthropathy</i> = acute, &lt;6 joints, linked to IBD flares, self limiting &lt;6 months.</div><div><i>Type 2 arthropathy</i> = chronic, polyarticular, not linked to IBD flares.</div><div><div><br></div><div>&nbsp;UPDATED 2020<br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "mpN${ez-i[",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected IBD-associated arthritis?",
+                "<div><b>1. Bloods</b> e.g. FBC, CRP, ESR, HLA-B27.</div><div><b>2. Joint aspirate</b> (if indicated).</div><div><b>3. Radiology</b> e.g. x-rays, MRI.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "z#Mh8*bJ]K",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for IBD-associated arthritis?",
+                "<b>1. Conservative </b>e.g. referral to PT and OT.<div><br></div><div><b>2. Meds </b>(for articular symptoms)</div><div><i>First line: </i>NSAIDs (may exacerbate IBD)</div><div><i>Second line: </i>DMARDs (e.g. sulfasalazine, methotrexate), corticosteroids, TNF alpha blockers (e.g. infliximab, adalimumab).</div><div><br></div><div><b>3. Surgery</b>: consider joint replacement.</div><div><br></div><div><b>&nbsp;U</b>PDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "p+l7V;Ms/z",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Gastroenterology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'connective tissue disease'?",
+                "<b>A systemic autoimmune rheumatic disease</b> e.g. rheumatoid arthritis, seronegative spondyloarthropathies, SLE, SSc, Sjögren syndrome, polymyositis and dermatomyositis.<div><br></div><div><b>NOTES</b></div><div><i>Characterised</i> by inflammation of connective tissues.</div><div><i>Previously called</i> 'collagen vascular disease'.</div><div><i>SLE</i> = systemic lupus erythematosus.</div><div><div><i>SSc</i> = systemic sclerosis.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "jP/]$:8A-I",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is systemic lupus erythematosus (SLE)?",
+                "A chronic, occasionally life threatening, <b>connective tissue disease.</b><div><br></div><div><b>NOTES</b></div><div>Characterised by production of antinuclear antibodies.</div><div>May involve skin, joints, kidneys, lungs, nervous system, and other organs.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "Jf%3p;U01U",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for SLE?",
+                "Sort by history<div><br></div><div><b>Demographics</b> e.g. female, peak in young adults, African, Chinese, SE Asian.</div><div><b>PMHx </b>e.g. pregnancy (may trigger flare).</div><div><b>DHx </b>e.g. chlorpromazine, methyldopa, hydralazine (may trigger flare).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "F(DXirgwEf",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of SLE?",
+                "Sort symptoms by organ system<div><br></div><div><b></b><b>History</b><br><div><i>Constitutional symptoms</i> e.g. tiredness, fever, weight loss.</div><div><div><i>Skin</i> e.g. photosensitive butterfly or discoid rash, alopecia.</div><div><i>Joints</i> e.g. migratory symmetrical polyarthritis.</div><div><i>GIT </i>e.g. oral ulcers.</div><div><div><i>Vascular </i>e.g. Raynaud phenomenon.</div><div><i>Kidney </i>e.g. haematuria, symptoms of renal failure.</div></div><div><i>Neuro</i> e.g. psychosis, seizures.</div><div><br></div></div><div><b>Exam</b></div></div><div><i>Inspection: </i>butterfly or discoid rash, alopecia, oral ulcers, inflamed joints.</div><div><i>Auscultation: </i>may be polyserositis, fibrosis.</div><div><i>Bedside tests: </i>urine dip may suggest glomerulonephritis, ECG may suggest pericarditis.</div><div><br></div><div><b>NOTES</b></div><div><i>Complications</i> of SLE are presented on a separate card.</div><div><i>Butterfly rash</i> spares the nasolabial folds.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "s!zL7wckdI",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of SLE?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><div><i>1. Neuro </i>e.g. seizures, psychosis.</div><div><i>2. Lungs</i> e.g. pleural effusion, fibrosis.</div><div><div><i>3. Heart</i> e.g. pericarditis.</div></div><div><i>4. Kidneys</i> e.g. glomerulonephritis.</div><div><i>5. Blood</i> e.g. cytopenia, thrombophilia, lymphadenopathy, splenomegaly.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Skin </i>e.g. photosensitive butterfly or discoid rash, alopecia.</div><div><i>2. Joints</i> e.g. migratory symmetrical polyarthritis.</div><div><i>3. GIT</i> e.g. oral ulcers.</div><div><i>4. Vascular</i> e.g. Raynaud phenomenon.</div><div><i>5. Eye </i>e.g. keratoconjunctivitis sicca.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "oSK9,gtE;)",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected SLE?",
+                "<div><b>1. Bloods </b>e.g. FBC, U&amp;E, CRP, ESR, complement, ANA (anti-dsDNA, anti-Sm, anti-Ro, anti-La, anti-U1 RNP), antiphospholipid antibodies.</div><div><b>2. Urine</b> e.g. dip, PCR.</div><div><b>3. ECG</b>.</div><div><b>4. Radiology</b> (if specific indication) e.g. CXR</div><div><b>5. Biopsy</b> e.g. kidney.</div><div><br></div><div><b>NOTES</b></div><div><div><i>FBC</i> may show leukopenia, anaemia, thrombocytopenia.</div><div><i>Complement levels</i> (C3 and C4) may be low in active lupus.</div></div><div><div><i>ANA</i> = antinuclear antibodies.</div><div><i>Antiphospholipid antibodies</i> (lupus anticoagulant and anti-cardiolipin antibodies) are associated with antiphospholipid syndrome.</div></div><div><i>Urine dip</i> may show active sediment with blood, white cells, protein, casts.</div><div><i>PCR</i> = protein-creatinine ratio (elevated in lupus nephritis).</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "k_f/6cHWH;",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the diagnostic criteria for SLE?",
+                "<div><div>At least four of the eleven criteria of lupus from the American College of Rheumatology are usually present for lupus to be diagnosed.</div><ol><li>Malar rash – a butterfly shaped rash across cheeks and nose</li><li>Skin rash – raised red patches</li><li>Photosensitivity – unusually strong reaction to sun light, causing a rash or flare</li><li>Mouth or nose ulcers – usually painless</li><li>Nonerosive arthritis – inflammation in two or more joints.</li><li>Cardio-pulmonary involvement – inflammation of the heart lining and/or lungs</li><li>Neurologic disorder – seizures and/or psychosis</li><li>Kidney disorder – increased protein or clumps of red cells in urine</li><li>Blood disorder – anemia caused by damaged red cells, low white cells or low platelet count</li><li>Immunological disorder – when your immune system attacks healthy cells</li><li>Antinuclear antibodies (ANA) – positive blood test not induced by drugs</li></ol></div><div><b>UPDATED 2020</b></div>"
+            ],
+            "flags": 0,
+            "guid": "r6DTOmAb?F",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for SLE?",
+                "<b>1. Conservative</b><div>Patient education e.g. smoking cessation, avoid sun exposure.</div><div>Family planning advice.</div><div>Regular monitoring.</div><div>Consider referral to PT and OT.</div><div><br></div><div><b>2. Meds</b></div><div>Hydroxychloroquine (long term for most patients).</div><div>Corticosteroids (for flares).</div><div>Cytotoxics (for severe flares) e.g. mycophenolate, cyclophosphamide, rituximab.</div><div><br></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Emga7h^Bf`",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Sjögren syndrome?",
+                "<b>A connective tissue disease</b>, characterised by poor lacrimal and salivary gland function.<div><br></div><div><b>NOTES</b></div><div>May stand alone or be associated with other connective tissue disorders e.g. RA, SLE.</div><div>There is an increased risk of non-Hodgkin lymphoma.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "w|r#<cbw^e",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of Sjögren syndrome?",
+                "<b></b><b>History</b><br><div><i>Constitutional symptoms</i> e.g. tiredness.</div><div><i>Glandular disease</i> e.g. dry eyes, mouth, skin, vagina (dyspareunia).</div><div><i>Extraglandular disease</i> e.g. skin, joints, lungs, heart, kidney, liver, neuro.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection:</i> dry skin.</div><div><i>Palpation: </i>may be enlarged salivary glands.</div><div><i>Bedside tests: </i>Schirmer test may show poor tear production.</div><div><br></div><div><b>NOTES</b></div><div><i>Sjögren syndrome</i> carries an increased risk of non-Hodgkin lymphoma.</div><div><i>Sicca syndrome</i> = dry eyes (keratoconjunctivitis sicca) and mouth (xerostomia).</div><div><i>Schirmer test</i> involves placing a piece of filter paper in the lower eyelid, and measuring the extent of wetting over a given time.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "mi9*2rguUQ",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of Sjögren syndrome?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><div><i>1. Non-Hodgkin lymphoma.</i></div><div><i>2. Lungs</i> e.g. interstitial lung disease.</div><div><i>3. Heart </i>e.g. acute pericarditis.</div><div><i>4. Kidney</i> e.g. interstitial nephritis.</div><div><i>5. Liver </i>e.g. primary biliary cirrhosis.</div></div><div><br></div><div><b>All the rest</b><div><div><i>1. Eyes </i>e.g. keratoconjunctivitis sicca (dry inflammation).</div><div><i>2. Skin</i> e.g. vasculitic rash, annular erythema.</div><div><i>3. Vascular </i>e.g. Raynaud phenomenon.</div><div><i>4. Joints</i> e.g. nonerosive polyarthritis.</div><div><i>5. Neuro </i>e.g. polyneuropathy.</div></div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "umh#W,;%W8",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected Sjögren sydrome?",
+                "<div><b>1. Bedside tests</b> e.g. Schirmer test.</div><div><b>2. Bloods</b> e.g. ANA, anti-Ro, anti-La.</div><div><b>3. Radiology</b> e.g. salivary gland scintigraphy.</div><div><b>4. Biopsy</b> e.g. salivary gland.</div><div><br></div><div><b>NOTES</b></div><div><i>ANA</i> = antinuclear antibodies.</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "Lb8)z!;r8k",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for Sjögren syndrome?",
+                "<b>1. Conservative </b>e.g. regular oral fluids.<div><br></div><div><b>2. Meds</b> (consider)</div><div>Artificial tears, saliva, emmolient, vaginal lubricant.</div><div>Oral pilocarpine.</div><div>Hydroxychloroquine.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "m=!@>-~{}}",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for dermatomyositis?",
+                "Sort by history<div><br></div><div><b>Demographics</b> e.g. female, peak onset in middle age.</div><div><b>PMHx </b>e.g. malignancy.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "nSQri>JtGC",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of dermatomyositis?",
+                "Sort symptoms by organ system<div><b><br></b></div><div><b></b><b>History</b><br><div><i>Constitutional symptoms</i> e.g. fever, weight loss.</div><div><i>Muscle weakness</i> e.g. proximal limbs (difficulty climbing stairs or combing hair), oesophagus (dysphagia), diaphragm (dyspnoea).</div><div><i>Skin</i> e.g. characteristic rashes.</div><div><i>Other</i> e.g. Raynaud phenomenon.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>Gottron papules, heliotrope rash, photodistributed poikiloderma (shawl and V sign), periungual abnormalities, 'mechanic's hands'.</div><div><i>Motor function: </i>bilateral proximal weakness.</div></div><div><br></div><div><b>NOTES</b></div><div><div><i>Gottron papules</i> = symmetrical erythematous papules on the extensor surfaces of the MCPJs and IPJs.</div><div><i>Heliotrope rash</i> = erythematous eruption on the upper eyelids, sometimes with eyelid oedema.</div><div><i>Poikiloderma</i> = skin with both hyper- and hypopigmentation, telangiectasia, and epidermal atrophy.</div><div><i>Periungual abnormalities</i> include abnormal capillary nail bed loops, and ragged cuticles.</div></div><div><i>MCPJs</i> = metacarpo phalageal joints.</div><div><i>IPJs</i> = interphalangeal joints.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "KV0q:3X%RK",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected dermatomyositis?",
+                "<div><b>1. Bloods</b> e.g. muscle enzymes (CK, LDH), autoantibodies (ANA, myositis-specific, myositis-associated, antisynthetase), myoglobin.</div><div><b>2. Urine</b> e.g. myoglobin.</div><div><b>3. EMG</b> (characteristic trace).</div><div><b>4. Biopsy</b> e.g. muscle, skin.</div><div><b>5. Radiology</b> e.g. MRI.</div><div><br></div><div><b>NOTES</b></div><div><div><i>Muscle enzymes</i> are usually &gt;10x upper limit of normal in active untreated disease.</div><div><i>CK</i> = creatine kinase.</div><div><i>LDH</i> = lactate dehydrogenase.</div><div><i>ANA</i> = antinuclear antibodies.</div><div><i>EMG</i> = electromyogram.</div><div><i>Anti-Jo</i> is the most common myositis-specific antibody.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "b=x&#~=A0:",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for dermatomyositis?",
+                "Must investigate for underlying malignancy.<div><br></div><div><b>1. Conservative </b>e.g. sun protection, consider referral to PT and OT.</div><div><br></div><div><b>2. Meds</b></div><div><i>First line: </i>corticosteroids (usually tapering over about 1 year).</div><div><i>Second line: </i>azathioprine, methotrexate.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "tY4>FExBk6",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'scleroderma'?",
+                "<b>Thickening and hardening of the skin</b>, often preceded by oedema.<div><br></div><div><b>NOTES</b></div><div><i>Scleroderma </i>is the characteristic feature of systemic sclerosis (SSc).</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "I`:ad-UvW?",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is systemic sclerosis (SSc)?",
+                "<div><b>A connective tissue disease</b>, characterised by scleroderma and involvement of internal organs.</div><div><br></div><div><b>NOTES</b></div><div><i>Scleroderma</i> = thickening and hardening of the skin.</div><div><i>Subdivided</i> into limited and diffuse cutaneous systemic sclerosis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "BA_PfjGEW!",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of limited cutaneous systemic sclerosis (SSc)?",
+                "Systemic sclerosis with skin involvement restricted to face, neck, and distal limbs (below elbows and knees).<div><br></div><div><b>NOTES</b></div><div>Previous called CREST syndrome.</div><div><i>CREST</i> = calcinosis cutis, Raynaud phenomenon, oesophageal dysmotility, sclerodactyly, telangiectasia.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "c<{l=LATOf",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of diffuse cutaneous systemic sclerosis (SSc)?",
+                "Systemic sclerosis with skin involvement extending to chest, back, and proximal limbs.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "yp%.Zp$ErN",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of systemic sclerosis (SSc)?",
+                "Sort symptoms by organ system<div><br></div><div><b></b><b>History</b><br><div><i>Constitutional symptoms</i> e.g. tiredness.</div><div><i>Skin</i> e.g. scleroderma.</div><i>Vascular</i> e.g. Raynaud phenomenon.</div><div><i>GIT</i> e.g. dysphagia (hypomotility), chronic reflux (LOS incompetence).</div><div><i>Lungs</i> e.g. dyspnoea (fibrosis)</div><div><i>MSK</i> e.g. arthralgia, progressive contractures.</div><div><i>Sexual </i>e.g. erectile dysfunction.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>scleroderma of hands and face, microstomia with radial grooves, telangiectasia, calcinosis.</div><div><i>Auscultation: </i>may be fibrosis.</div><div><br></div><div><b>NOTES</b></div><div><i>Symptoms</i> usually progress over a few years and then plateau.</div><div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "rcmtB~0$[j",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the complications of systemic sclerosis (SSc)?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><i>1. Kidneys</i> e.g. scleroderma renal crisis (hypertensive crisis), CKD.</div><div><i>2. Lungs</i> e.g. fibrosis, pulmonary arterial hypertension, cancer risk.</div><div><i>3. Heart </i>e.g. pericarditis, myocardial fibrosis.</div><div><br></div><div><b>All the rest</b></div><div><i>1. GIT </i>e.g. oesophageal hypomotility (dysphagia), LOS incompetence (chronic reflux), constipation.</div><div><i>2. Vascular</i> e.g. Raynaud phenomenon.</div><div><i>3. Joints</i> e.g. arthralgia, progressive contractures.</div><div><i>4. Sexual </i>e.g. erectile dysfunction, dyspareunia.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "tY;]poJgbb",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected systemic sclerosis (SSc/Scleroderma)?",
+                "<b>1. Bloods</b> e.g. U+Es, ESR, CRP, ANA, anti-Scl70, anti-centromere, and anti-RNA polymerase III.<div><b>2. Urine</b> e.g. dip.</div><div><b>3. ECG + Echocardiogram</b></div><div><b>4. Radiology</b> e.g .CXR.</div><div><br></div><div><b>NOTES</b></div><div><i>ANA</i> = antinuclear antibody.</div><div><div><i>Anti-Scl70 </i>and anti-RNA polymerase III are associated with diffuse cutaneous systemic sclerosis.</div><div><i>Anti-centromere</i> is associated with limited cutaneous systemic sclerosis.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "H>o4b?,l64",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for systemic sclerosis (SSc)?",
+                "<b>1. Conservative</b><div>Patient education e.g. smoking cessation.</div><div>Consider referral to PT and OT.</div><div><br></div><div><b>2. Meds</b></div><div><i>ACE-i</i> (if hypertension).</div><div><i>Systemic immunosuppression</i> (little evidence of benefit).</div><div><i>Symptomatic treatments</i> e.g. for Raynaud, GORD, arthritis, erectile dysfunction.</div><div><br></div><div><b>NOTES</b></div><div><i>Symptomatic treatments</i> include CCBs for Raynaud, PPIs for GORD, paracetamol for arthritis, long term phosphodiesterase inhibitors for erectile dysfunction.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "NNRfOz=@p,",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the Raynaud phenomenon?",
+                "An exaggerated vascular response to cold or emotional stress.<div><br></div><div><b>NOTES</b></div><div><i>Clinically: </i>sharply-demarcated colour changes in the digits (white, blue, then red).</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "b`<lMx*[^Y",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology",
+                "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for Raynaud phenomenon?",
+                "<b>1. Conservative</b> e.g. smoking cessation; maintain body warmth and avoid triggers.<div><br></div><div><b>2. Meds</b></div><div><i>First line: </i>CCBs.</div><div><i>Second line: </i>topical nitrates, phosphodiesterase inhibitors.</div><div><br></div><div><b>3. Surgery</b></div><div>Consider sympathectomy (rarely indicated).</div><div><br></div><div><b>NOTES</b></div><div><i>Most severe complication</i> is tissue loss (ulcers and gangrene).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "cx}9Tz^H-e",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which joints are commonly affected by osteoarthritis (OA)?",
+                "1. Cervical and lumbar spine.<div></div>2. Hip.<div>3. Knee.</div><div><div><div>4. First MTPJ.</div><div>5. First carpometacarpal joint.</div><div>6. PIPJs and DIPJs.</div><div><br></div><div><b>NOTES</b></div><div><i>MTPJ</i> = metatarsophalangeal joint.</div><div><i>PIPJ</i> = proximal interphalangeal joint.</div><div><i>DIPJ</i> = distal interphalangeal joint.</div><div><i><br></i></div><div>UPDATED 2020</div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "No[[lLYR~%",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which joints are <u>not</u> commonly affected by osteoarthritis (OA)?",
+                "1. Shoulder.<div>2. Elbow.</div><div>3. Wrist.</div><div>4. MCPJs.</div><div><br></div><div><b>NOTES</b></div><div><i>MCPJ</i> = metacarpo phalageal joint.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "y0>rS+.+M*",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the radiological features of OA",
+                "1. Joint space narrowing.<div>2. Subchondral sclerosis.</div><div>3. Marginal osteophytes.</div><div>4. Subchondral cysts.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "d&5NWEKs!.",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for osteoarthritis (OA)?",
+                "Sort by history<div><br></div><div><b>Demographics </b>e.g. age, female.</div><div><b>PMHx</b> e.g. obesity, trauma, acromegaly.</div><div><b>SHx </b>e.g. occupation (manual work), sports.</div><div><b>FHx </b>of OA.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "A0{Oy~Ojrh",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for osteoarthritis (OA)?",
+                "<b>1. Conservative </b>e.g. weight loss; consider referral to PT and OT.<div><br></div><div><b>2. Meds</b></div><div><i>First line:</i> paracetamol, NSAIDs, intra-articular corticosteroids.</div><div><i>Second line: </i>opioids, intra-articular hyaluronans.</div><div><br></div><div><b>3. Surgery</b> (T&amp;O)</div><div>Options include total joint arthroplasty, joint resurfacing, and arthrodesis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "I:bDBCnJ&T",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of a 'fragility fracture'?",
+                "A fracture sustained after a fall from standing height or less, without major trauma e.g. motor vehicle accident.<div><br></div><div><b>NOTES</b></div><div><i>Fragility fractures</i> are suggestive of osteoporosis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "IZfl:o3>h@",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is osteoporosis?",
+                "<b>A bone disease</b>, characterised by low bone mass, microarchitecture disruption, and skeletal fragility.<div><br></div><div><b>NOTES</b></div><div><i>Diagnosis</i> is based on history of a fragility fracture or by DEXA scan results.</div><div><div><i style=\"font-style: italic; \">Osteoporosis</i> = T score less than -2.5.</div><div><i style=\"font-style: italic; \">Osteopenia</i> = T score between -1 and -2.5.</div></div><div><div><i>DEXA</i> = dual energy x-ray absorptiometry.</div></div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "BwsY24O+/^",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Metabolic,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In osteoporosis assessment, what is the T score?",
+                "A comparison of the patient's BMD to a young adult reference population.<div><br></div><div><b>NOTES</b></div><div><div><i style=\"font-style: italic; \">Osteoporosis</i> = T score less than -2.5.</div><div><i style=\"font-style: italic; \">Osteopenia</i> = T score between -1 and -2.5.</div></div><div><i>The T score unit</i> is standard deviations.</div><div><i>BMD</i> = bone mineral density as measured in DEXA scan.</div><div><i>DEXA</i> = dual energy x-ray absorptiometry.</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "s-j)PNs:K/",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In osteoporosis assessment, what is the Z score?",
+                "A comparison of the patient's BMD to an age-matched reference population.<div><br></div><div><b>NOTES</b></div><div><i>A Z score of less than -2 </i>should prompt investigation for coexisting problems.</div><div><i>The unit</i> is standard deviations.</div><div><i>BMD</i> = bone mineral density as measured in DEXA scan.</div><div><i>DEXA</i> = dual energy x-ray absorptiometry.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "dbWUd/RnVD",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Metabolic,",
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the common sites for fragility fracture in osteoporosis",
+                "Sort by prevalence<div><br></div><div><b>1. Vertebrae</b></div><div><b>2. Neck of femur</b></div><div><b>3. Distal radius </b>(Colles fracture)</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "AJg7z-x=f)",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In osteoporosis assessment, what is the FRAX tool?",
+                "Fracture Risk Assessment Tool<div><br></div><div><b>NOTES</b></div><div>FRAX estimates the 10 year probability of hip fracture and major osteoporotic fracture for untreated patients between 40 and 90 years old.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "u^I(fE:NKN",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of postmenopausal osteoporosis?",
+                "Sort by prevalence<div><br></div><div><b>Most common:</b> low oestrogen (increased bone resorption).</div><div><br></div><div><b>All the rest</b></div><div><i>1. Drugs</i> e.g. corticosteroids, cyclosporin, heparin, smoking.</div><div><i>2. Neoplasia</i> e.g. lymphoproliferative disease.</div><div><i>3. Inflammatory</i> e.g. inflammatory bowel disease, coeliac disease, connective tissue disease.</div><div><i>4. Endocrine</i> e.g. hyperthyroidism, hyperparathyroidism (CKD), Cushing syndrome.</div><div><i>5. Metabolic</i> e.g. vitamin D deficiency.</div><div><br></div><div><b>NOTES</b></div><div><i>If multiple fragility fractures</i>, must consider physical abuse.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "KXb$q[VKeY",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Metabolic,",
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected osteoporosis?",
+                "Sort by clinical relevance<div><br></div><div><b>Most important:</b>&nbsp;DEXA scan (medical physics).</div><div><br></div><div><b>All the rest</b></div><div><i>1. Bloods</i> e.g. FBC, U&amp;E, bone profile, LFTs, TFTs, vitamin D.</div><div><i>2. Radiology </i>e.g. x-rays for fracture assessment.</div><div><br></div><div><b>NOTES</b></div><div><i>DEXA</i> = dual energy x-ray absorptiometry.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "d]H#s%gEP!",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Metabolic,",
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for osteoporosis?",
+                "<div>Must consider and address any underlying pathology</div><div><b><br></b></div><div><b>1. Conservative </b>e.g. smoking cessation; diet supplemented with Ca and vitamin D; avoid alcohol; encourage exercise.</div><div><br></div><div><b>2. Meds</b></div><div><i>First line: </i>oral bisphosphotes e.g. alendronate.</div><div><i>Second line: </i>intravenous bisphosphonstes e.g. zoledronate.</div><div><i>Third line: </i>consider raloxifene, teriparatide, denosumab, strontium ranelate.</div><div><br></div><div><b>NOTES</b></div><div><i>Oral bisphosphonates </i>may cause gastritis, consider PPI.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "zZx<XSXbAH",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of bisphosphonates?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><i>1. Mucosal inflammation </i>e.g. oesophagitis, peptic ulcer.</div><div><i>2. Osteonecrosis of the jaw.</i></div><div><br></div><div><b>All the rest</b></div><div><i>1. Neuro</i> e.g. headaches.</div><div><i>2. GIT</i> e.g. abdo pain, nausea, diarrhoea.</div><div><i>3. MSK</i> e.g. musculoskeletal pain.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "PO6,()fH;G",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of bisphosphonates?",
+                "<b>Inhibition of bone resorption</b> via action on osteoclasts.<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "r#uA^9I{5+",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is osteomalacia?",
+                "<b>A bone disorder, </b>characterised by decreased mineralisation of newly formed osteoid at sites of bone turnover.<div><br></div><div><b>NOTES</b></div><div><i>Osteomalacia</i> may result from hypoCa, hypophosphataemia, or direct inhibition of mineralisation.</div><div><i>Clinical features </i>include bone pain, muscle weakness, fragility fracture, and bone tenderness.</div><div><i>X-ray features</i> include reduced bone density, thinning of cortex, and 'Looser pseudofractures'.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "khRC],C+./",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Metabolic,",
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is Paget disease of bone?",
+                "A focal disorder of bone metabolism<div><br></div><div><b>NOTES</b></div><div><i>Risk factors</i> include age, male, Caucasian.</div><div><i>Pathology</i> is characterised by foci of accelerated bone remodelling, resulting in overgrowth (and impaired integrity) of bone.</div><div><i>Common sites</i> include skull, spine, pelvis, long bones of the leg.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "AYyn[5JdjW",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Endocrine,",
+                "Metabolic,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which autoantibodies are associated with antiphospholipid syndrome?",
+                "<div>1. Anticardiolipin</div><div>2. Anti beta2-glycoprotein</div><div>3. Lupus anticoagulant</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "bG<mlZQ16?",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is antiphospholipid syndrome?",
+                "<b>An autoimmune clotting disorder</b>, characterised by presence of antiphospholipid antibodies.<div><br></div><div><b>NOTES</b></div><div>May stand alone or be associated with SLE.</div><div><i>Clinically: </i>recurrent thrombotic events, miscarriage, pre-eclampsia, placental insufficiency.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "naXe<9L~:_",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Vasculitis,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is polymyalgia rheumatica?",
+                "<b>A connective tissue disease</b>, characterised by aching and morning stiffness in the shoulders, hip girdle, and neck.<div><br></div><div><b>NOTES</b></div><div>May be associated with giant cell arteritis (GCA).</div><div>Risk factors include age, female, North European.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "f~~Z8XXCBc",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of polymyalgia rheumatica?",
+                "<b></b><b>History</b><br><div>Typical patient is an elderly woman.</div><div><div><i>Constitutional symptoms</i> e.g. tiredness, low grade fever.</div></div><div><i>Articular symptoms </i>e.g. symmetrical aching and stiffness of proximal joints (shoulders, hip girdle, and neck).</div><div><i><br></i></div><div><b>Exam</b></div><div><i>Motor function:</i></div><div>Limited active ROM in shoulder abduction.</div><div>Power is normal.</div><div><br></div><div><b>NOTES</b></div><div><i>Symptoms</i> usually develop over a few days.</div><div><i>Synovitis </i>causes aching and stiffness of the joints, worse in the mornings and after rest, better after physical activity.</div><div><i>Distal joints</i> may be involved e.g. knees, wrists, MCPJs.</div><div><i>Muscle tenderness</i> is not a prominent feature (despite the name polymyalgia).</div><div><i>MCPJs</i> = metacarpo phalangeal joints.</div><div><i>ROM</i> = range of movement.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "oLE6E`V|Uz",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected polymyalgia rheumatica?",
+                "<b>1. Bloods</b> e.g. FBC, CRP, ESR.<div><b>2. Radiology</b> e.g. MRI, USS.</div><div><br></div><div><b>NOTES</b></div><div><i>ESR</i> is typically elevated.</div><div><i>Imaging</i> may show synovial inflammation e.g. subacromial and subdeltoid bursitis.</div><div>&nbsp;</div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "N:ETo;K@Mw",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for polymyalgia rheumatica?",
+                "<b>1. Conservative </b>e.g. consider referral to PT and OT.<div><br></div><div><b>2. Meds</b></div><div>Corticosteroids e.g. prednisolone 15mg OD.</div><div><br></div><div><b>NOTES</b></div><div><i>Clinical response</i> to corticosteroids is usually very good.</div><div><i>Prednisolone</i> is tapered down and often stopped within 2 years.</div><div>Must monitor and treat complications of corticosteroids e.g. osteoporosis, hypertension, diabetes.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "m@!-I3VuU_",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is sarcoidosis?",
                 "<b>A multisystem granulomatous disorder</b>, characterised by the presence of noncaseating granulomas.<div><br></div><div><b>NOTES</b></div><div><i>Presentation</i> is typically with respiratory symptoms e.g. cough, dyspnoea, chest pain.</div><div><i>CXR features</i> include bilateral hilar lymphadenopathy and reticular opacities.</div><div><i>Aetiology</i> is unknown.</div><div><br></div><div>UPDATED 2020</div>"
             ],
@@ -15244,6 +17123,513 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "List the types of large vessel vasculitis",
+                "<div>1. Takayasu arteritis.</div><div>2. Giant cell arteritis (GCA).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Gfr!?8Oi<D",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Vasculitis,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of medium vessel vasculitis",
+                "<div>1. Polyarteritis nodosa.</div><div>2. Kawasaki disease.</div><div>3. PCNSV (primary central nervous system vasculitis).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "BU~A~Pij#W",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Vasculitis,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the types of small vessel vasculitis",
+                "<div>Sort by ANCA</div><div><br></div><div><b>ANCA positive</b></div><div><div>1. GPA (Wegener's).</div><div>2. Microscopic polyangiitis.</div></div><div><br></div><div><b>ANCA negative</b></div><div>1. EGPA (Churg Strauss).</div><div>2. Henoch-Schönlein Purpura (IgA vasculitis).</div><div>3. Cryglobulinaemic vasculitis.</div><div>4. Hypersensitivity vasculitis.</div><div>5. Vasculitis secondary to connective tissue disorders.</div><div>8. Vasculitis secondary to viral infection.</div><div><br></div><div><b>NOTES</b></div><div><i>ANCA</i> = anti-neutrophil cytoplasmic antibody.</div><div><i>GPA</i> = granulomatosis with polyangiitis.</div><div><i>EGPA</i> = eosinophilic granulomatosis with polyangiitis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "fN%Kvw1w,T",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Vasculitis,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of NSAIDs?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><i>1. Anaphylaxis.</i></div><div><i>2. Bronchospasm.</i></div><div><i>3. GIT</i> e.g. gastritis, peptic ulcer.</div><div><i>4. Kidney</i> e.g. AKI (vasoconstriction).</div><div><i>5. Skin </i>e.g. TEN/SJS.</div><div><br></div><div><b>All the rest</b></div><div><i>1. CVS</i> e.g. exacerbation of heart failure (fluid retention).</div><div><i>2. Kidney</i> e.g. worsening hypertension, hyperK.</div><div><i>3. Neuro</i> e.g. headaches.</div><div><i>4. Blood </i>e.g. antiplatelet effect.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "q=RSO*0[T8",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of methotrexate?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><i>1. Heptotoxicity.</i></div><div><i>2. Pulmonary toxicity.</i></div><div><i>3. Blood</i> e.g. myelosuppression, increased lymphoproliferative disorders.</div><div><i>4. Nephrotoxicity.</i></div><div><i>5. Teratogenicity.</i></div><div><br></div><div><b>All the rest</b></div><div><i>1. GIT</i> e.g. nausea, diarrhoea, stomatitis.</div><div><i>2. Skin</i> e.g. macular rash on the limbs, alopecia.</div><div><i>3. Neuro </i>e.g. headache, tiredness.</div><div><i>4. Bone </i>e.g. osteoporosis.</div><div><br></div><div><b>NOTES</b></div><div><i>Folic acid</i> should be given to all patients on long term methotrexate.</div><div><div><div><div><br></div><div>UPDATED 2020<br></div></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "DXZ4R]F(}T",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What monitoring is required for methotrexate?",
+                "<div>Sort chronologically</div><div><b><br></b></div><div><b>1. Before starting:</b> FBC, LFTs, U&amp;Es, CXR.</div><div><b>2. Every 4-8 weeks:</b> FBC, LFTs, U&amp;Es.</div><div><div><b><br></b></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "c87lpqCt:C",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of methotrexate?",
+                "Inhibition of DNA synthesis - Inhibits direct formation of Thymidine and is essential for purine and pyrimidine bases.&nbsp;<div><br></div><div><b>NOTES</b></div><div>Methotrexate is a folate antimetabolite, inhibits dihydrofolate reductase.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "QEa>+B9sLZ",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of 'fever of unknown origin'?",
+                "All of the following:<div><br><div>1. Fever higher than 38.3°C on several occasions.</div><div>2. Duration of fever ≥3 weeks.</div><div>3. Uncertain diagnosis after one week of study in hospital.</div><div><br></div><div>UPDATED 2020<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "E:8v+o6oSU",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Inflammation,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of fever of unknown origin?",
+                "Sort by mechanism<div><br></div><div>1. Infection.</div><div>2. Neoplasia.</div><div>3. Inflammatory (connective tissue disease).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "QK_-hGv_me",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Infection,",
+                "Oncology",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the risk factors for giant cell arteritis (GCA)?",
+                "Sort by history<div><br></div><div><b>Demographics </b>e.g. peak in elderly, Scandanavian.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "HzcGS5A<)^",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Vasculitis,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of giant cell arteritis (GCA)?",
+                "<div><b></b><b>History</b></div><div><i>Constitutional symptoms</i> e.g. fever, tiredness, weight loss.</div><div><i>Headache</i> (usually temporal).</div><div><i>Polymyalgia rheumatica.</i></div><div><i>Jaw claudication.</i></div><div><i>Eyes </i>e.g. transient monocular visual loss.</div><div><i><br></i></div><div><b>Exam</b></div><div><i>Obs:</i> may be fever.</div><div><i>Inspection: </i>pallor.</div><div><i>Palpation:</i> weak pulses, tender and thickened temporal arteries.</div><div><i>Auscultation: </i>bruits over arteries, may be aortic regurgitation.</div><div><i>Bedside tests: </i>fundoscopy may show cotton wool spots.</div><div><br></div><div><b>NOTES</b></div><div><i>Aortic regurgitation</i> may result from proximal aortic aneurysm.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "LP|kvL:?O&",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Vasculitis,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected giant cell arteritis (GCA)?",
+                "<b>1. Bloods</b> e.g. CRP, ESR, FBC, LFTs<div><b>2. Temporal artery biopsy.</b></div><div><b>3. Imaging</b> e.g. MRI, MR angiography.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Ns2%I&sFR&",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Rheumatology,",
+                "Vasculitis,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for giant cell arteritis (GCA)?",
+                "<b>1. </b><b>Meds</b><div><i>Corticosteroids </i>e.g. prednisolone 60mg OD.</div><div><i>Antiplatelets</i> e.g. aspirin 75mg OD.</div><div><br></div><div><b>NOTES</b></div><div><div>If visual loss at presentation, consider intravenous methylprednisolone.</div></div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "rSH:D2KMkP",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the causes of low back pain?",
+                ""
+            ],
+            "flags": 0,
+            "guid": "N~88I|8${n",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In assessment of low back pain, which 'red flags' suggest systemic disease?",
+                "Sort by suspected diagnosis<div><br></div><div><b>1. Infection</b> e.g. immunosuppression, IVDU, fever, skin infection, UTI.</div><div><b>2. Cancer </b>e.g. history of cancer, age &gt;50 years, unexplained weight loss, nocturnal pain.</div><div><b>3. AAA</b> e.g. history of AAA.</div><div><b><br></b></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "zg0zC_QTx!",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Cardiovascular,",
+                "Emergency,",
+                "Oncology,",
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is sciatica?",
+                "Sharp or burning pain radiating down the posterior or lateral leg, usually to foot or ankle.<div><br></div><div><b>NOTES</b></div><div>Due to nerve root compression (radiculopathy).</div><div>Often associated with numbness or tingling.</div><div>Sciatica due to disc herniation usually increases with coughing, sneezing, or Valsalva manoeuvre.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "j|s>H?5psV",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which are the most common lumbosacral radiculopathies?",
+                "L5 and S1<div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "ht.o{uKiWC",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of cauda equina syndrome (CES)?",
+                "Sort symptoms by neurological deficit<div><br></div><div><b></b><b>History</b><br><div><i>Sensory</i> e.g. low back pain, bilateral sciatica, saddle anaesthesia.</div><div><i>Motor</i> e.g. bilateral leg weakness.</div><div><i>Autonomic</i> e.g. urinary incontinence.</div><div><br></div><div><b>Exam</b></div><div><i>Abdo: </i>full bladder.</div><div><i>Lower limb neuro:</i> bilateral LMN weakness.</div><div><i>PR:</i> saddle anaesthesia, reduced sphincter tone.</div></div><div><br></div><div><b>NOTES</b></div><div><i>Cauda equina syndrome</i> is a medical emergency.</div><div><i>LMN</i> = lower motor neuron (reduced tone, reduced reflexes).</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "CIBrVR8l5T",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of spinal cord compression (SCC)?",
+                "Sort symptoms by neurological deficit<div><br></div><div><b></b><b>History</b></div><div><i>Sensory</i> e.g. back pain, radicular type pain, ascending numbness or parasthesia.</div><div><i>Motor </i>e.g. weakness.</div><div><i>Autonomic </i>e.g. urinary retention, bowel dysfunction.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection:</i> may be abnormal gait.</div><div><i>Motor: </i>UMN weakness.</div><div><i>Sensory:</i> may be a sensory level.</div><div><br></div><div><b>NOTES</b></div><div><i>Local back pain</i> is often the first symptom of cord compression, is typically worse on lying flat and may wake the patient at night.</div><div><i>UMN</i> = upper motor neuron (increased tone, brisk reflexes).</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "H5fOgNSLmB",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected cauda equina syndrome (CES)?",
+                "<div>MRI whole spine</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "u5WtuO(F%}",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Orthopaedics,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which investigations may be useful in suspected spinal cord compression (SCC)?",
+                "<div>MRI whole spine</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "E4yCI`$[DA",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Emergency,",
+                "Orthopaedics,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is 'spinal stenosis'?",
+                "Narrowing of the spinal canal or intervertebral foramina, usually due to degenerative bone disease.<div><br></div><div><b>NOTES</b></div><div><i>Symptoms</i> include back pain (relieved by sitting or spinal flexion), parasthesia in legs, and pseudoclaudication (ambulation-induced pain in calf and lower leg, resolving with rest)</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "p54p3q&nn8",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In assessment of low back pain, what is the straight leg raise test?",
+                "A test used to help confirm <b>radiculopathy.</b><div><br></div><div><b>NOTES</b></div><div><i>Technique:</i> patient lies supine, hip is flexed passively (with knee extended and ankle dorsiflexed).</div><div><i>Test considered positive</i> if sciatica is reproduced between 10 and 60 degrees of elevation.</div><div><i>Crossed straight leg test </i>refers to elevating the unaffected leg.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "lj4tJ/,vZM",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of an L5 radiculopathy?",
+                "Sort symptoms by neurological deficit<div><br></div><div><b></b><b>History</b><br><div><i>Sensory </i>e.g. back pain radiating to buttock, lateral thigh, lateral calf, dorsum of foot, and great toe.</div></div><div><i>Motor</i> e.g. leg weakness.</div><div><br></div><div><b>Exam</b></div><div><i>Motor</i> e.g. LMN weakness of hip abduction, knee flexion, foot dorsiflexion, toe extension, foot inversion and eversion.</div><div><i>Sensory</i> e.g. numbness of lateral calf, dorsum foot, web space between first and second toe.</div><div><br></div><div><b>NOTES</b></div><div><div><i style=\"font-style: italic; \">LMN</i><i> = </i>lower motor neuron (reduced tone, reduced reflexes).</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "IHAFp_puSD",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of an S1 radiculopathy?",
+                "Sort symptoms by neurological deficit<div><br></div><div><b></b><b>History</b></div><div><i>Sensory</i> e.g. back pain radiating to buttock, lateral or posterior thigh, posterior calf, lateral or plantar foot.</div><div><i>Motor</i> e.g. leg weakness.</div><div><br></div><div><b>Exam</b></div><div><i>Motor</i> e.g. LMN weakness of hip extension, knee flexion, plantar flexion of foot, loss of ankle jerk reflex.</div><div><i>Sensory</i> e.g. numbness of posterior calf, lateral or plantar aspect of foot.</div><div><br></div><div><b>NOTES</b></div><div><i>LMN</i> = lower motor neuron (reduced tone, reduced reflexes).</div><div><i>Unilateral loss of Achilles reflex</i> is a useful sign (bilateral loss is relatively common).</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "u7!~Y<w6qy",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of an L2/L3/L4 radiculopathy?",
+                "Sort symptoms by neurological deficit<div><br></div><div><b></b><b>History</b></div><div><i>Sensory</i> e.g. back pain radiating to anterior thigh.</div><div><i>Motor</i> e.g. leg weakness.</div><div><br></div><div><b>Exam</b></div><div><i>Motor</i> e.g. LMN weakness of hip flexion, hip adduction, knee extension, loss of knee jerk reflex.</div><div><i>Sensory</i> e.g. numbness of anterior thigh.</div><div><br></div><div><b>NOTES</b></div><div><i>LMN</i> = lower motor neuron (reduced tone, reduced reflexes).</div><div><i><br></i></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "p*@G#:1CKe",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the indications for surgical referral in low back pain?",
+                "Sort by suspected diagnosis<div><br></div><div><b>1. Cauda equina syndrome</b> (CES).</div><div><b>2. Spinal cord compression </b>(SCC).</div><div><b>3. Degenerative disease</b> with neurological deficit that is progressive, severe, or persists after 4-6 weeks of conservative therapy.</div><div><br></div><div><b>NOTES</b></div><div><i>CES</i> is suggested by bladder dysfunction, saddle anaesthesia, bilateral sciatica and weakness.</div><div><i>SCC</i> is suggested by acute back pain, numbness, and weakness.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "J]zyUck6c",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the treatment for low back pain not meeting criteria for hospital referral?",
+                "<b>1. Conservative </b>e.g. remain physically active (avoid bed rest); medium-firm mattress; physiotherapy.<div><br></div><div><b>2. Meds</b></div><div><i>Analgesia</i> e.g. paracetamol, NSAIDs.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Aa7@^$zI;k",
+            "newlyAdded": false,
+            "note_model_uuid": "f8969344-b3fc-11ea-8f91-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "What is meant by 'syncope'?",
                 "Transient loss of consciousness and postural tone with spontaneous recovery, due to cerebral hypoperfusion.<div><u><br></u></div><div><b>UPDATED 2020</b></div>"
             ],
@@ -15270,6 +17656,195 @@
             "tags": [
                 "Respiratory,",
                 "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "List the adverse effects of long term corticosteroids",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><i>1. Immunosuppression.</i></div><div><i>2. Endocrine</i> e.g. adrenal suppression, hyperglycaemia.</div><div><i>3. Heart</i> e.g. coronary artery disease.</div><div><i>4. Kidneys </i>e.g. fluid retention, hypertension.</div><div><i>5. Brain</i> e.g. mood disorder, psychosis.</div><div><i>6. GIT</i> e.g. peptic ulcer.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Skin</i> e.g. acne, hirsutism, purple striae, central obesity, cervical fat pads, 'moon face'.</div><div><i>2. Bones</i> e.g. osteoporosis, avascular necrosis.</div><div><i>3. Muscles</i> e.g. myopathy.</div><div><i>4. Eyes</i> e.g. cataracts, glaucoma.</div><div><i>5. Gynae</i> e.g. oligomennorhoea.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "v]/^=NxRUl",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of etanercept?",
+                "Binds TNF alpha<div><br></div><div><b>NOTES</b></div><div><i>Etanercept</i> is a recombinant protein, composed of TNF receptor linked to the Fc portion of human IgG1.</div><div>Used in treatment of rheumatoid arthritis, juvenile idiopathic arthritis, ankylosing spondylsis, and plaque psoriasis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "eE;MYMw:C.",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of infliximab?",
+                "Binds TNF alpha<div><br></div><div><b>NOTES</b></div><div><i>Infliximab</i> is a chimeric monoclonal antibody, used in treatment of rheumatoid arthritis, ankylosing spondylitis, psoriatic arthritis, plaque psoriasis, Crohn disease, and ulcerative colitis.</div><div><div><br></div><div>UPDATED 2020</div></div>"
+            ],
+            "flags": 0,
+            "guid": "bCEy8p:v^m",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of adalimumab?",
+                "Binds TNF alpha<div><br></div><div><b>NOTES</b></div><div><i>Adalimumab</i> is used in treatment of rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, Crohn disease, and ulcerative colitis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "x0R6`Y`~$6",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of anakinra?",
+                "Binds IL-1 receptor<div><br></div><div><b>NOTES</b></div><div><i>Anakinra</i> is used in treatment of rheumatoid arthritis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "y[D>ne8;Lf",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of tocilizumab?",
+                "Binds to the IL-6 receptor<div><br></div><div><b>NOTES</b></div><div><i>Tocilizumab</i> is used in treatment of rheumatoid arthritis and juvenile idiopathic arthritis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "PDZ*K1vq}g",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of rituximab?",
+                "Binds the CD20 antigen on B cells<div><br></div><div><b>NOTES</b></div><div><i>Rituximab</i> is used in treatment of rheumatoid arthritis.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "E1#5;}Y!!O",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of raloxifene?",
+                "Selectic oestrogen receptor modulator (SERM).<div><br></div><div><b>NOTES</b></div><div><i>Raloxifene</i> is used as a second line treatment for osteoporosis.</div><div>It acts as an oestrogen receptor agonist to prevent bone loss and acts as an antagonist at the breast and uterus.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "FGSSUDn[s?",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of teriparatide?",
+                "<b>Recombinant human PTH</b>, stimulates osteoblast function.<div><br></div><div><b>NOTES</b></div><div><i>Teriparatide</i> is used as a second line treatment for osteoporosis.</div><div><i>Intermittent therapy</i> with PTH appears to stimulate bone formation rather than resorption (unlike the physiological action of PTH).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "peDOmWv;~7",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of denosumab?",
+                "<b>Binds RANKL</b>, preventing interaction with RANK and activation of osteoclasts.<div><br></div><div><b>NOTES</b></div><div><i>Denosumab</i> is used as a second line treatment for osteoporosis.</div><div><i>RANKL</i> = nuclear factor kappa ligand (secreted by osteoblasts).</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "OP!Q6/Vkq-",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mechanism of action of strontium ranelate?",
+                "<b>Mechanism unclear</b>, appears to inhibit bone resorption.<div><br></div><div><b>NOTES</b></div><div><i>Strontium</i> is used as a second line treatment for osteoporosis.</div><div>&nbsp;</div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "fx4X,`XA<l",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
             ]
         },
         {
@@ -15336,6 +17911,42 @@
                 "Y3::Surg_B::Vascular",
                 "surgery,",
                 "vascular,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of osteoporosis in terms of T score?",
+                "T score <b>less than -2.5</b><div><br></div><div><b>NOTES</b></div><div><i>The T score </i>is a comparison of the patient's bone mass density to a young adult reference population.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "DLRsM6Rw/^",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of osteopenia in terms of T score?",
+                "T score <b>between -1 and -2.5</b><div><br></div><div><b>NOTES</b></div><div><i>The T score </i>is a comparison of the patient's bone mass density to a young adult reference population.</div><div><br></div><div>UPDATED 2020</div>"
+            ],
+            "flags": 0,
+            "guid": "Q^CK_E?$k>",
+            "newlyAdded": false,
+            "note_model_uuid": "c9cf0fd4-afd3-11ea-b2f6-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
             ]
         },
         {
@@ -15487,6 +18098,81 @@
             "note_model_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
             "tags": [
                 "Endocrine,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'dactylitis'?",
+                "Swelling of a single digit<div><br></div><div><b>NOTES</b></div><div>Also called 'sausage finger'.</div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g?1|U<N!Xx",
+            "newlyAdded": false,
+            "note_model_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'enthesitis'?",
+                "<div><b>Inflammation of tendon insertion</b>, typically the achilles tendon or plantar fascia.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n-v_PC^/_N",
+            "newlyAdded": false,
+            "note_model_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
+            "tags": [
+                "Orthopaedics,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is meant by 'DMARD'?",
+                "<div>Disease-modifying antirheumatic drug</div><div><br></div><div><b>NOTES</b></div><div>DMARDs cause immunosuppression, must check for hepatitis before starting.</div><div><br></div><div>UPDATED 2020</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u/gxvS1x.S",
+            "newlyAdded": false,
+            "note_model_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the adverse effects of TNF alpha blockers?",
+                "Sort by mechanism<div><br></div><div>1. <b>Hypersensitivity</b>.</div><div>2. Increased risk of <b>infection</b> (must test for latent TB before starting).</div><div>3. Increased risk of <b>lymphoproliferative disorders</b>.</div><div><br></div><div>UPDATED 2020<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J7Y4<E^:#2",
+            "newlyAdded": false,
+            "note_model_uuid": "f89a6127-b3fc-11ea-b096-48ba4e4e145b",
+            "tags": [
+                "Pharmacology,",
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
             ]
         },
         {
@@ -18210,8 +20896,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What is tinea versicolor?",
-                "A common superficial fungal infection<div><br></div><div><b>NOTES</b></div><div>Also called pityriasis versicolor.</div><div><i>Lesions: </i>hypopigmented, hyperpigmented, or erythematous macules on trunk and upper arms.</div><div><i>Microbiology: </i>Malassezia yeasts.</div><div><i>Treatment: </i>topical antifungals.</div><div><br></div><div><img src=\"pitver4s.jpg\"></div><div>Hypopigmented macules</div><div><br></div><div><img src=\"pitver12-s.jpg\"></div><div>Hyperpigmented macules</div><div>&nbsp;UPDATED 2020</div>",
+                "What is pityriasis versicolor?",
+                "A common superficial fungal infection<div><br></div><div><b>NOTES</b></div><div>Also called tinea versicolor.</div><div><i>Lesions: </i>hypopigmented, hyperpigmented, or erythematous macules on trunk and upper arms.</div><div><i>Microbiology: </i>Malassezia yeasts.</div><div><i>Treatment: </i>topical antifungals.</div><div><br></div><div><img src=\"pitver4s.jpg\"></div><div>Hypopigmented macules</div><div><br></div><div><img src=\"pitver12-s.jpg\"></div><div>Hyperpigmented macules</div><div>UPDATED 2020</div>",
                 ""
             ],
             "flags": 0,
@@ -20628,6 +23314,58 @@
                 "Genetics,",
                 "Respiratory,",
                 "Y3::Med_A::Respiratory"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the clinical features of Behçet disease?",
+                "<b>History</b><div>Recurrent, painful oral ulcers.</div><div><i>Non-ulcer symptoms</i> e.g. skin, eyes, joints, kidneys, heart, GIT, CNS.</div><div><i>Constitutional symptoms </i>e.g. fever, tiredness.</div><div><br></div><div><b>Exam</b></div><div><i>Inspection: </i>oral ulcers, acneiform rash, genital ulcers (and scarring), inflamed joints, signs of uveitis.</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "I}%n[D)r!j",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the non-ulcer features of Behçet disease?",
+                "Sort by seriousness<div><br></div><div><b>Most serious</b></div><div><i>1. Eyes</i> e.g. uveitis.</div><div><i>2. Arteries</i> e.g. pulmonary artery aneurysm.</div><div><i>3. Veins</i> e.g. venous thromboembolism.</div><div><i>4. CNS</i> e.g. brainstem, spinal cord, cerebral, optic neuropathy.</div><div><br></div><div><b>All the rest</b></div><div><i>1. Skin</i> e.g. urogenital ulcers, acneiform rash, erythema nodosum, pyoderma gangrenosum.</div><div><i>2. Joints</i> (inflammatory oligoarthritis).</div><div><i>3. Kidneys</i> e.g. amyloidosis.</div><div><i>4. GIT</i> e.g. diarrhoea, rectal bleeding.</div><div><br></div><div><b>NOTES</b></div><div>Most clinical features are thought to be due to vasculitis (involving vessels of all sizes).</div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "A5;BH9%vAt",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Vasculitis,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is mixed connective tissue disease (MCTD)?",
+                "<b>An overlap syndrome</b> associated with anti-U1 RNP antibodies, that incorporates selected clinical features of SLE, SSc, and polymyositis.<div><br></div><div><b>NOTES</b></div><div>Diagnosis of MCTD is difficult, because overlapping features tend to occur sequentially.</div><div><i>RNP</i> = ribonucleoprotein.</div><div><i>SLE</i> = systemic lupus erythematosus.</div><div><div><i>SSc</i> = systemic sclerosis.</div></div><div><br></div><div>UPDATED 2020<br></div>"
+            ],
+            "flags": 0,
+            "guid": "cOSe~^w?`3",
+            "newlyAdded": false,
+            "note_model_uuid": "2adfccdf-b30d-11ea-83e5-48ba4e4e145b",
+            "tags": [
+                "Rheumatology,",
+                "Y3::Med_A::Rheumatology",
+                "Y3::Surg_B::Rheumatology"
             ]
         },
         {
@@ -24981,7 +27719,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What is the definition of chronic lung disease?",
+                "What is the definition of chronic lung disease in paediatrics?",
                 "Infants who still have an oxygen requiremment at a post-menstrual age of 36 weeks<div><br></div><div><b>NOTES</b></div><div><i>Post-menstrual age</i> = gestational plus chronological age.<br><div><br></div><div>UPDATED 2020</div></div>"
             ],
             "flags": 0,
@@ -29664,7 +32402,7 @@
             "data": "",
             "fields": [
                 "What work will a GP do in a week?",
-                "8 sessions (if full time)<div>Do any phonecalls/ homevisits</div><div><br></div><div>Administration, meetins, training, teaching and special interests.</div>"
+                "8 sessions (if full time)<div>Do any phonecalls/ homevisits</div><div><br></div><div>Administration, meetings, training, teaching and special interests.</div>"
             ],
             "flags": 0,
             "guid": "hASE!pCg+c",
@@ -30333,7 +33071,8 @@
             "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
-                "Y3::Med_B::CCT::LO2"
+                "Y3::Med_B::CCT::LO2",
+                "leech"
             ]
         },
         {
@@ -37319,7 +40058,7 @@
             "data": "",
             "fields": [
                 "How can a patient with infective endocarditis present?",
-                "- Pyrexia&nbsp;<div>- Night sweats</div><div>- Malaise</div><div>- Arhrlagia&nbsp;</div><div>- Headache</div><div>- Osler nodes&nbsp;</div><div>- Janeway lesions&nbsp;</div><div>- Roth spots&nbsp;</div><div>- Splinter haemorrhages&nbsp;</div><div><br></div><div><img src=\"nejmra010082_f1.jpeg\"><br></div>"
+                "- Pyrexia&nbsp;<div>- Night sweats</div><div>- Malaise</div><div>- Arthralgia&nbsp;</div><div>- Headache</div><div>- Osler nodes&nbsp;</div><div>- Janeway lesions&nbsp;</div><div>- Roth spots&nbsp;</div><div>- Splinter haemorrhages&nbsp;</div><div><br></div><div><img src=\"nejmra010082_f1.jpeg\"><br></div>"
             ],
             "flags": 0,
             "guid": "gUTZz%/ed(",
@@ -37813,7 +40552,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What bundle branch block is shown in this ECG trace?<div><img src=\"Prehospital+limb+leads.jpg\"><br></div>",
+                "What bundle branch block is shown in this ECG trace? (REMEMBER WILLIAM MORRIS, MORRIS WILLIAM)&nbsp;<div><img src=\"Screenshot-2020-04-27-12.57.38.png\"><br></div>",
                 "- Left bundle branch block&nbsp;"
             ],
             "flags": 0,
@@ -38092,6 +40831,21 @@
             "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
             "tags": [
                 "Y3::Surg_B::CBL2::LO1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the definition of CKD stage 3b?",
+                "30-44mL/min"
+            ],
+            "flags": 0,
+            "guid": "Gd_QyUj&E8",
+            "newlyAdded": false,
+            "note_model_uuid": "2241246c-b089-11ea-8b2f-48ba4e4e145b",
+            "tags": [
+                "Y3::Med_A::Nephrology"
             ]
         }
     ]
