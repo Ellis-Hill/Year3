@@ -68,8 +68,10 @@
         "2cd4d7d93a4ad89f308e0dbe7dab6f_jumbo.jpg",
         "2ec94c408f9a866d6d666b7f193a50_jumbo.jpg",
         "35129tn.jpg",
+        "37xycd.jpg",
         "44b9e96900d0c9985525f7ba61e3dd_jumbo.jpg",
         "5aa3649db055e957f47df9385c6eec_jumbo.jpg",
+        "64b55dcaf32169816eff3d6554ddcd90.png",
         "686f7ab526fa115d5ed7561153a2a9_jumbo.jpg",
         "6d94534b9491028d4f6ce2d48d58ee_big_gallery.jpg",
         "8961d0908e6d30681a504a1c5b3bca_jumbo.jpg",
@@ -125,8 +127,10 @@
         "carbuncle01-s.jpg",
         "cellulitis-012__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg1XQ.JPG",
         "cellulitis4__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDBd.jpg",
+        "clinical_features_of_hypercalcaemia.jpg",
         "clubbing1-s.jpg",
         "conglob2-s.jpg",
+        "cradle__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpg",
         "dc1106-case2_68491-1.jpg",
         "ds00678_w7_mastitisthu_jpg.jpg",
         "e81786277d5fe098b9c081d7e4b3c4_jumbo.jpg",
@@ -166,6 +170,8 @@
         "impet9__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDZd.jpg",
         "impet9__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpg",
         "impetigo1-s.jpg",
+        "inf-sebderm1__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpg",
+        "inf-sebderm2__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpg",
         "ka1__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg1XQ.jpg",
         "ka2__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
         "ka3-s.jpg",
@@ -284,6 +290,7 @@
         "paste-71d032175e438192679dee4e2a166ce930b2877d.jpg",
         "paste-71f54e044d80c8f6f7ffd45d8f55bfdf591a9dc4.jpg",
         "paste-72208a65e5eef1beae3fe9a10a425b88fd9a59a1.jpg",
+        "paste-767ab31d96d74e3ecfa15bad067434a62caed305.jpg",
         "paste-76b1585b2f4dfd35d4aab093364810d12f03b346.jpg",
         "paste-788a54af824adf85288f15c5244766eefbaf9a19.jpg",
         "paste-789736e771e53b917ab88fba50d06879d66488f8.jpg",
@@ -349,6 +356,7 @@
         "paste-d816bf38a2edf904da0e11b41f0f580663c9ca11.jpg",
         "paste-dc5a88f0cba303e95b72b81b4317eb0ba4ee83ad.jpg",
         "paste-de51ccd788bb8f5d91ed8f4ad70e29a6fd7795e6.jpg",
+        "paste-df7f2b174121a36774b92fd4a01a0b57cf1a127c.jpg",
         "paste-dfc064d6b87d5b7f1f1f0174239d81f08870f3f6.jpg",
         "paste-e1ecc8f8f49a032609a9bb488309cb6bf2fa102f.jpg",
         "paste-e1fd969f11736611cb6ccad699c14bc91505df3b.jpg",
@@ -375,6 +383,7 @@
         "pod5__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
         "pod6-s.jpg",
         "pom-fing-s.jpg",
+        "preseptal-periorbital-bmj-cellulitis-ophthalmology-original.jpeg",
         "pretibial-myxoedema-01.jpg",
         "ps-pust1__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg",
         "ps-pust2__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsInkiLDg1XQ.jpg",
@@ -3001,7 +3010,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What are the life-threatening complications of acute kidney injury?",
+                "What are the life-threatening complications of acute kidney injury? ABCDM",
                 "Sort by ABC<div><br></div><div><div><b>A+B:</b> pulmonary oedema (unresponsive to meds).</div><div><b>C:</b> uraemic pericarditis or cardiac tamponade.</div><div><b>D:</b> uraemic encephalopathy.</div><div><b>Metabolic: </b>hyperkalaemia K≥6.5mmol/l (unresponsive to meds); acidosis pH≤7.1</div></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
             "flags": 0,
@@ -5118,7 +5127,7 @@
             "data": "",
             "fields": [
                 "What are the causes of acute pancreatitis?",
-                "<div>Sort by prevalence.</div><div><br></div><div><b>Most common</b><br><i>1. Gallstones.<br>2. Alcohol.<br>3. ERCP.</i><br><br></div><div><b>All the rest</b><br><i>1. Infection</i> e.g. mumps, HIV, Coxsackie B.</div><div><i>2. Inflammatory</i> e.g. autoimmune pancreatitis.</div><div><i>3. Trauma.</i></div><div><i>4. Endocrine </i>e.g. hyperlipidaemia, hypercalcaemia.</div><div><i>5. Drugs</i> e.g. azathioprine, mesalazine.</div><div><br></div><div>UPDATED 2020<br></div>"
+                "<div>Sort by prevalence.</div><div><br></div><div><b>Most common</b><br><i>1. Gallstones.<br>2. Alcohol.<br>3. ERCP.</i><br><br></div><div><b>All the rest</b><br><i>1. Infection</i> e.g. mumps, HIV, Coxsackie B.</div><div><i>2. Inflammatory</i> e.g. autoimmune pancreatitis.</div><div><i>3. Trauma.</i></div><div><i>4. Endocrine </i>e.g. hyperlipidaemia, hypercalcaemia.</div><div><i>5. Drugs</i> e.g. azathioprine, mesalazine.</div><div><br></div><div><img src=\"64b55dcaf32169816eff3d6554ddcd90.png\"><br></div><div><br></div><div>UPDATED 2020<br></div>"
             ],
             "flags": 0,
             "guid": "gb)CxBtc12",
@@ -6402,7 +6411,7 @@
             "data": "",
             "fields": [
                 "What is the treatment for a pulmonary embolism (PE)?",
-                "<b>1. Resus</b><div>A+B - consider airway support and O2.<div><div><div>If a large embolus is suspected, consider thrombolysis or embolectomy.</div></div><div><div></div></div></div><div><br></div><div><b>2. Meds</b></div><div><div>Treatment dose LMWH, start if Well's score ≥5.</div><div>Start DOAC, only us warfarin if DOAC contradindicated.</div></div><div><div><div><br></div><div><b>NOTES</b></div><div>The duration of warfarin depends on the cause of PE and the risk of bleeding.</div><div>If anticoagulation is contraindicated, consider inferior vena cava (IVC) filter.</div></div></div><div><i>LMWH</i> = low molecular weight heparin.</div><div><br></div><div>UPDATED 2020</div></div>"
+                "<b>1. Resus</b><div>A+B - consider airway support and O2.<div><div><div>If a large embolus is suspected, consider thrombolysis or embolectomy.</div></div><div><div></div></div></div><div><br></div><div><b>2. Meds</b></div><div><div>Treatment dose LMWH, start if Well's score ≥2.</div><div>Start DOAC, only us warfarin if DOAC contradindicated.</div></div><div><div><div><br></div><div><b>NOTES</b></div><div>The duration of warfarin depends on the cause of PE and the risk of bleeding.</div><div>If anticoagulation is contraindicated, consider inferior vena cava (IVC) filter.</div></div></div><div><i>LMWH</i> = low molecular weight heparin.</div><div><br></div><div><img src=\"paste-767ab31d96d74e3ecfa15bad067434a62caed305.jpg\">&nbsp;<img src=\"paste-df7f2b174121a36774b92fd4a01a0b57cf1a127c.jpg\"><br></div><div><br></div><div>UPDATED 2020</div></div>"
             ],
             "flags": 0,
             "guid": "mQf]c{?:%5",
@@ -10353,7 +10362,7 @@
             "data": "",
             "fields": [
                 "What are the clinical features of hypercalcaemia?",
-                "<div>Sort symptoms by organ system</div><div><b><br></b></div><div><b></b><b>History</b></div><div><i>Neuro:</i> tiredness, acute confusion.</div><div><i>Urinary:</i> polyuria, polydipsia, may be renal stones.</div><div><i>GIT:</i> constipation, nausea.</div><div><i>Skeletal:</i> pathological fractures (demineralisation).</div><div><i><br></i></div><div><b>Exam</b></div><div><i>Inspection: </i>signs of delirium, dehydration.</div><div><i>Palpation: </i>may be abdo tenderness.</div><div><br></div><div><b>NOTES</b></div><div><i>Mnemonic</i> for features of hypercalcaemia: <i>\"stones, bones, and psychic groans\"</i>.</div><div><br></div><div>UPDATED 2020<br></div>"
+                "<div>Sort symptoms by organ system</div><div><b><br></b></div><div><b></b><b>History</b></div><div><i>Neuro:</i> tiredness, acute confusion.</div><div><i>Urinary:</i> polyuria, polydipsia, may be renal stones.</div><div><i>GIT:</i> constipation, nausea.</div><div><i>Skeletal:</i> pathological fractures (demineralisation).</div><div><i><br></i></div><div><b>Exam</b></div><div><i>Inspection: </i>signs of delirium, dehydration.</div><div><i>Palpation: </i>may be abdo tenderness.</div><div><br></div><div><img src=\"clinical_features_of_hypercalcaemia.jpg\"><br></div><div><br></div><div><b>NOTES</b></div><div><i>Mnemonic</i> for features of hypercalcaemia: <i>\"stones, bones, and psychic groans\"</i>.</div><div><br></div><div>UPDATED 2020<br></div>"
             ],
             "flags": 0,
             "guid": "Du:CK|UCD&",
@@ -28468,7 +28477,7 @@
             "data": "",
             "fields": [
                 "What are the clinical features of napkin rash due to infantile seborrhoeic dermatitis?",
-                "<b>History</b><div>Age &lt; 2 months.</div><div>Child comfortable and well (no itching).</div><div>Recent scaly rash on scalp, forming thick yellow adherent layer (cradle cap).</div><div><br></div><div><b>Examination</b></div><div><i>Inspection: </i>erythematous scaly rash in napkin area (including skin folds), scalp, face, and axillae.</div><div><br></div><div><div>UPDATED 2020<br></div></div>"
+                "<b>History</b><div>Age &lt; 2 months.</div><div>Child comfortable and well (no itching).</div><div>Recent scaly rash on scalp, forming thick yellow adherent layer (cradle cap).</div><div><br></div><div><b>Examination</b></div><div><i>Inspection: </i>erythematous scaly rash in napkin area (including skin folds), scalp, face, and axillae.</div><div><br></div><div><img src=\"cradle__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpg\" style=\"width: 213px; height: 150px;\"><img src=\"inf-sebderm1__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpg\" style=\"width: 213px; height: 150px;\"><img src=\"inf-sebderm2__WatermarkedWyJXYXRlcm1hcmtlZCJd.jpg\" style=\"width: 213px; height: 150px;\"><br></div><div><br></div><div><div>UPDATED 2020<br></div></div>"
             ],
             "flags": 0,
             "guid": "v-V{mdxhcB",
@@ -30810,7 +30819,7 @@
             "data": "",
             "fields": [
                 "What is meant by 'preseptal cellulitis'?",
-                "Infection of the soft tissues anterior to the orbital septum.<div><br></div><div><div><b>NOTES</b></div><div>Also called 'periorbital cellulitis'.</div><div><i><br></i></div><div>UPDATED 2020</div></div>"
+                "Infection of the soft tissues anterior to the orbital septum.<div><br></div><div><div><b>NOTES</b></div><div>Also called 'periorbital cellulitis'.</div><div><i><br></i></div><div><img src=\"preseptal-periorbital-bmj-cellulitis-ophthalmology-original.jpeg\"><i><br></i></div><div><i><br></i></div><div>UPDATED 2020</div></div>"
             ],
             "flags": 0,
             "guid": "Cag_YI^Gpo",
@@ -32097,7 +32106,8 @@
             "newlyAdded": false,
             "note_model_uuid": "07a75cb4-ab17-11ea-8449-448a5b9c6601",
             "tags": [
-                "Y3::GP::CCT1::LO1"
+                "Y3::GP::CCT1::LO1",
+                "leech"
             ]
         },
         {
@@ -32617,7 +32627,7 @@
             "data": "",
             "fields": [
                 "What is the cheat phrase for the MRC dyspnoea scale?",
-                "Hills, horizontal, hundred home"
+                "Hills, horizontal, hundred, home<div><img src=\"37xycd.jpg\"><br></div>"
             ],
             "flags": 0,
             "guid": "8PtIJjrC0",
@@ -40540,7 +40550,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What bundle branch block is in this ECG?&nbsp;<div><img src=\"paste-39db8a3ea65e70f60e972c5a036bbbea3b0cbb22.jpg\"><br></div>",
+                "What bundle branch block is in this ECG?&nbsp;<div><img src=\"paste-39db8a3ea65e70f60e972c5a036bbbea3b0cbb22.jpg\" style=\"width: 660px; height: 306px;\"><br></div>",
                 "- Right Bundle Branch Block&nbsp;"
             ],
             "flags": 0,
